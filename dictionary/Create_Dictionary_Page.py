@@ -21,6 +21,7 @@ def convert():
                     write_text = start_new_file(line)
                 else:
                     with open(new_filename + ".html", 'w') as new_file:
+                        write_text += '<p class="back">&#x2190; <a href="../index.html">Go Back</a>!'
                         new_file.write(write_text)
                     line = line[3:-1]
                     write_text = start_new_file(line)
@@ -30,13 +31,14 @@ def convert():
                 if line[1] in ["2", "4", "5", "6"]:
                     write_text += "<h" + line[1] + ">" + line[3:-1] + "</h" + line[1] + ">\n"
                 elif line[1] == "3":
-                    write_text += "<h" + line[1] + ">" + line[3:-1] + "</h" + line[1] + ">\n"
+                    write_text += "<h" + line[1] + ">&#x202e;" + line[3:-1] + "</h" + line[1] + ">\n"
                 else:
                     write_text += "<p>" + line + "\n"
             else:
                 write_text += "<p>" + line + "\n"
             line = markup.readline()
         with open(new_filename + ".html", 'w') as new_file:
+            write_text += '<p class="back">&#x2190; hi<a href="../index.html">Go Back</a>!'
             new_file.write(write_text)
 
 

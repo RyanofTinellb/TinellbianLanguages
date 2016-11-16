@@ -77,7 +77,7 @@ all; every; everything; universal object
 [3];aT;n
 [4]/&#x259;.&#x2cc;t&#x2b0;i&#x272;.&#x272;&#x259;/
 [5]derivational suffix (verb &#x2192; adverb)
-derivesan adverb from a verb
+derives an adverb from a verb
 [6]Derived Terms
 <strong>&#x2019;usatinna </strong><em>visibly</em>
 <strong>katinna </strong><em>increasingly</em>
@@ -4897,7 +4897,7 @@ used for the purpose of
 [3]N;Q
 [4]/n&#x268;&#x14b;.&#x14b;&#x268;/
 [5]derivational suffix (noun &#x2192; adverb)
-derivesan adverb from a noun
+derives an adverb from a noun
 [6]Example
 <strong>bufiniqqi </strong><em>stonily</em>
 <strong>&#x2019;ahatiniqqi </strong><em>happily</em>

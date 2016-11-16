@@ -1,0 +1,14 @@
+a {
+	font-family: Calibri;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+ul {
+	color: blue;
+	padding-left: 50px;
+}
+
+li {
+	margin-top: 10pt;
+}

@@ -47,3 +47,12 @@ p {
 	padding-left: 75px;
 	margin: 0;
 }
+
+p.back {
+	padding-left: 100px;
+	margin-top: 20pt;
+}
+
+small-caps {
+	font-variant: small-caps;
+}
