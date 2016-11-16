@@ -41,8 +41,9 @@ def convert():
             else:
                 write_text += "<p>" + line + "\n"
             line = markup.readline()
+        copyfile("New_Dictionary_Entry.txt", new_filename + ".html")
         with open(new_filename + ".html", 'a') as new_file:
-            write_text += '<p class="back">&#x2190; hi<a href="../index.html">Go Back</a>!'
+            write_text += '<p class="back">&#x2190; <a href="../index.html">Go Back</a>!'
             write_text += "</div>"
             new_file.write(write_text)
 
