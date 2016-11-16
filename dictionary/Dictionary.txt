@@ -53,7 +53,7 @@ only used with possessives or in compounds
 [5]derived inanimate noun
 miscarriage; abortion
 [6]Etymology
-<a href="'appu.html">&#x2019;appu</a> <em>foetus </em>+ <a href="li.html">li</a> <em>other</em>
+<a href="'appu.html">&#x2019;appu</a> <em>foetus</em> + <a href="li.html">li</a> <em>other</em>
 
 [1]&#x2019;aba
 [2]High Lulani
@@ -114,7 +114,7 @@ spiritual plane
 <a href="ruci.html">ruci</a> <em>mental plane</em>
 <a href="nada.html">nada</a> <em>emotional plane</em>
 <a href="fara.html">fara</a> <em>subtle planes</em>
-<a href="'ihafi.html">&#x2019;ihafi</a> <em>four planes </em>
+<a href="'ihafi.html">&#x2019;ihafi</a> <em>four planes</em> 
 [6]Hypernym
 <a href="'anni.html">&#x2019;anni</a> <em>plane</em>
 
@@ -153,7 +153,7 @@ a collection of rules for a society
 [5]derived animate noun
 police officer
 [6]Etymology
-<a href="'agga.html">&#x2019;agga</a> <em>law </em>+ <a href="mi.html">mi</a> <em>giver</em>
+<a href="'agga.html">&#x2019;agga</a> <em>law</em> + <a href="mi.html">mi</a> <em>giver</em>
 
 [1]&#x2019;aggini
 [2]High Lulani
@@ -215,7 +215,7 @@ to be balanced
 <strong>gnomic</strong> <em>be generally healthy</em>
 [6]Example
 <a href="kalu.html">Kalu</a><a href="pagu.html">pagu</a> <a href="'anu.html">&#x2019;anu.</a>
-<em>body-</em><small-caps>1gen </small-caps><em>balance.</em>
+<em>body-</em><small-caps>1gen</small-caps> <em>balance.</em>
 &#x201c;I am healthy.&#x201d;
 [5]stem mathematics
 to equal
@@ -248,12 +248,12 @@ yttrium
 [5]inanimate stem noun
 heat
 [6]Derived Terms
-<weak>&#x2019;alamusa</a> <em>sun&#x2019;s heat</em>
-<weak>&#x2019;alalupumma</a> <em>heat of the fire</em>
+<strong>&#x2019;ala</strong><a href="musa.html">musa</a> <em>sun&#x2019;s heat</em>
+<strong>&#x2019;ala</strong><a href="lupumma">lupumma</a> <em>heat of the fire</em>
 [6]Usage Notes
 these are just about the only terms of this type. Anything else uses the genitive.
 [6]Examples
-<weak>dusunidisiqa &#x2019;ala</a> <em>the heat of his hand</em>
+<a href="dusuni.html">dusuni</a><a href="disi.html">disi</a><a href="qa">qa</a> <strong>&#x2019;ala</strong> <em>the heat of his hand</em>
 
 [1]&#x2019;alla
 [2]High Lulani
@@ -302,7 +302,7 @@ face
 strontium
 [6]See Also
 &#x2190; <a href="sadadu.html">sadadu</a> <em>rubidium</em>
-&#x2192; <weak>&#x2019;aqqixi</a> <em>yttrium</em>
+&#x2192; <a href="'aqqixi.html">&#x2019;aqqixi</a> <em>yttrium</em>
 &#x2191; <a href="qaxa.html">qaxa</a> <em>calcium</em>
 &#x2193; <a href="baca.html">baca</a> <em>barium</em>
 
@@ -329,7 +329,7 @@ friendship
 [5]animate derived noun
 friend
 [6]Etymology
-<a href="'asila.html">&#x2019;asila</a> <em>friendship </em>+ <a href="ri.html">ri</a> <em>nominaliser</em>
+<a href="'asila.html">&#x2019;asila</a> <em>friendship</em> + <a href="ri.html">ri</a> <em>nominaliser</em>
 [6]See Also
 <a href="kuli'a.html">kuli&#x2019;a</a> <em>acquaintance</em>
 
@@ -342,8 +342,8 @@ maturity
 [6]Definition
 the act of being or seeming physically or subtly mature
 [6]Derived Terms
-<weak>xi&#x2019;axasi</a> <em>to be mature</em>
-<weak>qi&#x2019;axasi</a> <em>to be mature</em>
+<a href="xi">xi</a><strong>&#x2019;axasi</strong> <em>to be mature</em>
+<a href="qi">qi&#x2019;axasi</a> <em>to be mature</em>
 
 [1]&#x2019;axasiri
 [2]High Lulani
@@ -352,7 +352,7 @@ the act of being or seeming physically or subtly mature
 [5]animate derived noun
 adult
 [6]Etymology
-<a href="'axasi.html">&#x2019;axasi</a> <em>maturity </em>+ <a href="ri.html">ri</a> <em>nominaliser</em>
+<a href="'axasi.html">&#x2019;axasi</a> <em>maturity</em> + <a href="ri.html">ri</a> <em>nominaliser</em>
 
 [1]&#x2019;ahati
 [2]High Lulani
@@ -383,8 +383,8 @@ derives a noun from an adverb
 [5]transitive stem verb
 to say; to speak; to tell
 [6]Derived Terms
-<weak>&#x2019;isinna</a> <em>to tell a story</em>
-<weak>&#x2019;icipu</a> <em>to ask</em>
+<strong>&#x2019;isinna</strong> <em>to tell a story</em>
+<strong>&#x2019;icipu</strong> <em>to ask</em>
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
 <strong>experiencer</strong> <em>dative, object</em>
@@ -397,10 +397,10 @@ to say; to speak; to tell
 <strong>gnomic</strong> <em>to be talkative</em>
 [6]Example
 <weak>&#x294;usu jusi &#x2019;i li lu&#x2019;i fu ra&#x2019;u.</a>
-<small-caps>1int 3dat </small-caps><em>say </em><small-caps>com </small-caps><em>love </em><small-caps>2tra prs;sta.</small-caps>
+<small-caps>1int 3dat</small-caps> <em>say</em> <small-caps>com</small-caps> <em>love</em> <small-caps>2tra prs;sta.</small-caps>
 &#x201c;I told her that I love you.&#x201d;
 <weak>&#x294;usu palu&#x2019;i &#x2019;i.</a>
-<small-caps>1int </small-caps><em>towards-love speak.</em>
+<small-caps>1int</small-caps> <em>towards-love speak.</em>
 &#x201c;I talked about love.&#x201d;
 <em></em>
 [1]&#x2019;i&#x2019;ami
@@ -448,7 +448,7 @@ car; wagon; vehicle
 [5]inanimate derived compound noun
 wagon
 [6]Etymology
-<a href="'ita'i.html">&#x2019;ita&#x2019;i</a> <em>car </em>+ <a href="'assa.html">&#x2019;assa</a> <em>goods</em>
+<a href="'ita'i.html">&#x2019;ita&#x2019;i</a> <em>car</em> + <a href="'assa.html">&#x2019;assa</a> <em>goods</em>
 
 [1]&#x2019;iti
 [2]High Lulani
@@ -497,7 +497,7 @@ to create; to make
 <strong>gnomic</strong> <em>???</em>
 [6]Example
 <weak>&#x294;usu haru&#x2019;u&#x2019;a &#x2019;idu &#x2019;ita&#x2019;i</a>
-<small-caps>1int </small-caps><em>with-wood make car</em>
+<small-caps>1int</small-caps> <em>with-wood make car</em>
 &#x201c;I built a car from wood.&#x201d;
 <em></em>
 [1]&#x2019;ikka
@@ -574,7 +574,7 @@ heart; emotional body
 <a href="kassu.html">kassu</a> <em>mind</em>
 <a href="lu'iki.html">lu&#x2019;iki</a> <em>soul</em>
 <a href="cussa.html">cussa</a> <em>psyche</em>
-<a href="duku.html">duku</a> <em>whole body </em>
+<a href="duku.html">duku</a> <em>whole body</em> 
 [6]Hypernym
 <a href="lahha.html">lahha</a> <em>body</em>
 
@@ -607,7 +607,7 @@ third person transitive inanimate; <small-caps>3ina;tra</small-caps>; it
 [5]derived compound verb
 to agree
 [6]Etymology
-<weak>&#x2018;i</a> <em>speak </em>+ <a href="fuhha.html">fuhha</a> <em>decision </em>+ <a href="naku.html">naku</a> <em>together</em>
+<weak>&#x2018;i</a> <em>speak</em> + <a href="fuhha.html">fuhha</a> <em>decision</em> + <a href="naku.html">naku</a> <em>together</em>
 
 [1]&#x2019;issa
 [2]High Lulani
@@ -686,7 +686,7 @@ the four planes
 <a href="nada.html">nada</a> <em>emotional plane</em>
 <weak>ricu</a> <em>mental plane</em>
 <a href="'aka.html">&#x2019;aka</a> <em>spiritual plane</em>
-<a href="fara.html">fara</a> <em>subtle planes </em>
+<a href="fara.html">fara</a> <em>subtle planes</em> 
 [6]Hypernym
 <a href="'anni.html">&#x2019;anni</a> <em>plane</em>
 
@@ -801,13 +801,13 @@ to look; to see; to watch
 <weak>direction</a> <small-caps>pa</small-caps>
 [6]Examples
 <weak>&#x294;usu ba&#x2019;u &#x2019;usa.</a>
-<small-caps>1int 2dat </small-caps><em>see.</em>
+<small-caps>1int 2dat</small-caps> <em>see.</em>
 &#x201c;I saw you.&#x201d;
 <weak>&#x294;usu &#x2019;usa fu.</a>
-<small-caps>1int </small-caps><em>see </em><small-caps>2tra.</small-caps>
+<small-caps>1int</small-caps> <em>see</em> <small-caps>2tra.</small-caps>
 &#x201c;I watched you.&#x201d;
 <weak>&#x294;usu pafilli &#x2019;usa.</a>
-<small-caps>1int </small-caps><em>towards-</em><small-caps>2int </small-caps><em>see.</em>
+<small-caps>1int</small-caps> <em>towards-</em><small-caps>2int</small-caps> <em>see.</em>
 &#x201c;I looked in your direction.&#x201d;
 [6]Aspectual Meanings
 <strong>dynamic</strong> <em>to look at</em>
@@ -837,10 +837,10 @@ to follow; to obey
 <weak>recipient</a> <em>object</em>
 [6]Examples
 <weak>&#x294;usu ba&#x2019;u &#x2019;ussa.</a>
-<small-caps>1int 2dat </small-caps><em>follow.</em>
+<small-caps>1int 2dat</small-caps> <em>follow.</em>
 &#x201c;I followed you.&#x201d;
 <weak>&#x294;usu &#x2019;ussa fu.</a>
-<small-caps>1int </small-caps><em>follow </em><small-caps>2tra.</small-caps>
+<small-caps>1int</small-caps> <em>follow</em> <small-caps>2tra.</small-caps>
 &#x201c;I obey you.&#x201d;
 [6]Aspectual Meanings
 <strong>dynamic</strong> <em>to obey</em>
@@ -855,7 +855,7 @@ to follow; to obey
 [5]derived verb
 to count
 [6]Etymology
-<a href="'usa.html">&#x2019;usa</a> <em>see </em>+ <a href="pacca.html">pacca</a> <em>quantity</em>
+<a href="'usa.html">&#x2019;usa</a> <em>see</em> + <a href="pacca.html">pacca</a> <em>quantity</em>
 
 [1]&#x2019;ussaba
 [2]High Lulani
@@ -873,7 +873,7 @@ follower; submissive
 [5]transitive derived compound verb
 to find
 [6]Etymology
-<a href="'usa.html">&#x2019;usa</a> <em>see </em>+ <a href="ju'i.html">ju&#x2019;i</a> <em>link</em>
+<a href="'usa.html">&#x2019;usa</a> <em>see</em> + <a href="ju'i.html">ju&#x2019;i</a> <em>link</em>
 
 [1]&#x2019;usi
 [2]High Lulani
@@ -933,7 +933,7 @@ many
 [5]stem adposition
 towards
 [5]stem personal pronoun
-third person inanimate intransitive; <small-caps>3ina;int; </small-caps>it
+third person inanimate intransitive; <small-caps>3ina;int;</small-caps> it
 [6]See Also
 <a href="'usu.html">&#x2019;usu</a> <small-caps>1int</small-caps>
 <a href="filli.html">filli</a> <small-caps>2int</small-caps>
@@ -950,10 +950,10 @@ to think
 <strong>speech</strong> <em>dative</em>
 [6]Examples
 <weak>&#x294;usu kuli lu&#x2019;i filli qixa pa.</a>
-<small-caps>1int dat-com </small-caps><em>love </em><small-caps>2int pst;dyn </small-caps><em>think.</em>
+<small-caps>1int dat-com</small-caps> <em>love</em> <small-caps>2int pst;dyn</small-caps> <em>think.</em>
 &#x201c;I think I fell in love with you.&#x201d;
 <weak>&#x294;usu palu&#x2019;i pa.</a>
-<small-caps>1int </small-caps><em>towards-love think.</em>
+<small-caps>1int</small-caps> <em>towards-love think.</em>
 &#x201c;I think about love.&#x201d;
 [6]Aspectual Meanings
 <strong>dynamic</strong> <em>to have a thought</em>
@@ -1018,7 +1018,7 @@ number; mathematics; count; quantity
 [5]derived attributive
 lacking; sparse
 [6]Etymology
-<a href="pacca.html">pacca</a> <em>number </em>+ <a href="funi.html">funi</a><em> without</em>
+<a href="pacca.html">pacca</a> <em>number</em> + <a href="funi.html">funi</a><em> without</em>
 
 [1]paji
 [2]High Lulani
@@ -1036,7 +1036,7 @@ fruit
 [5]inanimate derived compound noun
 olive
 [6]Etymology
-<a href="paji.html">paji</a> <em>fruit </em>+ <weak>ga</a> <em>black</em>
+<a href="paji.html">paji</a> <em>fruit</em> + <weak>ga</a> <em>black</em>
 
 [1]pakicu
 [2]High Lulani
@@ -1045,7 +1045,7 @@ olive
 [5]intransitive derived compound verb
 to think of as true
 [6]Etymology
-<a href="pa.html">pa</a> <em>think </em>+ <a href="kicu.html">kicu</a> <em>truth</em>
+<a href="pa.html">pa</a> <em>think</em> + <a href="kicu.html">kicu</a> <em>truth</em>
 
 [1]pagi
 [2]High Lulani
@@ -1054,7 +1054,7 @@ to think of as true
 [5]intransitive derived compound verb
 to understand; to know
 [6]Etymology
-<a href="pa.html">pa</a> <em>to think </em>+ <a href="gi.html">gi</a> <em>to hold</em>
+<a href="pa.html">pa</a> <em>to think</em> + <a href="gi.html">gi</a> <em>to hold</em>
 
 [1]pagu
 [2]High Lulani
@@ -1078,7 +1078,7 @@ first person genitive; my; mine; 1<small-caps>gen</small-caps>
 [5]derived noun pronoun
 first person genitive pronoun; mine
 [6]Etymology
-<a href="pagu.html">pagu</a> <em>my </em>+ <a href="qa.html">qa</a> <em>nominaliser</em>
+<a href="pagu.html">pagu</a> <em>my</em> + <a href="qa.html">qa</a> <em>nominaliser</em>
 [6]Related Terms
 <weak>baqa</a> <em>yours</em>
 <weak>disiqa</a> <em>hers
@@ -1099,7 +1099,7 @@ to realise
 [5]intransitive derived compound verb
 to decide on a course of action
 [6]Etymology
-<a href="pa.html">pa</a> <em>think </em>+ <a href="masi.html">masi</a> <em>course</em>
+<a href="pa.html">pa</a> <em>think</em> + <a href="masi.html">masi</a> <em>course</em>
 ku
 [1]pamilami
 [2]High Lulani
@@ -1108,7 +1108,7 @@ ku
 [5]intransitive derived compound verb
 to be awake; to be conscious
 [6]Etymology
-<a href="pa.html">pa</a> <em>think </em>+ <a href="milami.html">milami</a> <em>surroundings</em>
+<a href="pa.html">pa</a> <em>think</em> + <a href="milami.html">milami</a> <em>surroundings</em>
 
 [1]pana&#x2019;ifu
 [2]High Lulani
@@ -1134,7 +1134,7 @@ to be tame; to be tamed
 <strong>patient</strong> <em>subject</em>
 [6]Examples
 <weak>&#x294;usu panipakka qikanni.</a>
-<small-caps>1int </small-caps><em>tame-</em><small-caps>abp</small-caps><em> dog.</em>
+<small-caps>1int</small-caps> <em>tame-</em><small-caps>abp</small-caps><em> dog.</em>
 &#x201c;We domesticated dogs.&#x201d;
 [6]Antonym
 <a href="nittu.html">nittu</a> <em>wild</em>
@@ -1162,7 +1162,7 @@ thorium
 [3]P
 [4]/p&#x2b0;i/
 [5]stem auxiliary
-past stative; <small-caps>pst;sta; </small-caps>was; were
+past stative; <small-caps>pst;sta;</small-caps> was; were
 [6]See Also
 <a href="qixa.html">qixa</a> <small-caps>pst;dyn</small-caps>
 <a href="qilu.html">qilu</a> <small-caps>pst;neg</small-caps>
@@ -1296,10 +1296,10 @@ optimism
 to change; to become
 [6]Thematic Relations
 <strong>patient</strong> <em>subject, ablative</em>
-<weak>goal</a> <em>dative, </em><small-caps>nina</small-caps><em>, object</em><small-caps></small-caps>
+<weak>goal</a> <em>dative,</em> <small-caps>nina</small-caps><em>, object</em><small-caps></small-caps>
 [6]Example
 <weak>Hannaku kuqikanni pura.</a>
-<em>cat </em><small-caps>dat-</small-caps><em>dog change.</em>
+<em>cat</em> <small-caps>dat-</small-caps><em>dog change.</em>
 &#x201c;The cat became a dog.&#x201d;
 
 [1]purakassu
@@ -1334,7 +1334,7 @@ circle
 [5]inanimate stem noun element
 zirconium
 [6]See Also
-&#x2190; <weak>&#x2019;aqqixi</a> <em>yttrium</em>
+&#x2190; <a href="'aqqixi.html">&#x2019;aqqixi</a> <em>yttrium</em>
 &#x2192; <a href="lakka.html">lakka</a> <em>niobium</em>
 &#x2191; <a href="ka'i.html">ka&#x2019;i</a> <em>titanium</em>
 &#x2193; <a href="tacuca.html">tacuca</a> <em>hafnium</em>
@@ -1468,7 +1468,7 @@ to be blue, to turn blue
 [5]derived compound verb
 to be sky-blue
 [6]Etymology
-<a href="baju.html">baju</a> <em>blue </em>+ <a href="kunubi.html">kunubi</a> <em>sky</em>
+<a href="baju.html">baju</a> <em>blue</em> + <a href="kunubi.html">kunubi</a> <em>sky</em>
 
 [1]banara
 [2]High Lulani
@@ -1595,12 +1595,12 @@ tennessine
 to draw; to write; to project on screen
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
-<weak>theme, goal</a> <em>dative, </em><small-caps>ni</small-caps>
+<weak>theme, goal</a> <em>dative,</em> <small-caps>ni</small-caps>
 <weak>recipient</a> <em>dative</em>
 <strong>speech</strong> <em>object</em>
 [6]Examples
 <weak>&#x294;usu kulisa ba&#x2019;u buma &#x2019;ita&#x2019;i.</a>
-<small-caps>1int dat-</small-caps><em>paper </em><small-caps>2dat </small-caps><em>draw car.</em>
+<small-caps>1int dat-</small-caps><em>paper</em> <small-caps>2dat</small-caps> <em>draw car.</em>
 &#x201c;I drew a car for you on paper.&#x201d;
 
 [1]bumaki
@@ -1610,7 +1610,7 @@ to draw; to write; to project on screen
 [5]derived noun
 screen
 [6]Etymology
-<a href="buma.html">buma</a> <em>to draw </em>+ <a href="ki.html">ki</a> <em>nominaliser</em>
+<a href="buma.html">buma</a> <em>to draw</em> + <a href="ki.html">ki</a> <em>nominaliser</em>
 
 [1]bumissi
 [2]High Lulani
@@ -1660,7 +1660,7 @@ pebble; stone; sedimentary rock
 [5]inanimate derived compound noun
 limestone
 [6]Etymology
-<a href="bufi.html">bufi</a> <em>stone </em>+ <a href="tila.html">tila</a> <em>shell</em>
+<a href="bufi.html">bufi</a> <em>stone</em> + <a href="tila.html">tila</a> <em>shell</em>
 
 [1]bufiqi
 [2]High Lulani
@@ -1781,7 +1781,7 @@ chest; front of the body
 there is
 [6]Example
 <weak>Tana ru lulani.</a>
-<em>there_is </em><small-caps>prs;gno </small-caps><em>queen.</em>
+<em>there_is</em> <small-caps>prs;gno</small-caps> <em>queen.</em>
 &#x201c;There is a queen (in existence).&#x201d;
 [6]Notes
 while this is not a noun in the strict sense of the word, it does act like one when used as a subject
@@ -1805,11 +1805,11 @@ something remembered or recalled
 to take away from someone
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
-<weak>source</a> <em>ablative, </em><small-caps>bi</small-caps>
+<weak>source</a> <em>ablative,</em> <small-caps>bi</small-caps>
 <weak>theme</a> <em>object</em>
 [6]Example<em></em>
 <weak>Suma sacu tali &#x2019;iffa.</a>
-<small-caps>1tra 2abl </small-caps><em>take </em><small-caps>3ina;int.</small-caps>
+<small-caps>1tra 2abl</small-caps> <em>take</em> <small-caps>3ina;int.</small-caps>
 &#x201c;I took it from you.&#x201d;
 [5]stem mathematics
 subtract; minus
@@ -1834,7 +1834,7 @@ to begin
 <weak>theme</a> <em>object</em>
 [6]Example
 <weak>Suma tara hu&#x2019;asa.</a>
-<small-caps>1tra </small-caps><em>begin painting.</em>
+<small-caps>1tra</small-caps> <em>begin painting.</em>
 &#x201c;I started the painting.&#x201d;
 [6]See Also
 <a href="nu.html">nu</a> <em>to stop</em>
@@ -1903,13 +1903,13 @@ around
 to differ from
 [6]Thematic Relations
 <weak>theme</a> <em>subject</em>
-<weak>stimulus</a> <em>ablative, </em><small-caps>haru, xidu</small-caps>
+<weak>stimulus</a> <em>ablative,</em> <small-caps>haru, xidu</small-caps>
 [6]Examples
 <weak>&#x294;usu sacu tina.</a>
-<small-caps>1int 2abl </small-caps><em>differ.</em>
+<small-caps>1int 2abl</small-caps> <em>differ.</em>
 &#x201c;I&#x2019;m not you.&#x201d;
 <weak>&#x294;usu xidufilli tina.</a>
-<small-caps>1int </small-caps><em>far-</em><small-caps>2int </small-caps><em>differ.</em>
+<small-caps>1int</small-caps> <em>far-</em><small-caps>2int</small-caps> <em>differ.</em>
 &#x201c;I&#x2019;m nothing like you.&#x201d;
 
 [1]tinalli
@@ -1982,10 +1982,10 @@ row; line
 to abide
 [6]Thematic Relations
 <strong>patient</strong> <em>subject</em>
-<weak>location</a> <small-caps>ni, </small-caps><em>dative</em>
+<weak>location</a> <small-caps>ni,</small-caps> <em>dative</em>
 [6]Example
 <weak>&#x294;usu ni&#x294;irri&#x2019;a tihu.</a>
-<small-caps>1int </small-caps><em>at-Irìa abide.</em>
+<small-caps>1int</small-caps> <em>at-Irìa abide.</em>
 &#x201c;I live in Irìa.&#x201d;
 [6]Derived Terms
 <a href="tujatihu.html">tujatihu</a> <em>home</em>
@@ -2044,7 +2044,7 @@ to half do; to barely do
 [5]modal adverb
 sort of; somewhat
 [6]Etymology
-<a href="tuci.html">tuci</a> <em>half-do </em>+ <a href="naci.html">naci</a> <em>somewhat</em>
+<a href="tuci.html">tuci</a> <em>half-do</em> + <a href="naci.html">naci</a> <em>somewhat</em>
 
 [1]tuja
 [2]High Lulani
@@ -2060,7 +2060,7 @@ place; location in space
 [5]inanimate derived compound noun
 home
 [6]Etymology
-<a href="tuja.html">tuja</a> <em>place </em>+ <a href="tihu.html">tihu</a> <em>to abide</em>
+<a href="tuja.html">tuja</a> <em>place</em> + <a href="tihu.html">tihu</a> <em>to abide</em>
 
 [1]tukaga
 [2]High Lulani
@@ -2091,7 +2091,7 @@ to repeat
 <weak>theme</a> <em>object</em>
 [6]Example
 <weak>&#x294;usu tuni &#x2019;issi.</a>
-<small-caps>1int </small-caps><em>repeat song.</em>
+<small-caps>1int</small-caps> <em>repeat song.</em>
 &#x201c;I sang the song again.&#x201d;
 [5]derivational suffix (verb)
 redo
@@ -2118,7 +2118,7 @@ to close; to fill
 <strong>patient</strong> <em>object</em>
 [6]Example
 <weak>Suma turu gurrisu.</a>
-<small-caps>1tra </small-caps><em>close door.</em>
+<small-caps>1tra</small-caps> <em>close door.</em>
 &#x201c;I closed the door.&#x201d;
 
 [1]turulu
@@ -2152,7 +2152,7 @@ to be little; to shrink
 [5]intransitive derived verb
 to be folded up
 [6]Etymology
-<a href="tuhi.html">tuhi</a><em> small </em>+ <a href="nuhu.html">nuhu</a> <em>origami</em>
+<a href="tuhi.html">tuhi</a><em> small</em> + <a href="nuhu.html">nuhu</a> <em>origami</em>
 [1]da
 [2]High Lulani
 [3]d
@@ -2183,10 +2183,10 @@ water
 it exists; it happened; experience; it could happen
 [6]Examples
 <weak>&#x294;usu qixa lu&#x2019;i da&#x2019;aru.</a>
-<small-caps>1int pst;dyn </small-caps><em>love exist.</em>
+<small-caps>1int pst;dyn</small-caps> <em>love exist.</em>
 &#x201c;I have fallen in love before.&#x201d;
 <weak>&#x294;usu labu lu&#x2019;i da&#x2019;aru.</a>
-<small-caps>1int fut;dyn </small-caps><em>love exist.</em>
+<small-caps>1int fut;dyn</small-caps> <em>love exist.</em>
 &#x201c;I could fall in love.&#x201d;
 
 [1]da&#x2019;u
@@ -2222,7 +2222,7 @@ divine force
 [5]animate derived noun
 god; deity
 [6]Etymology
-<a href="dattu.html">dattu</a><em> divinity </em>+ <a href="sa.html">sa</a> <em>person</em>
+<a href="dattu.html">dattu</a><em> divinity</em> + <a href="sa.html">sa</a> <em>person</em>
 
 [1]danna
 [2]High Lulani
@@ -2262,7 +2262,7 @@ wrong way
 1. A road that does not lead to an expected destination.
 2. A one-way street, if travelled in the incorrect direction.
 [6]Etymology
-<a href="daru.html">daru</a> <em>road </em>+ <a href="li.html">li</a> <em>not</em>
+<a href="daru.html">daru</a> <em>road</em> + <a href="li.html">li</a> <em>not</em>
 
 [1]dasa
 [2]High Lulani
@@ -2288,7 +2288,7 @@ to place in the mouth; to eat; to chew; to suck; to lick; to drink.
 <strong>patient</strong> <em>object</em>
 [6]Example
 <weak>&#x294;usu dasi da.</a>
-<small-caps>1int </small-caps><em>eat water.</em>
+<small-caps>1int</small-caps> <em>eat water.</em>
 &#x201c;I drank water.&#x201d;
 
 [1]dasu
@@ -2305,7 +2305,7 @@ animal
 [5]derived animate noun
 mollusc
 [6]Etymology
-<a href="dasu.html">dasu</a> <em>animal </em>+ <a href="tila.html">tila</a> <em>shell</em>
+<a href="dasu.html">dasu</a> <em>animal</em> + <a href="tila.html">tila</a> <em>shell</em>
 
 [1]daxuni
 [2]High Lulani
@@ -2387,7 +2387,7 @@ third person animate genitive; <small-caps>3ani;gen</small-caps>; his; her
 [5]inanimate derived noun
 prologue
 [6]Etymology
-<a href="di.html">di</a> <em>up </em>+ <a href="sinna.html">sinna</a> <em>story </em>+ <a href="muka.html">muka</a> <small-caps>nmn</small-caps>
+<a href="di.html">di</a> <em>up</em> + <a href="sinna.html">sinna</a> <em>story</em> + <a href="muka.html">muka</a> <small-caps>nmn</small-caps>
 
 [1]dissu
 [2]High Lulani
@@ -2404,7 +2404,7 @@ usually used compounded
 <weak>theme</a> <em>object</em>
 [6]Example
 <weak>&#x294;usu ba&#x2019;u dissu &#x2019;ahati.</a>
-<small-caps>1int 2dat </small-caps><em>feel happiness.</em>
+<small-caps>1int 2dat</small-caps> <em>feel happiness.</em>
 &#x201c;I am happy.&#x201d;
 [6]Derived Terms
 <a href="dissu'ahati.html">dissu&#x2019;ahati</a> <em>to be happy</em>
@@ -2461,7 +2461,7 @@ to have; to own; to possess
 <weak>theme</a> <em>object</em>
 [6]Example
 <weak>&#x294;usu duci &#x2019;ita&#x2019;i.</a>
-<small-caps>1int </small-caps><em>have car.</em>
+<small-caps>1int</small-caps> <em>have car.</em>
 &#x201c;I have a car.&#x201d;
 
 [1]ducinibasa
@@ -2471,7 +2471,7 @@ to have; to own; to possess
 [5]transitive derived verb
 to steal; to come by unlawfully
 [6]Etymology
-<a href="duci.html">duci</a> <em>have </em>+ <a href="ni.html">ni</a> <em>begin </em>+ <a href="basa.html">basa</a> <em>unlawful</em>
+<a href="duci.html">duci</a> <em>have</em> + <a href="ni.html">ni</a> <em>begin</em> + <a href="basa.html">basa</a> <em>unlawful</em>
 
 [1]duku
 [2]High Lulani
@@ -2485,7 +2485,7 @@ the four bodies; ones whole self
 <a href="kassu.html">kassu</a> <em>mind</em>
 <a href="'ilu.html">&#x2019;ilu</a> <em>heart</em>
 <a href="lu'iki.html">lu&#x2019;iki</a> <em>soul</em>
-<a href="cussa.html">cussa</a> <em>psyche </em>
+<a href="cussa.html">cussa</a> <em>psyche</em> 
 [6]Hypernym
 <a href="lahha.html">lahha</a> <em>body</em>
 
@@ -2546,14 +2546,14 @@ person
 to help
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
-<weak>theme</a><small-caps> nina; </small-caps><em>dative</em>
+<weak>theme</a><small-caps> nina;</small-caps> <em>dative</em>
 <weak>recipient</a> <em>object</em>
 [6]Example
 <weak>Suma nina&#x2019;issi cafilli.</a>
-<small-caps>1tra </small-caps><em>for-song help</em><small-caps>-2int.</small-caps>
+<small-caps>1tra</small-caps> <em>for-song help</em><small-caps>-2int.</small-caps>
 &#x201c;I helped you with the song.&#x201d;
 <weak>&#x294;usu kudasiru cafu.</a>
-<small-caps>1int dat-</small-caps><em>eat-</em><small-caps>ger </small-caps><em>help-</em><small-caps>2tra.</small-caps>
+<small-caps>1int dat-</small-caps><em>eat-</em><small-caps>ger</small-caps> <em>help-</em><small-caps>2tra.</small-caps>
 &#x201c;I help you eat.&#x201d;
 <em></em>
 [1]ca&#x2019;a
@@ -2631,7 +2631,7 @@ mouth
 [3]cN
 [4]/&#x2c8;c&#x2b0;an.&#x268;/
 [5]stem auxiliary
-present dynamic; <small-caps>prs;dyn; </small-caps>is
+present dynamic; <small-caps>prs;dyn;</small-caps> is
 [6]See Also
 <a href="ra'u.html">ra&#x2019;u</a> <small-caps>prs;sta</small-caps>
 <a href="ji.html">ji</a> <small-caps>prs;neg</small-caps>
@@ -2718,13 +2718,13 @@ to hear telepathically; to see empathically
 <weak>direction</a> <small-caps>pa</small-caps>
 [6]Examples
 <weak>&#x294;usu ba&#x2019;u hulu.</a>
-<small-caps>1int 2dat </small-caps><em>hear.</em>
+<small-caps>1int 2dat</small-caps> <em>hear.</em>
 &#x201c;I heard you.&#x201d;
 <weak>&#x294;usu hulu fu.</a>
-<small-caps>1int </small-caps><em>hear </em><small-caps>2tra.</small-caps>
+<small-caps>1int</small-caps> <em>hear</em> <small-caps>2tra.</small-caps>
 &#x201c;I listened to you.&#x201d;
 <weak>&#x294;usu pafilli hulu.</a>
-<small-caps>1int </small-caps><em>towards-</em><small-caps>2int </small-caps><em>hear.</em>
+<small-caps>1int</small-caps> <em>towards-</em><small-caps>2int</small-caps> <em>hear.</em>
 &#x201c;I listened in your direction.&#x201d;
 
 [1]ciqu
@@ -2799,10 +2799,10 @@ a duration of time in which to complete a task
 poetic
 [6]Example
 <weak>Cura&#x2019;a ra&#x2019;u pixi nufira.</a>
-<em>pass-</em><small-caps>nmn prs;sta 1dat </small-caps><em>wish.</em>
+<em>pass-</em><small-caps>nmn prs;sta 1dat</small-caps> <em>wish.</em>
 &#x201c;I wish I had time.&#x201d;
 [6]Etymology
-<a href="cura.html">cura</a> <em>pass </em>+ <a href="'a.html">&#x2019;a</a> <em>nominaliser</em>
+<a href="cura.html">cura</a> <em>pass</em> + <a href="'a.html">&#x2019;a</a> <em>nominaliser</em>
 
 [1]curri
 [2]High Lulani
@@ -2823,7 +2823,7 @@ subtle bodies; psyche
 <a href="kassu.html">kassu</a><em> mind</em>
 <a href="'ilu.html">&#x2019;ilu</a> <em>heart</em>
 <a href="lu'iki.html">lu&#x2019;iki</a> <em>soul</em>
-<a href="duku.html">duku</a> <em>body </em>
+<a href="duku.html">duku</a> <em>body</em> 
 [6]Hypernym
 <a href="lahha.html">lahha</a> <em>body</em>
 
@@ -2839,10 +2839,10 @@ feel; touch
 <weak>theme</a> <em>object</em>
 [6]Example
 <weak>&#x294;usu ra&#x2019;u kunacca cussi</a>
-<small-caps>1int prs;sta dat-</small-caps><em>clothing touch</em><small-caps> </small-caps><em></em>
+<small-caps>1int prs;sta dat-</small-caps><em>clothing touch</em><small-caps></small-caps> <em></em>
 &#x201c;I feel the clothing.&#x201d;
 <weak>&#x294;usu ra&#x2019;u cussi nacca.</a>
-<small-caps>1int prs;sta </small-caps><em>touch clothing.</em>
+<small-caps>1int prs;sta</small-caps> <em>touch clothing.</em>
 &#x201c;I touch the clothing.&#x201d;
 
 [1]cussi&#x2019;ala
@@ -2852,7 +2852,7 @@ feel; touch
 [5]intransitive derived compound verb
 to be hot
 [6]Etymology
-<a href="cussi.html">cussi</a> <em>feel </em>+ <a href="'ala.html">&#x2019;ala</a> <em>heat</em>
+<a href="cussi.html">cussi</a> <em>feel</em> + <a href="'ala.html">&#x2019;ala</a> <em>heat</em>
 [6]
 
 [1]ja
@@ -2897,10 +2897,10 @@ move around; vibrate
 <weak>direction</a> <small-caps>pa</small-caps>
 [6]Examples
 <weak>&#x294;usu kassi ba&#x2019;u janni.</a>
-<small-caps>1int 3ani;abl 2dat </small-caps><em>move.</em>
+<small-caps>1int 3ani;abl 2dat</small-caps> <em>move.</em>
 &#x201c;I went from him to you.&#x201d;
 <weak>&#x294;usu pafilli janni.</a>
-<small-caps>1int </small-caps><em>towards-</em><small-caps>2int </small-caps><em>move.</em>
+<small-caps>1int</small-caps> <em>towards-</em><small-caps>2int</small-caps> <em>move.</em>
 &#x201c;I came towards you.&#x201d;
 
 [1]jala
@@ -2933,13 +2933,13 @@ offence; worry
 [2]High Lulani
 [3]J
 [4]/&#x25f;&#x268;/
-[5]stem<small-caps> </small-caps>attributive suffix
+[5]stem<small-caps></small-caps> attributive suffix
 needing; requiring
 [6]Example
 <weak>&#x2019;ita&#x2019;i &#x2019;usu</a> <em>I who need a car</em>
 [4]/&#x25f;i/
 [5]stem auxiliary
-present negative; <small-caps>prs;neg; </small-caps>is not; isn&#x2019;t
+present negative; <small-caps>prs;neg;</small-caps> is not; isn&#x2019;t
 [6]See Also
 <a href="cani.html">cani</a> <small-caps>prs;dyn</small-caps>
 <a href="ra'u.html">ra&#x2019;u</a> <small-caps>prs;sta</small-caps>
@@ -2971,13 +2971,13 @@ to taste; to smell
 <weak>direction</a> <small-caps>pa</small-caps>
 [6]Examples
 <weak>&#x294;usu ba&#x2019;u &#x2019;usa.</a>
-<small-caps>1int 2dat </small-caps><em>see.</em>
+<small-caps>1int 2dat</small-caps> <em>see.</em>
 &#x201c;I smelt you.&#x201d;
 <weak>&#x294;usu &#x2019;usa fu.</a>
-<small-caps>1int </small-caps><em>see </em><small-caps>2tra.</small-caps>
+<small-caps>1int</small-caps> <em>see</em> <small-caps>2tra.</small-caps>
 &#x201c;I tasted you.&#x201d;
 <weak>&#x294;usu pafilli &#x2019;usa.</a>
-<small-caps>1int </small-caps><em>towards-</em><small-caps>2int </small-caps><em>see.</em>
+<small-caps>1int</small-caps> <em>towards-</em><small-caps>2int</small-caps> <em>see.</em>
 &#x201c;I smelt towards you.&#x201d;
 
 [1]jiqu
@@ -3009,10 +3009,10 @@ ideology; philosophy; thoughts
 link; join; wear
 [6]Thematic Relations
 <weak>patient, theme</a>
-<em>subject, object, dative, </em><small-caps>haru</small-caps>
+<em>subject, object, dative,</em> <small-caps>haru</small-caps>
 [6]Example
 <weak>Suma ju&#x2019;i sunu.</a>
-<small-caps>1tra </small-caps><em>link cloak.</em>
+<small-caps>1tra</small-caps> <em>link cloak.</em>
 &#x201c;I put my cloak on.&#x201d;
 [6]Derived Terms
 <a href="ju'iduku.html">ju&#x2019;iduku</a> <em>marry</em>
@@ -3039,7 +3039,7 @@ a group of people brought together for common purpose
 [6]Hypernym
 <a href="'uxxi.html">&#x2019;uxxi</a> <em>crowd</em>
 [6]Etymology
-<a href="ju'i.html">ju&#x2019;i</a> <em>link </em>+ <a href="pu'a.html">pu&#x2019;a</a> <em>nominaliser</em>
+<a href="ju'i.html">ju&#x2019;i</a> <em>link</em> + <a href="pu'a.html">pu&#x2019;a</a> <em>nominaliser</em>
 
 [1]ju&#x2019;iduku
 [2]High Lulani
@@ -3048,7 +3048,7 @@ a group of people brought together for common purpose
 [5]transitive derived compound verb
 marry
 [6]Etymology
-<a href="ju'i.html">ju&#x2019;i</a> <em>link </em>+ <a href="duku.html">duku</a> <em>body</em>
+<a href="ju'i.html">ju&#x2019;i</a> <em>link</em> + <a href="duku.html">duku</a> <em>body</em>
 
 [1]julliga
 [2]High Lulani
@@ -3061,7 +3061,7 @@ married woman; spouse
 <a href="xalli.html">xalli</a> <em>married man</em>
 [6]Examples
 <weak>Mihu ru julliga.</a>
-<em>3</em><small-caps>ani;int prs;gno </small-caps><em>married_woman.</em>
+<em>3</em><small-caps>ani;int prs;gno</small-caps> <em>married_woman.</em>
 She is married.
 [6]Restrictions
 Not used with possessives.
@@ -3105,7 +3105,7 @@ sani</a> <em>north</em>
 as, equalative
 [6]Examples
 <weak>&#x294;usu kafilli miku.</a>
-<small-caps>1int </small-caps><em>as-</em><small-caps>2int </small-caps><em>red.</em>
+<small-caps>1int</small-caps> <em>as-</em><small-caps>2int</small-caps> <em>red.</em>
 &#x201c;I am as red as you.&#x201d;
 [6]See Also
 <a href="su.html">su</a> <em>superlative</em>
@@ -3141,7 +3141,7 @@ jump
 <strong>agent</strong><em> subject</em>
 [6]Example
 <weak>&#x294;usu ka&#x2019;u.</a>
-<small-caps>1int </small-caps><em>jump.</em>
+<small-caps>1int</small-caps> <em>jump.</em>
 &#x201c;I jumped.&#x201d;
 
 [1]kata
@@ -3247,7 +3247,7 @@ brother; male cousin
 [3]kW
 [4]/&#x2c8;k&#x2b0;al.&#x289;/
 [5]stem pronoun
-third person inanimate ablative; 3<small-caps>ina;abl; </small-caps>because of it; from it<em></em>
+third person inanimate ablative; 3<small-caps>ina;abl;</small-caps> because of it; from it<em></em>
 [6]See Also
 <a href="puttu.html">puttu</a> <small-caps>1abl</small-caps>
 <a href="sacu.html">sacu</a> <small-caps>2abl</small-caps>
@@ -3337,7 +3337,7 @@ that; distal object
 [3]k;S
 [4]/&#x2c8;k&#x2b0;as.s&#x268;/
 [5]stem personal pronoun
-third person animate ablative; 3<small-caps>ani;abl; </small-caps>from her; from him; from them; because of him; because of her; because of them
+third person animate ablative; 3<small-caps>ani;abl;</small-caps> from her; from him; from them; because of him; because of her; because of them
 [6]See Also
 <a href="puttu.html">puttu</a> <small-caps>1abl</small-caps>
 <a href="sacu.html">sacu</a> <small-caps>2abl</small-caps>
@@ -3375,7 +3375,7 @@ mind
 <a href="'ilu.html">&#x2019;ilu</a> <em>heart</em>
 <a href="lu'iki.html">lu&#x2019;iki</a> <em>soul</em>
 <a href="cussa.html">cussa</a> <em>psyche</em>
-<a href="duku.html">duku</a> <em>body </em>
+<a href="duku.html">duku</a> <em>body</em> 
 [6]Hypernym
 <a href="lahha.html">lahha</a> <em>body</em>
 
@@ -3425,7 +3425,7 @@ big; grow; large
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>&#x294;usu qixa ki.</a>
-<small-caps>1int pst;dyn </small-caps><em>grow.</em>
+<small-caps>1int pst;dyn</small-caps> <em>grow.</em>
 &#x201c;I grew.&#x201d;
 
 
@@ -3439,7 +3439,7 @@ to be white; to turn white
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>Lukku cani puttu ki&#x294;a.</a>
-<em>Wall </em><small-caps>prs;dyn 1abl </small-caps><em>white.</em>
+<em>Wall</em> <small-caps>prs;dyn 1abl</small-caps> <em>white.</em>
 &#x201c;I am painting the wall white.&#x201d;
 [6]See Also
 <weak>ga</a> <em>black</em>
@@ -3452,7 +3452,7 @@ to be white; to turn white
 [5]inanimate derived verb
 to grow in number
 [6]Etymology
-<a href="ki.html">ki</a> <em>grow </em>+ <a href="pacca.html">pacca</a> <em>number</em>
+<a href="ki.html">ki</a> <em>grow</em> + <a href="pacca.html">pacca</a> <em>number</em>
 
 [1]kipu
 [2]High Lulani
@@ -3577,7 +3577,7 @@ lutetium
 [6]See Also
 &#x2190; <a href="tukaga.html">tukaga</a> <em>ytterbium</em>
 &#x2192; <a href="tacuca.html">tacuca</a> <em>hafnium</em>
-&#x2191; <weak>&#x2019;aqqixi</a> <em>yttrium</em>
+&#x2191; <a href="'aqqixi.html">&#x2019;aqqixi</a> <em>yttrium</em>
 &#x2193; <a href="nulina.html">nulina</a> <em>lawrencium</em>
 
 [1]kixxita
@@ -3642,7 +3642,7 @@ to be strong; to be dense; to be heavy
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>&#x294;usu kuppu.</a>
-<small-caps>1int </small-caps><em>strong.</em>
+<small-caps>1int</small-caps> <em>strong.</em>
 &#x201c;I am strong.&#x201d;
 [6]Antonym
 <a href="nama.html">nama</a> <em>light</em>
@@ -3661,7 +3661,7 @@ rain
 [5]derived noun
 soil; land; earth; dirt
 [6]Etymology
-<a href="ku.html">ku</a><em> </em><small-caps>dat </small-caps>+ <a href="Naqi.html">Naqi</a> <em>Naengi</em>
+<a href="ku.html">ku</a><em></em> <small-caps>dat</small-caps> + <a href="Naqi.html">Naqi</a> <em>Naengi</em>
 
 [1]kunubi
 [2]High Lulani
@@ -3670,7 +3670,7 @@ soil; land; earth; dirt
 [5]derived noun
 sky
 [6]Etymology
-<a href="ku.html">ku</a> <small-caps>dat </small-caps>+ <a href="nubi.html">nubi</a> <em>Nuobi</em>
+<a href="ku.html">ku</a> <small-caps>dat</small-caps> + <a href="nubi.html">nubi</a> <em>Nuobi</em>
 [6]See Also
 <a href="salilu.html">salilu</a> <em>night sky</em>
 <a href="'u'a.html">&#x2019;u&#x2019;a</a> <em>wood</em>
@@ -3718,7 +3718,7 @@ to give
 <weak>recipient</a> <em>object</em>
 [6]Example
 <weak>&#x294;usu pa kuffa fu.</a>
-<small-caps>1int 3ina;int </small-caps><em>give </em><small-caps>2tra.</small-caps>
+<small-caps>1int 3ina;int</small-caps> <em>give</em> <small-caps>2tra.</small-caps>
 &#x201c;I gave it to you.&#x201d;
 
 [1]kuxalu
@@ -3754,7 +3754,7 @@ to be black; to turn black
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>&#x294;usu gapakka si&#x2019;apa.</a>
-<small-caps>1int </small-caps><em>black-</em><small-caps>abp </small-caps><em>meal.</em>
+<small-caps>1int</small-caps> <em>black-</em><small-caps>abp</small-caps> <em>meal.</em>
 &#x201c;I burnt the meal.&#x201d;
 [6]See Also
 <a href="ki''a.html">ki&#x294;a</a> <em>white</em>
@@ -3763,7 +3763,7 @@ to be black; to turn black
 to put
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
-<weak>location</a> <small-caps>ni, di, </small-caps>et cetera, <em>dative</em>
+<weak>location</a> <small-caps>ni, di,</small-caps> et cetera, <em>dative</em>
 <weak>theme</a> <em>object</em>
 
 [1]ga&#x2019;i
@@ -3782,7 +3782,7 @@ time; while
 [5]derived adverb
 in time
 [6]Etymology
-<a href="ga'i.html">ga&#x2019;i</a> <em>time </em>+ <a href="niqqi.html">niqqi</a> <em>adverb</em>
+<a href="ga'i.html">ga&#x2019;i</a> <em>time</em> + <a href="niqqi.html">niqqi</a> <em>adverb</em>
 
 [1]gaca
 [2]High Lulani
@@ -3833,7 +3833,7 @@ to carry; to take; to bring; to have; to hold
 <weak>theme</a> <em>object</em>
 [6]Examples
 <weak>Suma kalu&#x294;irri&#x2019;a kuTinallibi gipa.</a>
-<small-caps>1tra abl-</small-caps><em>Irìa </em><small-caps>dat-</small-caps><em>Tinellb take-</em><small-caps>3ina;int.</small-caps>
+<small-caps>1tra abl-</small-caps><em>Irìa</em> <small-caps>dat-</small-caps><em>Tinellb take-</em><small-caps>3ina;int.</small-caps>
 &#x201c;I took it from Irìa to Tinellb.&#x201d;
 [6]Derived Terms
 <a href="pagi.html">pagi</a><em> to understand</em>
@@ -3884,7 +3884,7 @@ sit
 <strong>agent</strong> <em>subject</em>
 [6]Example
 <weak>&#x294;usu gupi.</a>
-<small-caps>1int </small-caps><em>sit.</em>
+<small-caps>1int</small-caps> <em>sit.</em>
 &#x201c;I sat down.&#x201d;
 
 [1]guqqa
@@ -3934,7 +3934,7 @@ Loren&#x2019;s species, which spread out into the Tinellbian worlds from Naengi
 [5]animate derived noun
 person; non-Guozu
 [6]Etymology
-<a href="gusu.html">gusu</a> <em>human </em>+ <a href="li.html">li</a> <em>other</em>
+<a href="gusu.html">gusu</a> <em>human</em> + <a href="li.html">li</a> <em>other</em>
 
 [1]guhi
 [2]High Lulani
@@ -3957,7 +3957,7 @@ where; when
 most often used as a prefix for adverbial location clauses
 [6]Example
 <weak>&#x294;usu dasi ma&#x2019;adi, nara.</a>
-<small-caps>1int </small-caps><em>eat where-near, sleep.</em>
+<small-caps>1int</small-caps> <em>eat where-near, sleep.</em>
 I eat near where I sleep.
 [5]derivational suffix (adverb)
 terminative, used for qualifiers.
@@ -4025,7 +4025,7 @@ to rise; to be high
 <weak>theme</a> <em>subject</em>
 [6]Example
 <weak>&#x294;usu madi.</a>
-<small-caps>1int </small-caps><em>high.</em>
+<small-caps>1int</small-caps> <em>high.</em>
 &#x201c;I rose.&#x201d;
 
 [1]madusi
@@ -4069,7 +4069,7 @@ to throw
 <weak>theme</a> <em>object</em>
 [6]Example
 <weak>Suma maku pu&#x2019;iba.</a>
-<small-caps>1tra </small-caps><em>throw ball.</em>
+<small-caps>1tra</small-caps> <em>throw ball.</em>
 &#x201c;I threw the ball.&#x201d;
 
 [1]mana
@@ -4113,7 +4113,7 @@ denotes a mirrored repeating infinite digit string
 [5]derived inanimate noun
 mirror
 [6]Etymology
-<a href="mala.html">mala</a> <em>reflect </em>+ <a href="ki.html">ki</a> <em>nominaliser</em>
+<a href="mala.html">mala</a> <em>reflect</em> + <a href="ki.html">ki</a> <em>nominaliser</em>
 
 [1]mali
 [2]High Lulani
@@ -4144,10 +4144,10 @@ being happy in the moment
 there is; there exists; to be in a place
 [6]Thematic Relations
 <weak>theme</a> <em>subject</em>
-<weak>location</a> <small-caps>ni, di, </small-caps>et cetera
+<weak>location</a> <small-caps>ni, di,</small-caps> et cetera
 [6]Example
 <weak>Kimilli ra&#x2019;u malu.</a>
-<em>King </em><small-caps>prs;sta </small-caps><em>exist.</em>
+<em>King</em> <small-caps>prs;sta</small-caps> <em>exist.</em>
 &#x201c;There is a king (over there).&#x201d;
 [6]See Also
 <a href="tana.html">tana</a> <em>there is</em>
@@ -4283,7 +4283,7 @@ to be red; to make red
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>&#x294;arapagu cani miku.</a>
-<em>face-</em><small-caps>1gen prs;dyn </small-caps><em>red.</em>
+<em>face-</em><small-caps>1gen prs;dyn</small-caps> <em>red.</em>
 &#x201c;I blushed.&#x201d;
 [6]See Also
 <a href="baju.html">baju</a> <em>blue</em>
@@ -4315,7 +4315,7 @@ tungsten
 &#x2190; <a href="hila.html">hila</a> <em>tantalum</em>
 &#x2192; <a href="hasuki.html">hasuki</a> <em>rhenium</em>
 &#x2191; <a href="sula.html">sula</a> <em>molybdenum</em>
-&#x2193; <a href="saniki.html">saniki</a> <em>seaborgium </em>
+&#x2193; <a href="saniki.html">saniki</a> <em>seaborgium</em> 
 
 [1]milami
 [2]High Lulani
@@ -4426,7 +4426,7 @@ page of a book
 [5]animate derived noun
 fool
 [6]Etymology
-<a href="muli.html">muli</a> <em>foolishness </em>+ <a href="sa.html">sa</a> <em>nominaliser</em>
+<a href="muli.html">muli</a> <em>foolishness</em> + <a href="sa.html">sa</a> <em>nominaliser</em>
 
 [1]mulu
 [2]High Lulani
@@ -4456,7 +4456,7 @@ blood
 [5]inanimate derived noun
 heart
 [6]Etymology
-<a href="mulu.html">mulu</a> <em>blood </em>+ <a href="-kku.html">-kku</a> <em>body part</em>
+<a href="mulu.html">mulu</a> <em>blood</em> + <a href="-kku.html">-kku</a> <em>body part</em>
 [6]Usage Notes
 refers to the physical organ. Cf: <weak>sida</a>
 
@@ -4510,7 +4510,7 @@ going to
 <weak>&#x294;irri&#x2019;ana gusu</a> <em>person going to Irìa.</em>
 [4]/na/
 [5]stem auxiliary
-present iterative; <small-caps>prs;itr; </small-caps>is
+present iterative; <small-caps>prs;itr;</small-caps> is
 [6]See Also
 <a href="cani.html">cani</a> <small-caps>prs;dyn</small-caps>
 <a href="ra'u.html">ra&#x2019;u</a> <small-caps>prs;sta</small-caps>
@@ -4522,7 +4522,7 @@ hu</a> <small-caps>fut;itr</small-caps>
 point; face
 [6]Thematic Relations
 <strong>patient</strong> <em>subject</em>
-<weak>direction</a> <em>object, </em><small-caps>pa</small-caps>
+<weak>direction</a> <em>object,</em> <small-caps>pa</small-caps>
 [6]Derived Terms
 <weak>nakalu</a> <em>to face in a particular direction</em>
 <weak>nahusabi</a> <em>to point out</em>
@@ -4575,7 +4575,7 @@ iridium
 &#x2190; <a href="supu.html">supu</a> <em>osmium</em>
 &#x2192; <a href="jala.html">jala</a> <em>platinum</em>
 &#x2191; <a href="fula.html">fula</a> <em>rhodium</em>
-&#x2193; <a href="nakaku.html">nakaku</a> <em>meitnerium </em>
+&#x2193; <a href="nakaku.html">nakaku</a> <em>meitnerium</em> 
 
 [1]nada
 [2]High Lulani
@@ -4589,7 +4589,7 @@ emotional plane
 <a href="ruci.html">ruci</a> <em>mental plane</em>
 <a href="'aka.html">&#x2019;aka</a> <em>spiritual plane</em>
 <a href="fara.html">fara</a> <em>subtle planes</em>
-<a href="'ihafi.html">&#x2019;ihafi</a> <em>four planes </em>
+<a href="'ihafi.html">&#x2019;ihafi</a> <em>four planes</em> 
 [6]Hypernym
 <a href="'anni.html">&#x2019;anni</a> <em>plane</em>
 
@@ -4630,7 +4630,7 @@ meitnerium
 together
 [6]Examples
 <weak>&#x294;usupa pi kiluqu naku.</a>
-<em>we </em><small-caps>prs;sta </small-caps><em>walk together.</em>
+<em>we</em> <small-caps>prs;sta</small-caps> <em>walk together.</em>
 &#x201c;We were walking together.&#x201d;
 <weak>&#x294;asilaripagu ra&#x2019;u dasinaku.</a>
 <em>friend-my are eat-together.</em>
@@ -4666,7 +4666,7 @@ to be light; to be rarefied; to be weak
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>&#x294;usu nama.</a>
-<small-caps>1int </small-caps><em>light.</em>
+<small-caps>1int</small-caps> <em>light.</em>
 &#x201c;I am light.&#x201d;
 [6]Antonym
 <a href="kuppu.html">kuppu</a> <em>strong</em>
@@ -4682,7 +4682,7 @@ need
 <weak>stimulus</a> <em>object</em>
 [6]Example
 <weak>&#x294;usu naqa fu.</a>
-<small-caps>1int </small-caps><em>need </em><small-caps>2tra.</small-caps>
+<small-caps>1int</small-caps> <em>need</em> <small-caps>2tra.</small-caps>
 &#x201c;I need you.&#x201d;
 [6]Derived Terms
 <weak>naqanaludu</a> <em>physically need</em>
@@ -4729,7 +4729,7 @@ physical plane
 <a href="nada.html">nada</a> <em>emotional plane</em>
 <a href="'aka.html">&#x2019;aka</a> <em>spiritual plane</em>
 <a href="fara.html">fara</a> <em>subtle planes</em>
-<a href="'ihafi.html">&#x2019;ihafi</a> <em>four planes </em>
+<a href="'ihafi.html">&#x2019;ihafi</a> <em>four planes</em> 
 [6]Hypernym
 <a href="'anni.html">&#x2019;anni</a> <em>plane</em>
 
@@ -4745,7 +4745,7 @@ to sleep; to fall asleep
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>&#x294;usu nara.</a>
-<small-caps>1int </small-caps><em>sleep.</em>
+<small-caps>1int</small-caps> <em>sleep.</em>
 &#x201c;I&#x2019;m asleep.&#x201d;
 
 [1]narra
@@ -4817,7 +4817,7 @@ be wild
 <strong>patient</strong> <em>subject</em>
 [6]Examples
 <weak>&#x294;usu nittu.</a>
-<small-caps>1int </small-caps><em>wild.</em>
+<small-caps>1int</small-caps> <em>wild.</em>
 &#x201c;I am wild.&#x201d;
 [6]Antonym
 <a href="pani.html">pani</a> <em>tame</em>
@@ -4944,7 +4944,7 @@ hide
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>&#x294;usu nu&#x2019;ifipakka nimalu.</a>
-<small-caps>1int </small-caps><em>hide-</em><small-caps>abp </small-caps><em>bear.</em>
+<small-caps>1int</small-caps> <em>hide-</em><small-caps>abp</small-caps> <em>bear.</em>
 &#x201c;I hid the bear.&#x201d;
 
 [1]nubi
@@ -5072,7 +5072,7 @@ optative; want
 Only used in first person
 [6]Example Sentences
 <weak>&#x294;usu ra&#x2019;u dihuri nufira.</a>
-<small-caps>1int prs;sta </small-caps><em>down-sea want.</em>
+<small-caps>1int prs;sta</small-caps> <em>down-sea want.</em>
 &#x201c;I want to be under the sea.&#x201d;
 
 [1]nufirahi
@@ -5082,7 +5082,7 @@ Only used in first person
 [5]abstract derived noun
 expectation
 [6]Etymology
-<a href="nufira.html">nufira</a> <em>optative </em>+ <a href="-ahi.html">-ahi</a> <em>nominaliser</em>
+<a href="nufira.html">nufira</a> <em>optative</em> + <a href="-ahi.html">-ahi</a> <em>nominaliser</em>
 [6]Notes
 refers to unreasonable expectations
 
@@ -5113,7 +5113,7 @@ Also used to refer to a letter for someone
 [5]inanimate derived noun
 book
 [6]Etymology
-<a href="nuhu.html">nuhu</a><em> paper </em>+ <a href="batu.html">batu</a> <em>collection</em>
+<a href="nuhu.html">nuhu</a><em> paper</em> + <a href="batu.html">batu</a> <em>collection</em>
 [1]qa
 [2]High Lulani
 [3]q
@@ -5180,13 +5180,13 @@ chain; rope; string; collection
 choose; decide
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
-<weak>source</a> <em>ablative, </em><small-caps>bi</small-caps>
+<weak>source</a> <em>ablative,</em> <small-caps>bi</small-caps>
 <weak>goal</a> <em>dative</em>
 <weak>theme</a> <small-caps>sarru</small-caps>
 <strong>patient</strong> <em>object</em>
 [6]Examples
 <weak>&#x294;usu kuli nara cani qacca.</a>
-<small-caps>1int dat-com </small-caps><em>sleep </em><small-caps>prs;dyn </small-caps><em>choose.</em>
+<small-caps>1int dat-com</small-caps> <em>sleep</em> <small-caps>prs;dyn</small-caps> <em>choose.</em>
 &#x201c;I decided to go to sleep.&#x201d;
 <weak>&#x294;usu kaludixxa sarrucijja qacca &#x2019;iti.</a>
 <small-caps>1int abl-</small-caps><em>drink instead_of-alcohol choose milk.</em>
@@ -5199,7 +5199,7 @@ choose; decide
 [5]derived abstract noun
 choice; decision
 [6]Etymology
-<a href="qacca.html">qacca</a> <em>choice </em>+ <a href="'a.html">&#x2019;a</a> <em>nominaliser</em>
+<a href="qacca.html">qacca</a> <em>choice</em> + <a href="'a.html">&#x2019;a</a> <em>nominaliser</em>
 
 [1]qala
 [2]High Lulani
@@ -5225,7 +5225,7 @@ to open
 [6]Examples
 <weak>Qarrilabu</a> <em>Open!</em>
 <weak>Suma qarripakka gorrisu.</a>
-<small-caps>1tra </small-caps><em>open-</em><small-caps>abp </small-caps><em>door.</em>
+<small-caps>1tra</small-caps> <em>open-</em><small-caps>abp</small-caps> <em>door.</em>
 &#x201c;I opened the door.&#x201d;
 
 [1]qasa
@@ -5267,7 +5267,7 @@ to experience
 <weak>theme</a> <em>object</em>
 [6]Example
 <weak>&#x294;usu kalucuraru qi&#x2019;iku.</a>
-<small-caps>1int abl-</small-caps><em>time_passes-</em><small-caps>ger </small-caps><em>experience-hunger.</em>
+<small-caps>1int abl-</small-caps><em>time_passes-</em><small-caps>ger</small-caps> <em>experience-hunger.</em>
 &#x201c;I&#x2019;m getting hungry.&#x201d;
 
 [1]qikka
@@ -5315,7 +5315,7 @@ rough; coarse; difficult
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>Pa qira.</a>
-<small-caps>3ina;int </small-caps><em>rough.</em>
+<small-caps>3ina;int</small-caps> <em>rough.</em>
 &#x201c;It&#x2019;s difficult.&#x201d;
 
 [1]qixa
@@ -5335,7 +5335,7 @@ past dynamic; did; <small-caps>pst;dyn</small-caps>
 doing
 [6]Examples
 <weak>nuhuqixa mihu</a>
-<em>origami-doing </em><small-caps>3ani;int</small-caps>
+<em>origami-doing</em> <small-caps>3ani;int</small-caps>
 &#x201c;performer of origami&#x201d; 
 <weak>kassuruqixa musa</a>
 <em>buy-</em><small-caps>ger-</small-caps><em>doing day</em>
@@ -5436,7 +5436,7 @@ do
 <strong>patient</strong> <em>object</em>
 [6]Example
 <weak>&#x294;usu lasinna.</a>
-<small-caps>1int </small-caps><em>do-story.</em>
+<small-caps>1int</small-caps> <em>do-story.</em>
 &#x201c;I&#x2019;m telling the story.&#x201d;
 [5]inanimate stem noun element
 hydrogen
@@ -5524,7 +5524,7 @@ to break
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>Pa lakka.</a>
-<small-caps>3ina;int </small-caps><em>break.</em>
+<small-caps>3ina;int</small-caps> <em>break.</em>
 &#x201c;It broke.&#x201d;
 [5]inanimate stem noun element
 niobium
@@ -5818,7 +5818,7 @@ love
 <weak>stimulus</a> <em>object</em>
 [6]Example
 <weak>&#x294;usu lu&#x2019;i fu.</a>
-<small-caps>1int </small-caps><em>love </em><small-caps>2tra.</small-caps>
+<small-caps>1int</small-caps> <em>love</em> <small-caps>2tra.</small-caps>
 &#x201c;I love you.&#x201d;
 [5]abstract stem noun
 love
@@ -5835,7 +5835,7 @@ soul; spirit; that which loves
 <a href="kassu.html">kassu</a> <em>mind</em>
 <a href="'ilu.html">&#x2019;ilu</a> <em>heart</em>
 <a href="cussa.html">cussa</a> <em>psyche</em>
-<a href="duku.html">duku</a> <em>body </em>
+<a href="duku.html">duku</a> <em>body</em> 
 [6]Hypernym
 <a href="lahha.html">lahha</a> <em>body</em>
 
@@ -6010,10 +6010,10 @@ to hang
 [6]Thematic Relations
 <strong>patient</strong> <em>subject</em>
 <strong>agent</strong> <em>ablative</em>
-<weak>location</a> <em>dative, </em><small-caps>ni</small-caps>
+<weak>location</a> <em>dative,</em> <small-caps>ni</small-caps>
 [6]Example
 <weak>Pa puttu ba&#x2019;u raca.</a>
-<small-caps>3ina;int 1abl 2dat </small-caps><em>hang.</em>
+<small-caps>3ina;int 1abl 2dat</small-caps> <em>hang.</em>
 &#x201c;I hung it on you.&#x201d;
 
 [1]ranna
@@ -6032,7 +6032,7 @@ specialness; exaltedness; glory
 [5]derived mathematics cardinal
 22; twenty-two; (34)
 [6]Etymology
-<a href="ra.html">ra</a> <em>two </em>+ <a href="ni.html">ni</a> <em>linking morpheme </em>+ <a href="ra.html">ra</a> <em>two</em>
+<a href="ra.html">ra</a> <em>two</em> + <a href="ni.html">ni</a> <em>linking morpheme</em> + <a href="ra.html">ra</a> <em>two</em>
 
 [1]raqu
 [2]High Lulani
@@ -6191,7 +6191,7 @@ mental plane
 <a href="nada.html">nada</a> <em>emotional plane</em>
 <a href="'aka.html">&#x2019;aka</a> <em>spiritual plane</em>
 <a href="fara.html">fara</a> <em>subtle planes</em>
-<a href="'ihafi.html">&#x2019;ihafi</a> <em>four planes </em>
+<a href="'ihafi.html">&#x2019;ihafi</a> <em>four planes</em> 
 [6]Hypernym
 <a href="'anni.html">&#x2019;anni</a> <em>plane</em>
 
@@ -6200,7 +6200,7 @@ mental plane
 [3]w&gt;
 [4]/&#x2c8;&#x279;uk&#x2b0;.&#x289;/
 [5]stem auxiliary
-future gnomic; <small-caps>fut;gno; </small-caps>will be
+future gnomic; <small-caps>fut;gno;</small-caps> will be
 [6]See Also
 <a href="labu.html">labu</a> <small-caps>fut;dyn</small-caps>
 <a href="nagi.html">nagi</a> <small-caps>fut;sta</small-caps>
@@ -6218,7 +6218,7 @@ made of
 [3]ws
 [4]/&#x2c8;&#x279;us.&#x259;/
 [5]stem auxiliary
-past gnomic; <small-caps>pst;gno; </small-caps>always was
+past gnomic; <small-caps>pst;gno;</small-caps> always was
 [6]See Also
 <a href="qixa.html">qixa</a> <small-caps>pst;dyn</small-caps>
 <a href="pi.html">pi</a> <small-caps>pst;sta</small-caps>
@@ -6448,10 +6448,10 @@ beryllium
 float; drift 
 [6]Thematic Relation
 <strong>patient</strong> <em>subject</em>
-<weak>location</a> <small-caps>ni, la&#x2019;a, </small-caps>et cetera
+<weak>location</a> <small-caps>ni, la&#x2019;a,</small-caps> et cetera
 [6]Example
 <weak>&#x294;usu la&#x2019;aquhha fiqu.</a>
-<small-caps>1int </small-caps><em>on-river float.</em>
+<small-caps>1int</small-caps> <em>on-river float.</em>
 &#x201c;I floated on the river.&#x201d;
 [6]Derived Terms
 <weak>narafiqu</a> <em>drift to sleep</em>
@@ -6476,7 +6476,7 @@ second person intransitive; <small-caps>2int</small-caps>; you
 [3]v
 [4]/fu/
 [5]stem pronoun
-second person transitive; <small-caps>2tra; </small-caps>you
+second person transitive; <small-caps>2tra;</small-caps> you
 [6]See Also
 <a href="suma.html">suma</a> <small-caps>1tra</small-caps>
 <a href="quhu.html">quhu</a> <small-caps>3ani;tra</small-caps>
@@ -6491,7 +6491,7 @@ second person transitive; <small-caps>2tra; </small-caps>you
 [3]vN
 [4]/&#x2c8;fun.&#x268;/
 [5]stem auxiliary
-future negative; <small-caps>fut;neg; </small-caps>will not; won&#x2019;t
+future negative; <small-caps>fut;neg;</small-caps> will not; won&#x2019;t
 [6]See Also
 <a href="labu.html">labu</a> <small-caps>fut;dyn</small-caps>
 <a href="nagi.html">nagi</a> <small-caps>fut;sta</small-caps>
@@ -6547,7 +6547,7 @@ to be yellow; to turn yellow
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>&#x294;usu sa.</a>
-<small-caps>1int </small-caps><em>yellow.</em>
+<small-caps>1int</small-caps> <em>yellow.</em>
 &#x201c;I became jaundiced.&#x201d;
 [6]See Also
 <a href="miku.html">miku</a> <em>red</em>
@@ -6596,7 +6596,7 @@ side of the body; flank
 [5]derived mathematics ordinal
 13; rirteen; (12)
 [6]Etymology
-<a href="sa.html">sa</a> <em>one </em>+ <a href="bila.html">bila</a> <em>ree</em>
+<a href="sa.html">sa</a> <em>one</em> + <a href="bila.html">bila</a> <em>ree</em>
 
 [1]sabufi
 [2]High Lulani
@@ -6615,7 +6615,7 @@ for
 in order to obtain or acquire
 [6]Example
 <weak>&#x294;usu qixa satakifi diru kassu nuhubatu.</a>
-<small-caps>1int pst;dyn </small-caps><em>for-three money buy paper-collection.</em>
+<small-caps>1int pst;dyn</small-caps> <em>for-three money buy paper-collection.</em>
 &#x201c;I bought a book for $3.&#x201d;
 [6]Derived Terms
 <weak>satasama</a> <em>how much</em>
@@ -6682,7 +6682,7 @@ lie down
 <strong>patient</strong> <em>subject</em>
 [6]Example
 <weak>&#x294;usu saja.</a>
-<small-caps>1int </small-caps><em>lie_down.</em>
+<small-caps>1int</small-caps> <em>lie_down.</em>
 &#x201c;I lay down.&#x201d;
 
 [1]sajja
@@ -6707,11 +6707,11 @@ crack
 to share
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
-<strong>patient</strong> <em>ablative, </em><small-caps>bi</small-caps>
-<weak>recipient</a> <em>object, </em><small-caps>haru, raqu</small-caps>
+<strong>patient</strong> <em>ablative,</em> <small-caps>bi</small-caps>
+<weak>recipient</a> <em>object,</em> <small-caps>haru, raqu</small-caps>
 [6]Example
 <weak>Suma bipa saki filli.</a>
-<small-caps>1tra </small-caps><em>from-</em><small-caps>3ina;int </small-caps><em>share </em><small-caps>2int.</small-caps>
+<small-caps>1tra</small-caps> <em>from-</em><small-caps>3ina;int</small-caps> <em>share</em> <small-caps>2int.</small-caps>
 &#x201c;I shared it with you.&#x201d;
 [6]Derived Terms
 <weak>sakimica</a> <em>to give permission</em>
@@ -6881,7 +6881,7 @@ night sky
 [5]derived mathematics cardinal
 12; twelve; (17)
 [6]Etymology
-<a href="sa.html">sa</a> <em>one </em>+ <weak>lu</a> <em>linking morpheme </em>+ <a href="ra.html">ra</a> <em>two</em>
+<a href="sa.html">sa</a> <em>one</em> + <weak>lu</a> <em>linking morpheme</em> + <a href="ra.html">ra</a> <em>two</em>
 
 [1]sara
 [2]High Lulani
@@ -6955,7 +6955,7 @@ heal; fix
 <strong>patient</strong> <em>object</em>
 [6]Example
 <weak>Suma si&#x2019;a pa.</a>
-<small-caps>1tra </small-caps><em>fix </em><small-caps>3ina;int.</small-caps>
+<small-caps>1tra</small-caps> <em>fix</em> <small-caps>3ina;int.</small-caps>
 &#x201c;I fixed it.&#x201d;
 [6]Derived Terms
 <weak>si&#x2019;akalu</a> <em>heal</em>
@@ -7058,7 +7058,7 @@ to die; to kill
 [5]inanimate derived stem noun
 spear
 [6]Etymology
-<a href="siku.html">siku</a><em> to die </em>+ <a href="-ffi.html">-ffi</a> <em>instrument</em>
+<a href="siku.html">siku</a><em> to die</em> + <a href="-ffi.html">-ffi</a> <em>instrument</em>
 
 [1]sina
 [2]High Lulani
@@ -7125,7 +7125,7 @@ to be in contact
 <strong>patient</strong> <em>subject, dative, object</em>
 [6]Example
 <weak>&#x294;usu ba&#x2019;u sisa.</a>
-<small-caps>1int 2dat </small-caps><em>contact.</em>
+<small-caps>1int 2dat</small-caps> <em>contact.</em>
 &#x201c;I am touching you.&#x201d;
 [5]abstract stem noun
 nakedness; nudity
@@ -7140,7 +7140,7 @@ nakedness; nudity
 comparative; more than
 [6]Example
 <weak>&#x294;usu sufilli miku.</a>
-<small-caps>1int </small-caps><em>than-</em><small-caps>2int </small-caps><em>red.</em>
+<small-caps>1int</small-caps> <em>than-</em><small-caps>2int</small-caps> <em>red.</em>
 &#x201c;I am redder than you.&#x201d;
 [6]See Also
 <weak>pibu</a> <em>superlative</em>
@@ -7298,7 +7298,7 @@ to be ready; to be completed; to be prepared
 <strong>agent</strong> <em>ablative</em>
 [6]Example
 <weak>&#x294;usu suqapakka si&#x2019;apa.</a>
-<small-caps>1int </small-caps><em>prepare-</em><small-caps>abp </small-caps><em>meal.</em>
+<small-caps>1int</small-caps> <em>prepare-</em><small-caps>abp</small-caps> <em>meal.</em>
 &#x201c;I prepared the meal.&#x201d;
 [6]Notes
 the patient must be inanimate.
@@ -7469,7 +7469,7 @@ to appear to be; to project
 <weak>theme</a> <em>dative</em>
 [6]Example
 <weak>&#x294;usu ba&#x2019;u ximussa ra&#x2019;u?</a>
-<small-caps>1int 2dat </small-caps><em>project-exoticism </em><small-caps>prs;sta?</small-caps>
+<small-caps>1int 2dat</small-caps> <em>project-exoticism</em> <small-caps>prs;sta?</small-caps>
 &#x201c;Do I seem exotic to you?&#x201d;
 [6]Notes
 used for subtle themes. Cf: <a href="xu.html">xu</a> <em>broadcast.</em>
@@ -7749,11 +7749,11 @@ painting; portrait
 to breathe
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
-<weak>instrument</a> <em>ablative; </em><small-caps>bi; haru</small-caps>
-<weak>result</a> <em>dative; </em><small-caps>pa</small-caps>
+<weak>instrument</a> <em>ablative;</em> <small-caps>bi; haru</small-caps>
+<weak>result</a> <em>dative;</em> <small-caps>pa</small-caps>
 [6]Example
 <weak>&#x294;usu kalusara kuxuxita sara huba.</a>
-<small-caps>1int abl-</small-caps><em>oxygen-two </em><small-caps>dat-</small-caps><em>carbon-one oxygen-two breathe.</em>
+<small-caps>1int abl-</small-caps><em>oxygen-two</em> <small-caps>dat-</small-caps><em>carbon-one oxygen-two breathe.</em>
 &#x201c;I breathe oxygen in and carbon dioxide out.&#x201d; 
 
 [1]hulla
@@ -7778,13 +7778,13 @@ to hear
 <weak>direction</a> <small-caps>pa</small-caps>
 [6]Examples
 <weak>&#x294;usu ba&#x2019;u hulu.</a>
-<small-caps>1int 2dat </small-caps><em>hear.</em>
+<small-caps>1int 2dat</small-caps> <em>hear.</em>
 &#x201c;I heard you.&#x201d;
 <weak>&#x294;usu hulu fu.</a>
-<small-caps>1int </small-caps><em>hear </em><small-caps>2tra.</small-caps>
+<small-caps>1int</small-caps> <em>hear</em> <small-caps>2tra.</small-caps>
 &#x201c;I listened to you.&#x201d;
 <weak>&#x294;usu pafilli hulu.</a>
-<small-caps>1int </small-caps><em>towards-</em><small-caps>2int </small-caps><em>hear.</em>
+<small-caps>1int</small-caps> <em>towards-</em><small-caps>2int</small-caps> <em>hear.</em>
 &#x201c;I listened in your direction.&#x201d;
 
 [1]huri
@@ -7811,7 +7811,7 @@ to drop; to fall; to be low
 <weak>theme</a> <em>subject</em>
 [6]Example
 <weak>&#x294;usu hussu.</a>
-<small-caps>1int </small-caps><em>low.</em>
+<small-caps>1int</small-caps> <em>low.</em>
 &#x201c;I fell.&#x201d;
 
 
