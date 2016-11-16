@@ -56,3 +56,13 @@ p.back {
 small-caps {
 	font-variant: small-caps;
 }
+
+body {
+	background-color: lightgoldenrodyellow;
+}
+
+a {
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
