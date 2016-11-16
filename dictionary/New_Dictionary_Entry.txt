@@ -698,16 +698,4 @@
 <a href="husabi.html">husabi</a><br>
 <a href="hussu.html">hussu</a><br>
 </div>
-<div class="content"><h1>tissini</h1>
-<h2>High Lulani</h2>
-<h3>&#x202e;T;SN</h3>
-<h4>/&#x2c8;t&#x2b0;is.s&#x268;.n&#x268;/</h4>
-<h5>inanimate derived noun</h5>
-<p>breeze
-
-<h6>Etymology</h6>
-<p><a href="tissa.html">tissa</a><em> wind</em> + <a href="-ini.html">-ini</a> <em>diminutive</em>
-
-<p>
-
-<p class="back">&#x2190; <a href="../index.html">Go Back</a>!</div>
+<div class="content">

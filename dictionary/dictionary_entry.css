@@ -55,10 +55,11 @@ p.back {
 
 small-caps {
 	font-variant: small-caps;
+	font-weight: none;
 }
 
 body {
-	background-color: lightgoldenrodyellow;
+	background-color: lightslategray;
 }
 
 a {
@@ -69,4 +70,34 @@ a {
 
 weak {
 	font-weight: bold;
+}
+
+em {
+	font-weight: none;
+}
+
+div.wordlist {
+	float: left;
+	width: 160px;
+	margin: 0;
+	padding-left: 60px;
+	padding-top: 20px;
+	background-color: mediumslateblue;
+	color: gold;
+	border-right-style: solid;
+	border-width: 10px;
+	border-color: lightslategray;
+}
+
+div.content {
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin-left: 220px;
+	background-color: lightgoldenrodyellow;
+	
+}
+
+div.wordlist a {
+	color: gold;
+	font-weight: none;
 }

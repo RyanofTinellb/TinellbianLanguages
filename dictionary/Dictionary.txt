@@ -6454,7 +6454,7 @@ float; drift
 <small-caps>1int</small-caps> <em>on-river float.</em>
 &#x201c;I floated on the river.&#x201d;
 [6]Derived Terms
-<weak>narafiqu</a> <em>drift to sleep</em>
+<a href="nara.html">nara</a><strong>fiqu</strong> <em>drift to sleep</em>
 
 [1]filli
 [2]High Lulani
@@ -6463,7 +6463,7 @@ float; drift
 [5]stem personal pronoun
 second person intransitive; <small-caps>2int</small-caps>; you
 [6]See Also
-<weak>&#x294;usu</a> <small-caps>1int</small-caps>
+<a href="'usu.html">&#x2019;usu</a> <small-caps>1int</small-caps>
 <a href="mihu.html">mihu</a> <small-caps>3ani;int</small-caps>
 <a href="pa.html">pa</a> <small-caps>3ina;ina</small-caps>
 <a href="fu.html">fu</a> <small-caps>2tra</small-caps>

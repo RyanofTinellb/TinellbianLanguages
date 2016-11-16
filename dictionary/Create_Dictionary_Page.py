@@ -6,6 +6,8 @@
 # [b], [i], [k] invoke strong, emphasis, small-caps respectively, and last until the next mark-up
 #       or the next line
 
+from shutil import copyfile
+
 
 def convert():
     write_text = ""
@@ -18,13 +20,15 @@ def convert():
                     line = line[3:-1]
                     new_filename = line.replace("&#x2019;", "'")
                     new_filename = new_filename.replace("&#x294;", "''")
-                    write_text = start_new_file(line)
+                    write_text = '<h1>' + line + '</h1>\n'
                 else:
-                    with open(new_filename + ".html", 'w') as new_file:
+                    copyfile("New_Dictionary_Entry.txt", new_filename + ".html")
+                    with open(new_filename + ".html", 'a') as new_file:
                         write_text += '<p class="back">&#x2190; <a href="../index.html">Go Back</a>!'
+                        write_text += "</div>"
                         new_file.write(write_text)
                     line = line[3:-1]
-                    write_text = start_new_file(line)
+                    write_text = '<h1>' + line + '</h1>\n'
                     new_filename = line.replace("&#x2019;", "'")
                     new_filename = new_filename.replace("&#x294;", "''")
             elif line[0] == "[":
@@ -37,16 +41,10 @@ def convert():
             else:
                 write_text += "<p>" + line + "\n"
             line = markup.readline()
-        with open(new_filename + ".html", 'w') as new_file:
+        with open(new_filename + ".html", 'a') as new_file:
             write_text += '<p class="back">&#x2190; hi<a href="../index.html">Go Back</a>!'
+            write_text += "</div>"
             new_file.write(write_text)
-
-
-def start_new_file(line):
-        next_line = '<html>\n<head>\n<title>' + line + '</title>\n'
-        next_line += '<link rel="stylesheet" type="text/css" href="dictionary_entry.css">\n'
-        next_line += '</head>\n<body>\n<h1>' + line + '</h1>\n'
-        return next_line
 
 convert()
 
