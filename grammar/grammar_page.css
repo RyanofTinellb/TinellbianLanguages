@@ -1,0 +1,38 @@
+body {
+	background-color: cornsilk;
+	text-indent: 20px;
+}
+
+div.menu {
+	text-align: center;
+	float: top;
+	background-color: cadetblue;
+	color: cornsilk;
+	padding: 0;
+	margin: 0;
+}
+
+div.menu h1, h2, h3 {
+	margin: 10pt;
+}
+
+div.content {
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+th.row {
+	text-align: right;
+}
+
+td {
+	width: 75px;
+}
+
+ipa {
+	font-family: lucida sans unicode;
+}
