@@ -1,5 +1,5 @@
-with open('Dictionary.txt', 'r') as f:
-    with open('Replacement.txt', 'w') as g:
+with open('Grammar.txt', 'r') as f:
+    with open('Replacement.txt', 'raf') as g:
         line = f.readline()
         while line != "":
             if line[0:3] == "[3]":

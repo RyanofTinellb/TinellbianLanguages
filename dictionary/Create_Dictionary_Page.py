@@ -3,8 +3,6 @@
 # Lines beginning with something of the form [n] has style <hn>
 # Lines with [1] begin a new file, and are used for titles
 # Lines with [3] are also prefixed with the right-to-left embedding character
-# [b], [i], [k] invoke strong, emphasis, small-caps respectively, and last until the next mark-up
-#       or the next line
 
 from shutil import copyfile
 
