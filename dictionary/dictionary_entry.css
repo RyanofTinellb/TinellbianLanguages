@@ -78,7 +78,8 @@ em {
 
 div.wordlist {
 	float: left;
-	width: 160px;
+	width: 20%;
+	max-width: 160px;
 	margin: 0;
 	padding-left: 60px;
 	padding-top: 20px;
@@ -91,6 +92,7 @@ div.wordlist {
 }
 
 div.content {
+	width: 80%;
 	padding-top: 20px;
 	padding-bottom: 50px;
 	margin-left: 220px;
