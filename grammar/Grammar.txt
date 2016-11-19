@@ -5,13 +5,13 @@ Within the universe named Tinellb, there is a planet named Ptoko. There arose on
 There had been many conflicts, small and large, throughout their history. One particularly bloody war had had much of the population brought into it: a World War. The survivors of this war were ruled by a single monarch.
 Generations passed. The people rebuilt their shattered world. The newest ruler, Queen Loren, decided to create an international language to promote peace amongst her subjects. She named this language Lulani after herself.
 Despite their shared language, as more time went by, fractures again showed between nations. Another world war ensued. A great weapon was created, one that tore apart space-time, flinging its victims far out into the universe.
-One such group were the Fezhlê. They found themselves on a world already inhabited by the Zhaladi. The Fezhlê tongue evolved independently from Lulani, and was influenced by Zhaladi dialects.
+One such group were the Fezhl&ecirc;. They found themselves on a world already inhabited by the Zhaladi. The Fezhl&ecirc; tongue evolved independently from Lulani, and was influenced by Zhaladi dialects.
 The people that remained on Ptoko slowly grew back towards peace. Their vernacular evolved into Ptokan, and thence into Tsarin. By the time of Tsarin, Lulani was used only for science and the arts, not for everyday use.
 [l]HL: High Lulani
 [l]VL: Vulgar Lulani
-[l]EF: Early Fezhlê
-[l]LF: Late Fezhlê
-[l]KF: Koine Fezhlê
+[l]EF: Early Fezhl&ecirc;
+[l]LF: Late Fezhl&ecirc;
+[l]KF: Koine Fezhl&ecirc;
 [l]OP: Old Ptokan
 [l]MP: Middle Ptokan
 [l]SP: Standard Ptokan
@@ -29,7 +29,7 @@ The people that remained on Ptoko slowly grew back towards peace. Their vernacul
 [l]MS: Modern Solajin
 [3]External History
 I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <strong>mica</strong> <em>hello</em> dates from that time.
-When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what were to be the Ptokan language, and the language of the Fezhlê. This latter language was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhlê have been forced to change somewhat to adapt.
+When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what were to be the Ptokan language, and the language of the Fezhl&ecirc;. This latter language was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.
 
 [1]High Lulani
 [2]Phonology
@@ -828,7 +828,7 @@ Second person imperatives are directed to the listener. In these, the subject is
 [f]<strong>Lulani lu&rsquo;ir&uhacek;ku!</strong>
 [e]<em>queen love-</em><small-caps>fut;gno</small-caps>
 [e]&ldquo;Love the queen!&rdquo;
-<strong>Particular Clauses
+[3]Particular Clauses
 [4]Experiences
 The modal <strong>da&rsquo;aru</strong> <em>experience</em> can be used to show experiences.
 [f]<strong>Fu &rsquo;usa kuddu da&rsquo;aru qixa?</strong>
@@ -837,7 +837,7 @@ The modal <strong>da&rsquo;aru</strong> <em>experience</em> can be used to show 
 [f]<strong>Fu lu&rsquo;isamma &rsquo;usu da&rsquo;aru labu?</strong>
 [e]2<small-caps>tra</small-caps> <em>love-true_love</em> <small-caps>1int</small-caps> <em>experience</em> <small-caps>fut;dyn</small-caps>
 [e]&ldquo;Could you ever love me?&rdquo;
-<strong>Noun Phrases
+[3]Noun Phrases
 The full noun phrase is made up of these components in the following order:
 [n]adposition-
 [n]case marker-
@@ -860,7 +860,7 @@ The only compulsory component of a noun phrase is the noun itself.
 [e]<strong>kaluxiku kuluna &rsquo;usi na &rsquo;abu</strong> (ii-v vii) <em>because of everyone who looks at the moon.</em>
 [e]<strong>&rsquo;adira xiku kaluqikanni tura pi xa&#x294;u</strong> (i-iii v vii) <em>near the two children who looked after dogs.</em>
 [e]<strong>julliga kiluquna &#x294;irri&rsquo;ana kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x) [u]<em>the faces of the married women [u]and the walker men who are going to Irìa[\u]</em>.
-<strong>Gerunds
+[3]Gerunds
 Some verb phrases can be changed into nouns describing the activity.
 [f]<strong>Hubaru naqa</strong>.
 [e]<em>breathe</em>-<small-caps>ger</small-caps> <em>necessary</em>
@@ -868,15 +868,15 @@ Some verb phrases can be changed into nouns describing the activity.
 [f]<strong>Mika ru kudasiruqa dasu jaha</strong>.
 [e]<em>some.group</em> <small-caps>prs;gno</small-caps> <small-caps>dat</small-caps><em>-eat-</em><small-caps>ger</small-caps><em>-</em><small-caps>gen</small-caps> <em>meat offend</em>
 [e]Eating meat offends some people.
-<strong>Comparatives
+[3]Comparatives
 [4]Comparatives
 The comparative marker is an adposition <strong>su</strong> <em>than</em> placed on the noun being compared against. For "little more", the qualifier <strong>tuci</strong> <em>half-do</em> is affixed to the verb, for "a lot more", the qualifier is <strong>rali</strong> <em>intensely</em>.
 [4]Equalatives
 The equalative marker is <strong>ka</strong> <em>as</em>, an adposition.
 [4]Superlative
 The superlative marker, contrary to the other two, is a particle placed before the verb.
-Apocrypha
-<strong>Numbers
+[2]Apocrypha
+[3]Numbers
 [4]Cardinal Numbers
 High Lulani numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7), their negative counterparts (&rone;, &rwo;, &ree;, &rour;, &rive;, &rix; and &reven;) and a zero (0).
 When writing out a number, each digit is worth fifteen times as much as the following digit. A period (fractional point: . ) is used to separate the integer part of the number from the mantissa. A comma (,) is used in the integer part to separate the digits into groupings of four, beginning from the fractional point.
@@ -991,7 +991,7 @@ The number <strong>ra</strong> <em>two</em> can be used in this way to refer to 
 [f]<strong>luffura</strong> <em>eyes</em>
 [e]<strong>&rsquo;itakkura</strong> <em>breasts</em>
 [e]<strong>tibara</strong> <em>legs</em>
-<strong>Colours
+[3]Colours
 The basis colour terms are all verbs:
 [f]<strong>baju</strong> <em>blue</em>
 [e]<strong>sa</strong> <em>yellow</em>
@@ -1012,7 +1012,7 @@ Each of these terms can be compounded to refer to specific hues.
 [f]<strong>mikumulu</strong> <em>blood red</em>
 [e]<strong>bajukunubi</strong> <em>sky blue</em>
 [e]<strong>ki&#x294;amasi</strong> <em>snow white</em>
-<strong>Kinship
+[3]Kinship
 [4]Marriage
 <strong>Ju&rsquo;idukuru</strong> <em>marriage</em> is the life-bonding of two people. It is intended to be eternal, but can be broken if requested by either partner. It is not an exclusive arrangement, and one can be involved in concurrent marriages.
 A bonded female is called a <strong>julliga</strong> <em>married woman</em>, and the male equivalent is a <strong>xalli</strong> <em>married man</em>. These terms are not used with possessives. On the other hand, the words <strong>kitisu</strong> <em>wife</em> and <strong>silu</strong> <em>husband</em> are used with possessives.
@@ -1033,3 +1033,4 @@ Other kinship terms began as nuclear family names, but were thence extended acro
     
     
     
+Q
