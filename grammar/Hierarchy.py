@@ -1,17 +1,19 @@
 class Hierarchy:
     def __init__(self, name):
         self.root = Node(name)
+        self.nodes = []
 
-    @staticmethod
-    def add_node(parent, name):
+    def add_node(self, parent, name):
         if name not in parent.get_children_names():
             child = Node(name, parent)
             parent.children.append(child)
+            self.nodes.append(child)
             return child
 
-    @staticmethod
-    def delete_node(node):
+    def delete_node(self, node):
         node.parent.children.remove(node)
+        self.nodes.remove(node)
+
 
     def get_node_names(self, name=""):
         node = self.get_node_names_iter(self.root, name)
@@ -64,4 +66,9 @@ class Node:
         return self.parent
 
     def get_ancestry(self):
-        ancestry = 
+        node = self
+        ancestry = []
+        while node.parent is not None:
+            ancestry.insert(0, node)
+            node = node.parent
+        return ancestry

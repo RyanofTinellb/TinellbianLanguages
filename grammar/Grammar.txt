@@ -22,9 +22,9 @@ The people that remained on Ptoko slowly grew back towards peace. Their vernacul
 [l]PZ: Proto-Zhaladi
 [l]TZ: Traditional Zhaladi
 [l]RZ: Reformed Zhaladi
-[l]PB: Pre-Brequèn
-[l]AB: Archaic Brequèn
-[l]CB: Common Brequèn
+[l]PB: Pre-Brequ&egrave;n
+[l]AB: Archaic Brequ&egrave;n
+[l]CB: Common Brequ&egrave;n
 [l]CS: Classical Solajin
 [l]MS: Modern Solajin
 [3]External History
@@ -221,7 +221,7 @@ Proper nouns begin with a capital letter in the transliteration.
 [e]<strong>&#x294;ikinnisa</strong> <em>Eakins</em> (name of a family)
 [e]<strong>Sa&rsquo;imi</strong> <em>Caemi</em> (name of a deity)
 [e]<strong>Tinallibi</strong> <em>Tinellb</em> (name of a universe)
-[e]<strong>&#x294;irri&rsquo;a</strong> <em>Irìa</em> (name of a city)
+[e]<strong>&#x294;irri&rsquo;a</strong> <em>Ir&igrave;a</em> (name of a city)
 [e]<strong>Lulani</strong> <em>Lulani</em> (name of a language)
 [e]<strong>Xucinagi Cula</strong> <em>The Crackled Egg</em> (name of a story)
 [4]Common Nouns
@@ -421,8 +421,8 @@ I, who&rsquo;s coming from Tinellb
 feathered bird
 (<strong>xuci</strong> feather ; <strong>xu&rsquo;a</strong> bird)
 [r]<strong>&#x294;irri&rsquo;ara&rsquo;u Ra&rsquo;ani</strong>
-Ryan, who&rsquo;s in Irìa
-(<strong>&#x294;irri&rsquo;a</strong> Irìa ; <strong>Ra&rsquo;ani</strong> Ryan)
+Ryan, who&rsquo;s in Ir&igrave;a
+(<strong>&#x294;irri&rsquo;a</strong> Ir&igrave;a ; <strong>Ra&rsquo;ani</strong> Ryan)
 [r]<strong>cissaji mi</strong>
 someone who needs water
 (<strong>cissa</strong> water ; <strong>mi</strong> someone)
@@ -633,11 +633,11 @@ The <strong>ablative</strong> case is used to mark the proximate cause or the in
 The <strong>dative</strong> case was originally only used to mark the receiver with verbs of giving and transfer. The meaning has since broadened to show indirectness on the part of the patient for a number of verbs, including verbs of perception and emotion. The clitic is <strong>ku-</strong>.
 [f]<strong>pixi</strong> to me
 [e]<strong>jusi &rsquo;usa</strong> to see him (<strong>jusi</strong> to him ; [e]<strong>&rsquo;usa</strong> see)
-[e]<strong>ku&#x294;irri&rsquo;a janni</strong> go to Irìa (<strong>janni</strong> to move)
+[e]<strong>ku&#x294;irri&rsquo;a janni</strong> go to Ir&igrave;a (<strong>janni</strong> to move)
 [e]<strong>kululani kuffa</strong> give to the queen (<strong>lulani</strong> queen ; [e]<strong>kuffa</strong> to give) 
 [3]Matrix Clauses
 The standard word order for matrix clauses is:
-Subject – Auxiliary – Adposition - Oblique – Verb – Object – Adverb.
+Subject &dash; Auxiliary &dash; Adposition - Oblique &dash; Verb &dash; Object &dash; Adverb.
 None of these slots are compulsorily filled. If a subject is obvious from context, or is the same as that of the immediately prior sentence, it can be dropped. The adverb can act as a pro-sentence.
 [4]Intransitive Clauses
 As already discussed, intransitive clauses do not have objects.
@@ -794,7 +794,7 @@ An <strong>interrogative</strong> is a question. There are two main types, polar
 [f]<strong>Ra&rsquo;u. / Ji. / Ruku. / Pi</strong>.
 [e]<small-caps>prs;sta  prs;neg  fut;gno  pst;sta</small-caps>
 [e]&ldquo;Yes.&rdquo; / &ldquo;No.&rdquo; / &ldquo;She will.&rdquo; / &ldquo;She did.&rdquo;
-[f]<strong>Lulani nimalu jî?</strong>
+[f]<strong>Lulani nimalu j&icirc;?</strong>
 [e]<em>queen bear</em> <small-caps>prs;neg</small-caps>
 [e]&ldquo;Is the queen not a bear?&rdquo;
 <strong>Ji. / Ra&rsquo;u. / Na</strong>.
@@ -820,8 +820,8 @@ Lulani questions regarding quantity or measurement are phrased thus:
 [e]<small-caps>2int</small-caps> <em>interval-what breathe</em> <small-caps>pst;gno</small-caps><em>?</em>
 [e]&ldquo;How old are you?&rdquo;
 [f]<strong>Kikas&acirc;ma ku&#x294;irri&rsquo;a (kiluqu) ru?</strong>
-[e]<em>over-what</em> <small-caps>dat</small-caps><em>-Irìa (walk)</em> <small-caps>prs;gno</small-caps><em>?</em>
-[e]&ldquo;How far is it (to walk) to Irìa?&rdquo;
+[e]<em>over-what</em> <small-caps>dat</small-caps><em>-Ir&igrave;a (walk)</em> <small-caps>prs;gno</small-caps><em>?</em>
+[e]&ldquo;How far is it (to walk) to Ir&igrave;a?&rdquo;
 [5]Imperatives
 An <strong>imperative</strong> statement is an order.
 Second person imperatives are directed to the listener. In these, the subject is dropped, a future auxiliary in the appropriate aspect is suffixed to the verb, and this verb complex is moved to the end of the sentence. These are spoken with a falling tone on the auxiliary.
@@ -859,7 +859,7 @@ The only compulsory component of a noun phrase is the noun itself.
 [e]<strong>xiku dasi nukki ru gusulilumi</strong> (v vii-viii) <em>several people who eat strawberries</em>
 [e]<strong>kaluxiku kuluna &rsquo;usi na &rsquo;abu</strong> (ii-v vii) <em>because of everyone who looks at the moon.</em>
 [e]<strong>&rsquo;adira xiku kaluqikanni tura pi xa&#x294;u</strong> (i-iii v vii) <em>near the two children who looked after dogs.</em>
-[e]<strong>julliga kiluquna &#x294;irri&rsquo;ana kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x) [u]<em>the faces of the married women [u]and the walker men who are going to Irìa[\u]</em>.
+[e]<strong>julliga kiluquna &#x294;irri&rsquo;ana kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x) [u]<em>the faces of the married women [u]and the walker men who are going to Ir&igrave;a[\u]</em>.
 [3]Gerunds
 Some verb phrases can be changed into nouns describing the activity.
 [f]<strong>Hubaru naqa</strong>.
@@ -881,14 +881,14 @@ The superlative marker, contrary to the other two, is a particle placed before t
 High Lulani numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7), their negative counterparts (&rone;, &rwo;, &ree;, &rour;, &rive;, &rix; and &reven;) and a zero (0).
 When writing out a number, each digit is worth fifteen times as much as the following digit. A period (fractional point: . ) is used to separate the integer part of the number from the mantissa. A comma (,) is used in the integer part to separate the digits into groupings of four, beginning from the fractional point.
 [f]<strong>2</strong> <em>two</em>
-[e]<strong>5.&ree;</strong> <em>four and four-fifths = five + (minus three × (fifteen ^ minus one))</em> 
-[e]<strong>1&reven;</strong> <em>eight = (one × fifteen) + (minus seven)</em>
-[e]<strong>20</strong> <em>thirty = (two × fifteen)</em>
+[e]<strong>5.&ree;</strong> <em>four and four-fifths = five + (minus three &times; (fifteen ^ minus one))</em> 
+[e]<strong>1&reven;</strong> <em>eight = (one &times; fifteen) + (minus seven)</em>
+[e]<strong>20</strong> <em>thirty = (two &times; fifteen)</em>
 [e]<strong>3&rwo;6</strong> <em>six hundred and forty-one = 
-(three × (fifteen ^ two)) + (minus two × fifteen) + six</em>
+(three &times; (fifteen ^ two)) + (minus two &times; fifteen) + six</em>
 [e]<strong>&rone;,34&rive;3</strong> <em>minus thirty-nine thousand, six hundred and seventy-two =
-(minus one × (fifteen ^ four)) + (three × (fifteen ^ three)) + 
-(four × (fifteen ^ two)) + (minus five × fifteen) + three</em>
+(minus one &times; (fifteen ^ four)) + (three &times; (fifteen ^ three)) + 
+(four &times; (fifteen ^ two)) + (minus five &times; fifteen) + three</em>
 [5]One-digit Numbers
 Here are the names for the one-digit numbers:
 [f]<strong>&reven; <em>haki</em>
@@ -953,9 +953,9 @@ One uses the above method of index markers, and the second reads out the digits 
 [6]Repeating and Reflecting Strings
 All rational numbers end with a repeating string of digits. For some numbers, this string is &ldquo;0&rdquo;. In non-zero cases, the word <strong>tuni</strong> <em>repeat</em> is inserted before the repeating string. The string must be read out with individual digits.
 There are also numbers for which the repeating string can be cut in half, with digits in the second half being the negative of the digits in the first half. For these, only the first half is read out, with the word <strong>mala</strong> <em>reflect</em> inserted.
-[f]<strong>tuni guhira</strong> <em>0.5252…</em>
-[e]<strong>paqikka xita tuni guhira</strong> <em>0.15252…</em>
-[e]<strong>paqikka xita mala guhira</strong> [e]<em>0.152&rive;&rwo;52&rive;&rwo;…</em>
+[f]<strong>tuni guhira</strong> <em>0.5252&hellip;</em>
+[e]<strong>paqikka xita tuni guhira</strong> <em>0.15252&hellip;</em>
+[e]<strong>paqikka xita mala guhira</strong> [e]<em>0.152&rive;&rwo;52&rive;&rwo;&hellip;</em>
 [6]Fractions
 The suffix <strong>ki</strong> separates the numerator from the denominator. <strong>Saki</strong> is used if the numerator is 1. There is also a commonly used variant for &frac12;: <strong>&rsquo;ima</strong>. 
 [f]<strong>&rsquo;ima / saki ra</strong> &frac12;
