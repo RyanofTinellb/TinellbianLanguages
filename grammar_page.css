@@ -1,6 +1,11 @@
 body {
 	background-color: cornsilk;
 	text-indent: 20px;
+	padding-bottom: 20pt;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding-top: 10pt;
 }
 
 div.menu {
@@ -18,6 +23,7 @@ div.menu h1, h2, h3 {
 
 div.content {
 	margin-left: 10em;
+	margin-right: 7em;
 	line-height: 2;
 }
 
@@ -42,9 +48,10 @@ ipa {
 p.example {
 	line-height: 5pt;
 	padding-left: 10em;
+	padding-top: 10pt;
 }
 
 p.example_no_lines {
-	line-height: 1pt;
+	line-height: 5pt;
 	padding-left: 10em;
 }

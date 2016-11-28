@@ -1066,7 +1066,7 @@ first person genitive; my; mine; 1<small-caps>gen</small-caps>
 <a href="ba.html">ba</a> <small-caps>2gen</small-caps>
 <a href="disi.html">disi</a> <small-caps>3ani;gen</small-caps>
 <a href="qa.html">qa</a> <small-caps>3ina;gen</small-caps>
-<weak>&#x294;usu</a> <small-caps>1int</small-caps>
+<a href="'usu.html">&#x2019;usu</a> <small-caps>1int</small-caps>
 <a href="suma.html">suma</a> <small-caps>1tra</small-caps>
 <a href="puttu.html">puttu</a> <small-caps>1abl</small-caps>
 <a href="pixi.html">pixi</a> <small-caps>1dat</small-caps>

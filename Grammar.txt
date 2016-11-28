@@ -472,9 +472,9 @@ In order to extend or specify the meaning of many verbs, verbs can be compounded
 Monosyllabic verbs may only be used this way. The object of an transitive monosyllabic verb can be used to form the compound, however, this does not occur with polysyllabic verbs.
 [f]<strong>dissu &rsquo;ahati</strong> <em>to feel happiness</em> (as above)
 [e]<strong>gasunu</strong> <em>to put the cloak (somewhere)</em> (<strong>ga</strong> <em>to put</em> + <strong>sunu</strong> <em>cloak</em>)
-[e]*<strong>ga sunu
-[e]*jannisunu
-[e]janni sunu</strong> <em>to move the cloak</em> (<strong>janni</strong> <em>move</em>)
+[e]*<strong>ga sunu</strong>
+[e]*<strong>jannisunu</strong>
+[e]<strong>janni sunu</strong> <em>to move the cloak</em> (<strong>janni</strong> <em>move</em>)
 
 [4]Transitivity
 Verbs are broken down into one of a number of types:
