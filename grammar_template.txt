@@ -1,0 +1,13 @@
+<head>
+<title>
+{title}
+</title>
+{stylesheet}
+</head>
+<div class="menu">
+{menu}
+</div>
+<div class="content">
+{toc}
+{content}
+</div>
