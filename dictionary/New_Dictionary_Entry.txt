@@ -523,7 +523,7 @@
 <a href="lumi.html">lumi</a><br>
 <a href="luna.html">luna</a><br>
 <a href="lulani.html">lulani</a><br>
-<a href="Lulani.html">Lulani</a><br>
+<a href="Lulani2.html">Lulani</a><br>
 <a href="luffu.html">luffu</a><br>
 <a href="luffuxita.html">luffuxita</a><br>
 <a href="luxi.html">luxi</a><br>

@@ -27,3 +27,6 @@ class Directory:
                     else:
                         raise ValueError('We\'ve skipped a level, somewhere')
                 line = source.readline()
+
+    def get_next_node(self, level):
+        return self.hierarchy.get_next_node()

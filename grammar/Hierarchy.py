@@ -2,6 +2,7 @@ class Hierarchy:
     def __init__(self, name):
         self.root = Node(name)
         self.nodes = []
+        self.node_index = -1
 
     def add_node(self, parent, name):
         if name not in parent.get_children_names():
@@ -14,13 +15,16 @@ class Hierarchy:
         node.parent.children.remove(node)
         self.nodes.remove(node)
 
+    def get_next_node(self):
+        self.node_index += 1
+        if self.node_index <= len(self.nodes):
+            return self.nodes[self.node_index]
 
     def get_node_names(self, name=""):
         node = self.get_node_names_iter(self.root, name)
         return node
 
     def get_node_names_iter(self, node, name):
-        print(node.name)
         if node.name == name:
             return node
         else:
@@ -31,11 +35,12 @@ class Hierarchy:
                     node = self.get_node_names_iter(child, name)
                     if node:
                         return node
+
     @staticmethod
     def get_sister(node, index):
         children = node.parent.children
         node_order = children.index(node)
-        if len(children) > node_order + index:
+        if len(children) > node_order + index >= 0:
             return children[node_order + index]
         else:
             return None
@@ -50,7 +55,7 @@ class Hierarchy:
 class Node:
     def __init__(self, name, parent=None):
         self.parent = parent
-        self.name = name
+        self.name = self.text_replace(name)
         self.children = []
 
     def get_name(self):
@@ -65,10 +70,25 @@ class Node:
     def get_parent(self):
         return self.parent
 
-    def get_ancestry(self):
+    def has_children(self):
+        return len(self.children) > 0
+
+    def get_ancestors(self):
         node = self
         ancestry = []
         while node.parent is not None:
-            ancestry.insert(0, node)
             node = node.parent
+            ancestry.insert(0, node)
         return ancestry
+
+    # @return: how deep in the tree the particular node is
+    def get_generation(self):
+        return len(self.get_ancestors())
+
+    @staticmethod
+    def text_replace(text):
+        text = text.replace("&#x294;", "''")
+        text = text.replace("&#x2019;", "'")
+        if "&" in text:
+            raise IndexError('Replacement not yet complete in ' + text + ".")
+        return text

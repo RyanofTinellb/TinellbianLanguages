@@ -1,3 +1,3 @@
 from HtmlPage import *
 
-page = HtmlPage("Tinellbian Languages", "Grammar.txt", "grammar", "grammar_template.html")
+page = HtmlPage("Grammar.txt", "alpha", "grammar_template.html", "grammar_page.css", 3)

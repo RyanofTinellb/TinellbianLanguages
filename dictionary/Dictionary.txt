@@ -5897,7 +5897,7 @@ moon
 [5]animate stem noun
 queen; monarch
 
-[1]Lulani
+[1]Lulani2
 [2]High Lulani
 [3]WlN
 [4]/l&#x289;.&#x2c8;lan.&#x268;/

@@ -1,5 +1,7 @@
 [1]Introduction
+This is a description of the whys and wherefores of the Tinellbian Languages
 [2]History
+This describes when and where stuff happened.
 [3]Internal History
 Within the universe named Tinellb, there is a planet named Ptoko. There arose on this world a race of humanoids, the Ptokan. Over millions of years, their race evolved and became the dominant force on their planet.
 There had been many conflicts, small and large, throughout their history. One particularly bloody war had had much of the population brought into it: a World War. The survivors of this war were ruled by a single monarch.
@@ -83,18 +85,18 @@ Geminate plosives are held for approximately twice as long as non-geminate plosi
 The plosives /p/ and /b/ are bilabial.
 [f]<strong>pu&rsquo;iba</strong> <em>ball</em>
 [e]<strong>qapi</strong> <em>rope</em>
-<strong>[e]kuppu</strong> <em>be strong</em>
+[e]<strong>kuppu</strong> <em>be strong</em>
 [e]<strong>bufi</strong> <em>pebble</em>
 [e]<strong>huba</strong> <em>to breathe</em>
 [e]<strong>sabba</strong> <em>father</em>
 [5]Alveolars
 The plosives /t/ and /d/ are apical.
 [f]<strong>turassi</strong> <em>redhead</em>
-<strong>[e]fi&rsquo;atu</strong> <em>certain</em>
-<strong>[e]matta</strong> <em>again</em>
+[e]<strong>fi&rsquo;atu</strong> <em>certain</em>
+[e]<strong>matta</strong> <em>again</em>
 [e]<strong>daru</strong> <em>road</em>
-<strong>[e]xidu</strong> <em>far away</em>
-<strong>[e]kuddu</strong> <em>rain</em>
+[e]<strong>xidu</strong> <em>far away</em>
+[e]<strong>kuddu</strong> <em>rain</em>
 [5]Palatal
 The plosives /c/ and /&#x25f;/ are laminal. In fast speech, they can approach the affricates /t&#x283;/ and /d&#x292;/.
 [f]<strong>cissa</strong> <em>air</em>
@@ -1027,10 +1029,3 @@ There can be a suffixed <strong>ju&rsquo;i</strong> <em>link</em> for spouses&rs
 [e]offspring-link-2<small-caps>gen</small-caps>
 [e]&ldquo;your step-daughter&rdquo;
 Other kinship terms began as nuclear family names, but were thence extended across a generation. So <strong>kaqqa</strong> <em>brother</em> and <strong>kica</strong> <em>sister</em> can also be applied to cousins.
-    	
-    
-    
-    
-    
-    
-Q

@@ -17,6 +17,8 @@ div.menu h1, h2, h3 {
 }
 
 div.content {
+	margin-left: 10em;
+	line-height: 2;
 }
 
 table {
@@ -35,4 +37,8 @@ td {
 
 ipa {
 	font-family: lucida sans unicode;
+}
+
+p.example {
+	line-height: 1pt;
 }
