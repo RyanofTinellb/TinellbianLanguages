@@ -5,6 +5,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+	font-family: serif;
 	padding-top: 10pt;
 }
 
@@ -51,6 +52,10 @@ overline {
 small-caps {
 	font-variant: small-caps;
 	font-weight: none;
+}
+
+p {
+	font-family: sans-serif;
 }
 
 p.example {
