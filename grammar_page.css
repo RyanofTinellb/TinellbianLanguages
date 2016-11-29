@@ -52,8 +52,10 @@ overline {
 p.example {
 	padding-left: 10em;
 	padding-top: 10pt;
+	width: 100%;
 }
 
 p.example_no_lines {
 	padding-left: 10em;
+	width: 100%;
 }
