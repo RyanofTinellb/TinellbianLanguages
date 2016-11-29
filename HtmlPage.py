@@ -85,9 +85,14 @@ class HtmlPage:
     def get_toc():
         return "{toc}<br>\n"
 
-    @staticmethod
-    def get_menu():
-        return "{menu}<br>\n"
+    def get_menu(self):
+        text = ""
+        ancestry = self.heading_node.get_ancestors()
+        ancestry = ancestry[1:]
+        for level, ancestor in enumerate(ancestry):
+            text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + "\">" + ancestor.name
+            text += "</a></p>\n"
+        return text
 
     def get_stylesheet(self):
         generation = self.heading_node.get_generation()
@@ -183,6 +188,7 @@ class HtmlPage:
 
     @staticmethod
     def make_list(u_list, table_type):
+        text = ""
         if table_type == "l":
             text = "<ul>\n"
             for item in u_list:
@@ -193,6 +199,8 @@ class HtmlPage:
             for item in u_list:
                 text += "<li>" + item + "</li>\n"
             text += "</ol>\n"
+        else:
+            raise ValueError('Invalid Table Type')
         return text
 
 
