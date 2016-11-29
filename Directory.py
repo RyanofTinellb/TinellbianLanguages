@@ -14,7 +14,6 @@ class Directory:
                     try:
                         level = int(line[1])
                         heading = line[3:-1]
-                        print(heading)
                     except ValueError:
                         line = source.readline()
                         continue

@@ -57,11 +57,6 @@ class HtmlPage:
                 elif text == "{content}":
                     page += self.get_content()
                 text = template.readline()
-        print(self.heading_node.name)
-        print(self.content[:3])
-        print([self.name_in_url_form(i) for i in self.heading_node.get_ancestors()])
-        print("")
-        print("")
         if heading < self.leaf_level:
             path = "/".join([self.name_in_url_form(node) for node in self.heading_node.get_ancestors()])
             path += "/" + self.name_in_url_form(self.heading_node)
@@ -89,9 +84,39 @@ class HtmlPage:
         text = ""
         ancestry = self.heading_node.get_ancestors()
         ancestry = ancestry[1:]
-        for level, ancestor in enumerate(ancestry):
-            text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + "\">" + ancestor.name
-            text += "</a></p>\n"
+        for ancestor in ancestry:
+            level = ancestor.get_generation()
+            if level < self.leaf_level:
+                level = self.leaf_level - level
+                text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + "/index.html\">" + ancestor.name
+                text += "</a></p>\n"
+            else:
+                text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + ".html\">" + ancestor.name
+                text += "</a></p>\n"
+        level = self.heading_node.get_generation()
+        try:
+            left = self.heading_node.get_left_sister()
+        except IndexError:
+            left = None
+        try:
+            right = self.heading_node.get_right_sister()
+        except IndexError:
+            right = None
+        if level < self.leaf_level:
+            if left:
+                text += "<p class=\"left\"><a href=\"../" + self.name_in_url_form(left) + "/index.html\">&#x2190; "
+                text += left.name + "</a></p>"
+            if right:
+                text += "<p class=\"right\"><a href=\"../" + self.name_in_url_form(right) + "/index.html\">"
+                text += right.name + " &#x2192;</a></p>"
+        else:
+            if left:
+                text += "<p class=\"left\"><a href=\"" + self.name_in_url_form(left) + ".html\">&#x2190; "
+                text += left.name + "</a><p>"
+            if right:
+                text += "<p class=\"right\"><a href=\"" + self.name_in_url_form(right) + ".html\">"
+                text += right.name + " &#x2192;</a></p>"
+        text += "<div style=\"clear: both;\"></div>"
         return text
 
     def get_stylesheet(self):

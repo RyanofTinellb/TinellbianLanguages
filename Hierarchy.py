@@ -36,22 +36,6 @@ class Hierarchy:
                     if node:
                         return node
 
-    @staticmethod
-    def get_sister(node, index):
-        children = node.parent.children
-        node_order = children.index(node)
-        if len(children) > node_order + index >= 0:
-            return children[node_order + index]
-        else:
-            return None
-
-    def get_left_sister(self, node):
-        return self.get_sister(node, -1)
-
-    def get_right_sister(self, node):
-        return self.get_sister(node, 1)
-
-
 class Node:
     def __init__(self, name, parent=None):
         self.parent = parent
@@ -84,3 +68,17 @@ class Node:
     # @return: how deep in the tree the particular node is
     def get_generation(self):
         return len(self.get_ancestors())
+
+    def get_sister(self, index):
+        children = self.parent.children
+        node_order = children.index(self)
+        if len(children) > node_order + index >= 0:
+            return children[node_order + index]
+        else:
+            raise IndexError('No such sister')
+
+    def get_left_sister(self):
+        return self.get_sister(-1)
+
+    def get_right_sister(self):
+        return self.get_sister(1)

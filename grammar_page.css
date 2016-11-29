@@ -11,15 +11,20 @@ h1, h2, h3, h4, h5, h6 {
 
 div.menu {
 	text-align: center;
-	float: top;
+	float: top center;
 	background-color: cadetblue;
-	color: cornsilk;
-	padding: 0;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	padding-left: 10%;
+	padding-right: 10%;
 	margin: 0;
 }
 
-div.menu h1, h2, h3 {
-	margin: 10pt;
+div.menu a {
+	font-size: 150%;
+	color: cornsilk;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 div.content {
@@ -69,4 +74,12 @@ p.example_no_lines {
 	padding-left: 10em;
 	line-height: 0.5;
 	width: 100%;
+}
+
+p.left {
+	float: left;
+}
+
+p.right {
+	float: right;
 }

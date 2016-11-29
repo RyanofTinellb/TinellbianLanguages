@@ -8,6 +8,5 @@
 {menu}
 </div>
 <div class="content">
-{toc}
 {content}
 </div>

@@ -44,13 +44,22 @@ h6 {
 }
 
 p {
-	padding-left: 75px;
+	padding-left: 10%;
+	padding-right: 10%;
 	margin: 0;
 }
 
 p.back {
 	padding-left: 100px;
 	margin-top: 20pt;
+}
+
+p.left {
+	float: left;
+}
+
+p.right {
+	float: right;
 }
 
 small-caps {
@@ -76,6 +85,11 @@ em {
 	font-weight: none;
 }
 
+div.menu {
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+}
+
 div.wordlist {
 	float: left;
 	width: 20%;
@@ -95,7 +109,7 @@ div.content {
 	width: 80%;
 	padding-top: 20px;
 	padding-bottom: 50px;
-	margin-left: 220px;
+	margin-left: 10%;
 	background-color: lightgoldenrodyellow;
 	
 }
