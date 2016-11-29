@@ -23,7 +23,6 @@ div.menu h1, h2, h3 {
 
 div.content {
 	margin-left: 10em;
-	margin-right: 7em;
 	line-height: 2;
 }
 
@@ -49,13 +48,20 @@ overline {
 	text-decoration: overline;
 }
 
+small-caps {
+	font-variant: small-caps;
+	font-weight: none;
+}
+
 p.example {
 	padding-left: 10em;
 	padding-top: 10pt;
 	width: 100%;
+	line-height: 0.5;
 }
 
 p.example_no_lines {
 	padding-left: 10em;
+	line-height: 0.5;
 	width: 100%;
 }
