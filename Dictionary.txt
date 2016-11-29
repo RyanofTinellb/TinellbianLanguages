@@ -592,13 +592,37 @@ passive
 [5]stem personal pronoun
 third person transitive inanimate; <small-caps>3ina;tra</small-caps>; it
 [6]See Also
-<a href="pa.html">pa</a> <small-caps>3ina;int</small-caps>
-<a href="kalu.html">kalu</a> <small-caps>3ina;abl</small-caps>
-<a href="ku.html">ku</a> <small-caps>3ina;dat</small-caps>
-<a href="qa.html">qa</a> <small-caps>3ina;gen</small-caps>
-<a href="suma.html">suma</a> <small-caps>1tra</small-caps>
-<a href="fu.html">fu</a> <small-caps>2tra</small-caps>
-<a href="quhu.html">quhu</a><small-caps> 3ani;tra</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 
 [1]&#x2019;ifuhhanaku
 [2]High Lulani
@@ -900,14 +924,37 @@ present; gift
 [5]stem personal pronoun
 first person intransitive; <small-caps>1int</small-caps>; I; me
 [6]See Also
-<a href="filli.html">filli</a> <small-caps>2int</small-caps>
-<a href="mihu.html">mihu</a> <small-caps>3ani;int</small-caps>
-<a href="pa.html">pa</a> <small-caps>3ina;int</small-caps>
-<a href="suma.html">suma</a> <small-caps>1tra</small-caps>
-<a href="puttu.html">puttu</a> <small-caps>1abl</small-caps>
-<a href="pixi.html">pixi</a> <small-caps>1dat</small-caps>
-<a href="pagu.html">pagu</a> <small-caps>1gen</small-caps>
-
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 [1]&#x2019;uxxi
 [2]High Lulani
 [3]u;X
@@ -935,13 +982,37 @@ towards
 [5]stem personal pronoun
 third person inanimate intransitive; <small-caps>3ina;int;</small-caps> it
 [6]See Also
-<a href="'usu.html">&#x2019;usu</a> <small-caps>1int</small-caps>
-<a href="filli.html">filli</a> <small-caps>2int</small-caps>
-<a href="mihu.html">mihu</a> <small-caps>3ani;int</small-caps>
-<a href="'iffa.html">&#x2019;iffa</a> <small-caps>3ina;tra</small-caps>
-<a href="kalu.html">kalu</a> <small-caps>3ina;abl</small-caps>
-<a href="ku.html">ku</a> <small-caps>3ina;dat</small-caps>
-<a href="qa.html">qa</a> <small-caps>3ina;gen</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 [5]intransitive stem verb
 to think
 [6]Thematic Relations
@@ -1063,13 +1134,37 @@ to understand; to know
 [5]stem personal pronoun
 first person genitive; my; mine; 1<small-caps>gen</small-caps>
 [6]See Also
-<a href="ba.html">ba</a> <small-caps>2gen</small-caps>
-<a href="disi.html">disi</a> <small-caps>3ani;gen</small-caps>
-<a href="qa.html">qa</a> <small-caps>3ina;gen</small-caps>
-<a href="'usu.html">&#x2019;usu</a> <small-caps>1int</small-caps>
-<a href="suma.html">suma</a> <small-caps>1tra</small-caps>
-<a href="puttu.html">puttu</a> <small-caps>1abl</small-caps>
-<a href="pixi.html">pixi</a> <small-caps>1dat</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 
 [1]paguqa
 [2]High Lulani
@@ -1164,12 +1259,31 @@ thorium
 [5]stem auxiliary
 past stative; <small-caps>pst;sta;</small-caps> was; were
 [6]See Also
-<a href="qixa.html">qixa</a> <small-caps>pst;dyn</small-caps>
-<a href="qilu.html">qilu</a> <small-caps>pst;neg</small-caps>
-<a href="taku.html">taku</a> <small-caps>pst;itr</small-caps>
-<a href="rusa.html">rusa</a> <small-caps>pst;gno</small-caps>
-<a href="ra'u.html">ra&#x2019;u</a> <small-caps>prs;sta</small-caps>
-<a href="nagi.html">nagi</a> <small-caps>fut;sta</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+[\t]
 
 [1]piba
 [2]High Lulani
@@ -1228,14 +1342,37 @@ pifa sinna</a> <em>to write a book</em>
 [5]stem personal pronoun
 first person dative; to me; <small-caps>1dat</small-caps>
 [6]See Also
-<a href="ba'u.html">ba&#x2019;u</a><small-caps> 2dat</small-caps>
-<a href="jusi.html">jusi</a> <small-caps>3ani;dat</small-caps>
-<a href="ku.html">ku</a> <small-caps>3ina;dat</small-caps>
-<weak>&#x294;usu</a><small-caps> 1int</small-caps>
-<a href="suma.html">suma</a> <small-caps>1tra</small-caps>
-<a href="puttu.html">puttu</a> <small-caps>1abl</small-caps>
-<a href="pagu.html">pagu</a> <small-caps>1gen</small-caps>
-
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 [1]piha
 [2]High Lulani
 [3]Ph
@@ -1273,13 +1410,37 @@ ball
 [5]stem personal pronoun
 first person ablative; because of me; from me; 1<small-caps>abl</small-caps>
 [6]See Also
-<a href="sacu.html">sacu</a> <small-caps>2abl</small-caps>
-<a href="kassi.html">kassi</a> <small-caps>3ani;abl</small-caps>
-<a href="kalu.html">kalu</a> <small-caps>3ina;abl</small-caps>
-<a href="'usu.html">&#x2019;usu</a> <small-caps>1int</small-caps>
-<a href="suma.html">suma</a> <small-caps>1tra</small-caps>
-<a href="pixi.html">pixi</a> <small-caps>1dat</small-caps>
-<a href="pagu.html">pagu</a> <small-caps>1gen</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 
 [1]puca
 [2]High Lulani
@@ -1359,14 +1520,37 @@ derives an animate agentive noun from a verb
 [5]stem personal pronoun
 second person genitive; <small-caps>2gen</small-caps>; your; yours
 [6]See Also
-<a href="pagu.html">pagu</a> <small-caps>1gen</small-caps>
-<a href="disi.html">disi</a> <small-caps>3ani;gen</small-caps>
-<a href="qa.html">qa</a> <small-caps>3ina;gen</small-caps>
-<a href="filli.html">filli</a> <small-caps>2int</small-caps>
-<a href="fu.html">fu</a> <small-caps>2tra</small-caps>
-<a href="sacu.html">sacu</a> <small-caps>2abl</small-caps>
-<a href="ba'u.html">ba&#x2019;u</a> <small-caps>2dat</small-caps>
-
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 [1]ba&#x2019;u
 [2]High Lulani
 [3]bu
@@ -1374,13 +1558,37 @@ second person genitive; <small-caps>2gen</small-caps>; your; yours
 [5]stem personal pronoun
 second person dative; <small-caps>2dat</small-caps>; to you
 [6]See Also
-<a href="pixi.html">pixi</a> <small-caps>1dat</small-caps>
-<a href="jusi.html">jusi</a> <small-caps>3ani;dat</small-caps>
-<a href="ku.html">ku</a> <small-caps>3ina;dat</small-caps>
-<a href="filli.html">filli</a> <small-caps>2int</small-caps>
-<a href="fu.html">fu</a> <small-caps>2tra</small-caps>
-<a href="sacu.html">sacu</a> <small-caps>2abl</small-caps>
-<a href="ba.html">ba</a> <small-caps>2gen</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 
 [1]bata
 [2]High Lulani
@@ -1752,12 +1960,32 @@ many
 [5]stem auxiliary
 past iterative
 [6]See Also
-<a href="qixa.html">qixa</a> <small-caps>pst;dyn</small-caps>
-<a href="pi.html">pi</a> <small-caps>pst;sta</small-caps>
-<a href="qilu.html">qilu</a> <small-caps>pst;neg</small-caps>
-<a href="rusa.html">rusa</a> <small-caps>pst;gno</small-caps>
-<a href="na.html">na</a> <small-caps>prs;itr</small-caps>
-<a href="hu.html">hu</a> <small-caps>fut;itr</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 [5]stem attributive adjective
 for; as a
 [6]Examples
@@ -2372,13 +2600,37 @@ aluminium
 [5]stem personal pronoun
 third person animate genitive; <small-caps>3ani;gen</small-caps>; his; her
 [6]See Also
-<a href="pagu.html">pagu</a> <small-caps>1gen</small-caps>
-<a href="ba.html">ba</a> <small-caps>2gen</small-caps>
-<a href="qa.html">qa</a> <small-caps>3ina;gen</small-caps>
-<a href="mihu.html">mihu</a> <small-caps>3ani;int</small-caps>
-<a href="quhu.html">quhu</a> <small-caps>3ani;tra</small-caps>
-<a href="kassi.html">kassi</a> <small-caps>3ani;abl</small-caps>
-<a href="jusi.html">jusi</a> <small-caps>3ani;dat</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 
 [1]disinnamuka
 [2]High Lulani
@@ -2633,12 +2885,32 @@ mouth
 [5]stem auxiliary
 present dynamic; <small-caps>prs;dyn;</small-caps> is
 [6]See Also
-<a href="ra'u.html">ra&#x2019;u</a> <small-caps>prs;sta</small-caps>
-<a href="ji.html">ji</a> <small-caps>prs;neg</small-caps>
-<a href="na.html">na</a> <small-caps>prs;itr</small-caps>
-<a href="ru.html">ru</a> <small-caps>prs;gno</small-caps><em></em>
-<a href="qixa.html">qixa</a> <small-caps>pst;dyn</small-caps>
-<a href="labu.html">labu</a> <small-caps>fut;dyn</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 [5]stem attributive suffix
 to have
 [6]Example
@@ -2941,12 +3213,32 @@ needing; requiring
 [5]stem auxiliary
 present negative; <small-caps>prs;neg;</small-caps> is not; isn&#x2019;t
 [6]See Also
-<a href="cani.html">cani</a> <small-caps>prs;dyn</small-caps>
-<a href="ra'u.html">ra&#x2019;u</a> <small-caps>prs;sta</small-caps>
-<a href="na.html">na</a> <small-caps>prs;itr</small-caps>
-<a href="ru.html">ru</a> <small-caps>prs;gno</small-caps>
-<a href="qilu.html">qilu</a> <small-caps>pst;neg</small-caps>
-<a href="funi.html">funi</a> <small-caps>fut;neg
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 </small-caps>
 [1]ji&#x2019;a
 [2]High Lulani
@@ -3073,13 +3365,37 @@ Not used with possessives.
 [5]stem personal pronoun
 third person animate dative; <small-caps>3ani;dat;</small-caps> to her; to him
 [6]See Also
-<a href="pixi.html">pixi</a> <small-caps>1dat</small-caps>
-<a href="ba'u.html">ba&#x2019;u</a> <small-caps>2dat</small-caps>
-<a href="ku.html">ku</a> <small-caps>3ina;dat</small-caps>
-<a href="mihu.html">mihu</a> <small-caps>3ani;int</small-caps>
-<a href="quhu.html">quhu</a> <small-caps>3ani;int</small-caps>
-<a href="kassi.html">kassi</a> <small-caps>3ani;abl</small-caps>
-<a href="disi.html">disi</a> <small-caps>3ani;gen</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 
 [1]jusiti
 [2]High Lulani
@@ -3340,14 +3656,38 @@ that; distal object
 [5]stem personal pronoun
 third person animate ablative; 3<small-caps>ani;abl;</small-caps> from her; from him; from them; because of him; because of her; because of them
 [6]See Also
-<a href="puttu.html">puttu</a> <small-caps>1abl</small-caps>
-<a href="sacu.html">sacu</a> <small-caps>2abl</small-caps>
-<a href="kalu.html">kalu</a> <small-caps>3ina;abl</small-caps>
-<a href="mihu.html">mihu</a> <small-caps>3ani;int</small-caps>
-<a href="quhu.html">quhu</a> <small-caps>3ani;tra</small-caps>
-<a href="jusi.html">jusi</a> <small-caps>3ani;abl</small-caps>
-<a href="disi.html">disi</a> <small-caps>3ani;gen
-</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
+
 [1]kasika
 [2]High Lulani
 [3]kSk
@@ -3607,13 +3947,37 @@ dative; <small-caps>dat</small-caps>
 [5]stem personal pronoun
 third person inanimate dative; to it; 3<small-caps>ina;dat</small-caps>
 [6]See Also
-<a href="pixi.html">pixi</a> <small-caps>1dat</small-caps>
-<a href="ba'u.html">ba&#x2019;u</a> <small-caps>2dat</small-caps>
-<a href="jusi.html">jusi</a> <small-caps>3ani;dat</small-caps>
-<a href="pa.html">pa</a> <small-caps>3ina;int</small-caps>
-<a href="'iffa.html">&#x2019;iffa</a> <small-caps>3ina;tra</small-caps>
-<a href="kalu.html">kalu</a> <small-caps>3ina;abl</small-caps>
-<a href="qa.html">qa</a> <small-caps>3ina;gen</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 
 [1]-kku
 [2]High Lulani
@@ -4381,13 +4745,37 @@ subject; subordinate; vassal
 [5]stem personal pronoun
 third person animate intransitive; he; him; her; she; <small-caps>3ani;int</small-caps>
 [6]See Also
-<a href="'usu.html">&#x2019;usu</a> <small-caps>1int</small-caps>
-<a href="filli.html">filli</a> <small-caps>2int</small-caps>
-<a href="pa.html">pa</a> <small-caps>3ina;int</small-caps>
-<a href="quhu.html">quhu</a> <small-caps>3ani;tra</small-caps>
-<a href="kassi.html">kassi</a> <small-caps>3ani;abl</small-caps>
-<a href="jusi.html">jusi</a> <small-caps>3ani;dat</small-caps>
-<a href="disi.html">disi</a> <small-caps>3ani;gen</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 
 [1]muka
 [2]High Lulani
@@ -4501,7 +4889,7 @@ a dense, heavy metal. Element 82
 &#x2192; <a href="'aggini.html">&#x2019;aggini</a> <em>bismuth</em>
 &#x2191; <a href="laji.html">laji</a> <em>tin</em>
 &#x2193; <a href="xa'a.html">xa&#x2019;a</a> <em>flerovium</em>
-[6]
+
 [1]na
 [2]High Lulani
 [3]n
@@ -4509,25 +4897,45 @@ a dense, heavy metal. Element 82
 [5]stem attributive
 going to
 [6]Examples
-<weak>&#x294;irri&#x2019;ana gusu</a> <em>person going to Irìa.</em>
+<strong>&#x294;irri&#x2019;ana gusu</strong> <em>person going to Irìa.</em>
 [4]/na/
 [5]stem auxiliary
 present iterative; <small-caps>prs;itr;</small-caps> is
 [6]See Also
-<a href="cani.html">cani</a> <small-caps>prs;dyn</small-caps>
-<a href="ra'u.html">ra&#x2019;u</a> <small-caps>prs;sta</small-caps>
-<a href="ji.html">ji</a> <small-caps>prs;neg</small-caps>
-<a href="ru.html">ru</a> <small-caps>prs;gno</small-caps>
-<a href="taku.html">taku</a> <small-caps>pst;itr</small-caps><weak>
-hu</a> <small-caps>fut;itr</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+[\t]
+
 [5]intransitive stem verb
 point; face
 [6]Thematic Relations
 <strong>patient</strong> <em>subject</em>
 <weak>direction</a> <em>object,</em> <small-caps>pa</small-caps>
 [6]Derived Terms
-<weak>nakalu</a> <em>to face in a particular direction</em>
-<weak>nahusabi</a> <em>to point out</em>
+<strong>nakalu</strong> <em>to face in a particular direction</em>
+<strong>nahusabi</strong> <em>to point out</em>
 [6]Usage Notes
 most usually used as a verbal prefix
 
@@ -4645,12 +5053,32 @@ together
 [5]stem auxiliary
 future stative; <small-caps>fut;sta</small-caps>; will be
 [6]See Also
-<a href="labu.html">labu</a> <small-caps>fut;dyn</small-caps>
-<a href="funi.html">funi</a> <small-caps>fut;neg</small-caps>
-<a href="hu.html">hu</a> <small-caps>fut;itr</small-caps>
-<a href="ruku.html">ruku</a> <small-caps>fut;gno</small-caps>
-<a href="pi.html">pi</a> <small-caps>pst;sta</small-caps>
-<a href="ra'u.html">ra&#x2019;u</a> <small-caps>prs;sta</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 [5]stem attributive
 become
 [6]Examples
@@ -5298,12 +5726,32 @@ dog
 [5]stem auxiliary
 past negative; did not; didn&#x2019;t; <small-caps>pst;neg</small-caps>
 [6]See Also
-<a href="qixa.html">qixa</a> <small-caps>pst;dyn</small-caps>
-<a href="pi.html">pi</a> <small-caps>pst;sta</small-caps>
-<a href="taku.html">taku</a> <small-caps>pst;itr</small-caps>
-<a href="rusa.html">rusa</a> <small-caps>pst;gno</small-caps>
-<a href="ji.html">ji</a> <small-caps>prs;neg</small-caps>
-<a href="funi.html">funi</a> <small-caps>fut;neg</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 [5]stem attributive
 receiving
 [6]Example
@@ -5329,12 +5777,32 @@ rough; coarse; difficult
 [5]stem auxiliary
 past dynamic; did; <small-caps>pst;dyn</small-caps>
 [6]See Also
-<a href="pi.html">pi</a> <small-caps>pst;sta</small-caps>
-<a href="qilu.html">qilu</a> <small-caps>pst;neg</small-caps>
-<a href="taku.html">taku</a> <small-caps>pst;itr</small-caps>
-<a href="rusa.html">rusa</a> <small-caps>pst;gno</small-caps>
-<a href="cani.html">cani</a> <small-caps>prs;dyn</small-caps>
-<a href="labu.html">labu</a> <small-caps>fut;dyn</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 [5]stem attributive
 doing
 [6]Examples
@@ -5422,13 +5890,38 @@ river
 [5]stem personal pronoun
 third person animate transitive; <small-caps>3ani;tra</small-caps>; him, her, he, she
 [6]See Also
-<a href="suma.html">suma</a> <small-caps>1tra</small-caps>
-<a href="fu.html">fu</a> <small-caps>2tra</small-caps>
-<a href="'iffa.html">&#x2019;iffa</a> <small-caps>3ina;tra</small-caps>
-<a href="mihu.html">mihu</a> <small-caps>3ani;int</small-caps>
-<a href="kassi.html">kassi</a> <small-caps>3ani;abl</small-caps>
-<a href="jusi.html">jusi</a> <small-caps>3ani;dat</small-caps>
-<a href="disi.html">disi</a> <small-caps>3ani;gen</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
+
 [1]la
 [2]High Lulani
 [3]l
@@ -5472,12 +5965,32 @@ derives an animate noun from an intransitive verb
 [5]stem auxiliary
 future dynamic; will; <small-caps>fut;dyn</small-caps>
 [6]See Also
-<a href="nagi.html">nagi</a> <small-caps>fut;sta</small-caps>
-<a href="funi.html">funi</a> <small-caps>fut;neg</small-caps>
-<a href="hu.html">hu</a> <small-caps>fut;itr</small-caps>
-<a href="ruku.html">ruku</a> <small-caps>fut;gno</small-caps>
-<a href="qixa.html">qixa</a> <small-caps>pst;dyn</small-caps>
-<a href="cani.html">cani</a> <small-caps>prs;dyn</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 [5]stem attributive
 resembling
 [6]Example
@@ -5972,12 +6485,32 @@ praseodymium
 [5]stem auxiliary
 present stative; <small-caps>prs;sta</small-caps>; is
 [6]See Also
-<a href="cani.html">cani</a> <small-caps>prs;dyn</small-caps>
-<a href="ji.html">ji</a> <small-caps>prs;neg</small-caps>
-<a href="na.html">na</a> <small-caps>prs;itr</small-caps>
-<a href="ru.html">ru</a> <small-caps>prs;gno</small-caps>
-<a href="pi.html">pi</a> <small-caps>pst;sta</small-caps>
-<a href="nagi.html">nagi</a> <small-caps>fut;sta</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 [5]stem attributive suffix
 being in
 [6]Example
@@ -6162,12 +6695,32 @@ derives a gerund from a verb
 [5]stem auxiliary
 present gnomic
 [6]See Also
-<a href="cani.html">cani</a> <small-caps>prs;dyn</small-caps>
-<a href="ra'u.html">ra&#x2019;u</a> <small-caps>prs;sta</small-caps>
-<a href="ji.html">ji</a> <small-caps>prs;neg</small-caps>
-<a href="na.html">na</a> <small-caps>prs;itr</small-caps>
-<a href="rusa.html">rusa</a> <small-caps>pst;gno</small-caps>
-<a href="ruku.html">ruku</a> <small-caps>fut;gno</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 
 [1]ru&#x2019;iha
 [2]High Lulani
@@ -6206,12 +6759,32 @@ mental plane
 [5]stem auxiliary
 future gnomic; <small-caps>fut;gno;</small-caps> will be
 [6]See Also
-<a href="labu.html">labu</a> <small-caps>fut;dyn</small-caps>
-<a href="nagi.html">nagi</a> <small-caps>fut;sta</small-caps>
-<a href="funi.html">funi</a> <small-caps>fut;neg</small-caps>
-<a href="hu.html">hu</a> <small-caps>fut;itr</small-caps>
-<a href="rusa.html">rusa</a> <small-caps>pst;gno</small-caps>
-<a href="ru.html">ru</a> <small-caps>prs;gno</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 [5]stem attributive suffix
 made of
 [6]Examples
@@ -6224,12 +6797,32 @@ made of
 [5]stem auxiliary
 past gnomic; <small-caps>pst;gno;</small-caps> always was
 [6]See Also
-<a href="qixa.html">qixa</a> <small-caps>pst;dyn</small-caps>
-<a href="pi.html">pi</a> <small-caps>pst;sta</small-caps>
-<a href="qilu.html">qilu</a> <small-caps>pst;neg</small-caps>
-<a href="taku.html">taku</a> <small-caps>pst;itr</small-caps>
-<a href="ru.html">ru</a> <small-caps>prs;gno</small-caps>
-<a href="ruku.html">ruku</a> <small-caps>prs;gno</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 [5]stem attributive suffix
 coming from
 [6]Example
@@ -6467,13 +7060,37 @@ float; drift
 [5]stem personal pronoun
 second person intransitive; <small-caps>2int</small-caps>; you
 [6]See Also
-<a href="'usu.html">&#x2019;usu</a> <small-caps>1int</small-caps>
-<a href="mihu.html">mihu</a> <small-caps>3ani;int</small-caps>
-<a href="pa.html">pa</a> <small-caps>3ina;ina</small-caps>
-<a href="fu.html">fu</a> <small-caps>2tra</small-caps>
-<a href="sacu.html">sacu</a> <small-caps>2abl</small-caps>
-<a href="ba'u.html">ba&#x2019;u</a> <small-caps>2dat</small-caps>
-<a href="ba.html">ba</a> <small-caps>2gen</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 
 [1]fu
 [2]High Lulani
@@ -6497,12 +7114,32 @@ second person transitive; <small-caps>2tra;</small-caps> you
 [5]stem auxiliary
 future negative; <small-caps>fut;neg;</small-caps> will not; won&#x2019;t
 [6]See Also
-<a href="labu.html">labu</a> <small-caps>fut;dyn</small-caps>
-<a href="nagi.html">nagi</a> <small-caps>fut;sta</small-caps>
-<a href="hu.html">hu</a> <small-caps>fut;itr</small-caps>
-<a href="ruku.html">ruku</a> <small-caps>fut;gno</small-caps>
-<a href="qilu.html">qilu</a> <small-caps>pst;neg</small-caps>
-<a href="ji.html">ji</a> <small-caps>prs;neg</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 
 [1]fula
 [2]High Lulani
@@ -6668,13 +7305,37 @@ rubidium
 [5]stem personal pronoun
 second person ablative; <small-caps>2abl</small-caps>; from you; because of you
 [6]See Also
-<a href="puttu.html">puttu</a> <small-caps>1abl</small-caps>
-<a href="kassi.html">kassi</a> <small-caps>3ani;abl</small-caps>
-<a href="kalu.html">kalu</a> <small-caps>3ina;abl</small-caps>
-<a href="filli.html">filli</a> <small-caps>2int</small-caps>
-<a href="fu.html">fu</a> <small-caps>2tra</small-caps>
-<a href="ba'u.html">ba&#x2019;u</a> <small-caps>2dat</small-caps>
-<a href="ba.html">ba</a> <small-caps>2gen</small-caps>
+[t]
+1st person
+2nd person
+3rd person animate
+3rd person inanimate
+[r]intranstitive (abs / nom)
+<a href="'usu.html">&rsquo;usu</a>
+<a href="filli.html">filli</a>
+<a href="mihu.html">mihu</a>
+<a href="pa.html">pa</a>
+[r]transitive (erg / acc)
+<a href="suma.html">suma</a>
+<a href="fu.html">fu</a>
+<a href="quhu.html">quhu</a>
+<a href="'iffa.html">&rsquo;iffa</a>
+[r]ablative
+<a href="puttu.html">puttu</a>
+<a href="sacu.html">sacu</a>
+<a href="kassi.html">kassi</a>
+<a href="kalu.html">kalu</a>
+[r]dative
+<a href="pixi.html">pixi</a>
+<a href="ba'u.html">ba&rsquo;u</a>
+<a href="jusi.html">jusi</a>
+<a href="ku.html">ku</a>
+[r]genitive
+<a href="pagu.html">pagu</a>
+<a href="ba.html">ba</a>
+<a href="disi.html">disi</a>
+<a href="qa.html">qa</a>
+[\t]
 
 [1]saja
 [2]High Lulani
@@ -7735,12 +8396,32 @@ wanting
 [5]stem auxiliary
 future iterative; will; <small-caps>fut;itr</small-caps>
 [6]See Also
-<a href="labu.html">labu</a> <small-caps>fut;dyn</small-caps>
-<a href="nagi.html">nagi</a> <small-caps>fut;sta</small-caps>
-<a href="funi.html">funi</a> <small-caps>fut;neg</small-caps>
-<a href="ruku.html">ruku</a> <small-caps>fut;gno</small-caps>
-<a href="taku.html">taku</a> <small-caps>pst;itr</small-caps>
-<a href="na.html">na</a> <small-caps>prs;itr</small-caps>
+[t]
+dynamic
+stative
+negative
+iterative
+gnomic
+[r]past
+<a href="qixa.html">qixa</a>
+<a href="pi.html">pi</a>
+<a href="qilu.html">qilu</a>
+<a href="taku.html">taku</a>
+<a href="rusa.html">rusa</a>
+[r]present
+<a href="cani.html">cani</a>
+<a href="ra'u.html">ra&rsquo;u</a>
+<a href="ji.html">ji</a>
+<a href="na.html">na</a>
+<a href="ru.html">ru</a>
+[r]future
+<a href="labu.html">labu</a>
+<a href="nagi.html">nagi</a>
+<a href="funi.html">funi</a>
+<a href="hu.html">hu</a>
+<a href="ruku.html">ruku</a>
+
+[\t]
 
 [1]hu&#x2019;asa
 [2]High Lulani

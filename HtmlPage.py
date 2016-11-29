@@ -103,14 +103,25 @@ class HtmlPage:
     def get_content(self):
         text = ""
         in_table = False
+        table = []
         generation = self.heading_node.get_generation()
         for line in self.content:
-            if line[0] == "[":
+            if in_table:
+                if line[:4] != "[\\t]":
+                    table.append(line)
+                else:
+                    text += self.make_table(table)
+                    in_table = False
+            elif line[0] == "[":
                 try:
                     heading = int(line[1])
                     text += self.change_to_heading(heading, generation, line[3:])
                 except ValueError:
-                    text += self.markup(line)
+                    if line[:3] == "[t]":
+                        in_table = True
+                        table = [line[3:]]
+                    else:
+                        text += self.markup(line)
             else:
                 text += "<p>" + line + "</p>\n"
         return text
@@ -141,3 +152,20 @@ class HtmlPage:
         name = name.replace("&#x294;", "''")
         name = name.replace("&#x2019;", "'")
         return name
+
+    @staticmethod
+    def make_table(table):
+        text = "<table>\n<tr>\n"
+        first_row = True
+        for cell in table:
+            if cell[:3] == "[r]":
+                text += "</tr>\n<tr>\n<th>"
+                text += cell[3:] + "</th>\n"
+                first_row = False
+            else:
+                if not first_row:
+                    text += "<td>" + cell + "</td>\n"
+                else:
+                    text += "<th>" + cell + "</th>\n"
+        text += "</tr>\n</table>"
+        return text

@@ -45,6 +45,10 @@ ipa {
 	font-family: lucida sans unicode;
 }
 
+overline {
+	text-decoration: overline;
+}
+
 p.example {
 	line-height: 5pt;
 	padding-left: 10em;

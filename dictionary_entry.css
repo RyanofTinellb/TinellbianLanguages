@@ -104,3 +104,25 @@ div.wordlist a {
 	color: gold;
 	font-weight: none;
 }
+
+td a {
+	font-weight: normal;
+}
+
+table {
+	padding-left: 75px;
+}
+
+td {
+	text-align: center;
+	width: 5em;
+	padding: 0;
+}
+
+th {
+	padding: 0;
+}
+
+th:first-child {
+	text-align: right;
+}

@@ -2,12 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/do_replacements.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/insert_table.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/practice/Replacements.txt" afterPath="$PROJECT_DIR$/Replacements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Ryan.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ryan.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dictionary.txt" afterPath="$PROJECT_DIR$/Dictionary.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Grammar.txt" afterPath="$PROJECT_DIR$/Grammar.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlPage.py" afterPath="$PROJECT_DIR$/HtmlPage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scratch.py" afterPath="$PROJECT_DIR$/Scratch.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'iffa.html" afterPath="$PROJECT_DIR$/dictionary/'iffa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'usu.html" afterPath="$PROJECT_DIR$/dictionary/'usu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/ba'u.html" afterPath="$PROJECT_DIR$/dictionary/ba'u.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/ba.html" afterPath="$PROJECT_DIR$/dictionary/ba.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/cani.html" afterPath="$PROJECT_DIR$/dictionary/cani.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/disi.html" afterPath="$PROJECT_DIR$/dictionary/disi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/filli.html" afterPath="$PROJECT_DIR$/dictionary/filli.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/funi.html" afterPath="$PROJECT_DIR$/dictionary/funi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/hu.html" afterPath="$PROJECT_DIR$/dictionary/hu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/ji.html" afterPath="$PROJECT_DIR$/dictionary/ji.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/jusi.html" afterPath="$PROJECT_DIR$/dictionary/jusi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/kassi.html" afterPath="$PROJECT_DIR$/dictionary/kassi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/ku.html" afterPath="$PROJECT_DIR$/dictionary/ku.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/labu.html" afterPath="$PROJECT_DIR$/dictionary/labu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/mihu.html" afterPath="$PROJECT_DIR$/dictionary/mihu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/musaqu.html" afterPath="$PROJECT_DIR$/dictionary/musaqu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/na.html" afterPath="$PROJECT_DIR$/dictionary/na.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/nagi.html" afterPath="$PROJECT_DIR$/dictionary/nagi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/pa.html" afterPath="$PROJECT_DIR$/dictionary/pa.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/pagu.html" afterPath="$PROJECT_DIR$/dictionary/pagu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/pi.html" afterPath="$PROJECT_DIR$/dictionary/pi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/pixi.html" afterPath="$PROJECT_DIR$/dictionary/pixi.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/puttu.html" afterPath="$PROJECT_DIR$/dictionary/puttu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/qilu.html" afterPath="$PROJECT_DIR$/dictionary/qilu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/qixa.html" afterPath="$PROJECT_DIR$/dictionary/qixa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/quhu.html" afterPath="$PROJECT_DIR$/dictionary/quhu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/ra'u.html" afterPath="$PROJECT_DIR$/dictionary/ra'u.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/ru.html" afterPath="$PROJECT_DIR$/dictionary/ru.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/ruku.html" afterPath="$PROJECT_DIR$/dictionary/ruku.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/rusa.html" afterPath="$PROJECT_DIR$/dictionary/rusa.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/sacu.html" afterPath="$PROJECT_DIR$/dictionary/sacu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/taku.html" afterPath="$PROJECT_DIR$/dictionary/taku.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_entry.css" afterPath="$PROJECT_DIR$/dictionary_entry.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/colours.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/colours.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/numbers.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/numbers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/adjectives.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/adjectives.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/adpositions.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/adpositions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/adverbs.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/adverbs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/auxiliaries.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/auxiliaries.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/conjunctions.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/conjunctions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/nouns.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/nouns.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/particles.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/particles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/suffixes.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/suffixes.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/verbs.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/verbs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/consonants.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/consonants.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/phonotactics.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/phonotactics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/suprasegmentals.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/suprasegmentals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/vowels.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/vowels.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/argumentpromotion.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/argumentpromotion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/case.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/case.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/comparatives.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/comparatives.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/dependentclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/dependentclauses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/gerunds.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/gerunds.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/matrixclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/matrixclauses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/nounphrases.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/nounphrases.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/particularclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/particularclauses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/externalhistory.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/externalhistory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/index.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/internalhistory.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/internalhistory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/index.html" afterPath="$PROJECT_DIR$/grammar/introduction/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_page.css" afterPath="$PROJECT_DIR$/grammar_page.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_template.txt" afterPath="$PROJECT_DIR$/grammar_template.txt" />
     </list>
     <ignored path="TinellbianLanguages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,7 +97,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Create Pages.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Create Pages.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Create Pages.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
@@ -37,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HtmlPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="132" column="30" lean-forward="false" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
+            <state relative-caret-position="129">
+              <caret line="148" column="24" lean-forward="false" selection-start-line="148" selection-start-column="24" selection-end-line="148" selection-end-column="24" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -49,11 +119,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="insert_table.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/insert_table.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Scratch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="0">
+              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -75,6 +155,7 @@
       <find>print</find>
       <find>repla</find>
       <find>example</find>
+      <find>div</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,15 +188,17 @@
         <option value="$PROJECT_DIR$/dictionary/Hierarchy.py" />
         <option value="$PROJECT_DIR$/dictionary/Directory.py" />
         <option value="$PROJECT_DIR$/Create Pages.py" />
-        <option value="$PROJECT_DIR$/Scratch.py" />
+        <option value="$PROJECT_DIR$/practice/Replacements.txt" />
         <option value="$PROJECT_DIR$/HtmlPage.py" />
+        <option value="$PROJECT_DIR$/insert_table.py" />
+        <option value="$PROJECT_DIR$/Scratch.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
-    <option name="width" value="1932" />
+    <option name="width" value="1942" />
     <option name="height" value="1042" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -190,15 +273,17 @@
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\grammar" />
-      <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\dictionary" />
-      <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\coding" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan\Documents\TinellbianLanguages" />
       <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\grammar" />
       <recent name="C:\Users\Ryan\Desktop" />
       <recent name="C:\Users\Ryan\Desktop\Beta" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ryan\Documents\TinellbianLanguages" />
+      <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\grammar" />
+      <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\dictionary" />
+      <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\coding" />
     </key>
   </component>
   <component name="RunManager" selected="Python.Create Pages">
@@ -232,6 +317,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TinellbianLanguages" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="do_replacements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TinellbianLanguages" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/do_replacements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -370,14 +472,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.Create Pages" />
       <item index="1" class="java.lang.String" itemvalue="Python.Scratch" />
+      <item index="2" class="java.lang.String" itemvalue="Python.do_replacements" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Python.Create Pages" />
         <item index="1" class="java.lang.String" itemvalue="Python.Scratch" />
+        <item index="2" class="java.lang.String" itemvalue="Python.do_replacements" />
       </list>
     </recent_temporary>
   </component>
@@ -404,10 +508,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1932" height="1042" extended-state="0" />
-    <editor active="false" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18123667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17921527" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -460,9 +564,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/do_replacements.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/HtmlPage.py</url>
-          <line>107</line>
-          <option name="timeStamp" value="30" />
+          <line>110</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -475,13 +584,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="31" />
+      <option name="time" value="36" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dictionary/Create_Dictionary_Page.py" />
-    <entry file="file://$PROJECT_DIR$/dictionary/Scratch.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/Create_Dictionary_Page.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/Scratch.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/Create_Dictionary_Page.py" />
@@ -534,13 +641,6 @@
     <entry file="file://$PROJECT_DIR$/grammar/HtmlPage.py" />
     <entry file="file://$PROJECT_DIR$/grammar/Directory.py" />
     <entry file="file://$PROJECT_DIR$/grammar/Create Pages.py" />
-    <entry file="file://$PROJECT_DIR$/practice/Replacements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coding/Tinellbian.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="679">
@@ -552,28 +652,52 @@
     <entry file="file://$PROJECT_DIR$/dictionary/Hierarchy.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/Create Pages.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/Create Pages.py">
+    <entry file="file://$PROJECT_DIR$/Replacements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="269">
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/do_replacements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HtmlPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="132" column="30" lean-forward="false" selection-start-line="132" selection-start-column="30" selection-end-line="132" selection-end-column="30" />
+        <state relative-caret-position="129">
+          <caret line="148" column="24" lean-forward="false" selection-start-line="148" selection-start-column="24" selection-end-line="148" selection-end-column="24" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/insert_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create Pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
