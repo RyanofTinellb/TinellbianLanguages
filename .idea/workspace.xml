@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/~$rammar.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Making Tables.xlsm" afterPath="$PROJECT_DIR$/Making Tables.xlsm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dictionary.txt" afterPath="$PROJECT_DIR$/Dictionary.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Grammar.txt" afterPath="$PROJECT_DIR$/Grammar.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'aba.html" afterPath="$PROJECT_DIR$/dictionary/'aba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'i.html" afterPath="$PROJECT_DIR$/dictionary/'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'idu.html" afterPath="$PROJECT_DIR$/dictionary/'idu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'ifuhhanaku.html" afterPath="$PROJECT_DIR$/dictionary/'ifuhhanaku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'ihafi.html" afterPath="$PROJECT_DIR$/dictionary/'ihafi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'iku.html" afterPath="$PROJECT_DIR$/dictionary/'iku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'ima.html" afterPath="$PROJECT_DIR$/dictionary/'ima.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'isili.html" afterPath="$PROJECT_DIR$/dictionary/'isili.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'issi.html" afterPath="$PROJECT_DIR$/dictionary/'issi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'u'ili.html" afterPath="$PROJECT_DIR$/dictionary/'u'ili.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'udi.html" afterPath="$PROJECT_DIR$/dictionary/'udi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'umi.html" afterPath="$PROJECT_DIR$/dictionary/'umi.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'usa.html" afterPath="$PROJECT_DIR$/dictionary/'usa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/-ini.html" afterPath="$PROJECT_DIR$/dictionary/-ini.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/-uju.html" afterPath="$PROJECT_DIR$/dictionary/-uju.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/-ulu.html" afterPath="$PROJECT_DIR$/dictionary/-ulu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/batuja.html" afterPath="$PROJECT_DIR$/dictionary/batuja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/cu'i.html" afterPath="$PROJECT_DIR$/dictionary/cu'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/fana.html" afterPath="$PROJECT_DIR$/dictionary/fana.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/kadusi.html" afterPath="$PROJECT_DIR$/dictionary/kadusi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/kasi.html" afterPath="$PROJECT_DIR$/dictionary/kasi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/kasika.html" afterPath="$PROJECT_DIR$/dictionary/kasika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/kasuja.html" afterPath="$PROJECT_DIR$/dictionary/kasuja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/lara.html" afterPath="$PROJECT_DIR$/dictionary/lara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/madusi.html" afterPath="$PROJECT_DIR$/dictionary/madusi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/majja.html" afterPath="$PROJECT_DIR$/dictionary/majja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/mari.html" afterPath="$PROJECT_DIR$/dictionary/mari.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/marika.html" afterPath="$PROJECT_DIR$/dictionary/marika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/mituja.html" afterPath="$PROJECT_DIR$/dictionary/mituja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/qa'i.html" afterPath="$PROJECT_DIR$/dictionary/qa'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/sama.html" afterPath="$PROJECT_DIR$/dictionary/sama.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/saqqa.html" afterPath="$PROJECT_DIR$/dictionary/saqqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/satta.html" afterPath="$PROJECT_DIR$/dictionary/satta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_entry.css" afterPath="$PROJECT_DIR$/dictionary_entry.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/nouns.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/nouns.html" />
     </list>
     <ignored path="TinellbianLanguages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -496,14 +458,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13838813" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1378579" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2175981" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2175981" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />

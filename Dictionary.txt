@@ -883,10 +883,10 @@ to look; to see; to watch
 [e]<strong>&#x294;usu ba&#x2019;u &#x2019;usa.</strong>
 [e]<small-caps>1int 2dat</small-caps> <em>see.</em>
 [e]&#x201c;I saw you.&#x201d;
-[f]<a href="'usu.html">&#x294;usu</a> &#x2019;usa <a href="fu.html">fu</a>.</a>
+[f]<strong><a href="'usu.html">&#x294;usu</a> &#x2019;usa <a href="fu.html">fu</a>.</strong>
 [e]<small-caps>1int</small-caps> <em>see</em> <small-caps>2tra.</small-caps>
 [e]&#x201c;I watched you.&#x201d;
-[f]<strong><a href="'usu.html">&#x294;usu</a> <a href="pa.html">pa</a><a href="filli.html">filli</a> &#x2019;usa.</a>
+[f]<strong><a href="'usu.html">&#x294;usu</a> <a href="pa.html">pa</a><a href="filli.html">filli</a> &#x2019;usa.</a></strong>
 [e]<small-caps>1int</small-caps> <em>towards-</em><small-caps>2int</small-caps> <em>see.</em>
 [e]&#x201c;I looked in your direction.&#x201d;
 [6]Aspectual Meanings
