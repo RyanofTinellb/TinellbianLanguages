@@ -6447,7 +6447,7 @@ multiple birth
 <weak>luxira&#x2019;uxxi</a> set of twins
 [6]Notes
 Words dealing with twins are usually dictionary words, anything with greater are often nonce
-[6]
+
 [1]ra
 [2]High Lulani
 [3]r
@@ -6514,7 +6514,7 @@ gnomic
 [5]stem attributive suffix
 being in
 [6]Example
-<weak>&#x294;irri&#x2019;ara&#x2019;u gusu</a> <em>people in Irìa</em>
+<strong>&#x294;irri&#x2019;ara&#x2019;u gusu</strong> <em>people in Ir&igrave;a</em>
 
 [1]rabaci
 [2]High Lulani
