@@ -103,7 +103,9 @@ class HtmlPage:
     def get_content(self):
         text = ""
         in_table = False
+        in_list = False
         table = []
+        u_list = []
         generation = self.heading_node.get_generation()
         for line in self.content:
             if in_table:
@@ -112,6 +114,12 @@ class HtmlPage:
                 else:
                     text += self.make_table(table)
                     in_table = False
+            elif in_list:
+                if line[:4] not in ["[\\l]", "[\\n]"]:
+                    u_list.append(line)
+                else:
+                    text += self.make_list(u_list, line[2])
+                    in_list = False
             elif line[0] == "[":
                 try:
                     heading = int(line[1])
@@ -120,6 +128,9 @@ class HtmlPage:
                     if line[:3] == "[t]":
                         in_table = True
                         table = [line[3:]]
+                    elif line[:3] in ["[l]", "[n]"]:
+                        in_list = True
+                        u_list = [line[3:]]
                     else:
                         text += self.markup(line)
             else:
@@ -169,3 +180,19 @@ class HtmlPage:
                     text += "<th>" + cell + "</th>\n"
         text += "</tr>\n</table>"
         return text
+
+    @staticmethod
+    def make_list(u_list, table_type):
+        if table_type == "l":
+            text = "<ul>\n"
+            for item in u_list:
+                text += "<li>" + item + "</li>\n"
+            text += "</ul>\n"
+        elif table_type == "n":
+            text = "<ol>\n"
+            for item in u_list:
+                text += "<li>" + item + "</li>\n"
+            text += "</ol>\n"
+        return text
+
+

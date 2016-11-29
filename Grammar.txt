@@ -10,25 +10,26 @@ Despite their shared language, as more time went by, fractures again showed betw
 One such group were the Fezhl&ecirc;. They found themselves on a world already inhabited by the Zhaladi. The Fezhl&ecirc; tongue evolved independently from Lulani, and was influenced by Zhaladi dialects.
 The people that remained on Ptoko slowly grew back towards peace. Their vernacular evolved into Ptokan, and thence into Tsarin. By the time of Tsarin, Lulani was used only for science and the arts, not for everyday use.
 [l]HL: High Lulani
-[l]VL: Vulgar Lulani
-[l]EF: Early Fezhl&ecirc;
-[l]LF: Late Fezhl&ecirc;
-[l]KF: Koine Fezhl&ecirc;
-[l]OP: Old Ptokan
-[l]MP: Middle Ptokan
-[l]SP: Standard Ptokan
-[l]AT: Ancient Tsarin
-[l]MT: Medieval Tsarin
-[l]CT: Contemporary Tsarin
-[l]NT: New Tsarin
-[l]PZ: Proto-Zhaladi
-[l]TZ: Traditional Zhaladi
-[l]RZ: Reformed Zhaladi
-[l]PB: Pre-Brequ&egrave;n
-[l]AB: Archaic Brequ&egrave;n
-[l]CB: Common Brequ&egrave;n
-[l]CS: Classical Solajin
-[l]MS: Modern Solajin
+VL: Vulgar Lulani
+EF: Early Fezhl&ecirc;
+LF: Late Fezhl&ecirc;
+KF: Koine Fezhl&ecirc;
+OP: Old Ptokan
+MP: Middle Ptokan
+SP: Standard Ptokan
+AT: Ancient Tsarin
+MT: Medieval Tsarin
+CT: Contemporary Tsarin
+NT: New Tsarin
+PZ: Proto-Zhaladi
+TZ: Traditional Zhaladi
+RZ: Reformed Zhaladi
+PB: Pre-Brequ&egrave;n
+AB: Archaic Brequ&egrave;n
+CB: Common Brequ&egrave;n
+CS: Classical Solajin
+MS: Modern Solajin
+[\l]
 [3]External History
 I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <strong>mica</strong> <em>hello</em> dates from that time.
 When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what were to be the Ptokan language, and the language of the Fezhl&ecirc;. This latter language was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.
@@ -355,16 +356,17 @@ mituja
 fana
 [\t]
 [l]The pronouns in the <strong>object</strong> column are used for people and things.
-[l]The <strong>place</strong> column pronouns are used for locations in both space and time.
-[l]The <strong>manner</strong> column is used to refer to the way in which an action is undertaken, and
-[l]The <strong>state</strong> column refers to the condition of a thing.
-[l]<strong>Objects</strong> and <strong>places</strong> are used as <strong>nouns</strong>, <strong>manners</strong> and <strong>states</strong> are used as adverbs.
-[l]<strong>Proximate</strong> pronouns refer to objects and places physically or psychologically near the speaker, whereas
-[l]<strong>Distal</strong> pronouns are used when the referent is far away.
-[l]<strong>Interrogative</strong> pronouns are used in questions, and
-[l]<strong>Negative</strong> pronouns are used in negative sentences.
-[l]<strong>Universal</strong> means &ldquo;all&rdquo; or &ldquo;every&rdquo;,
-[l]<strong>Existential</strong> means &ldquo;some&rdquo; or &ldquo;any&rdquo;.
+The <strong>place</strong> column pronouns are used for locations in both space and time.
+The <strong>manner</strong> column is used to refer to the way in which an action is undertaken, and
+The <strong>state</strong> column refers to the condition of a thing.
+<strong>Objects</strong> and <strong>places</strong> are used as <strong>nouns</strong>, <strong>manners</strong> and <strong>states</strong> are used as adverbs.
+<strong>Proximate</strong> pronouns refer to objects and places physically or psychologically near the speaker, whereas
+<strong>Distal</strong> pronouns are used when the referent is far away.
+<strong>Interrogative</strong> pronouns are used in questions, and
+<strong>Negative</strong> pronouns are used in negative sentences.
+<strong>Universal</strong> means &ldquo;all&rdquo; or &ldquo;every&rdquo;,
+<strong>Existential</strong> means &ldquo;some&rdquo; or &ldquo;any&rdquo;.
+[\l]
 The &lsquo;object&rsquo; indefinite pronouns can modify a noun when used as a suffix. When <strong>cu&rsquo;i</strong> <em>nothing</em> is used as a suffix, it loses its last syllable. When <strong>&rsquo;umi</strong> <em>something</em> is used as a suffix, it loses its first syllable.
 [f]<strong>takacu</strong> <em>no sound</em>
 [e]<strong>manafamari</strong> <em>this country</em>
@@ -383,21 +385,22 @@ Reduplicated indefinite pronouns with suffixed <strong>-ta</strong> <em>and</em>
 There is a special class of verbs that allow one noun to modify another in a particular way. They are suffixes for the modifying noun. This whole word is then placed before the noun being modified. The modified noun can be proper, common or a pronoun.
 
 [l]<strong>qixa</strong> <em>doing</em>
-[l]<strong>qilu</strong> <em>receiving</em>
-[l]<strong>rusa</strong> <em>coming from</em>
-[l]<strong>cani</strong> <em>having</em>
-[l]<strong>ra&rsquo;u</strong> <em>being in</em>
-[l]<strong>ji</strong> <em>needing</em>
-[l]<strong>na</strong> <em>going towards</em>
-[l]<strong>ru</strong> <em>called</em>
-[l]<strong>labu</strong> <em>resembling</em>
-[l]<strong>nagi</strong> <em>becoming</em>
-[l]<strong>funi</strong> 
-[l]<strong>hu</strong> <em>wanting</em>
-[l]<strong>ruku</strong> <em>being made of</em>
-[l]<strong>pi</strong> <em>giving</em>
-[l]<strong>taku</strong> <em>for</em>
-[l]<strong>hu</strong> 
+<strong>qilu</strong> <em>receiving</em>
+<strong>rusa</strong> <em>coming from</em>
+<strong>cani</strong> <em>having</em>
+<strong>ra&rsquo;u</strong> <em>being in</em>
+<strong>ji</strong> <em>needing</em>
+<strong>na</strong> <em>going towards</em>
+<strong>ru</strong> <em>called</em>
+<strong>labu</strong> <em>resembling</em>
+<strong>nagi</strong> <em>becoming</em>
+<strong>funi</strong> 
+<strong>hu</strong> <em>wanting</em>
+<strong>ruku</strong> <em>being made of</em>
+<strong>pi</strong> <em>giving</em>
+<strong>taku</strong> <em>for</em>
+<strong>hu</strong> 
+[\l]
 
 [t]<strong>sinnaqixa gusuli</strong>
 person writing a story
@@ -723,10 +726,10 @@ A <strong>dependent clause</strong> is a clause that is unable to stand meaningf
 They are marked by having the auxiliary at the end.
 [4]Subordinate Clauses
 A <strong>subordinate clause</strong> is one introduced by a subordinating conjunction in the matrix clause. A comma is used to separate a subordinate from its matrix. The conjunction is placed on the side of the main clause that is closest to the subordinate. The clauses can be put in either order.
-[f]<strong>&#x294;usu ru lu&rsquo;i fu daru&rsquo;i, [u]ba pu&rsquo;iba miku ra&rsquo;u[\u]</strong>.
+[f]<strong>&#x294;usu ru lu&rsquo;i fu daru&rsquo;i, <p class="underline">ba pu&rsquo;iba miku ra&rsquo;u<\p></strong>.
 [e]<small-caps>1int prs;gno</small-caps> <em>love</em><small-caps> 2tra</small-caps> <em>because</em><small-caps>, 2gen</small-caps> <em>ball</em><small-caps></small-caps> <em>red</em><small-caps> prs;sta</small-caps>
 [e]&ldquo;I love you because your ball is red.&rdquo;
-[f][u]<strong>Ba pu&rsquo;iba miku ra&rsquo;u[\u], daru&rsquo;i &rsquo;usu ru lu&rsquo;i fu</strong>.
+[f]<p class="underline"><strong>Ba pu&rsquo;iba miku ra&rsquo;u<\p>, daru&rsquo;i &rsquo;usu ru lu&rsquo;i fu</strong>.
 [e]<small-caps>2gen</small-caps> <em>ball</em><small-caps></small-caps> <em>red</em><small-caps> prs;sta,</small-caps> <em>because</em><small-caps> 1int prs;gno</small-caps> <em>love</em><small-caps> 2tra</small-caps>
 [e]&ldquo;I love you because your ball is red.&rdquo;
 Here the subordinate clauses are underlined. The cause is subordinate to the effect.
@@ -830,15 +833,16 @@ The modal <strong>da&rsquo;aru</strong> <em>experience</em> can be used to show 
 [3]Noun Phrases
 The full noun phrase is made up of these components in the following order:
 [n]adposition-
-[n]case marker-
-[n]number
-[n]superlative
-[n]relative clause
-[n]attributive
-[n]main noun
-[n]-adjective
-[n]-conjunction
-[n]-genitive marker
+case marker-
+number
+superlative
+relative clause
+attributive
+main noun
+-adjective
+-conjunction
+-genitive marker
+[\n]
 Hyphens in this list are used to mark where a space is not used to separate components.
 Relative clauses include intransitives.
 The only compulsory component of a noun phrase is the noun itself.
@@ -849,7 +853,7 @@ The only compulsory component of a noun phrase is the noun itself.
 [e]<strong>xiku dasi nukki ru gusulilumi</strong> (v vii-viii) <em>several people who eat strawberries</em>
 [e]<strong>kaluxiku kuluna &rsquo;usi na &rsquo;abu</strong> (ii-v vii) <em>because of everyone who looks at the moon.</em>
 [e]<strong>&rsquo;adira xiku kaluqikanni tura pi xa&#x294;u</strong> (i-iii v vii) <em>near the two children who looked after dogs.</em>
-[e]<strong>julliga kiluquna &#x294;irri&rsquo;ana kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x) [u]<em>the faces of the married women [u]and the walker men who are going to Ir&igrave;a[\u]</em>.
+[e]<strong>julliga kiluquna &#x294;irri&rsquo;ana kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x) <em>the faces of the married women <u>and the walker men who are going to Ir&igrave;a</u></em>.
 [3]Gerunds
 Some verb phrases can be changed into nouns describing the activity.
 [f]<strong>Hubaru naqa</strong>.

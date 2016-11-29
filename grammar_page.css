@@ -50,12 +50,10 @@ overline {
 }
 
 p.example {
-	line-height: 5pt;
 	padding-left: 10em;
 	padding-top: 10pt;
 }
 
 p.example_no_lines {
-	line-height: 5pt;
 	padding-left: 10em;
 }
