@@ -402,49 +402,49 @@ There is a special class of verbs that allow one noun to modify another in a par
 <strong>hu</strong> 
 [\l]
 
-[t]<strong>sinnaqixa gusuli</strong>
-person writing a story
-(<strong>sinna</strong> story ; <strong>gusuli</strong> person)
-[r]<strong>naccaqilu sabba</strong>
-a father getting clothing
-(<strong>nacca</strong> clothes ; <strong>sabba</strong> father)
-[r]<strong>Tinallibirusa &rsquo;usu</strong>
-I, who&rsquo;s coming from Tinellb
-(<strong>Tinallibi</strong> Tinellb ; <strong>&rsquo;usu</strong> me)
-[r]<strong>xucicani xu&rsquo;a</strong>
-feathered bird
-(<strong>xuci</strong> feather ; <strong>xu&rsquo;a</strong> bird)
-[r]<strong>&#x294;irri&rsquo;ara&rsquo;u Ra&rsquo;ani</strong>
-Ryan, who&rsquo;s in Ir&igrave;a
-(<strong>&#x294;irri&rsquo;a</strong> Ir&igrave;a ; <strong>Ra&rsquo;ani</strong> Ryan)
-[r]<strong>cissaji mi</strong>
-someone who needs water
-(<strong>cissa</strong> water ; <strong>mi</strong> someone)
-[r]<strong>sattana kasi</strong>
-that person who&rsquo;s going where?
-(<strong>satta</strong> where? ; <strong>kasi</strong> that person)
-[r]<strong>Sa&rsquo;imiru jusi</strong>
-to the one called Caemi
-(<strong>Sa&rsquo;imi</strong> Caemi ; <strong>jusi</strong> to her)
-[r]<strong>hannakulabu qikanni</strong>
-the dog that&rsquo;s like a cat
-(<strong>hannaku</strong> cat ; <strong>qikanni</strong> dog)
-[r]<strong>lulaninagi xa&#x294;u&rsquo;aba</strong>
-every child who&rsquo;s becoming a queen
-(<strong>lulani</strong> queen ; <strong>xa&#x294;u</strong> child)
-[r]<strong>quhhuhu cu&rsquo;i</strong>
-no one who wants a river
-(<strong>quhhu</strong> river ; <strong>cu&rsquo;i</strong> no one)
-[r]<strong>nagitaku kibba</strong>
-<em>walking stick</em>
-( <strong>nagi</strong> <em>guide</em> ; <strong>kibba</strong> <em>stick</em>)
-[r]<strong>linuruku xissata</strong>
-a wooden musical instrument
-(<strong>linu</strong> tree ; <strong>xissata</strong> instrument)
-[r]<strong>&rsquo;allapi taka</strong>
-a familiar sound
-(<strong>&rsquo;alla</strong> <em>familiarity</em> ; <strong>taka</strong> <em>sound</em>)
-[\t]
+[f]<strong>sinnaqixa gusuli</strong>
+[e]<em>story-doing person</em>
+[e]person writing a story
+[f]<strong>naccaqilu sabba</strong>
+[e]<em>clothing-receiving father</em>
+[e]a father getting clothing
+[f]<strong>Tinallibirusa &rsquo;usu</strong>
+[e]<em>Tinellb-coming_from <small-caps>1int</small-caps></em>
+[e]I, who&rsquo;s coming from Tinellb
+[f]<strong>xucicani xu&rsquo;a</strong>
+[e]<em>feather-having bird</em>
+[e]feathered bird
+[f]<strong>&#x294;irri&rsquo;ara&rsquo;u Ra&rsquo;ani</strong>
+[e]<em>Ir&igrave;a-going_to Ryan</em>
+[e]Ryan, who&rsquo;s in Ir&igrave;a
+[f]<strong>daji mi</strong>
+[e]<em>water-needing someone</em>
+[e]someone who needs water
+[f]<strong>sattana kasi</strong>
+[e]<em>where-going_to that</em>
+[e]that person who&rsquo;s going where?
+[f]<strong>Sa&rsquo;imiru jusi</strong>
+[e]<em>Caemi-called <small-caps>3ani;dat</em>
+[e]to the one named Caemi
+[f]<strong>hannakulabu qikanni</strong>
+[e]<em>cat-resemble dog</em>
+[e]the dog that&rsquo;s like a cat
+[f]<strong>lulaninagi xa&#x294;u&rsquo;aba</strong>
+[e]<em>queen-becoming child-every</em>
+[e]every child who&rsquo;s becoming a queen
+[f]<strong>quhhuhu cu&rsquo;i</strong>
+[e]<em>river-wanting no_one</em>
+[e]no one who wants a river
+[f]<strong>nigataku kibba</strong>
+[e]<em>guide-for stick</em>
+[e]walking stick
+[f]<strong>linuruku xissata</strong>
+[e]<em>wood-made_of musical_instrument</em>
+[e]a wooden musical instrument
+[f]<strong>&rsquo;allapi taka</strong>
+[e]<em>familiarity-giving sound</em>
+[e]a familiar sound
+
 In order to make any of these negative, add the adjective <strong>ji&rsquo;a</strong> <em>not</em> to the second noun.	
 [3]Verbs
 A verb is a necessary part of any sentence, except for <strong>copular</strong> sentences (q.v.).
@@ -853,7 +853,8 @@ The only compulsory component of a noun phrase is the noun itself.
 [e]<strong>xiku dasi nukki ru gusulilumi</strong> (v vii-viii) <em>several people who eat strawberries</em>
 [e]<strong>kaluxiku kuluna &rsquo;usi na &rsquo;abu</strong> (ii-v vii) <em>because of everyone who looks at the moon.</em>
 [e]<strong>&rsquo;adira xiku kaluqikanni tura pi xa&#x294;u</strong> (i-iii v vii) <em>near the two children who looked after dogs.</em>
-[e]<strong>julliga kiluquna &#x294;irri&rsquo;ana kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x) <em>the faces of the married women <u>and the walker men who are going to Ir&igrave;a</u></em>.
+[e]<strong>julliga kiluquna &#x294;irri&rsquo;ana kasataqa &rsquo;ara</strong> (v vi vii-viii-ix-x)
+[e]<em>the faces of the married women <u>and the walker men who are going to Ir&igrave;a</u></em>.
 [3]Gerunds
 Some verb phrases can be changed into nouns describing the activity.
 [f]<strong>Hubaru naqa</strong>.

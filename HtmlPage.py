@@ -76,9 +76,18 @@ class HtmlPage:
         ancestry.reverse()
         return self.heading_node.name + " &lt; " + " &lt; ".join(ancestry)
 
-    @staticmethod
-    def get_toc():
-        return "{toc}<br>\n"
+    def get_toc(self):
+        text = ""
+        if self.heading_node.get_generation() < self.leaf_level:
+            if self.heading_node.get_generation() < (self.leaf_level - 1):
+                for child in self.heading_node.get_children():
+                    text += "<p><a href=\"" + self.name_in_url_form(child) + "/index.html\">"
+                    text += child.name + "</a></p> "
+            else:
+                for child in self.heading_node.get_children():
+                    text += "<p><a href=\"" + self.name_in_url_form(child) + ".html\">"
+                    text += child.name + "</a></p> "
+        return text
 
     def get_menu(self):
         text = ""
@@ -88,8 +97,8 @@ class HtmlPage:
             level = ancestor.get_generation()
             if level < self.leaf_level:
                 level = self.leaf_level - level
-                text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + "/index.html\">" + ancestor.name
-                text += "</a></p>\n"
+                text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + "/index.html\">"
+                text += ancestor.name + "</a></p>\n"
             else:
                 text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + ".html\">" + ancestor.name
                 text += "</a></p>\n"

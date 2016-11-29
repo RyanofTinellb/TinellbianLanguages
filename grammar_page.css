@@ -45,6 +45,7 @@ th.row {
 
 td {
 	width: 75px;
+	width: 75px;
 }
 
 ipa {
@@ -58,6 +59,7 @@ overline {
 small-caps {
 	font-variant: small-caps;
 	font-weight: none;
+	font-style: normal;
 }
 
 p {
@@ -73,8 +75,9 @@ p.example {
 
 p.example_no_lines {
 	padding-left: 10em;
-	line-height: 0.5;
+	padding-top: 1pt;
 	width: 100%;
+	line-height: 0.5;
 }
 
 p.left {
@@ -83,4 +86,13 @@ p.left {
 
 p.right {
 	float: right;
+}
+
+div.toc a {
+	font-weight: bold;
+	color: black;
+	font-size: 125%;
+	text-decoration: none;
+	line-height: 0.5;
+	padding-left: 15em;
 }
