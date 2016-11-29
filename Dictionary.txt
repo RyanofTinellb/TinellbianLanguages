@@ -64,13 +64,42 @@ all; every; everything; universal object
 [6]Example
 <a href="qikanni.html">qikanni</a><a href="'aba">&#x2019;aba</a> <em>all the dogs</em>
 [6]See Also
-<a href="sukki.html">sukki</a> <em>entire</em>
-<a href="batuja.html">batuja</a> <em>everywhere</em>
-<a href="mari.html">mari</a> <em>this</em>
-<a href="kasi.html">kasi</a> <em>that</em>
-<a href="sama.html">sama</a> <em>what</em>
-<a href="cu'i.html">cu&#x2019;i</a> <em>nothing</em>
-<a href="'umi.html">&#x2019;umi</a> <em>something</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]-atinna
 [2]High Lulani
@@ -396,13 +425,13 @@ to say; to speak; to tell
 <strong>iterative</strong> <em>to chat</em>
 <strong>gnomic</strong> <em>to be talkative</em>
 [6]Example
-<weak>&#x294;usu jusi &#x2019;i li lu&#x2019;i fu ra&#x2019;u.</a>
-<small-caps>1int 3dat</small-caps> <em>say</em> <small-caps>com</small-caps> <em>love</em> <small-caps>2tra prs;sta.</small-caps>
-&#x201c;I told her that I love you.&#x201d;
-<weak>&#x294;usu palu&#x2019;i &#x2019;i.</a>
-<small-caps>1int</small-caps> <em>towards-love speak.</em>
-&#x201c;I talked about love.&#x201d;
-<em></em>
+[e]<strong><a href="'usu.html">&#x294;usu</a> <a href="jusi .html">jusi</a> &#x2019;i <a href="li .html">li</a> <a href="lu'i.html">lu&#x2019;i</a> <a href="fu.html">fu</a> <a href="ra'u.html">ra&#x2019;u</a>.</strong> 
+[e]<small-caps>1int 3dat</small-caps> <em>say</em> <small-caps>com</small-caps> <em>love</em> <small-caps>2tra prs;sta.</small-caps>
+[e]&#x201c;I told her that I love you.&#x201d;
+[f]<strong><a href="'usu.html">&#x294;usu</a> <a href="pa.html">pa</a><a href="lu'i.html">lu&#x2019;i</a> &#x2019;i.</strong>
+[e]<small-caps>1int</small-caps> <em>towards-love speak.</em>
+[e]&#x201c;I talked about love.&#x201d;
+
 [1]&#x2019;i&#x2019;ami
 [2]High Lulani
 [3]&#x202e;iaM
@@ -489,17 +518,16 @@ to create; to make
 [6]Thematic Relations
 <strong>agent</strong> <em>subject</em>
 <strong>patient</strong> <em>object</em>
-<weak>source</a> <small-caps>haru</small-caps><em>, ablative</em>
+<strong>source</strong> <small-caps>haru</small-caps><em>, ablative</em>
 [6]Aspectual Meanings
 <strong>dynamic</strong> <em>to make</em>
 <strong>stative</strong> <em>to be building</em>
 <strong>iterative</strong> <em>to make on a production line</em>
-<strong>gnomic</strong> <em>???</em>
 [6]Example
-<weak>&#x294;usu haru&#x2019;u&#x2019;a &#x2019;idu &#x2019;ita&#x2019;i</a>
-<small-caps>1int</small-caps> <em>with-wood make car</em>
-&#x201c;I built a car from wood.&#x201d;
-<em></em>
+[e]<strong><a href="'usu.html">&#x294;usu <a href="haru.html">haru</a><a href="'u'a.html">&#x2019;u&#x2019;a</a> &#x2019;idu <a href="'ita'i.html">&#x2019;ita&#x2019;i</a>.</strong>
+[e]<small-caps>1int</small-caps> <em>with-wood make car.</em>
+[e]&#x201c;I built a car from wood.&#x201d;
+
 [1]&#x2019;ikka
 [2]High Lulani
 [3]&#x202e;i;k
@@ -518,9 +546,9 @@ californium
 [5]abstract stem noun
 hunger
 [6]Derived Terms
-<weak>qi&#x2019;iku</a> <em>to be hungry</em>
-<weak>bi&#x2019;u&#x2019;iku</a> <em>to be starving</em>
-<weak>siku&#x2019;iku</a> <em>to starve</em>
+<strong><a href="qi.html">qi</a>&#x2019;iku</a></strong> <em>to be hungry</em>
+<strong><a href="bi'u.html">bi&#x2019;u</a>&#x2019;iku</a></strong> <em>to be starving</em>
+<strong><a href="siku.html">siku</a>&#x2019;iku</a></strong> <em>to starve</em>
 
 [1]&#x2019;ima
 [2]High Lulani
@@ -529,7 +557,7 @@ hunger
 [5]stem mathematics
 half
 [6]Synonyms
-<weak>saki ra</a> <em>half</em>
+<strong><a href="sa.html">sa</a><a href="ki.html">ki</a> <a href="ra.html">ra</a></strong> <em>half</em>
 [5]inanimate stem noun
 void; vacuum
 [6]See Also
@@ -548,8 +576,8 @@ void; vacuum
 diminutive; derives a noun of lesser intensity or size from another noun
 [6]Example
 <a href="tissini.html">tissini</a> <em>breeze</em>
-<weak>qikannini</a> <em>puppy</em>
-<weak>&#x2019;ahatini</a> <em>contentment</em>
+<strong><a href="qikanni.html">qikanni</a>ni</a></strong> <em>puppy</em>
+<strong><a href="'ahati.html">&#x2019;ahati</a>ni</strong> <em>contentment</em>
 
 [1]&#x2019;ilasa
 [2]High Lulani
@@ -631,7 +659,7 @@ third person transitive inanimate; <small-caps>3ina;tra</small-caps>; it
 [5]derived compound verb
 to agree
 [6]Etymology
-<weak>&#x2018;i</a> <em>speak</em> + <a href="fuhha.html">fuhha</a> <em>decision</em> + <a href="naku.html">naku</a> <em>together</em>
+<a href="&#x2018;i.html">&#x2018;i</a> <em>speak</em> + <a href="fuhha.html">fuhha</a> <em>decision</em> + <a href="naku.html">naku</a> <em>together</em>
 
 [1]&#x2019;issa
 [2]High Lulani
@@ -654,7 +682,7 @@ company; business
 [5]inanimate stem noun
 song
 [6]Derived Terms
-<weak>&#x2019;i&#x2019;issi</a> <em>to sing</em>
+<strong> <a href="'i.html">&#x2019;i</a>&#x2019;issi</strong> <em>to sing</em>
 
 [1]&#x2019;isili
 [2]High Lulani
@@ -663,10 +691,10 @@ song
 [5]abstract stem noun
 sadness
 [6]Derived Terms
-<weak>dissu&#x2019;isili</a> <em>to be sad</em>
-<weak>&#x2019;isilaku</a> <em>depression</em>
-<weak>&#x2019;ísilida</a> <em>misery</em>
-<weak>&#x2019;isilitu&#x2019;i</a> <em>pensiveness</em>
+<strong><a href="dissu.html">dissu</a>&#x2019;isili</strong> <em>to be sad</em>
+<strong>&#x2019;isil<a href="aku.html">aku</a></strong> <em>depression</em>
+<strong>&#x2019;ísili<a href="da.html">da</a></strong> <em>misery</em>
+<strong>&#x2019;isili<a href="tu'i.html">tu&#x2019;i</a></strong> <em>pensiveness</em>
 [6]See Also
 <a href="'ahati.html">&#x2019;ahati</a> <em>happiness</em>
 <a href="sutti.html">sutti</a> <em>fear</em>
@@ -708,7 +736,7 @@ the four planes
 <a href="duku.html">duku</a> <em>body</em>
 <a href="naludu.html">naludu</a> <em>physical plane</em>
 <a href="nada.html">nada</a> <em>emotional plane</em>
-<weak>ricu</a> <em>mental plane</em>
+<a href="ruci.html">ruci</a> <em>mental plane</em>
 <a href="'aka.html">&#x2019;aka</a> <em>spiritual plane</em>
 <a href="fara.html">fara</a> <em>subtle planes</em> 
 [6]Hypernym
@@ -738,7 +766,7 @@ reality
 [6]Definition
 the one relative dimension
 [6]Derived Terms
-<weak>janni&#x2019;u&#x2019;ili</a> <em>to slide</em>
+<strong><a href="janni.html">janni</a>&#x2019;u&#x2019;ili</strong> <em>to slide</em>
 [6]See Also
 <a href="bitta.html">bitta</a> <em>time</em>
 <a href="sufi.html">sufi</a> <em>space</em>
@@ -751,7 +779,7 @@ the one relative dimension
 [5]inanimate stem noun
 teeth
 [6]Derived Terms
-<weak>&#x2019;udixita</a> <em>tooth</em>
+<strong>&#x2019;udi<a href="xita.html">xita</a></strong> <em>tooth</em>
 
 [1]&#x2019;uccadama
 [2]High Lulani
@@ -771,7 +799,7 @@ promethium
 [5]mathematics suffix
 ordinal
 [6]Example
-<weak>kifuju</a> <em>third</em>
+<strong><a href="kifi.html">kifu</a>ju</strong> <em>third</em>
 [6]See Also
 <a href="bijaju.html">bijaju</a> <em>first</em>
 <a href="matta.html">matta</a> <em>second</em>
@@ -783,14 +811,42 @@ ordinal
 [5]stem indefinite pronoun
 anything; something; anyone; anything; existential object
 [6]See Also
-<a href="mi.html">mi</a> <em>some</em>
-<a href="mituja.html">mituja</a> <em>somewhere</em>
-<a href="fana.html">fana</a> <em>somehow</em>
-<a href="mari.html">mari</a> <em>this</em>
-<a href="kasi.html">kasi</a> <em>that</em>
-<a href="sama.html">sama</a> <em>what</em>
-<a href="cu'i.html">cu&#x2019;i</a> <em>nothing</em>
-<a href="'aba.html">&#x2019;aba</a> <em>everything</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t]
 
 [1]&#x2019;ulanu
 [2]High Lulani
@@ -808,9 +864,9 @@ horniness; arousal
 [5]derivational suffix (verb)
 undo
 [6]Examples
-<weak>lulu</a> <em>to undo</em>
-<weak>ju&#x2019;ulu</a> <em>to undress</em>
-<weak>si&#x2019;uku</a> <em>to break</em>
+<strong><a href="la.html">lu</a>lu</a> <em>to undo</em>
+<strong ><a href="ju'i.html">ju&#x2019;u</a>lu</strong> <em>to undress</em>
+<strong ><a href="si'a.html">si&#x2019;u</a>lu</strong> <em>to break</em>
 
 [1]&#x2019;usa
 [2]High Lulani
@@ -820,19 +876,19 @@ undo
 to look; to see; to watch
 [6]Thematic Relations
 <strong>experiencer</strong> <em>subject</em>
-<weak>stimulus</a> <em>dative</em>
-<weak>theme</a> <em>object</em>
-<weak>direction</a> <small-caps>pa</small-caps>
+<strong>stimulus</strong> <em>dative</em>
+<strong >theme</strong> <em>object</em>
+<strong >direction</strong> <small-caps>pa</small-caps>
 [6]Examples
-<weak>&#x294;usu ba&#x2019;u &#x2019;usa.</a>
-<small-caps>1int 2dat</small-caps> <em>see.</em>
-&#x201c;I saw you.&#x201d;
-<weak>&#x294;usu &#x2019;usa fu.</a>
-<small-caps>1int</small-caps> <em>see</em> <small-caps>2tra.</small-caps>
-&#x201c;I watched you.&#x201d;
-<weak>&#x294;usu pafilli &#x2019;usa.</a>
-<small-caps>1int</small-caps> <em>towards-</em><small-caps>2int</small-caps> <em>see.</em>
-&#x201c;I looked in your direction.&#x201d;
+[e]<strong>&#x294;usu ba&#x2019;u &#x2019;usa.</strong>
+[e]<small-caps>1int 2dat</small-caps> <em>see.</em>
+[e]&#x201c;I saw you.&#x201d;
+[f]<a href="'usu.html">&#x294;usu</a> &#x2019;usa <a href="fu.html">fu</a>.</a>
+[e]<small-caps>1int</small-caps> <em>see</em> <small-caps>2tra.</small-caps>
+[e]&#x201c;I watched you.&#x201d;
+[f]<strong><a href="'usu.html">&#x294;usu</a> <a href="pa.html">pa</a><a href="filli.html">filli</a> &#x2019;usa.</a>
+[e]<small-caps>1int</small-caps> <em>towards-</em><small-caps>2int</small-caps> <em>see.</em>
+[e]&#x201c;I looked in your direction.&#x201d;
 [6]Aspectual Meanings
 <strong>dynamic</strong> <em>to look at</em>
 <strong>stative</strong> <em>to be able to see</em>
@@ -1630,12 +1686,42 @@ multiplied by
 [5]indefinite stem pronoun
 everywhere; universal place
 [6]See Also
-<a href="'aba.html">&#x2019;aba</a> <em>everything</em>
-<a href="majja.html">majja</a> <em>here</em>
-<a href="kasuja.html">kasuja</a> <em>there</em>
-<a href="satta.html">satta</a> <em>where</em>
-<a href="qa'i.html">qa&#x2019;i</a> <em>nowhere</em>
-<a href="mituja.html">mituja</a> <em>somewhere</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]bada
 [2]High Lulani
@@ -3035,12 +3121,42 @@ none
 [5]indefinite stem pronoun
 nothing; no one; negative object
 [6]See Also
-<a href="qa'i.html">qa&#x2019;i</a> <em>nowhere</em>
-<a href="mari.html">mari</a> <em>this</em>
-<a href="kasi.html">kasi</a> <em>that</em>
-<a href="sama.html">sama</a> <em>what</em>
-<a href="'aba.html">&#x2019;aba</a> <em>everything</em>
-<a href="'umi.html">&#x2019;umi</a> <em>something</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]cula
 [2]High Lulani
@@ -3505,12 +3621,42 @@ on a vertical surface
 [5]indefinite stem pronoun
 that way; in that manner; distal manner
 [6]See Also
-<a href="kasi.html">kasi</a> <em>that</em>
-<a href="kasuja.html">kasuja</a> <em>there</em>
-<weak>kasika</a> <em>that way</em>
-<a href="madusi.html">madusi</a> <em>this way</em>
-<a href="lara.html">lara</a> <em>how</em>
-<a href="fana.html">fana</a> <em>somehow</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]kaca
 [2]High Lulani
@@ -3640,14 +3786,42 @@ male; man; boy
 [5]stem indefinite pronoun
 that; distal object
 [6]See Also
-<a href="kasuja.html">kasuja</a> <em>there</em>
-<a href="kadusi.html">kadusi</a> <em>in that way</em>
-<weak>kasika</a> <em>in that way</em>
-<a href="mari.html">mari</a> <em>this</em>
-<a href="sama.html">sama</a> <em>what</em>
-<a href="cu'i.html">cu&#x2019;i</a> <em>nothing</em>
-<a href="'aba.html">&#x2019;aba</a> <em>everything</em>
-<a href="'umi.html">&#x2019;umi</a> <em>something</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]kassi
 [2]High Lulani
@@ -3695,12 +3869,42 @@ third person animate ablative; 3<small-caps>ani;abl;</small-caps> from her; from
 [5]indefinite stem pronoun
 that way; in that state; distal state
 [6]See Also
-<a href="kasi.html">kasi</a> <em>that</em>
-<a href="kasuja.html">kasuja</a> <em>there</em>
-<a href="kadusi.html">kadusi</a> <em>that way</em>
-<a href="marika.html">marika</a> <em>this way</em>
-<a href="saqqa.html">saqqa</a> <em>how</em>
-<a href="fana.html">fana</a> <em>somehow</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]kassu
 [2]High Lulani
@@ -3727,14 +3931,42 @@ mind
 [5]indefinite stem pronoun
 there; distal place
 [6]See Also
-<a href="kasi.html">kasi</a> <em>that</em>
-<a href="kadusi.html">kadusi</a> <em>in that way</em>
-<weak>kasika</a> <em>in that way</em>
-<a href="majja.html">majja</a> <em>here</em>
-<a href="satta.html">satta</a> <em>where</em>
-<a href="qa'i.html">qa&#x2019;i</a> <em>nowhere</em>
-<a href="batuja.html">batuja</a> <em>everywhere</em>
-<a href="mituja.html">mituja</a> <em>somewhere</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]kahi
 [2]High Lulani
@@ -4401,12 +4633,42 @@ to rise; to be high
 [5]indefinite stem pronoun
 this way; in this manner; proximate manner
 [6]See Also
-<a href="mari.html">mari</a> <em>this</em>
-<a href="majja.html">majja</a> <em>here</em>
-<a href="marika.html">marika</a> <em>this way</em>
-<a href="kadusi.html">kadusi</a> <em>that way</em>
-<a href="lara.html">lara</a> <em>how</em>
-<a href="fana.html">fana</a> <em>somehow</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]majja
 [2]High Lulani
@@ -4415,14 +4677,42 @@ this way; in this manner; proximate manner
 [5]indefinite stem pronoun
 here; proximate place
 [6]See Also
-<a href="mari.html">mari</a> <em>this</em>
-<a href="madusi.html">madusi</a> <em>this way</em>
-<a href="marika.html">marika</a> <em>this way</em>
-<a href="kasuja.html">kasuja</a> <em>there</em>
-<a href="satta.html">satta</a> <em>where</em>
-<a href="qa'i.html">qa&#x2019;i</a> <em>nowhere</em>
-<a href="batuja.html">batuja</a> <em>everywhere</em>
-<a href="mituja.html">mituja</a> <em>somewhere</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]maku
 [2]High Lulani
@@ -4532,14 +4822,42 @@ address
 [5]stem indefinite pronoun
 proximate objective pronoun; this
 [6]See Also
-<a href="majja.html">majja</a> <em>here</em>
-<a href="madusi.html">madusi</a> <em>this way</em>
-<a href="marika.html">marika</a> <em>this way</em>
-<a href="kasuja.html">kasuja</a> <em>there</em>
-<a href="satta.html">satta</a> <em>where</em>
-<a href="qa'i.html">qa&#x2019;i</a> <em>nowhere</em>
-<a href="batuja.html">batuja</a> <em>everywhere</em>
-<a href="mituja.html">mituja</a> <em>somewhere</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]marika
 [2]High Lulani
@@ -4548,12 +4866,42 @@ proximate objective pronoun; this
 [5]indefinite stem pronoun
 this way; in this state; proximate state
 [6]See Also
-<a href="mari.html">mari</a> <em>this</em>
-<a href="majja.html">majja</a> <em>here</em>
-<a href="madusi.html">madusi</a> <em>this way</em>
-<weak>kasika</a> <em>that way</em>
-<a href="saqqa.html">saqqa</a> <em>how</em>
-<a href="fana.html">fana</a> <em>somehow</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]masi
 [2]High Lulani
@@ -4606,13 +4954,42 @@ discus
 [5]indefinite stem pronoun
 somewhere; anywhere; anytime; sometime; existential place
 [6]See Also
-<a href="'umi.html">&#x2019;umi</a> <em>something</em>
-<a href="fana.html">fana</a> <em>somehow</em>
-<a href="majja.html">majja</a> <em>here</em>
-<a href="kasuja.html">kasuja</a> <em>there</em>
-<a href="satta.html">satta</a> <em>where</em>
-<a href="qa'i.html">qa&#x2019;i</a> <em>nowhere</em>
-<a href="batuja.html">batuja</a> <em>everywhere</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]mica
 [2]High Lulani
@@ -5575,12 +5952,42 @@ down
 [5]indefinite stem pronoun
 nowhere; never; negative place
 [6]See Also
-<a href="cu'i.html">cu&#x2019;i</a> <em>nothing</em>
-<a href="majja.html">majja</a> <em>here</em>
-<a href="kasuja.html">kasuja</a> <em>there</em>
-<a href="satta.html">satta</a> <em>where</em>
-<a href="batuja.html">batuja</a> <em>everywhere</em>
-<a href="mituja.html">mituja</a> <em>somewhere</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]qa&#x294;iku
 [2]High Lulani
@@ -6137,13 +6544,42 @@ tongue
 [5]indefinite stem pronoun
 interrogative manner; how?
 [6]See Also
-<a href="sama.html">sama</a> <em>what</em>
-<a href="satta.html">satta</a> <em>where</em>
-<a href="saqqa.html">saqqa</a> <em>how</em>
-<a href="madusi.html">madusi</a> <em>this way</em>
-<a href="kadusi.html">kadusi</a> <em>that way</em>
-<a href="lara.html">lara</a> <em>how</em>
-<a href="fana.html">fana</a> <em>somehow</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]laru
 [2]High Lulani
@@ -6894,14 +7330,42 @@ completely
 [5]indefinite stem pronoun
 somehow; existential manner; existential state
 [6]See Also
-<a href="'umi.html">&#x2019;umi</a> <em>something</em>
-<a href="mituja.html">mituja</a> <em>somewhere</em>
-<a href="madusi.html">madusi</a> <em>this way</em>
-<a href="marika.html">marika</a> <em>this way</em>
-<a href="kadusi.html">kadusi</a> <em>that way</em>
-<weak>kasika</a> <em>that way</em>
-<a href="lara.html">lara</a> <em>how</em>
-<a href="saqqa.html">saqqa</a> <em>how</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]faluki
 [2]High Lulani
@@ -7264,14 +7728,42 @@ in order to obtain or acquire
 [5]indefinite stem pronoun
 where; interrogative place
 [6]See Also
-<a href="sama.html">sama</a> <em>what</em>
-<a href="lara.html">lara</a> <em>how</em>
-<a href="saqqa.html">saqqa</a> <em>how</em>
-<a href="majja.html">majja</a> <em>here</em>
-<a href="kasuja.html">kasuja</a> <em>there</em>
-<a href="qa'i.html">qa&#x2019;i</a> <em>nowhere</em>
-<a href="batuja.html">batuja</a> <em>everywhere</em>
-<a href="mituja.html">mituja</a> <em>somewhere</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]satadu
 [2]High Lulani
@@ -7408,14 +7900,42 @@ iron pyrites
 [5]indefinite stem pronoun
 what; who; interrogative object
 [6]See Also
-<a href="satta.html">satta</a> <em>where</em>
-<a href="lara.html">lara</a> <em>how</em>
-<a href="saqqa.html">saqqa</a> <em>how</em>
-<a href="mari.html">mari</a> <em>this</em>
-<a href="kasi.html">kasi</a> <em>that</em>
-<a href="cu'i.html">cu&#x2019;i</a> <em>nothing</em>
-<a href="'aba.html">&#x2019;aba</a> <em>everything</em>
-<a href="'umi.html">&#x2019;umi</a> <em>something</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t] 
 
 [1]samma
 [2]High Lulani
@@ -7483,12 +8003,42 @@ right; on the right-hand side
 [5]indefinite stem pronoun
 how; interrogative state
 [6]See Also
-<a href="sama.html">sama</a> <em>what</em>
-<a href="satta.html">satta</a> <em>where</em>
-<a href="lara.html">lara</a> <em>how</em>
-<a href="marika.html">marika</a> <em>this way</em>
-<weak>kasika</a> <em>that way</em>
-<a href="fana.html">fana</a> <em>somehow</em>
+[t]
+object
+place
+manner
+state
+[r]proximate
+<a href="mari.html">mari</a>
+<a href="majja.html">majja</a>
+<a href="madusi.html">madusi</a>
+<a href="marika.html">marika</a>
+[r]distal
+<a href="kasi.html">kasi</a>
+<a href="kasuja.html">kasuja</a>
+<a href="kadusi.html">kadusi</a>
+<a href="kasika.html">kasika</a>
+[r]interrogative
+<a href="sama.html">sama</a>
+<a href="satta.html">satta</a>
+<a href="lara.html">lara</a>
+<a href="saqqa.html">saqqa</a>
+[r]negative
+<a href="cu'i.html">cu&rsquo;i</a>
+<a href="qa'i.html">qa&rsquo;i</a>
+-
+-
+[r]universal
+<a href="'aba.html">&rsquo;aba</a>
+<a href="batuja.html">batuja</a>
+-
+-
+[r]existential
+<a href="'umi.html">&rsquo;umi</a>
+<a href="mituja.html">mituja</a>
+<a href="fana.html">fana</a>
+<a href="fana.html">fana</a>
+[\t]
 
 [1]saqala
 [2]High Lulani

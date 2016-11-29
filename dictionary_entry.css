@@ -1,5 +1,5 @@
 h1, h2, h3, h4, h5, h6, p {
-	font-family: calibri;
+	font-family: sans-serif;
 	padding-left: 50px;
 	margin: 10px;
 }
@@ -41,6 +41,7 @@ h5 {
 h6 {
 	text-decoration: underline;
 	font-size: 15;
+	line-height: 2;
 }
 
 p {
@@ -49,9 +50,8 @@ p {
 	margin: 0;
 }
 
-p.back {
-	padding-left: 100px;
-	margin-top: 20pt;
+p.example {
+	padding-top: 10pt;
 }
 
 p.left {
@@ -88,21 +88,11 @@ em {
 div.menu {
 	padding-top: 10pt;
 	padding-bottom: 10pt;
+	color: white;
 }
 
-div.wordlist {
-	float: left;
-	width: 20%;
-	max-width: 160px;
-	margin: 0;
-	padding-left: 60px;
-	padding-top: 20px;
-	padding-bottom: 20px;
-	background-color: mediumslateblue;
-	color: gold;
-	border-right-style: solid;
-	border-width: 10px;
-	border-color: lightslategray;
+div.menu a {
+	color: white;
 }
 
 div.content {
@@ -112,11 +102,6 @@ div.content {
 	margin-left: 10%;
 	background-color: lightgoldenrodyellow;
 	
-}
-
-div.wordlist a {
-	color: gold;
-	font-weight: none;
 }
 
 td a {
@@ -135,6 +120,7 @@ td {
 
 th {
 	padding: 0;
+	font-family: sans-serif;
 }
 
 th:first-child {

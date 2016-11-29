@@ -354,6 +354,7 @@ batuja
 &rsquo;umi
 mituja
 fana
+fana
 [\t]
 [l]The pronouns in the <strong>object</strong> column are used for people and things.
 The <strong>place</strong> column pronouns are used for locations in both space and time.
