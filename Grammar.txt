@@ -1,7 +1,5 @@
 [1]Introduction
-This is a description of the whys and wherefores of the Tinellbian Languages
 [2]History
-This describes when and where stuff happened.
 [3]Internal History
 Within the universe named Tinellb, there is a planet named Ptoko. There arose on this world a race of humanoids, the Ptokan. Over millions of years, their race evolved and became the dominant force on their planet.
 There had been many conflicts, small and large, throughout their history. One particularly bloody war had had much of the population brought into it: a World War. The survivors of this war were ruled by a single monarch.
