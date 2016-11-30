@@ -34,6 +34,7 @@ class HtmlPage:
                 else:
                     self.content.append("\n")
                 line = source.readline()
+            self.create_page()
 
     def create_page(self):
         if len(self.content) == 0:
