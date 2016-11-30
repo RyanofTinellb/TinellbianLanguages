@@ -8,13 +8,18 @@ class HtmlPage:
     # @param template_file (string): path to the template from which to build new pages
     # @param leaf_level (integer): the heading number for leaves of the directory
     # @param stylesheet (string): name of the css stylesheet
-    def __init__(self, source_file, destination, template_file, stylesheet, leaf_level):
+    def __init__(self, destination, leaf_level):
+        source_file = destination + "_data.txt"
+        template_file = destination + "_template.txt"
+        stylesheet = destination + "_style.css"
         self.directory = Directory(source_file, destination)
+        self.destination = destination
         self.template_file = template_file
         self.leaf_level = leaf_level
         self.content = []
         self.node = self.directory.hierarchy.root
         self.stylesheet = stylesheet
+        self.create_main_page()
         with open(source_file, 'r') as source:
             line = source.readline()
             while line != "":
@@ -238,4 +243,45 @@ class HtmlPage:
             raise ValueError('Invalid Table Type')
         return text
 
+    def create_main_page(self):
+        node = self.directory.get_root()
+        node = node.get_next_node()
+        generation = node.get_generation()
+        ancestors = node.get_ancestors()
+        if len(ancestors):
+            ancestors.pop(0)
+        template_file = self.destination + "_main_template.txt"
+        destination_filename = self.destination + "/index.html"
+        text = ""
+        with open(template_file, "r") as template:
+            line = template.readline()
+            while line != "":
+                line = line[:-1]
+                if line != "{toc}":
+                    text += line + "\n"
+                else:
+                    while True:
+                        if generation < self.leaf_level:
+                            text += "<p><a href=\""
+                            for ancestor in ancestors:
+                                text += self.name_in_url_form(ancestor) + "/"
+                            text += self.name_in_url_form(node) + "/index.html\">"
+                            text += node.get_name() + "</a></p>\n"
+                        else:
+                            text += "<p><a href=\""
+                            for ancestor in ancestors:
+                                text += self.name_in_url_form(ancestor) + "/"
+                            text += self.name_in_url_form(node) + ".html\">"
+                            text += node.get_name() + "</a></p>\n"
+                        try:
+                            node = node.get_next_node(self.leaf_level)
+                            generation = node.get_generation()
+                            ancestors = node.get_ancestors()
+                            if len(ancestors):
+                                ancestors.pop(0)
+                        except IndexError:
+                            break
+                line = template.readline()
+        with open(destination_filename, "w") as destination_file:
+            destination_file.write(text)
 

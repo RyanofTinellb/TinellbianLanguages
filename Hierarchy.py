@@ -36,6 +36,7 @@ class Hierarchy:
                     if node:
                         return node
 
+
 class Node:
     def __init__(self, name, parent=None):
         self.parent = parent
@@ -82,3 +83,23 @@ class Node:
 
     def get_right_sister(self):
         return self.get_sister(1)
+
+    # @param level: the lowest level of nodes to return
+    def get_next_node(self, level=100):
+        if level == 1:
+                next_node = self.get_right_sister()
+        elif self.has_children() and self.get_generation() < level:
+            return self.children[0]
+        else:
+            next_node = self.get_next_node_iter(self.parent)
+        return next_node
+
+    def get_next_node_iter(self, node):
+        if node.parent is None:
+            raise IndexError('No more nodes')
+        try:
+            right = node.get_right_sister()
+            return right
+        except IndexError:
+            right = self.get_next_node_iter(node.parent)
+        return right

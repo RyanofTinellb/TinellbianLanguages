@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>
+Tinellbian Languages Dictionary
+</title>
+<link rel="stylesheet" type="text/css" href="../dictionary_main_style.css">
+</head>
+<body>
+<h1>Welcome to the dictionary for the languages of Tinellb!</h1>
+{toc}
+</body>
+</html>

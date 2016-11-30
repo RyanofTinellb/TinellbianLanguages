@@ -942,8 +942,8 @@ The index marker is suffixed to the group word.
 [e]<strong>takkiranirapaxita</strong> <em>122,0000</em>
 [e]<strong>&rsquo;usitakki mullurapaxita</strong> <em>6<overline>1</overline>2,0000</em>
 There is nothing preventing an index-marked number being used within another index marker, although the second <strong>pa</strong> is usually geminated.
-[f]<strong>pappaxita</strong> <em>1,0000[s]1,0000[\s]</em>
-[e]<strong>papappaxita</strong> <em>1,0000[s]1,0000^1,0000[\s]</em>
+[f]<strong>pappaxita</strong> <em>1,0000<sup>1,0000</sup></em>
+[e]<strong>papappaxita</strong> <em>1,0000<sup>1,0000^1,0000</sup></em>
 [5]Non-integral Numbers
 [6]Reading Mantissas
 There are two ways to read a mantissa.
@@ -975,8 +975,8 @@ Ordinal and cardinal numbers are used in noun phrases, and are inserted between 
 [f]<strong>nuruju kimilli</strong>
 [e]<em>four-</em><small-caps>ord</small-caps> <em>king</em>
 [e]&ldquo;the fourth king.&rdquo;
-<strong>kalusalumi lulani</strong>
-<small-caps>abl</small-caps><em>-seven queen</em>
+[f]<strong>kalusalumi lulani</strong>
+[e]<small-caps>abl</small-caps><em>-seven queen</em>
 [e]&ldquo;due to the seven queens.&rdquo;
 Numbers can be suffixed to a noun to denote not the quantity, but a quality.
 [f]<strong>salumi &rsquo;isinnadi</strong>

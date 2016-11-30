@@ -30,3 +30,6 @@ class Directory:
 
     def get_next_node(self, level):
         return self.hierarchy.get_next_node()
+
+    def get_root(self):
+        return self.hierarchy.root
