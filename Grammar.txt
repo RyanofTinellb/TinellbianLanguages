@@ -620,13 +620,13 @@ Sometimes the verb requires an oblique rather than a traditional object. In thes
 The <strong>ablative</strong> case is used to mark the proximate cause or the instigator of an action. With verbs of transfer or motion, it is also used to mark the source of a movement. The clitic is <strong>kalu</strong>.
 [f]<strong>sacu</strong> because of you / from you
 [e]<strong>kaluTinallibi janni</strong> come from Tinellb (<strong>janni</strong> to move)
-[e]<strong>kalukimilli kuffa</strong> given by the king (<strong>kimilli</strong> king ; [e]<strong>kuffa</strong> to give)
+[e]<strong>kalukimilli kuffa</strong> given by the king (<strong>kimilli</strong> king ; <strong>kuffa</strong> to give)
 [5]Dative
 The <strong>dative</strong> case was originally only used to mark the receiver with verbs of giving and transfer. The meaning has since broadened to show indirectness on the part of the patient for a number of verbs, including verbs of perception and emotion. The clitic is <strong>ku-</strong>.
 [f]<strong>pixi</strong> to me
-[e]<strong>jusi &rsquo;usa</strong> to see him (<strong>jusi</strong> to him ; [e]<strong>&rsquo;usa</strong> see)
-[e]<strong>ku&#x294;irri&rsquo;a janni</strong> go to Ir&igrave;a (<strong>janni</strong> to move)
-[e]<strong>kululani kuffa</strong> give to the queen (<strong>lulani</strong> queen ; [e]<strong>kuffa</strong> to give) 
+[e]<strong>jusi &rsquo;usa</strong> to see him (<strong>jusi</strong> to him ; <strong>&rsquo;usa</strong> <em>see</em>)
+[e]<strong>ku&#x294;irri&rsquo;a janni</strong> go to Ir&igrave;a (<strong>janni</strong> <em>to move</em>)
+[e]<strong>kululani kuffa</strong> give to the queen (<strong>lulani</strong> queen ; <strong>kuffa</strong> to give) 
 [3]Matrix Clauses
 The standard word order for matrix clauses is:
 Subject &dash; Auxiliary &dash; Adposition - Oblique &dash; Verb &dash; Object &dash; Adverb.
@@ -648,7 +648,7 @@ Sometimes the object is in an oblique case.
 [4]Copular Sentences
 <strong>Copular sentences</strong> do not have a main verb. These sentences are used to show an equivalence relationship between two nouns, or to show that one noun is an element of the set described by the other noun. They are transitive sentences.
 [f]<strong>Mihu labu julliga</strong>.
-[e]<small-caps>3ani:int</small-caps> <small-caps>fut;dyn</small-caps> <em>married.woman</em>
+[e]<small-caps>3ani;int</small-caps> <small-caps>fut;dyn</small-caps> <em>married_woman</em>
 [e]&ldquo;She will become a married woman.&rdquo;
 Another use of copular sentences is to tell the location of something in relation to something else.
 [f]<strong>Pa ra&rsquo;u di&rsquo;i&rsquo;uja</strong>.
@@ -657,6 +657,10 @@ Another use of copular sentences is to tell the location of something in relatio
 The copular sentence structure for ownership is as follows. It has the possessor in the dative case, and the possessum as the subject.
 [f]<strong>Sunu ru pixi</strong>.
 [e]<em>Cloak</em> <small-caps>prs;gno 1dat</small-caps>
+[e]I have a cloak.
+The arguments may be swapped without a change in meaning.
+[f]<strong>Pixi ru sunu.</strong>.
+[e]<em><small-caps>1dat prs;gno</small-caps> cloak.</em>
 [e]I have a cloak.
 [4]Contrasting Pronouns
 These example sentences have been given to clarify alignment and the correct use of pronouns with different auxiliaries.
