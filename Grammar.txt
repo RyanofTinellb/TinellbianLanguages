@@ -659,7 +659,7 @@ The copular sentence structure for ownership is as follows. It has the possessor
 [e]<em>Cloak</em> <small-caps>prs;gno 1dat</small-caps>
 [e]I have a cloak.
 The arguments may be swapped without a change in meaning.
-[f]<strong>Pixi ru sunu.</strong>.
+[f]<strong>Pixi ru sunu.</strong>
 [e]<em><small-caps>1dat prs;gno</small-caps> cloak.</em>
 [e]I have a cloak.
 [4]Contrasting Pronouns
