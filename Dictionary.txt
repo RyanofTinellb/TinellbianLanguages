@@ -11,9 +11,9 @@ derives an abstract noun from a verb
 [5]inanimate stem noun element
 iron
 [6]See Also
-&#x2190; <a href="qumalli.html">qumalli</a> <em>manganese</em>
-&#x2192; <a href="gaxiki.html">gaxiki</a> <em>cobalt</em>
-&#x2193; <a href="nasufi.html">nasufi</a> <em>ruthenium</em>
+<a href="qumalli.html">&#x2190; qumalli</a> <em>manganese</em>
+<a href="gaxiki.html">&#x2192; gaxiki</a> <em>cobalt</em>
+<a href="nasufi.html">&#x2193; nasufi</a> <em>ruthenium</em>
 
 [1]&#x2019;a&#x2019;ami
 [2]High Lulani
@@ -22,9 +22,9 @@ iron
 [5]inanimate stem noun element
 cerium
 [6]See Also
-&#x2190; <a href="xanaki.html">xanaki</a> <em>lanthanum</em>
-&#x2192; <a href="ra''asa.html">ra&#x294;asa</a> <em>praseodymium</em>
-&#x2193; <a href="paraba.html">paraba</a> <em>thorium</em>
+<a href="xanaki.html">&#x2190; xanaki</a> <em>lanthanum</em>
+<a href="ra''asa.html">&#x2192; ra&#x294;asa</a> <em>praseodymium</em>
+<a href="paraba.html">&#x2193; paraba</a> <em>thorium</em>
 
 [1]&#x2019;a&#x2019;ima
 [2]High Lulani
@@ -191,10 +191,10 @@ police officer
 [5]inanimate stem noun element
 bismuth
 [6]See Also
-&#x2190; <a href="musaqu.html">musaqu</a> <em>lead</em>
-&#x2192; <a href="cakassu.html">cakassu</a> <em>polonium</em>
-&#x2191; <a href="salari.html">salari</a> <em>antimony</em>
-&#x2193; <a href="rili.html">rili</a> <em>moscovium</em>
+<a href="musaqu.html">&#x2190; musaqu</a> <em>lead</em>
+<a href="cakassu.html">&#x2192; cakassu</a> <em>polonium</em>
+<a href="salari.html">&#x2191; salari</a> <em>antimony</em>
+<a href="rili.html">&#x2193; rili</a> <em>moscovium</em>
 
 [1]&#x2019;agu
 [2]High Lulani
@@ -210,10 +210,10 @@ contest
 [5]inanimate stem noun element
 silicon
 [6]See Also
-&#x2190; <a href="disa.html">disa</a> <em>aluminium</em>
-&#x2192; <a href="pibi.html">pibi</a> <em>phosphorus</em>
-&#x2191; <a href="xu.html">xu</a> <em>carbon</em>
-&#x2193; <a href="xuhhi.html">xuhhi</a> <em>germanium</em>
+<a href="disa.html">&#x2190; disa</a> <em>aluminium</em>
+<a href="pibi.html">&#x2192; pibi</a> <em>phosphorus</em>
+<a href="xu.html">&#x2191; xu</a> <em>carbon</em>
+<a href="xuhhi.html">&#x2193; xuhhi</a> <em>germanium</em>
 
 [1]&#x2019;anni
 [2]High Lulani
@@ -265,10 +265,10 @@ Three plus four is seven.
 [5]inanimate stem noun element
 yttrium
 [6]See Also
-&#x2190; <a href="'aru'u.html">&#x2019;aru&#x2019;u</a> <em>strontium</em>
-&#x2192; <a href="pusu.html">pusu</a> <em>zirconium</em>
-&#x2191; <a href="cakina.html">cakina</a> <em>scandium</em>
-&#x2193; <a href="nulina.html">nulina</a> <em>lutetium</em>
+<a href="'aru'u.html">&#x2190; &#x2019;aru&#x2019;u</a> <em>strontium</em>
+<a href="pusu.html">&#x2192; pusu</a> <em>zirconium</em>
+<a href="cakina.html">&#x2191; cakina</a> <em>scandium</em>
+<a href="nulina.html">&#x2193; nulina</a> <em>lutetium</em>
 
 [1]&#x2019;ala
 [2]High Lulani
@@ -300,10 +300,10 @@ a feeling of recognition
 [5]inanimate stem noun element
 gallium
 [6]See Also
-&#x2190; <a href="hika.html">hika</a> <em>zinc</em>
-&#x2192; <a href="xuhhi.html">xuhhi</a> <em>germanium</em>
-&#x2191; <a href="disa.html">disa</a> <em>aluminium</em>
-&#x2193; <a href="luka.html">luka</a> <em>indium</em>
+<a href="hika.html">&#x2190; hika</a> <em>zinc</em>
+<a href="xuhhi.html">&#x2192; xuhhi</a> <em>germanium</em>
+<a href="disa.html">&#x2191; disa</a> <em>aluminium</em>
+<a href="luka.html">&#x2193; luka</a> <em>indium</em>
 
 [1]&#x2019;alissa
 [2]High Lulani
@@ -330,10 +330,10 @@ face
 [5]inanimate stem noun element
 strontium
 [6]See Also
-&#x2190; <a href="sadadu.html">sadadu</a> <em>rubidium</em>
-&#x2192; <a href="'aqqixi.html">&#x2019;aqqixi</a> <em>yttrium</em>
-&#x2191; <a href="qaxa.html">qaxa</a> <em>calcium</em>
-&#x2193; <a href="baca.html">baca</a> <em>barium</em>
+<a href="sadadu.html">&#x2190; sadadu</a> <em>rubidium</em>
+<a href="'aqqixi.html">&#x2192; &#x2019;aqqixi</a> <em>yttrium</em>
+<a href="qaxa.html">&#x2191; qaxa</a> <em>calcium</em>
+<a href="baca.html">&#x2193; baca</a> <em>barium</em>
 
 [1]&#x2019;assa
 [2]High Lulani
@@ -439,9 +439,9 @@ to say; to speak; to tell
 [5]inanimate stem noun element
 hassium
 [6]See Also
-&#x2190; <a href="cabahi.html">cabahi</a> <em>bohrium</em>
-&#x2192; <a href="nakaku.html">nakaku</a> <em>meitnerium</em>
-&#x2191; <a href="supu.html">supu</a> <em>osmium</em>
+<a href="cabahi.html">&#x2190; cabahi</a> <em>bohrium</em>
+<a href="nakaku.html">&#x2192; nakaku</a> <em>meitnerium</em>
+<a href="supu.html">&#x2191; supu</a> <em>osmium</em>
 
 [1]&#x2019;i&#x2019;isata
 [2]High Lulani
@@ -450,9 +450,9 @@ hassium
 [5]inanimate stem noun element
 samarium
 [6]See Also
-&#x2190; <a href="'uccadama.html">&#x2019;uccadama</a> <em>promethium</em>
-&#x2192; <a href="siqi.html">siqi</a> <em>europium</em>
-&#x2193; <a href="sussi.html">sussi</a> <em>plutonium</em>
+<a href="'uccadama.html">&#x2190; &#x2019;uccadama</a> <em>promethium</em>
+<a href="siqi.html">&#x2192; siqi</a> <em>europium</em>
+<a href="sussi.html">&#x2193; sussi</a> <em>plutonium</em>
 
 [1]&#x2019;i&#x2019;uja
 [2]High Lulani
@@ -495,8 +495,8 @@ milk
 [5]inanimate stem noun element
 oganesson
 [6]See Also
-&#x2190; <a href="buccata.html">buccata</a> <em>tennessine</em>
-&#x2191; <a href="fasami.html">fasami</a> <em>radon</em>
+<a href="buccata.html">&#x2190; buccata</a> <em>tennessine</em>
+<a href="fasami.html">&#x2191; fasami</a> <em>radon</em>
 
 [1]&#x2019;itikku
 [2]High Lulani
@@ -535,9 +535,9 @@ to create; to make
 [5]inanimate stem noun element
 californium
 [6]See Also
-&#x2190; <a href="saxxuru.html">saxxuru</a> <em>berkelium</em>
-&#x2192; <a href="banara.html">banara</a> <em>einsteinium</em>
-&#x2191; <a href="bumissi.html">bumissi</a> <em>dysprosium</em>
+<a href="saxxuru.html">&#x2190; saxxuru</a> <em>berkelium</em>
+<a href="banara.html">&#x2192; banara</a> <em>einsteinium</em>
+<a href="bumissi.html">&#x2191; bumissi</a> <em>dysprosium</em>
 
 [1]&#x2019;iku
 [2]High Lulani
@@ -586,9 +586,9 @@ diminutive; derives a noun of lesser intensity or size from another noun
 [5]inanimate stem noun element
 radium
 [6]See Also
-&#x2190; <a href="guqqa.html">guqqa</a> <em>francium</em>
-&#x2192; <a href="na'a.html">na&#x2019;a</a> <em>actinium</em>
-&#x2191; <a href="baca.html">baca</a> <em>barium</em>
+<a href="guqqa.html">&#x2190; guqqa</a> <em>francium</em>
+<a href="na'a.html">&#x2192; na&#x2019;a</a> <em>actinium</em>
+<a href="baca.html">&#x2191; baca</a> <em>barium</em>
 
 [1]&#x2019;ilu
 [2]High Lulani
@@ -788,9 +788,9 @@ teeth
 [5]inanimate stem noun element
 promethium
 [6]See Also
-&#x2190; <a href="fibaku.html">fibaku</a> <em>neodymium</em>
-&#x2192; <a href="'i'isata.html">&#x2019;i&#x2019;isata</a> <em>samarium</em>
-&#x2193; <a href="xasagi.html">xasagi</a> <em>neptunium</em>
+<a href="fibaku.html">&#x2190; fibaku</a> <em>neodymium</em>
+<a href="'i'isata.html">&#x2192; &#x2019;i&#x2019;isata</a> <em>samarium</em>
+<a href="xasagi.html">&#x2193; xasagi</a> <em>neptunium</em>
 
 [1]-uju
 [2]High Lulani
@@ -897,10 +897,10 @@ to look; to see; to watch
 [5]inanimate stem noun element
 mercury
 [6]See Also
-&#x2190; <a href="fi.html">fi</a> <em>gold</em>
-&#x2192; <a href="silla.html">silla</a> <em>thallium</em>
-&#x2191; <a href="kaca.html">kaca</a> <em>cadmium</em>
-&#x2193; <a href="hatanu.html">hatanu</a> <em>copernicium</em>
+<a href="fi.html">&#x2190; fi</a> <em>gold</em>
+<a href="silla.html">&#x2192; silla</a> <em>thallium</em>
+<a href="kaca.html">&#x2191; kaca</a> <em>cadmium</em>
+<a href="hatanu.html">&#x2193; hatanu</a> <em>copernicium</em>
 
 [1]&#x2019;ussa
 [2]High Lulani
@@ -962,9 +962,9 @@ to find
 [5]stem mathematics numeral
 6; six
 [6]See Also
-&#x2190; <a href="guhi.html">guhi</a> <em>five</em>
-&#x2192; <a href="salumi.html">salumi</a> <em>seven</em>
-&#x2014; <a href="jusiti.html">jusiti</a> <em>rix</em>
+<a href="guhi.html">&#x2190; guhi</a> <em>five</em>
+<a href="salumi.html">&#x2192; salumi</a> <em>seven</em>
+<a href="jusiti.html">&#x2014; jusiti</a> <em>rix</em>
 
 [1]&#x2019;ussi
 [2]High Lulani
@@ -1118,10 +1118,10 @@ to notice
 [5]inanimate stem noun element
 iodine
 [6]See Also
-&#x2190; <a href="lasu.html">lasu</a> <em>tellurium</em>
-&#x2192; <a href="sahha.html">sahha</a> <em>xenon</em>
-&#x2191; <a href="bi.html">bi</a> <em>bromine</em>
-&#x2193; <a href="sicu.html">sicu</a> <em>astatine</em>
+<a href="lasu.html">&#x2190; lasu</a> <em>tellurium</em>
+<a href="sahha.html">&#x2192; sahha</a> <em>xenon</em>
+<a href="bi.html">&#x2191; bi</a> <em>bromine</em>
+<a href="sicu.html">&#x2193; sicu</a> <em>astatine</em>
 
 [1]pada
 [2]High Lulani
@@ -1305,9 +1305,9 @@ mess
 [5]inanimate stem noun element
 thorium
 [6]See Also
-&#x2190; <a href="na'a.html">na&#x2019;a</a> <em>actinium</em>
-&#x2192; <a href="lakatti.html">lakatti</a> <em>protactinium</em>
-&#x2191; <a href="'a'ami.html">&#x2019;a&#x2019;ami</a> <em>cerium</em>
+<a href="na'a.html">&#x2190; na&#x2019;a</a> <em>actinium</em>
+<a href="lakatti.html">&#x2192; lakatti</a> <em>protactinium</em>
+<a href="'a'ami.html">&#x2191; &#x2019;a&#x2019;ami</a> <em>cerium</em>
 
 [1]pi
 [2]High Lulani
@@ -1363,10 +1363,10 @@ superlative; maximum; most; deep in colour
 [5]inanimate stem noun element
 phosphorus
 [6]See Also
-&#x2190; <a href="'ama.html">&#x2019;ama</a> <em>silicon</em>
-&#x2192; <a href="ta.html">ta</a> <em>sulphur</em>
-&#x2191; <a href="sutta.html">sutta</a> <em>nitrogen</em>
-&#x2193; <a href="da'u.html">da&#x2019;u</a> <em>arsenic</em>
+<a href="'ama.html">&#x2190; &#x2019;ama</a> <em>silicon</em>
+<a href="ta.html">&#x2192; ta</a> <em>sulphur</em>
+<a href="sutta.html">&#x2191; sutta</a> <em>nitrogen</em>
+<a href="da'u.html">&#x2193; da&#x2019;u</a> <em>arsenic</em>
 
 [1]pini
 [2]High Lulani
@@ -1375,9 +1375,9 @@ phosphorus
 [5]inanimate stem noun element
 lithium
 [6]See Also
-&#x2191; <a href="li'a.html">li&#x2019;a</a> <em>helium</em>
-&#x2192; <a href="fiqqala.html">fiqqala</a> <em>beryllium</em>
-&#x2193; <a href="lisu.html">lisu</a> <em>sodium</em>
+<a href="li'a.html">&#x2190; li&#x2019;a</a> <em>helium</em>
+<a href="fiqqala.html">&#x2192; fiqqala</a> <em>beryllium</em>
+<a href="lisu.html">&#x2193; lisu</a> <em>sodium</em>
 
 [1]pifa
 [2]High Lulani
@@ -1553,10 +1553,10 @@ circle
 [5]inanimate stem noun element
 zirconium
 [6]See Also
-&#x2190; <a href="'aqqixi.html">&#x2019;aqqixi</a> <em>yttrium</em>
-&#x2192; <a href="lakka.html">lakka</a> <em>niobium</em>
-&#x2191; <a href="ka'i.html">ka&#x2019;i</a> <em>titanium</em>
-&#x2193; <a href="tacuca.html">tacuca</a> <em>hafnium</em>
+<a href="'aqqixi.html">&#x2190; &#x2019;aqqixi</a> <em>yttrium</em>
+<a href="lakka.html">&#x2192; lakka</a> <em>niobium</em>
+<a href="ka'i.html">&#x2191; ka&#x2019;i</a> <em>titanium</em>
+<a href="tacuca.html">&#x2193; tacuca</a> <em>hafnium</em>
 
 [1]puxila
 [2]High Lulani
@@ -1741,10 +1741,10 @@ mammalian non-Guozu young offspring, baby
 [5]inanimate stem noun element
 barium
 [6]See Also
-&#x2190; <a href="nudda.html">nudda</a> <em>caesium</em>
-&#x2192; <a href="xanaki.html">xanaki</a> <em>lanthanum</em>
-&#x2191; <a href="'aru'u.html">&#x2019;aru&#x2019;u</a> <em>strontium</em>
-&#x2193; <a href="'ilasa.html">&#x2019;ilasa</a> <em>radium</em>
+<a href="nudda.html">&#x2190; nudda</a> <em>caesium</em>
+<a href="xanaki.html">&#x2192; xanaki</a> <em>lanthanum</em>
+<a href="'aru'u.html">&#x2191; &#x2019;aru&#x2019;u</a> <em>strontium</em>
+<a href="'ilasa.html">&#x2193; &#x2019;ilasa</a> <em>radium</em>
 
 [1]baju
 [2]High Lulani
@@ -1773,9 +1773,9 @@ to be sky-blue
 [5]inanimate stem noun element
 einsteinium
 [6]See Also
-&#x2190; <a href="'ikka.html">&#x2019;ikka</a> <em>californium</em>
-&#x2192; <a href="tika.html">tika</a> <em>fermium</em>
-&#x2191; <a href="katiru.html">katiru</a> <em>holmium</em>
+<a href="'ikka.html">&#x2190; &#x2019;ikka</a> <em>californium</em>
+<a href="tika.html">&#x2192; tika</a> <em>fermium</em>
+<a href="katiru.html">&#x2191; katiru</a> <em>holmium</em>
 
 [1]basa
 [2]High Lulani
@@ -1809,10 +1809,10 @@ out, out of, from
 [5]inanimate stem noun element
 bromine
 [6]See Also
-&#x2190; <a href="matirra.html">matirra</a> <em>selenium</em>
-&#x2192; <a href="quffi.html">quffi</a> <em>krypton</em>
-&#x2191; <a href="limma.html">limma</a> <em>chlorine</em>
-&#x2193; <a href="papa.html">papa</a> <em>iodine</em>
+<a href="matirra.html">&#x2190; matirra</a> <em>selenium</em>
+<a href="quffi.html">&#x2192; quffi</a> <em>krypton</em>
+<a href="limma.html">&#x2191; limma</a> <em>chlorine</em>
+<a href="papa.html">&#x2193; papa</a> <em>iodine</em>
 
 [1]bi&#x2019;u
 [2]High Lulani
@@ -1865,11 +1865,11 @@ first; 1st
 [3]&#x202e;Bl
 [4]/&#x2c8;bil.&#x259;/
 [5]stem mathematics numeral
--3; 3; ree; negative three
+-3; <overline>3</overline>; ree; negative three
 [6]See Also
-&#x2190; <a href="missu.html">missu</a> <em>rour</em>
-&#x2192; <a href="kirallu.html">kirallu</a> <em>ru</em>
-&#x2014; <a href="kifi.html">kifi</a> <em>three</em>
+<a href="missu.html">&#x2190; missu</a> <em>rour</em>
+<a href="kirallu.html">&#x2192; kirallu</a> <em>ru</em>
+<a href="kifi.html">&#x2014; kifi</a> <em>three</em>
 <a href="sabilla.html">sabilla</a> <em>rirteen</em>
 
 [1]buccata
@@ -1879,9 +1879,9 @@ first; 1st
 [5]inanimate stem noun element
 tennessine
 [6]See Also
-&#x2190; <a href="suda.html">suda</a> <em>livermorium</em>
-&#x2192; <a href="'ittika.html">&#x2019;ittika</a> <em>oganesson</em>
-&#x2191; <a href="sicu.html">sicu</a> <em>astatine</em>
+<a href="suda.html">&#x2190; suda</a> <em>livermorium</em>
+<a href="'ittika.html">&#x2192; &#x2019;ittika</a> <em>oganesson</em>
+<a href="sicu.html">&#x2191; sicu</a> <em>astatine</em>
 
 [1]buma
 [2]High Lulani
@@ -1915,9 +1915,9 @@ screen
 [5]inanimate stem noun element
 dysprosium
 [6]See Also
-&#x2190; <a href="rila.html">rila</a> <em>terbium</em>
-&#x2192; <a href="katiru.html">katiru</a> <em>holmium</em>
-&#x2193; <a href="'ikka.html">&#x2019;ikka</a> <em>californium</em>
+<a href="rila.html">&#x2190; rila</a> <em>terbium</em>
+<a href="katiru.html">&#x2192; katiru</a> <em>holmium</em>
+<a href="'ikka.html">&#x2193; &#x2019;ikka</a> <em>californium</em>
 
 [1]bunali
 [2]High Lulani
@@ -1992,10 +1992,10 @@ and
 [5]inanimate stem noun element
 sulphur
 [6]See Also
-&#x2190; <a href="pibi.html">pibi</a> <em>phosphorus</em>
-&#x2192; <a href="limma.html">limma</a> <em>chlorine</em>
-&#x2191; <a href="sa.html">sa</a> <em>oxygen</em>
-&#x2193; <a href="matirra.html">matirra</a> <em>selenium</em>
+<a href="pibi.html">&#x2190; pibi</a> <em>phosphorus</em>
+<a href="limma.html">&#x2192; limma</a> <em>chlorine</em>
+<a href="sa.html">&#x2191; sa</a> <em>oxygen</em>
+<a href="matirra.html">&#x2193; matirra</a> <em>selenium</em>
 
 [1]ta&#x2019;i
 [2]High Lulani
@@ -2014,9 +2014,9 @@ scent; smell; aroma
 [5]inanimate stem noun element
 gadolinium
 [6]See Also
-&#x2190; <a href="siqi.html">siqi</a> <em>europium</em>
-&#x2192; <a href="rila.html">rila</a> <em>terbium</em>
-&#x2193; <a href="farra.html">farra</a> <em>curium</em>
+<a href="siqi.html">&#x2190; siqi</a> <em>europium</em>
+<a href="rila.html">&#x2192; rila</a> <em>terbium</em>
+<a href="farra.html">&#x2193; farra</a> <em>curium</em>
 
 [1]tacuca
 [2]High Lulani
@@ -2025,10 +2025,10 @@ gadolinium
 [5]inanimate stem noun element
 hafnium
 [6]See Also
-&#x2190; <a href="kixa.html">kixa</a> <em>lutetium</em>
-&#x2192; <a href="hila.html">hila</a> <em>tantalum</em>
-&#x2191; <a href="pusu.html">pusu</a> <em>zirconium</em>
-&#x2193; <a href="famati.html">famati</a> <em>rutherfordium</em>
+<a href="kixa.html">&#x2190; kixa</a> <em>lutetium</em>
+<a href="hila.html">&#x2192; hila</a> <em>tantalum</em>
+<a href="pusu.html">&#x2191; pusu</a> <em>zirconium</em>
+<a href="famati.html">&#x2193; famati</a> <em>rutherfordium</em>
 
 [1]taka
 [2]High Lulani
@@ -2170,9 +2170,9 @@ to begin
 [5]inanimate stem noun element
 nickel
 [6]See Also
-&#x2190; <a href="gaxiki.html">gaxiki</a> <em>cobalt</em>
-&#x2192; <a href="suki.html">suki</a> <em>copper</em>
-&#x2193; <a href="qala.html">qala</a> <em>palladium</em>
+<a href="gaxiki.html">&#x2190; gaxiki</a> <em>cobalt</em>
+<a href="suki.html">&#x2192; suki</a> <em>copper</em>
+<a href="qala.html">&#x2193; qala</a> <em>palladium</em>
 
 [1]tasi
 [2]High Lulani
@@ -2201,9 +2201,9 @@ refers to each of the legs of a pair.
 [5]inanimate stem noun element
 fermium
 [6]See Also
-&#x2190; <a href="banara.html">banara</a> <em>einsteinium</em>
-&#x2192; <a href="laqura.html">laqura</a> <em>mendelevium</em>
-&#x2191; <a href="calluna.html">calluna</a> <em>erbium</em>
+<a href="banara.html">&#x2190; banara</a> <em>einsteinium</em>
+<a href="laqura.html">&#x2192; laqura</a> <em>mendelevium</em>
+<a href="calluna.html">&#x2191; calluna</a> <em>erbium</em>
 
 [1]tiku
 [2]High Lulani
@@ -2393,9 +2393,9 @@ home
 [5]inanimate stem noun element
 ytterbium
 [6]See Also
-&#x2190; <a href="raddilla.html">raddilla</a> <em>thulium</em>
-&#x2192; <a href="kixa.html">kixa</a> <em>lutetium</em>
-&#x2193; <a href="qa''iku.html">qa&#x294;iku</a> <em>nobelium</em>
+<a href="raddilla.html">&#x2190; raddilla</a> <em>thulium</em>
+<a href="kixa.html">&#x2192; kixa</a> <em>lutetium</em>
+<a href="qa''iku.html">&#x2193; qa&#x294;iku</a> <em>nobelium</em>
 
 [1]tukkuni
 [2]High Lulani
@@ -2521,10 +2521,10 @@ it exists; it happened; experience; it could happen
 [5]inanimate stem noun element
 arsenic
 [6]See Also
-&#x2190; <a href="xuhhi.html">xuhhi</a> <em>germanium</em>
-&#x2192; <a href="matirra.html">matirra</a> <em>selenium</em>
-&#x2191; <a href="pibi.html">pibi</a> <em>phosphorus</em>
-&#x2193; <a href="salari.html">salari</a> <em>antimony</em>
+<a href="xuhhi.html">&#x2190; xuhhi</a> <em>germanium</em>
+<a href="matirra.html">&#x2192; matirra</a> <em>selenium</em>
+<a href="pibi.html">&#x2191; pibi</a> <em>phosphorus</em>
+<a href="salari.html">&#x2193; salari</a> <em>antimony</em>
 
 [1]dapi
 [2]High Lulani
@@ -2661,10 +2661,10 @@ up; above; atop; before
 [5]inanimate stem noun element
 potassium
 [6]See Also
-&#x2190; <a href="laqa.html">laqa</a> <em>argon</em>
-&#x2192; <a href="qaxa.html">qaxa</a> <em>calcium</em>
-&#x2191; <a href="lisu.html">lisu</a> <em>sodium</em>
-&#x2193; <a href="sadadu.html">sadadu</a> <em>rubidium</em>
+<a href="laqa.html">&#x2190; laqa</a> <em>argon</em>
+<a href="qaxa.html">&#x2192; qaxa</a> <em>calcium</em>
+<a href="lisu.html">&#x2191; lisu</a> <em>sodium</em>
+<a href="sadadu.html">&#x2193; sadadu</a> <em>rubidium</em>
 
 [1]diru
 [2]High Lulani
@@ -2685,10 +2685,10 @@ money; dollar
 [5]inanimate stem noun element
 aluminium
 [6]See Also
-&#x2190; <a href="xaki.html">xaki</a> <em>magnesium</em>
-&#x2192; <a href="'ama.html">&#x2019;ama</a> <em>silicon</em>
-&#x2191; <a href="kuxxu.html">kuxxu</a> <em>boron</em>
-&#x2193; <a href="'ali.html">&#x2019;ali</a> <em>gallium</em>
+<a href="xaki.html">&#x2190; xaki</a> <em>magnesium</em>
+<a href="'ama.html">&#x2192; &#x2019;ama</a> <em>silicon</em>
+<a href="kuxxu.html">&#x2191; kuxxu</a> <em>boron</em>
+<a href="'ali.html">&#x2193; &#x2019;ali</a> <em>gallium</em>
 
 [1]disi
 [2]High Lulani
@@ -2782,9 +2782,9 @@ drink
 [5]inanimate stem noun element
 americium
 [6]See Also
-&#x2190; <a href="sussi.html">sussi</a> <em>plutonium</em>
-&#x2192; <a href="farra.html">farra</a> <em>curium</em>
-&#x2191; <a href="siqi.html">siqi</a> <em>europium</em>
+<a href="sussi.html">&#x2190; sussi</a> <em>plutonium</em>
+<a href="farra.html">&#x2192; farra</a> <em>curium</em>
+<a href="siqi.html">&#x2191; siqi</a> <em>europium</em>
 
 [1]du&#x2019;i
 [2]High Lulani
@@ -2911,9 +2911,9 @@ to help
 [5]inanimate stem noun element
 fluorine
 [6]See Also
-&#x2190; <a href="sa.html">sa</a> <em>oxygen</em>
-&#x2192; <a href="kuxalu.html">kuxalu</a> <em>neon</em>
-&#x2193; <a href="limma.html">limma</a> <em>chlorine</em>
+<a href="sa.html">&#x2190; sa</a> <em>oxygen</em>
+<a href="kuxalu.html">&#x2192; kuxalu</a> <em>neon</em>
+<a href="limma.html">&#x2193; limma</a> <em>chlorine</em>
 
 
 [1]ca&#x2019;alla
@@ -2940,9 +2940,9 @@ romance
 [5]inanimate stem noun element
 bohrium
 [6]See Also
-&#x2190; <a href="saniki.html">saniki</a> <em>seaborgium</em>
-&#x2192; <a href="'i'ami.html">&#x2019;i&#x2019;ami</a> <em>hassium</em>
-&#x2191; <a href="hasuki.html">hasuki</a> <em>rhenium</em>
+<a href="saniki.html">&#x2190; saniki</a> <em>seaborgium</em>
+<a href="'i'ami.html">&#x2192; &#x2019;i&#x2019;ami</a> <em>hassium</em>
+<a href="hasuki.html">&#x2191; hasuki</a> <em>rhenium</em>
 
 [1]cakassu
 [2]High Lulani
@@ -2951,10 +2951,10 @@ bohrium
 [5]inanimate stem noun element
 polonium
 [6]See Also
-&#x2190; <a href="'aggini.html">&#x2019;aggini</a> <em>bismuth</em>
-&#x2192; <a href="sicu.html">sicu</a> <em>astatine</em>
-&#x2191; <a href="lasu.html">lasu</a> <em>tellurium</em>
-&#x2193; <a href="suda.html">suda</a> <em>livermorium</em>
+<a href="'aggini.html">&#x2190; &#x2019;aggini</a> <em>bismuth</em>
+<a href="sicu.html">&#x2192; sicu</a> <em>astatine</em>
+<a href="lasu.html">&#x2191; lasu</a> <em>tellurium</em>
+<a href="suda.html">&#x2193; suda</a> <em>livermorium</em>
 
 [1]cakina
 [2]High Lulani
@@ -2963,9 +2963,9 @@ polonium
 [5]inanimate stem noun element
 scandium
 [6]See Also
-&#x2190; <a href="qaxa.html">qaxa</a> <em>calcium</em>
-&#x2192; <a href="ka'i.html">ka&#x2019;i</a> <em>titanium</em>
-&#x2193; <a href="'aqqixi.html">&#x2019;aqqixi</a> <em>yttrium</em>
+<a href="qaxa.html">&#x2190; qaxa</a> <em>calcium</em>
+<a href="ka'i.html">&#x2192; ka&#x2019;i</a> <em>titanium</em>
+<a href="'aqqixi.html">&#x2193; &#x2019;aqqixi</a> <em>yttrium</em>
 
 [1]caga
 [2]High Lulani
@@ -3038,9 +3038,9 @@ exponential; power
 [5]inanimate stem noun element
 erbium
 [6]See Also
-&#x2190; <a href="katiru.html">katiru</a> <em>holmium</em>
-&#x2192; <a href="raddilla.html">raddilla</a> <em>thulium</em>
-&#x2193; <a href="tika.html">tika</a> <em>fermium</em>
+<a href="katiru.html">&#x2190; katiru</a> <em>holmium</em>
+<a href="raddilla.html">&#x2192; raddilla</a> <em>thulium</em>
+<a href="tika.html">&#x2193; tika</a> <em>fermium</em>
 
 [1]ci&#x294;a
 [2]High Lulani
@@ -3307,10 +3307,10 @@ move around; vibrate
 [5]inanimate stem noun element
 platinum
 [6]See Also
-&#x2190; <a href="natu.html">natu</a> <em>iridium</em>
-&#x2192; <a href="fi.html">fi</a> <em>gold</em>
-&#x2191; <a href="qala.html">qala</a> <em>palladium</em>
-&#x2193; <a href="na'ipa.html">na&#x2019;ipa</a> <em>darmstadtium</em>
+<a href="natu.html">&#x2190; natu</a> <em>iridium</em>
+<a href="fi.html">&#x2192; fi</a> <em>gold</em>
+<a href="qala.html">&#x2191; qala</a> <em>palladium</em>
+<a href="na'ipa.html">&#x2193; na&#x2019;ipa</a> <em>darmstadtium</em>
 
 [1]jalla
 [2]High Lulani
@@ -3525,11 +3525,11 @@ third person animate dative; <small-caps>3ani;dat;</small-caps> to her; to him
 [3]&#x202e;YST
 [4]/&#x25f;&#x289;.&#x2c8;sit.&#x268;/
 [5]stem mathematics numeral
--6; 6; rix; minus six; negative six
+-6; <overline>6</overline>; rix; minus six; negative six
 [6]See Also
-&#x2190; <a href="haki.html">haki</a> <em>reven</em>
-&#x2192; <a href="laffi.html">laffi</a> <em>rive</em>
-&#x2014; <a href="'usi.html">&#x2019;usi</a> <em>six</em>
+<a href="haki.html">&#x2190; haki</a> <em>reven</em>
+<a href="laffi.html">&#x2192; laffi</a> <em>rive</em>
+<a href="'usi.html">&#x2014; &#x2019;usi</a> <em>six</em>
 
 [1]ka
 [2]High Lulani
@@ -3567,9 +3567,9 @@ being lost; being unable to find one&#x2019;s way
 [5]inanimate stem noun element
 titanium
 [6]See Also
-&#x2190; <a href="cakina.html">cakina</a> <em>scandium</em>
-&#x2192; <a href="nussa.html">nussa</a> <em>vanadium</em>
-&#x2193; <a href="pusu.html">pusu</a> <em>zirconium</em>
+<a href="cakina.html">&#x2190; cakina</a> <em>scandium</em>
+<a href="nussa.html">&#x2192; nussa</a> <em>vanadium</em>
+<a href="pusu.html">&#x2193; pusu</a> <em>zirconium</em>
 
 [1]ka&#x2019;u
 [2]High Lulani
@@ -3608,9 +3608,9 @@ denotes a male animate
 [5]inanimate stem noun element
 holmium
 [6]See Also
-&#x2190; <a href="bumissi.html">bumissi</a> <em>dysprosium</em>
-&#x2192; <a href="calluna.html">calluna</a> <em>erbium</em>
-&#x2193; <a href="banara.html">banara</a> <em>einsteinium</em>
+<a href="bumissi.html">&#x2190; bumissi</a> <em>dysprosium</em>
+<a href="calluna.html">&#x2192; calluna</a> <em>erbium</em>
+<a href="banara.html">&#x2193; banara</a> <em>einsteinium</em>
 
 [1]kadu
 [2]High Lulani
@@ -3672,10 +3672,10 @@ state
 [5]inanimate stem noun element
 cadmium
 [6]See Also
-&#x2190; <a href="ni.html">ni</a> <em>silver</em>
-&#x2192; <a href="luka.html">luka</a> <em>indium</em>
-&#x2191; <a href="hika.html">hika</a> <em>zinc</em>
-&#x2193; <a href="'usa.html">&#x2019;usa</a> <em>mercury</em>
+<a href="ni.html">&#x2190; ni</a> <em>silver</em>
+<a href="luka.html">&#x2192; luka</a> <em>indium</em>
+<a href="hika.html">&#x2191; hika</a> <em>zinc</em>
+<a href="'usa.html">&#x2193; &#x2019;usa</a> <em>mercury</em>
 
 [1]kamiri
 [2]High Lulani
@@ -3787,9 +3787,9 @@ sacredness; enlightenment
 [5]inanimate stem noun element
 uranium
 [6]See Also
-&#x2190; <a href="lakatti.html">lakatti</a> <em>protactinium</em>
-&#x2192; <a href="xasagi.html">xasagi</a> <em>neptunium</em>
-&#x2191; <a href="fibaku.html">fibaku</a> <em>neodymium</em>
+<a href="lakatti.html">&#x2190; lakatti</a> <em>protactinium</em>
+<a href="xasagi.html">&#x2192; xasagi</a> <em>neptunium</em>
+<a href="fibaku.html">&#x2191; fibaku</a> <em>neodymium</em>
 
 [1]karu
 [2]High Lulani
@@ -4133,11 +4133,11 @@ walk
 [3]&#x202e;Kr;W
 [4]/k&#x2b0;&#x268;.&#x2c8;&#x279;a&#x28e;.&#x28e;&#x289;/
 [5]stem mathematics numeral
--2; 2, ru, minus two
+-2; <overline>2</overline>, ru, minus two
 [6]See Also
-&#x2190; <a href="bila.html">bila</a> <em>ree</em>
-&#x2192; <a href="mullu.html">mullu</a> <em>ron</em>
-&#x2014; <a href="ra.html">ra</a> <em>two</em>
+<a href="bila.html">&#x2190; bila</a> <em>ree</em>
+<a href="mullu.html">&#x2192; mullu</a> <em>ron</em>
+<a href="ra.html">&#x2014; ra</a> <em>two</em>
 
 [1]kiffaculi
 [2]High Lulani
@@ -4153,9 +4153,9 @@ little person
 [5]stem mathematics numeral
 3; three
 [6]See Also
-&#x2190; <a href="ra.html">ra</a> <em>two</em>
-&#x2192; <a href="nuru.html">nuru</a> <em>four</em>
-&#x2014; <a href="bila.html">bila</a> <em>ree</em>
+<a href="ra.html">&#x2190; ra</a> <em>two</em>
+<a href="nuru.html">&#x2192; nuru</a> <em>four</em>
+<a href="bila.html">&#x2014; bila</a> <em>ree</em>
 
 [1]kissa
 [2]High Lulani
@@ -4179,10 +4179,10 @@ to fight
 [5]inanimate stem noun element
 lutetium
 [6]See Also
-&#x2190; <a href="tukaga.html">tukaga</a> <em>ytterbium</em>
-&#x2192; <a href="tacuca.html">tacuca</a> <em>hafnium</em>
-&#x2191; <a href="'aqqixi.html">&#x2019;aqqixi</a> <em>yttrium</em>
-&#x2193; <a href="nulina.html">nulina</a> <em>lawrencium</em>
+<a href="tukaga.html">&#x2190; tukaga</a> <em>ytterbium</em>
+<a href="tacuca.html">&#x2192; tacuca</a> <em>hafnium</em>
+<a href="'aqqixi.html">&#x2191; &#x2019;aqqixi</a> <em>yttrium</em>
+<a href="nulina.html">&#x2193; nulina</a> <em>lawrencium</em>
 
 [1]kixxita
 [2]High Lulani
@@ -4365,10 +4365,10 @@ to give
 [5]inanimate stem noun element
 neon
 [6]See Also
-&#x2190; <a href="ca'a.html">ca&#x2019;a</a> <em>fluorine</em>
-&#x2192; <a href="lisu.html">lisu</a> <em>sodium</em>
-&#x2191; <a href="li'a.html">li&#x2019;a</a> <em>helium</em>
-&#x2193; <a href="laqa.html">laqa</a> <em>argon</em>
+<a href="ca'a.html">&#x2190; ca&#x2019;a</a> <em>fluorine</em>
+<a href="lisu.html">&#x2192; lisu</a> <em>sodium</em>
+<a href="li'a.html">&#x2191; li&#x2019;a</a> <em>helium</em>
+<a href="laqa.html">&#x2193; laqa</a> <em>argon</em>
 
 [1]kuxxu
 [2]High Lulani
@@ -4377,9 +4377,9 @@ neon
 [5]inanimate stem noun element
 boron
 [6]See Also
-&#x2190; <a href="fiqqala.html">fiqqala</a> <em>beryllium</em>
-&#x2192; <a href="xu.html">xu</a> <em>carbon</em>
-&#x2193; <a href="disa.html">disa</a> <em>aluminium</em>
+<a href="fiqqala.html">&#x2190; fiqqala</a> <em>beryllium</em>
+<a href="xu.html">&#x2192; xu</a> <em>carbon</em>
+<a href="disa.html">&#x2193; disa</a> <em>aluminium</em>
 
 [1]ga
 [2]High Lulani
@@ -4449,9 +4449,9 @@ throne
 [5]inanimate stem noun element
 cobalt
 [6]See Also
-&#x2190; <a href="'a.html">&#x2019;a</a> <em>iron</em>
-&#x2192; <a href="tasa.html">tasa</a> <em>nickel</em>
-&#x2193; <a href="fula.html">fula</a> <em>rhodium</em>
+<a href="'a.html">&#x2190; &#x2019;a</a> <em>iron</em>
+<a href="tasa.html">&#x2192; tasa</a> <em>nickel</em>
+<a href="fula.html">&#x2193; fula</a> <em>rhodium</em>
 
 [1]gi
 [2]High Lulani
@@ -4531,9 +4531,9 @@ sit
 [5]inanimate stem noun element
 francium
 [6]See Also
-&#x2190; <a href="fasami.html">fasami</a> <em>radon</em>
-&#x2192; <a href="'ilasa.html">&#x2019;ilasa</a> <em>radium</em>
-&#x2191; <a href="nudda.html">nudda</a> <em>caesium</em>
+<a href="fasami.html">&#x2190; fasami</a> <em>radon</em>
+<a href="'ilasa.html">&#x2192; &#x2019;ilasa</a> <em>radium</em>
+<a href="nudda.html">&#x2191; nudda</a> <em>caesium</em>
 
 [1]gurrisu
 [2]High Lulani
@@ -4581,9 +4581,9 @@ person; non-Guozu
 [5]stem mathematics ordinal
 5; five
 [6]See Also
-&#x2190; <a href="nuru.html">nuru</a> <em>four</em>
-&#x2192; <a href="'usi.html">&#x2019;usi</a> <em>six</em>
-&#x2014; <a href="laffi.html">laffi</a> <em>rive</em>
+<a href="nuru.html">&#x2190; nuru</a> <em>four</em>
+<a href="'usi.html">&#x2192; &#x2019;usi</a> <em>six</em>
+<a href="laffi.html">&#x2014; laffi</a> <em>rive</em>
 
 [1]ma
 [2]High Lulani
@@ -4648,10 +4648,10 @@ second
 [5]inanimate stem noun element
 selenium
 [6]See Also
-&#x2190; <a href="da'u.html">da&#x2019;u</a> <em>arsenic</em>
-&#x2192; <a href="bi.html">bi</a> <em>bromine</em>
-&#x2191; <a href="ta.html">ta</a> <em>sulphur</em>
-&#x2193; <a href="lasu.html">lasu</a> <em>tellurium</em>
+<a href="da'u.html">&#x2190; da&#x2019;u</a> <em>arsenic</em>
+<a href="bi.html">&#x2192; bi</a> <em>bromine</em>
+<a href="ta.html">&#x2191; ta</a> <em>sulphur</em>
+<a href="lasu.html">&#x2193; lasu</a> <em>tellurium</em>
 
 [1]madi
 [2]High Lulani
@@ -5095,10 +5095,10 @@ some; more than one
 [5]inanimate stem noun element
 tungsten
 [6]See Also
-&#x2190; <a href="hila.html">hila</a> <em>tantalum</em>
-&#x2192; <a href="hasuki.html">hasuki</a> <em>rhenium</em>
-&#x2191; <a href="sula.html">sula</a> <em>molybdenum</em>
-&#x2193; <a href="saniki.html">saniki</a> <em>seaborgium</em> 
+<a href="hila.html">&#x2190; hila</a> <em>tantalum</em>
+<a href="hasuki.html">&#x2192; hasuki</a> <em>rhenium</em>
+<a href="sula.html">&#x2191; sula</a> <em>molybdenum</em>
+<a href="saniki.html">&#x2193; saniki</a> <em>seaborgium</em> 
 
 [1]milami
 [2]High Lulani
@@ -5149,11 +5149,11 @@ subject; subordinate; vassal
 [3]&#x202e;M;z
 [4]/&#x2c8;mis.s&#x289;/
 [5]stem mathematics ordinal
--4; 4;rour; minus four
+-4; <overline>4</overline>;rour; minus four
 [6]See Also
-&#x2191; <a href="laffi.html">laffi</a> <em>rive</em><weak>
-&#x2192; <a href="bila.html">bila</a> <em>ree</em>
-&#x2014; <a href="nuru.html">nuru</a> <em>four</em>
+<a href="laffi.html">&#x2190; laffi</a> <em>rive</em><weak>
+<a href="bila.html">&#x2192; bila</a> <em>ree</em>
+<a href="nuru.html">&#x2014; nuru</a> <em>four</em>
 
 [1]mihu
 [2]High Lulani
@@ -5250,11 +5250,11 @@ blood
 [3]&#x202e;M;W
 [4]/&#x2c8;mu&#x28e;.&#x28e;&#x289;/
 [5]stem mathematics cardinal
--1; 1; ron, minus one
+-1; <overline>1</overline>; ron, minus one
 [6]See Also
-&#x2190; <a href="kirallu.html">kirallu</a> <em>ru</em>
-&#x2192; <a href="qikka.html">qikka</a> <em>zero</em>
-&#x2014; <a href="xita.html">xita</a> <em>one</em>
+<a href="kirallu.html">&#x2190; kirallu</a> <em>ru</em>
+<a href="qikka.html">&#x2192; qikka</a> <em>zero</em>
+<a href="xita.html">&#x2014; xita</a> <em>one</em>
 
 [1]mulukku
 [2]High Lulani
@@ -5302,10 +5302,10 @@ lead
 [6]Definition
 a dense, heavy metal. Element 82
 [6]See Also
-&#x2190; <a href="silla.html">silla</a> <em>thallium</em>
-&#x2192; <a href="'aggini.html">&#x2019;aggini</a> <em>bismuth</em>
-&#x2191; <a href="laji.html">laji</a> <em>tin</em>
-&#x2193; <a href="xa'a.html">xa&#x2019;a</a> <em>flerovium</em>
+<a href="silla.html">&#x2190; silla</a> <em>thallium</em>
+<a href="'aggini.html">&#x2192; &#x2019;aggini</a> <em>bismuth</em>
+<a href="laji.html">&#x2191; laji</a> <em>tin</em>
+<a href="xa'a.html">&#x2193; xa&#x2019;a</a> <em>flerovium</em>
 
 [1]na
 [2]High Lulani
@@ -5363,9 +5363,9 @@ most usually used as a verbal prefix
 [5]inanimate stem noun element<em></em>
 actinium
 [6]See Also
-&#x2190; <a href="'ilasa.html">&#x2019;ilasa</a> <em>radium</em>
-&#x2192; <a href="paraba.html">paraba</a> <em>thorium</em>
-&#x2191; <a href="xanaki.html">xanaki</a> <em>lanthanum</em>
+<a href="'ilasa.html">&#x2190; &#x2019;ilasa</a> <em>radium</em>
+<a href="paraba.html">&#x2192; paraba</a> <em>thorium</em>
+<a href="xanaki.html">&#x2191; xanaki</a> <em>lanthanum</em>
 
 [1]na&#x2019;ipa
 [2]High Lulani
@@ -5374,9 +5374,9 @@ actinium
 [5]inanimate stem noun element
 darmstadtium
 [6]See Also
-&#x2190; <a href="nakaku.html">nakaku</a> <em>meitnerium</em>
-&#x2192; <a href="su'usi.html">su&#x2019;usi</a> <em>roentgenium</em>
-&#x2191; <a href="jala.html">jala</a> <em>platinum</em>
+<a href="nakaku.html">&#x2190; nakaku</a> <em>meitnerium</em>
+<a href="su'usi.html">&#x2192; su&#x2019;usi</a> <em>roentgenium</em>
+<a href="jala.html">&#x2191; jala</a> <em>platinum</em>
 
 [1]napuxi
 [2]High Lulani
@@ -5399,10 +5399,10 @@ box
 [5]inanimate stem noun element
 iridium
 [6]See Also
-&#x2190; <a href="supu.html">supu</a> <em>osmium</em>
-&#x2192; <a href="jala.html">jala</a> <em>platinum</em>
-&#x2191; <a href="fula.html">fula</a> <em>rhodium</em>
-&#x2193; <a href="nakaku.html">nakaku</a> <em>meitnerium</em> 
+<a href="supu.html">&#x2190; supu</a> <em>osmium</em>
+<a href="jala.html">&#x2192; jala</a> <em>platinum</em>
+<a href="fula.html">&#x2191; fula</a> <em>rhodium</em>
+<a href="nakaku.html">&#x2193; nakaku</a> <em>meitnerium</em> 
 
 [1]nada
 [2]High Lulani
@@ -5445,9 +5445,9 @@ somewhat
 [5]inanimate stem noun element
 meitnerium
 [6]See Also
-&#x2190; <a href="'i'ami.html">&#x2019;i&#x2019;ami</a> <em>hassium</em>
-&#x2192; <a href="na'ipa.html">na&#x2019;ipa</a> <em>darmstadtium</em>
-&#x2191; <a href="natu.html">natu</a> <em>iridium</em>
+<a href="'i'ami.html">&#x2190; &#x2019;i&#x2019;ami</a> <em>hassium</em>
+<a href="na'ipa.html">&#x2192; na&#x2019;ipa</a> <em>darmstadtium</em>
+<a href="natu.html">&#x2191; natu</a> <em>iridium</em>
 
 [1]naku
 [2]High Lulani
@@ -5634,10 +5634,10 @@ sheep
 [5]inanimate stem noun element
 ruthenium
 [6]See Also
-&#x2190; <a href="nikili.html">nikili</a> <em>technetium</em>
-&#x2192; <a href="fula.html">fula</a> <em>rhodium</em>
-&#x2191; <a href="'a.html">&#x2019;a</a> <em>iron</em>
-&#x2193; <a href="supu.html">supu</a> <em>osmium</em>
+<a href="nikili.html">&#x2190; nikili</a> <em>technetium</em>
+<a href="fula.html">&#x2192; fula</a> <em>rhodium</em>
+<a href="'a.html">&#x2191; &#x2019;a</a> <em>iron</em>
+<a href="supu.html">&#x2193; supu</a> <em>osmium</em>
 
 [1]ni
 [2]High Lulani
@@ -5651,10 +5651,10 @@ at; in
 [5]inanimate stem noun element
 silver
 [6]See Also
-&#x2190; <a href="qala.html">qala</a> <em>palladium</em>
-&#x2192; <a href="kaca.html">kaca</a> <em>cadmium</em>
-&#x2191; <a href="suki.html">suki</a> <em>copper</em>
-&#x2193; <a href="fi.html">fi</a> <em>gold</em>
+<a href="qala.html">&#x2190; qala</a> <em>palladium</em>
+<a href="kaca.html">&#x2192; kaca</a> <em>cadmium</em>
+<a href="suki.html">&#x2191; suki</a> <em>copper</em>
+<a href="fi.html">&#x2193; fi</a> <em>gold</em>
 
 [1]nittu
 [2]High Lulani
@@ -5709,10 +5709,10 @@ journey; travel
 [5]inanimate stem noun element
 technetium
 [6]See Also
-&#x2190; <a href="sula.html">sula</a> <em>molybdenum</em>
-&#x2192; <a href="nasufi.html">nasufi</a> <em>ruthenium</em>
-&#x2191; <a href="qumalli.html">qumalli</a> <em>manganese</em>
-&#x2193; <a href="hasuki.html">hasuki</a> <em>rhenium</em>
+<a href="sula.html">&#x2190; sula</a> <em>molybdenum</em>
+<a href="nasufi.html">&#x2192; nasufi</a> <em>ruthenium</em>
+<a href="qumalli.html">&#x2191; qumalli</a> <em>manganese</em>
+<a href="hasuki.html">&#x2193; hasuki</a> <em>rhenium</em>
 
 [1]niga
 [2]High Lulani
@@ -5820,10 +5820,10 @@ Nuobi
 [5]inanimate stem noun element
 caesium
 [6]See Also
-&#x2190; <a href="sahha.html">sahha</a> <em>xenon</em>
-&#x2192; <a href="baca.html">baca</a> <em>barium</em>
-&#x2191; <a href="sadadu.html">sadadu</a> <em>rubidium</em>
-&#x2193; <a href="guqqa.html">guqqa</a> <em>francium</em>
+<a href="sahha.html">&#x2190; sahha</a> <em>xenon</em>
+<a href="baca.html">&#x2192; baca</a> <em>barium</em>
+<a href="sadadu.html">&#x2191; sadadu</a> <em>rubidium</em>
+<a href="guqqa.html">&#x2193; guqqa</a> <em>francium</em>
 
 [1]nuki
 [2]High Lulani
@@ -5856,9 +5856,9 @@ world; planet
 [5]inanimate stem noun element
 dubnium
 [6]See Also
-&#x2190; <a href="famati.html">famati</a> <em>rutherfordium</em>
-&#x2192; <a href="saniki.html">saniki</a> <em>seaborgium</em>
-&#x2191; <a href="hila.html">hila</a> <em>tantalum</em>
+<a href="famati.html">&#x2190; famati</a> <em>rutherfordium</em>
+<a href="saniki.html">&#x2192; saniki</a> <em>seaborgium</em>
+<a href="hila.html">&#x2191; hila</a> <em>tantalum</em>
 
 [1]nulli
 [2]High Lulani
@@ -5878,9 +5878,9 @@ a hill or mountain that does not have year-round snow upon it
 [5]inanimate stem noun element
 lawrencium
 [6]See Also
-&#x2190; <a href="qa''iku.html">qa&#x294;iku</a> <em>nobelium</em>
-&#x2192; <a href="famati.html">famati</a> <em>rutherfordium</em>
-&#x2191; <a href="kixa.html">kixa</a> <em>lutetium</em>
+<a href="qa''iku.html">&#x2190; qa&#x294;iku</a> <em>nobelium</em>
+<a href="famati.html">&#x2192; famati</a> <em>rutherfordium</em>
+<a href="kixa.html">&#x2191; kixa</a> <em>lutetium</em>
 
 [1]nura
 [2]High Lulani
@@ -5909,9 +5909,9 @@ This is a dative verb for volitional separation, ablative for non-volitional sep
 [5]stem mathematics cardinal
 4; four
 [6]See Also
-&#x2190; <a href="kifi.html">kifi</a> <em>three</em>
-&#x2192; <a href="guhi.html">guhi</a> <em>five</em>
-&#x2014; <a href="missu.html">missu</a> <em>rour</em>
+<a href="kifi.html">&#x2190; kifi</a> <em>three</em>
+<a href="guhi.html">&#x2192; guhi</a> <em>five</em>
+<a href="missu.html">&#x2014; missu</a> <em>rour</em>
 
 [1]nufira
 [2]High Lulani
@@ -5944,9 +5944,9 @@ refers to unreasonable expectations
 [5]inanimate stem noun element
 vanadium
 [6]See Also
-&#x2190; <a href="ka'i.html">ka&#x2019;i</a> <em>titanium</em>
-&#x2192; <a href="fada.html">fada</a> <em>chromium</em>
-&#x2193; <a href="lakka.html">lakka</a> <em>niobium</em>
+<a href="ka'i.html">&#x2190; ka&#x2019;i</a> <em>titanium</em>
+<a href="fada.html">&#x2192; fada</a> <em>chromium</em>
+<a href="lakka.html">&#x2193; lakka</a> <em>niobium</em>
 
 [1]nuhu
 [2]High Lulani
@@ -6063,9 +6063,9 @@ state
 [5]inanimate stem noun element
 nobelium
 [6]See Also
-&#x2190; <a href="laqura.html">laqura</a> <em>mendelevium</em>
-&#x2192; <a href="nulina.html">nulina</a> <em>lawrencium</em>
-&#x2191; <a href="tukaga.html">tukaga</a> <em>ytterbium</em>
+<a href="laqura.html">&#x2190; laqura</a> <em>mendelevium</em>
+<a href="nulina.html">&#x2192; nulina</a> <em>lawrencium</em>
+<a href="tukaga.html">&#x2191; tukaga</a> <em>ytterbium</em>
 
 [1]qapi
 [2]High Lulani
@@ -6116,10 +6116,10 @@ choice; decision
 [5]inanimate stem noun element
 palladium
 [6]See Also
-&#x2190; <a href="fula.html">fula</a> <em>rhodium</em>
-&#x2192; <a href="ni.html">ni</a> <em>silver</em>
-&#x2191; <a href="tasa.html">tasa</a> <em>nickel</em>
-&#x2193; <a href="jala.html">jala</a> <em>platinum</em>
+<a href="fula.html">&#x2190; fula</a> <em>rhodium</em>
+<a href="ni.html">&#x2192; ni</a> <em>silver</em>
+<a href="tasa.html">&#x2191; tasa</a> <em>nickel</em>
+<a href="jala.html">&#x2193; jala</a> <em>platinum</em>
 
 [1]qarri
 [2]High Lulani
@@ -6152,10 +6152,10 @@ fish
 [5]inanimate stem noun element
 calcium
 [6]See Also
-&#x2190; <a href="dina.html">dina</a> <em>potassium</em>
-&#x2192; <a href="cakina.html">cakina</a> <em>scandium</em>
-&#x2191; <a href="xaki.html">xaki</a> <em>magnesium</em>
-&#x2193; <a href="'aru'u.html">&#x2019;aru&#x2019;u</a> <em>strontium</em>
+<a href="dina.html">&#x2190; dina</a> <em>potassium</em>
+<a href="cakina.html">&#x2192; cakina</a> <em>scandium</em>
+<a href="xaki.html">&#x2191; xaki</a> <em>magnesium</em>
+<a href="'aru'u.html">&#x2193; &#x2019;aru&#x2019;u</a> <em>strontium</em>
 
 [1]qi
 [2]High Lulani
@@ -6185,8 +6185,8 @@ to experience
 [5]mathematics cardinal
 0; zero
 [6]See Also
-&#x2190; <a href="mullu.html">mullu</a> <em>ron</em>
-&#x2192; <a href="xita.html">xita</a> <em>one</em>
+<a href="mullu.html">&#x2190; mullu</a> <em>ron</em>
+<a href="xita.html">&#x2192; xita</a> <em>one</em>
 
 [1]qikanni
 [2]High Lulani
@@ -6308,9 +6308,9 @@ inside
 [5]inanimate stem noun element
 manganese
 [6]See Also
-&#x2190; <a href="fada.html">fada</a> <em>chromium</em>
-&#x2192; <a href="'a.html">&#x2019;a</a> <em>iron</em>
-&#x2193; <a href="nikili.html">nikili</a> <em>technetium</em>
+<a href="fada.html">&#x2190; fada</a> <em>chromium</em>
+<a href="'a.html">&#x2192; &#x2019;a</a> <em>iron</em>
+<a href="nikili.html">&#x2193; nikili</a> <em>technetium</em>
 
 [1]qumu
 [2]High Lulani
@@ -6336,10 +6336,10 @@ family
 [5]inanimate stem noun element
 krypton
 [6]See Also
-&#x2190; <a href="bi.html">bi</a> <em>bromine</em>
-&#x2192; <a href="sadadu.html">sadadu</a> <em>rubidium</em>
-&#x2191; <a href="laqa.html">laqa</a> <em>argon</em>
-&#x2193; <a href="sahha.html">sahha</a> <em>xenon</em>
+<a href="bi.html">&#x2190; bi</a> <em>bromine</em>
+<a href="sadadu.html">&#x2192; sadadu</a> <em>rubidium</em>
+<a href="laqa.html">&#x2191; laqa</a> <em>argon</em>
+<a href="sahha.html">&#x2193; sahha</a> <em>xenon</em>
 
 [1]quxi
 [2]High Lulani
@@ -6412,7 +6412,7 @@ do
 [5]inanimate stem noun element
 hydrogen
 [6]See Also
-&#x2192; <a href="li'a.html">li&#x2019;a</a> <em>helium</em>
+<a href="li'a.html">&#x2192; li&#x2019;a</a> <em>helium</em>
 
 [1]la&#x2019;a
 [2]High Lulani
@@ -6499,10 +6499,10 @@ all the rest; the others
 [5]inanimate stem noun element
 tin
 [6]See Also
-&#x2190; <a href="luka.html">luka</a> <em>indium</em>
-&#x2192; <a href="salari.html">salari</a> <em>antimony</em>
-&#x2191; <a href="xuhhi.html">xuhhi</a> <em>germanium</em>
-&#x2193; <a href="musaqu.html">musaqu</a> <em>lead</em>
+<a href="luka.html">&#x2190; luka</a> <em>indium</em>
+<a href="salari.html">&#x2192; salari</a> <em>antimony</em>
+<a href="xuhhi.html">&#x2191; xuhhi</a> <em>germanium</em>
+<a href="musaqu.html">&#x2193; musaqu</a> <em>lead</em>
 
 [1]lakka
 [2]High Lulani
@@ -6519,10 +6519,10 @@ to break
 [5]inanimate stem noun element
 niobium
 [6]See Also
-&#x2190; <a href="pusu.html">pusu</a> <em>zirconium</em>
-&#x2192; <a href="sula.html">sula</a> <em>molybdenum</em>
-&#x2191; <a href="nussa.html">nussa</a> <em>vanadium</em>
-&#x2193; <a href="hila.html">hila</a> <em>tantalum</em>
+<a href="pusu.html">&#x2190; pusu</a> <em>zirconium</em>
+<a href="sula.html">&#x2192; sula</a> <em>molybdenum</em>
+<a href="nussa.html">&#x2191; nussa</a> <em>vanadium</em>
+<a href="hila.html">&#x2193; hila</a> <em>tantalum</em>
 
 [1]lakatti
 [2]High Lulani
@@ -6531,9 +6531,9 @@ niobium
 [5]inanimate stem noun element
 protactinium
 [6]See Also
-&#x2190; <a href="paraba.html">paraba</a> <em>thorium</em>
-&#x2192; <a href="kari.html">kari</a> <em>uranium</em>
-&#x2191; <a href="ra''asa.html">ra&#x294;asa</a> <em>praseodymium</em>
+<a href="paraba.html">&#x2190; paraba</a> <em>thorium</em>
+<a href="kari.html">&#x2192; kari</a> <em>uranium</em>
+<a href="ra''asa.html">&#x2191; ra&#x294;asa</a> <em>praseodymium</em>
 
 [1]lagi
 [2]High Lulani
@@ -6571,10 +6571,10 @@ organ for digestion, located inside the body
 [5]inanimate stem noun element
 argon
 [6]See Also
-&#x2190; <a href="limma.html">limma</a> <em>chlorine</em>
-&#x2192; <a href="dina.html">dina</a> <em>potassium</em>
-&#x2191; <a href="kuxalu.html">kuxalu</a> <em>neon</em>
-&#x2193; <a href="quffi.html">quffi</a> <em>krypton</em>
+<a href="limma.html">&#x2190; limma</a> <em>chlorine</em>
+<a href="dina.html">&#x2192; dina</a> <em>potassium</em>
+<a href="kuxalu.html">&#x2191; kuxalu</a> <em>neon</em>
+<a href="quffi.html">&#x2193; quffi</a> <em>krypton</em>
 
 [1]laqqu
 [2]High Lulani
@@ -6592,9 +6592,9 @@ wealth
 [5]inanimate stem noun element
 mendelevium
 [6]See Also
-&#x2190; <a href="tika.html">tika</a> <em>fermium</em>
-&#x2192; <a href="qa''iku.html">qa&#x294;iku</a> <em>nobelium</em>
-&#x2191; <a href="raddilla.html">raddilla</a> <em>thulium</em>
+<a href="tika.html">&#x2190; tika</a> <em>fermium</em>
+<a href="qa''iku.html">&#x2192; qa&#x294;iku</a> <em>nobelium</em>
+<a href="raddilla.html">&#x2191; raddilla</a> <em>thulium</em>
 
 [1]lalu
 [2]High Lulani
@@ -6659,11 +6659,11 @@ year
 [3]&#x202e;l;F
 [4]/&#x2c8;laf.f&#x268;/
 [5]mathematics
--5; 5; rive; minus five
+-5; <overline>5</overline>; rive; minus five
 [6]See Also
-&#x2191; <a href="jusiti.html">jusiti</a> <em>rix</em>
-&#x2192; <a href="missu.html">missu</a> <em>rour</em>
-&#x2014; <a href="guhi.html">guhi</a> <em>five</em>
+<a href="jusiti.html">&#x2191; jusiti</a> <em>rix</em>
+<a href="missu.html">&#x2192; missu</a> <em>rour</em>
+<a href="guhi.html">&#x2014; guhi</a> <em>five</em>
 
 [1]lasakka
 [2]High Lulani
@@ -6688,10 +6688,10 @@ baby
 [5]inanimate stem noun element
 tellurium
 [6]See Also
-&#x2190; <a href="salari.html">salari</a> <em>antimony</em>
-&#x2192; <a href="papa.html">papa</a> <em>iodine</em>
-&#x2191; <a href="matirra.html">matirra</a> <em>selenium</em>
-&#x2193; <a href="cakassu.html">cakassu</a> <em>polonium</em>
+<a href="salari.html">&#x2190; salari</a> <em>antimony</em>
+<a href="papa.html">&#x2192; papa</a> <em>iodine</em>
+<a href="matirra.html">&#x2191; matirra</a> <em>selenium</em>
+<a href="cakassu.html">&#x2193; cakassu</a> <em>polonium</em>
 
 [1]lahha
 [2]High Lulani
@@ -6727,9 +6727,9 @@ not; other
 [5]inanimate stem noun element
 helium
 [6]See Also
-&#x2190; <a href="la.html">la</a> <em>hydrogen</em>
-&#x2192; <a href="pini.html">pini</a> <em>lithium</em>
-&#x2193; <a href="kuxalu.html">kuxalu</a> <em>neon</em>
+<a href="la.html">&#x2190; la</a> <em>hydrogen</em>
+<a href="pini.html">&#x2192; pini</a> <em>lithium</em>
+<a href="kuxalu.html">&#x2193; kuxalu</a> <em>neon</em>
 
 [1]lidita
 [2]High Lulani
@@ -6752,10 +6752,10 @@ thread; spiderweb; wool
 [5]inanimate stem noun element
 chlorine
 [6]See Also
-&#x2190; <a href="ta.html">ta</a> <em>sulphur</em>
-&#x2192; <a href="laqa.html">laqa</a> <em>argon</em>
-&#x2191; <a href="ca'a.html">ca&#x2019;a</a> <em>fluorine</em>
-&#x2193; <a href="bi.html">bi</a> <em>bromine</em>
+<a href="ta.html">&#x2190; ta</a> <em>sulphur</em>
+<a href="laqa.html">&#x2192; laqa</a> <em>argon</em>
+<a href="ca'a.html">&#x2191; ca&#x2019;a</a> <em>fluorine</em>
+<a href="bi.html">&#x2193; bi</a> <em>bromine</em>
 
 [1]linu
 [2]High Lulani
@@ -6821,10 +6821,10 @@ by assumption
 [5]inanimate stem noun element
 sodium
 [6]See Also
-&#x2190; <a href="kuxalu.html">kuxalu</a> <em>neon</em>
-&#x2192; <a href="xaki.html">xaki</a> <em>magnesium</em>
-&#x2191; <a href="pini.html">pini</a> <em>lithium</em>
-&#x2193; <a href="dina.html">dina</a> <em>potassium</em>
+<a href="kuxalu.html">&#x2190; kuxalu</a> <em>neon</em>
+<a href="xaki.html">&#x2192; xaki</a> <em>magnesium</em>
+<a href="pini.html">&#x2191; pini</a> <em>lithium</em>
+<a href="dina.html">&#x2193; dina</a> <em>potassium</em>
 
 [1]lu&#x2019;i
 [2]High Lulani
@@ -6880,10 +6880,10 @@ fire
 [5]inanimate stem noun element
 indium
 [6]See Also
-&#x2190; <a href="kaca.html">kaca</a> <em>cadmium</em>
-&#x2192; <a href="laji.html">laji</a> <em>tin</em>
-&#x2191; <a href="'ali.html">&#x2019;ali</a> <em>gallium</em>
-&#x2193; <a href="silla.html">silla</a> <em>thallium</em>
+<a href="kaca.html">&#x2190; kaca</a> <em>cadmium</em>
+<a href="laji.html">&#x2192; laji</a> <em>tin</em>
+<a href="'ali.html">&#x2191; &#x2019;ali</a> <em>gallium</em>
+<a href="silla.html">&#x2193; silla</a> <em>thallium</em>
 
 [1]lukku
 [2]High Lulani
@@ -6959,9 +6959,9 @@ denotes a pair of something
 [5]stem mathematics cardinal
 2; two
 [6]See Also
-&#x2190; <a href="xita.html">xita</a> <em>one</em>
-&#x2192; <a href="kifi.html">kifi</a> <em>three</em>
-&#x2014; <a href="kirallu.html">kirallu</a> <em>two</em>
+<a href="xita.html">&#x2190; xita</a> <em>one</em>
+<a href="kifi.html">&#x2192; kifi</a> <em>three</em>
+<a href="kirallu.html">&#x2014; kirallu</a> <em>two</em>
 [5]inanimate stem noun
 metal
 
@@ -6972,9 +6972,9 @@ metal
 [5]inanimate stem noun element
 praseodymium
 [6]See Also
-&#x2190; <strong><a href="'a'ami.html">&#x2019;a&#x2019;ami</a></strong> <em>cerium</em>
-&#x2192; <a href="fibaku.html">fibaku</a> <em>neodymium</em>
-&#x2193; <a href="lakatti.html">lakatti</a> <em>protactinium</em>
+<strong>&#x2190; <a href="'a'ami.html">&#x2019;a&#x2019;ami</a></strong> <em>cerium</em>
+<a href="fibaku.html">&#x2192; fibaku</a> <em>neodymium</em>
+<a href="lakatti.html">&#x2193; lakatti</a> <em>protactinium</em>
 
 [1]ra&#x2019;u
 [2]High Lulani
@@ -7020,9 +7020,9 @@ being in
 [5]inanimate stem noun element
 nihonium
 [6]See Also
-&#x2190; <a href="hatanu.html">hatanu</a> <em>copernicium</em>
-&#x2192; <a href="xa'a.html">xa&#x2019;a</a> <em>flerovium</em>
-&#x2191; <a href="silla.html">silla</a> <em>thallium</em>
+<a href="hatanu.html">&#x2190; hatanu</a> <em>copernicium</em>
+<a href="xa'a.html">&#x2192; xa&#x2019;a</a> <em>flerovium</em>
+<a href="silla.html">&#x2191; silla</a> <em>thallium</em>
 
 [1]raddilla
 [2]High Lulani
@@ -7031,9 +7031,9 @@ nihonium
 [5]inanimate stem noun element
 thulium
 [6]See Also
-&#x2190; <a href="calluna.html">calluna</a> <em>erbium</em>
-&#x2192; <a href="tukaga.html">tukaga</a> <em>ytterbium</em>
-&#x2193; <a href="laqura.html">laqura</a> <em>mendelevium</em>
+<a href="calluna.html">&#x2190; calluna</a> <em>erbium</em>
+<a href="tukaga.html">&#x2192; tukaga</a> <em>ytterbium</em>
+<a href="laqura.html">&#x2193; laqura</a> <em>mendelevium</em>
 
 [1]raca
 [2]High Lulani
@@ -7153,9 +7153,9 @@ state of being; condition
 [5]inanimate stem noun element
 terbium
 [6]See Also
-&#x2190; <a href="tacala.html">tacala</a> <em>gadolinium</em>
-&#x2192; <a href="bumissi.html">bumissi</a> <em>dysprosium</em>
-&#x2193; <a href="saxxuru.html">saxxuru</a> <em>berkelium</em>
+<a href="tacala.html">&#x2190; tacala</a> <em>gadolinium</em>
+<a href="bumissi.html">&#x2192; bumissi</a> <em>dysprosium</em>
+<a href="saxxuru.html">&#x2193; saxxuru</a> <em>berkelium</em>
 
 [1]rili
 [2]High Lulani
@@ -7164,9 +7164,9 @@ terbium
 [5]inanimate stem noun element
 moscovium
 [6]See Also
-&#x2190; <a href="xa'a.html">xa&#x2019;a</a> <em>flerovium</em>
-&#x2192; <a href="suda.html">suda</a> <em>livermorium</em>
-&#x2191; <a href="'aggini.html">&#x2019;aggini</a> <em>bismuth</em>
+<a href="xa'a.html">&#x2190; xa&#x2019;a</a> <em>flerovium</em>
+<a href="suda.html">&#x2192; suda</a> <em>livermorium</em>
+<a href="'aggini.html">&#x2191; &#x2019;aggini</a> <em>bismuth</em>
 
 [1]risu
 [2]High Lulani
@@ -7356,9 +7356,9 @@ the present; now
 [5]inanimate stem noun element
 chromium
 [6]See Also
-&#x2190; <a href="nussa.html">nussa</a> <em>vanadium</em>
-&#x2192; <a href="qumalli.html">qumalli</a> <em>manganese</em>
-&#x2193; <a href="sula.html">sula</a> <em>molybdenum</em>
+<a href="nussa.html">&#x2190; nussa</a> <em>vanadium</em>
+<a href="qumalli.html">&#x2192; qumalli</a> <em>manganese</em>
+<a href="sula.html">&#x2193; sula</a> <em>molybdenum</em>
 
 [1]fajuli
 [2]High Lulani
@@ -7374,9 +7374,9 @@ crowd of people
 [5]inanimate stem noun element
 rutherfordium
 [6]See Also
-&#x2190; <a href="nulina.html">nulina</a> <em>lawrencium</em>
-&#x2192; <a href="nullasu.html">nullasu</a> <em>dubnium</em>
-&#x2191; <a href="tacuca.html">tacuca</a> <em>hafnium</em>
+<a href="nulina.html">&#x2190; nulina</a> <em>lawrencium</em>
+<a href="nullasu.html">&#x2192; nullasu</a> <em>dubnium</em>
+<a href="tacuca.html">&#x2191; tacuca</a> <em>hafnium</em>
 
 [1]famu
 [2]High Lulani
@@ -7459,9 +7459,9 @@ subtle planes
 [5]inanimate stem noun element
 curium
 [6]See Also
-&#x2190; <a href="dihiqa.html">dihiqa</a> <em>americium</em>
-&#x2192; <a href="saxxuru.html">saxxuru</a> <em>berkelium</em>
-&#x2191; <a href="tacala.html">tacala</a> <em>gadolinium</em>
+<a href="dihiqa.html">&#x2190; dihiqa</a> <em>americium</em>
+<a href="saxxuru.html">&#x2192; saxxuru</a> <em>berkelium</em>
+<a href="tacala.html">&#x2191; tacala</a> <em>gadolinium</em>
 
 [1]fasa
 [2]High Lulani
@@ -7477,10 +7477,10 @@ moment; second
 [5]inanimate stem noun element
 radon
 [6]See Also
-&#x2190; <a href="sicu.html">sicu</a> <em>astatine</em>
-&#x2192; <a href="guqqa.html">guqqa</a> <em>francium</em>
-&#x2191; <a href="sahha.html">sahha</a> <em>xenon</em>
-&#x2193; <a href="'ittika.html">&#x2019;ittika</a> <em>oganesson</em>
+<a href="sicu.html">&#x2190; sicu</a> <em>astatine</em>
+<a href="guqqa.html">&#x2192; guqqa</a> <em>francium</em>
+<a href="sahha.html">&#x2191; sahha</a> <em>xenon</em>
+<a href="'ittika.html">&#x2193; &#x2019;ittika</a> <em>oganesson</em>
 
 [1]faxi
 [2]High Lulani
@@ -7503,10 +7503,10 @@ to survive
 [5]inanimate stem noun element
 gold
 [6]See Also
-&#x2190; <a href="jala.html">jala</a> <em>platinum</em>
-&#x2192; <a href="'usa.html">&#x2019;usa</a> <em>mercury</em>
-&#x2191; <a href="ni.html">ni</a> <em>silver</em>
-&#x2193; <a href="su'usi.html">su&#x2019;usi</a> <em>roentgenium</em>
+<a href="jala.html">&#x2190; jala</a> <em>platinum</em>
+<a href="'usa.html">&#x2192; &#x2019;usa</a> <em>mercury</em>
+<a href="ni.html">&#x2191; ni</a> <em>silver</em>
+<a href="su'usi.html">&#x2193; su&#x2019;usi</a> <em>roentgenium</em>
 
 [1]-fi
 [2]High Lulani
@@ -7544,9 +7544,9 @@ certain; particular
 [5]inanimate stem noun element
 neodymium
 [6]See Also
-&#x2190; <a href="ra''asa.html">ra&#x294;asa</a> <em>praseodymium</em>
-&#x2192; <a href="'uccadama.html">&#x2019;uccadama</a> <em>promethium</em>
-&#x2193; <a href="kari.html">kari</a> <em>uranium</em>
+<a href="ra''asa.html">&#x2190; ra&#x294;asa</a> <em>praseodymium</em>
+<a href="'uccadama.html">&#x2192; &#x2019;uccadama</a> <em>promethium</em>
+<a href="kari.html">&#x2193; kari</a> <em>uranium</em>
 
 [1]fiqqala
 [2]High Lulani
@@ -7555,9 +7555,9 @@ neodymium
 [5]inanimate stem noun element
 beryllium
 [6]See Also
-&#x2190; <a href="pini.html">pini</a> <em>lithium</em>
-&#x2192; <a href="kuxxu.html">kuxxu</a> <em>boron</em>
-&#x2193; <a href="xaki.html">xaki</a> <em>magnesium</em>
+<a href="pini.html">&#x2190; pini</a> <em>lithium</em>
+<a href="kuxxu.html">&#x2192; kuxxu</a> <em>boron</em>
+<a href="xaki.html">&#x2193; xaki</a> <em>magnesium</em>
 
 [1]fiqu
 [2]High Lulani
@@ -7693,10 +7693,10 @@ gnomic
 [5]inanimate stem noun element
 rhodium
 [6]See Also
-&#x2190; <a href="nasufi.html">nasufi</a> <em>ruthenium</em>
-&#x2192; <a href="qala.html">qala</a> <em>palladium</em>
-&#x2191; <a href="gaxiki.html">gaxiki</a> <em>cobalt</em>
-&#x2193; <a href="natu.html">natu</a> <em>iridium</em>
+<a href="nasufi.html">&#x2190; nasufi</a> <em>ruthenium</em>
+<a href="qala.html">&#x2192; qala</a> <em>palladium</em>
+<a href="gaxiki.html">&#x2191; gaxiki</a> <em>cobalt</em>
+<a href="natu.html">&#x2193; natu</a> <em>iridium</em>
 
 [1]fuhha
 [2]High Lulani
@@ -7724,9 +7724,9 @@ oxygen
 [6]Derived Terms
 <strong>sa<a href="xita.html">xita</a> <a href="lara.html">lara</a></strong> <em>water</em>
 [6]See Also
-&#x2190; <a href="xu.html">xu</a> <em>carbon</em>
-&#x2192; <a href="sutta.html">sutta</a> <em>nitrogen</em>
-&#x2193; <a href="ta.html">ta</a> <em>sulphur</em>
+<a href="xu.html">&#x2190; xu</a> <em>carbon</em>
+<a href="ca'a.html">&#x2192; ca&#x2019;a</a> <em>fluorine</em>
+<a href="ta.html">&#x2193; ta</a> <em>sulphur</em>
 [5]intransitive stem verb
 to be yellow; to turn yellow
 [6]Thematic Relations
@@ -7867,10 +7867,10 @@ conversation
 [5]inanimate stem noun element
 rubidium
 [6]See Also
-&#x2190; <a href="quffi.html">quffi</a> <em>krypton</em>
-&#x2192; <a href="'aru'u.html">&#x2019;aru&#x2019;u</a> <em>strontium</em>
-&#x2191; <a href="dina.html">dina</a> <em>potassium</em>
-&#x2193; <a href="nudda.html">nudda</a> <em>caesium</em>
+<a href="quffi.html">&#x2190; quffi</a> <em>krypton</em>
+<a href="'aru'u.html">&#x2192; &#x2019;aru&#x2019;u</a> <em>strontium</em>
+<a href="dina.html">&#x2191; dina</a> <em>potassium</em>
+<a href="nudda.html">&#x2193; nudda</a> <em>caesium</em>
 
 [1]sacu
 [2]High Lulani
@@ -8070,9 +8070,9 @@ north
 [5]inanimate stem noun element
 seaborgium
 [6]See Also
-&#x2190; <a href="nullasu.html">nullasu</a> <em>dubnium</em>
-&#x2192; <a href="cabahi.html">cabahi</a> <em>bohrium</em>
-&#x2191; <a href="mina''i.html">mina&#x294;i</a> <em>tungsten</em>
+<a href="nullasu.html">&#x2190; nullasu</a> <em>dubnium</em>
+<a href="cabahi.html">&#x2192; cabahi</a> <em>bohrium</em>
+<a href="mina''i.html">&#x2191; mina&#x294;i</a> <em>tungsten</em>
 
 [1]saqa
 [2]High Lulani
@@ -8148,10 +8148,10 @@ salt
 [5]inanimate stem noun element
 antimony
 [6]See Also
-&#x2190; <a href="laji.html">laji</a> <em>tin</em>
-&#x2192; <a href="lasu.html">lasu</a> <em>tellurium</em>
-&#x2191; <a href="da'u.html">da&#x2019;u</a> <em>arsenic</em>
-&#x2193; <a href="'aggini.html">&#x2019;aggini</a> <em>bismuth</em>
+<a href="laji.html">&#x2190; laji</a> <em>tin</em>
+<a href="lasu.html">&#x2192; lasu</a> <em>tellurium</em>
+<a href="da'u.html">&#x2191; da&#x2019;u</a> <em>arsenic</em>
+<a href="'aggini.html">&#x2193; &#x2019;aggini</a> <em>bismuth</em>
 
 [1]salilu
 [2]High Lulani
@@ -8169,8 +8169,8 @@ night sky
 [5]stem mathematics cardinal
 7; seven
 [6]See Also
-&#x2191; <a href="'usi.html">&#x2019;usi</a> <em>six</em>
-&#x2014; <a href="haki.html">haki</a> <em>reven</em>
+<a href="'usi.html">&#x2190; &#x2019;usi</a> <em>six</em>
+<a href="haki.html">&#x2014; haki</a> <em>reven</em>
 
 [1]salura
 [2]High Lulani
@@ -8209,9 +8209,9 @@ augmentative
 [5]inanimate stem noun element
 berkelium
 [6]See Also
-&#x2190; <a href="farra.html">farra</a> <em>curium</em>
-&#x2192; <a href="'ikka.html">&#x2019;ikka</a> <em>californium</em>
-&#x2191; <a href="rila.html">rila</a> <em>terbium</em>
+<a href="farra.html">&#x2190; farra</a> <em>curium</em>
+<a href="'ikka.html">&#x2192; &#x2019;ikka</a> <em>californium</em>
+<a href="rila.html">&#x2191; rila</a> <em>terbium</em>
 
 [1]sahha
 [2]High Lulani
@@ -8220,10 +8220,10 @@ berkelium
 [5]inanimate stem noun element
 xenon
 [6]See Also
-&#x2190; <a href="papa.html">papa</a> <em>iodine</em>
-&#x2192; <a href="nudda.html">nudda</a> <em>caesium</em>
-&#x2191; <a href="quffi.html">quffi</a> <em>krypton</em>
-&#x2193; <a href="fasami.html">fasami</a> <em>radon</em>
+<a href="papa.html">&#x2190; papa</a> <em>iodine</em>
+<a href="nudda.html">&#x2192; nudda</a> <em>caesium</em>
+<a href="quffi.html">&#x2191; quffi</a> <em>krypton</em>
+<a href="fasami.html">&#x2193; fasami</a> <em>radon</em>
 
 [1]si
 [2]High Lulani
@@ -8295,10 +8295,10 @@ refers to the aspects of the heart dealing with the heartbeat, as a notification
 [5]inanimate stem noun element
 astatine
 [6]See Also
-&#x2190; <a href="cakassu.html">cakassu</a> <em>polonium</em>
-&#x2192; <a href="fasami.html">fasami</a> <em>radon</em>
-&#x2191; <a href="papa.html">papa</a> <em>iodine</em>
-&#x2193; <a href="buccata.html">buccata</a> <em>tennessine</em>
+<a href="cakassu.html">&#x2190; cakassu</a> <em>polonium</em>
+<a href="fasami.html">&#x2192; fasami</a> <em>radon</em>
+<a href="papa.html">&#x2191; papa</a> <em>iodine</em>
+<a href="buccata.html">&#x2193; buccata</a> <em>tennessine</em>
 
 [1]sija
 [2]High Lulani
@@ -8385,9 +8385,9 @@ story; tale
 [5]inanimate stem noun element
 europium
 [6]See Also
-&#x2190; <a href="'i'isata.html">&#x2019;i&#x2019;isata</a> <em>samarium</em>
-&#x2192; <a href="tacala.html">tacala</a> <em>gadolinium</em>
-&#x2193; <a href="dihiqa.html">dihiqa</a> <em>americium</em>
+<a href="'i'isata.html">&#x2190; &#x2019;i&#x2019;isata</a> <em>samarium</em>
+<a href="tacala.html">&#x2192; tacala</a> <em>gadolinium</em>
+<a href="dihiqa.html">&#x2193; dihiqa</a> <em>americium</em>
 
 [1]silla
 [2]High Lulani
@@ -8396,10 +8396,10 @@ europium
 [5]inanimate stem noun element
 thallium
 [6]See Also
-&#x2190; <a href="'usa.html">&#x2019;usa</a> <em>mercury</em>
-&#x2192; <a href="musaqu.html">musaqu</a> <em>lead</em>
-&#x2191; <a href="luka.html">luka</a> <em>indium</em>
-&#x2193; <a href="rabaci.html">rabaci</a> <em>nihonium</em>
+<a href="'usa.html">&#x2190; &#x2019;usa</a> <em>mercury</em>
+<a href="musaqu.html">&#x2192; musaqu</a> <em>lead</em>
+<a href="luka.html">&#x2191; luka</a> <em>indium</em>
+<a href="rabaci.html">&#x2193; rabaci</a> <em>nihonium</em>
 
 [1]silu
 [2]High Lulani
@@ -8471,9 +8471,9 @@ the spiritual body; the emergent property of the heart; the part of a personalit
 [5]inanimate stem noun element
 roentgenium
 [6]See Also
-&#x2190; <a href="na'ipa.html">na&#x2019;ipa</a> <em>darmstadtium</em>
-&#x2192; <a href="hatanu.html">hatanu</a> <em>copernicium</em>
-&#x2191; <a href="fi.html">fi</a> <em>gold</em>
+<a href="na'ipa.html">&#x2190; na&#x2019;ipa</a> <em>darmstadtium</em>
+<a href="hatanu.html">&#x2192; hatanu</a> <em>copernicium</em>
+<a href="fi.html">&#x2191; fi</a> <em>gold</em>
 
 [1]supu
 [2]High Lulani
@@ -8482,10 +8482,10 @@ roentgenium
 [5]inanimate stem noun element
 osmium
 [6]See Also
-&#x2190; <a href="hasuki.html">hasuki</a> <em>rhenium</em>
-&#x2192; <a href="natu.html">natu</a> <em>iridium</em>
-&#x2191; <a href="nasufi.html">nasufi</a> <em>ruthenium</em>
-&#x2193; <a href="'i'ami.html">&#x2019;i&#x2019;ami</a> <em>hassium</em>
+<a href="hasuki.html">&#x2190; hasuki</a> <em>rhenium</em>
+<a href="natu.html">&#x2192; natu</a> <em>iridium</em>
+<a href="nasufi.html">&#x2191; nasufi</a> <em>ruthenium</em>
+<a href="'i'ami.html">&#x2193; &#x2019;i&#x2019;ami</a> <em>hassium</em>
 
 [1]subtle
 [2]English
@@ -8504,9 +8504,9 @@ non-physical
 [5]inanimate stem noun element
 nitrogen
 [6]See Also
-&#x2190; <a href="xu.html">xu</a> <em>carbon</em>
-&#x2192; <a href="sa.html">sa</a> <em>oxygen</em>
-&#x2193; <a href="pibi.html">pibi</a> <em>phosphorus</em>
+<a href="xu.html">&#x2190; xu</a> <em>carbon</em>
+<a href="sa.html">&#x2192; sa</a> <em>oxygen</em>
+<a href="pibi.html">&#x2193; pibi</a> <em>phosphorus</em>
 
 [1]sutti
 [2]High Lulani
@@ -8528,9 +8528,9 @@ fear
 [5]inanimate stem noun element
 livermorium
 [6]See Also
-&#x2190; <a href="rili.html">rili</a> <em>moscovium</em>
-&#x2192; <a href="buccata.html">buccata</a> <em>tennessine</em>
-&#x2191; <a href="cakassu.html">cakassu</a> <em>polonium</em>
+<a href="rili.html">&#x2190; rili</a> <em>moscovium</em>
+<a href="buccata.html">&#x2192; buccata</a> <em>tennessine</em>
+<a href="cakassu.html">&#x2191; cakassu</a> <em>polonium</em>
 
 [1]suki
 [2]High Lulani
@@ -8539,9 +8539,9 @@ livermorium
 [5]inanimate stem noun element
 copper
 [6]See Also
-&#x2190; <a href="tasa.html">tasa</a> <em>nickel</em>
-&#x2192; <a href="hika.html">hika</a> <em>zinc</em>
-&#x2193; <a href="kaca.html">kaca</a> <em>cadmium</em>
+<a href="tasa.html">&#x2190; tasa</a> <em>nickel</em>
+<a href="hika.html">&#x2192; hika</a> <em>zinc</em>
+<a href="kaca.html">&#x2193; kaca</a> <em>cadmium</em>
 
 [1]sukki
 [2]High Lulani
@@ -8636,10 +8636,10 @@ goat
 [5]inanimate stem noun element
 molybdenum
 [6]See Also
-&#x2190; <a href="lakka.html">lakka</a> <em>niobium</em>
-&#x2192; <a href="nikili.html">nikili</a> <em>technetium</em>
-&#x2191; <a href="fada.html">fada</a> <em>chromium</em>
-&#x2193; <a href="mina''i.html">mina&#x294;i</a> <em>tungsten</em>
+<a href="lakka.html">&#x2190; lakka</a> <em>niobium</em>
+<a href="nikili.html">&#x2192; nikili</a> <em>technetium</em>
+<a href="fada.html">&#x2191; fada</a> <em>chromium</em>
+<a href="mina''i.html">&#x2193; mina&#x294;i</a> <em>tungsten</em>
 
 [1]surra
 [2]High Lulani
@@ -8668,9 +8668,9 @@ the three spatial dimensions
 [5]inanimate stem noun element
 plutonium
 [6]See Also
-&#x2190; <a href="xasagi.html">xasagi</a> <em>neptunium</em>
-&#x2192; <a href="dihiqa.html">dihiqa</a> <em>americium</em>
-&#x2191; <a href="'i'isata.html">&#x2019;i&#x2019;isata</a> <em>samarium</em>
+<a href="xasagi.html">&#x2190; xasagi</a> <em>neptunium</em>
+<a href="dihiqa.html">&#x2192; dihiqa</a> <em>americium</em>
+<a href="'i'isata.html">&#x2191; &#x2019;i&#x2019;isata</a> <em>samarium</em>
 
 [1]xa
 [2]High Lulani
@@ -8686,9 +8686,9 @@ dative promotion; <small-caps>dtv</small-caps>
 [5]inanimate stem noun element
 flerovium
 [6]See Also
-&#x2190; <a href="rabaci.html">rabaci</a> <em>nihonium</em>
-&#x2192; <a href="rili.html">rili</a> <em>moscovium</em>
-&#x2191; <a href="musaqu.html">musaqu</a> <em>lead</em>
+<a href="rabaci.html">&#x2190; rabaci</a> <em>nihonium</em>
+<a href="rili.html">&#x2192; rili</a> <em>moscovium</em>
+<a href="musaqu.html">&#x2191; musaqu</a> <em>lead</em>
 
 [1]xa&#x294;a
 [2]High Lulani
@@ -8728,10 +8728,10 @@ flour; porridge; gruel
 [5]inanimate stem noun element
 magnesium
 [6]See Also
-&#x2190; <a href="lisu.html">lisu</a> <em>sodium</em>
-&#x2192; <a href="disa.html">disa</a> <em>aluminium</em>
-&#x2191; <a href="fiqqala.html">fiqqala</a> <em>beryllium</em>
-&#x2193; <a href="qaxa.html">qaxa</a> <em>calcium</em>
+<a href="lisu.html">&#x2190; lisu</a> <em>sodium</em>
+<a href="disa.html">&#x2192; disa</a> <em>aluminium</em>
+<a href="fiqqala.html">&#x2191; fiqqala</a> <em>beryllium</em>
+<a href="qaxa.html">&#x2193; qaxa</a> <em>calcium</em>
 
 [1]xakila
 [2]High Lulani
@@ -8747,9 +8747,9 @@ thought to be
 [5]inanimate stem noun element
 lanthanum
 [6]See Also
-&#x2190; <a href="baca.html">baca</a> <em>barium</em>
-&#x2192; <a href="'a'ami.html">&#x2019;a&#x2019;ami</a> <em>cerium</em>
-&#x2193; <a href="na'a.html">na&#x2019;a</a> <em>actinium</em>
+<a href="baca.html">&#x2190; baca</a> <em>barium</em>
+<a href="'a'ami.html">&#x2192; &#x2019;a&#x2019;ami</a> <em>cerium</em>
+<a href="na'a.html">&#x2193; na&#x2019;a</a> <em>actinium</em>
 
 [1]xalli
 [2]High Lulani
@@ -8770,9 +8770,9 @@ not used with possessives
 [5]inanimate stem noun element
 neptunium
 [6]See Also
-&#x2190; <a href="kari.html">kari</a> <em>uranium</em>
-&#x2192; <a href="sussi.html">sussi</a> <em>plutonium</em>
-&#x2191; <a href="'uccadama.html">&#x2019;uccadama</a> <em>promethium</em>
+<a href="kari.html">&#x2190; kari</a> <em>uranium</em>
+<a href="sussi.html">&#x2192; sussi</a> <em>plutonium</em>
+<a href="'uccadama.html">&#x2191; &#x2019;uccadama</a> <em>promethium</em>
 
 [1]xaha
 [2]High Lulani
@@ -8812,9 +8812,9 @@ over and done with; never again
 [5]stem mathematics ordinal
 one
 [6]See Also
-&#x2190; <a href="qikka.html">qikka</a> <em>zero</em>
-&#x2192; <a href="ra.html">ra</a> <em>two</em>
-&#x2014; <a href="mullu.html">mullu</a> <em>ron</em>
+<a href="qikka.html">&#x2190; qikka</a> <em>zero</em>
+<a href="ra.html">&#x2192; ra</a> <em>two</em>
+<a href="mullu.html">&#x2014; mullu</a> <em>ron</em>
 [5]mathematics suffix<em></em>
 one particle of a mass
 [6]Example
@@ -8865,9 +8865,9 @@ carbon
 [6]Derived Terms
 <strong>xu<a href="sahaki.html">sahaki</a></strong> <strong><a href="la.html">la</a><a href="sakifi.html">sakifi</a></a> <em>octane</em>
 [6]See Also
-&#x2190; <a href="kuxxu.html">kuxxu</a> <em>boron</em>
-&#x2192; <a href="sutta.html">sutta</a> <em>nitrogen</em>
-&#x2193; <a href="'ama.html">&#x2019;ama</a> <em>silicon</em>
+<a href="kuxxu.html">&#x2190; kuxxu</a> <em>boron</em>
+<a href="sutta.html">&#x2192; sutta</a> <em>nitrogen</em>
+<a href="'ama.html">&#x2193; &#x2019;ama</a> <em>silicon</em>
 
 [1]xu&#x2019;a
 [2]High Lulani
@@ -8916,10 +8916,10 @@ suddenly
 [5]inanimate stem noun element
 germanium
 [6]See Also
-&#x2190; <a href="'ali.html">&#x2019;ali</a> <em>gallium</em>
-&#x2192; <a href="da'u.html">da&#x2019;u</a> <em>arsenic</em>
-&#x2191; <a href="'ama.html">&#x2019;ama</a> <em>silicon</em>
-&#x2193; <a href="laji.html">laji</a> <em>tin</em>
+<a href="'ali.html">&#x2190; &#x2019;ali</a> <em>gallium</em>
+<a href="da'u.html">&#x2192; da&#x2019;u</a> <em>arsenic</em>
+<a href="'ama.html">&#x2191; &#x2019;ama</a> <em>silicon</em>
+<a href="laji.html">&#x2193; laji</a> <em>tin</em>
 
 [1]hatanu
 [2]High Lulani
@@ -8928,18 +8928,18 @@ germanium
 [5]inanimate stem noun element
 copernicium
 [6]See Also
-&#x2190; <a href="su'usi.html">su&#x2019;usi</a> <em>roentgenium</em>
-&#x2192; <a href="rabaci.html">rabaci</a> <em>nihonium</em>
-&#x2191; <a href="'usa.html">&#x2019;usa</a> <em>mercury</em>
+<a href="su'usi.html">&#x2190; su&#x2019;usi</a> <em>roentgenium</em>
+<a href="rabaci.html">&#x2192; rabaci</a> <em>nihonium</em>
+<a href="'usa.html">&#x2191; &#x2019;usa</a> <em>mercury</em>
 [1]haki
 [2]High Lulani
 [3]&#x202e;hK
 [4]/&#x2c8;hak&#x2b0;.&#x268;/
 [5]stem mathematics ordinal
--7; 7; reven; minus seven
+-7; <overline>7</overline>; reven; minus seven
 [6]See Also
-&#x2192; <a href="jusiti.html">jusiti</a> <em>rix</em>
-&#x2014; <a href="salumi.html">salumi</a> <em>seven</em>
+<a href="jusiti.html">&#x2192; jusiti</a> <em>rix</em>
+<a href="salumi.html">&#x2014; salumi</a> <em>seven</em>
 
 [1]hannaku
 [2]High Lulani
@@ -8985,10 +8985,10 @@ laugh
 [5]inanimate stem noun element
 rhenium
 [6]See Also
-&#x2190; <a href="mina''i.html">mina&#x294;i</a> <em>tungsten</em>
-&#x2192; <a href="supu.html">supu</a> <em>osmium</em>
-&#x2191; <a href="nikili.html">nikili</a> <em>technetium</em>
-&#x2193; <a href="cabahi.html">cabahi</a> <em>bohrium</em>
+<a href="mina''i.html">&#x2190; mina&#x294;i</a> <em>tungsten</em>
+<a href="supu.html">&#x2192; supu</a> <em>osmium</em>
+<a href="nikili.html">&#x2191; nikili</a> <em>technetium</em>
+<a href="cabahi.html">&#x2193; cabahi</a> <em>bohrium</em>
 
 [1]hibu
 [2]High Lulani
@@ -9004,9 +9004,9 @@ allowing oneself; making oneself; taking responsibility for oneself
 [5]inanimate stem noun element
 zinc
 [6]See Also
-&#x2190; <a href="suki.html">suki</a> <em>copper</em>
-&#x2192; <a href="'ali.html">&#x2019;ali</a> <em>gallium</em>
-&#x2193; <a href="kaca.html">kaca</a> <em>cadmium</em>
+<a href="suki.html">&#x2190; suki</a> <em>copper</em>
+<a href="'ali.html">&#x2192; &#x2019;ali</a> <em>gallium</em>
+<a href="kaca.html">&#x2193; kaca</a> <em>cadmium</em>
 
 [1]hiqa
 [2]High Lulani
@@ -9022,10 +9022,10 @@ order; demand; command
 [5]inanimate stem noun element
 tantalum
 [6]See Also
-&#x2190; <a href="tacuca.html">tacuca</a> <em>hafnium</em>
-&#x2192; <a href="mina''i.html">mina&#x294;i</a> <em>tungsten</em>
-&#x2191; <a href="lakka.html">lakka</a> <em>niobium</em>
-&#x2193; <a href="nullasu.html">nullasu</a> <em>dubnium</em>
+<a href="tacuca.html">&#x2190; tacuca</a> <em>hafnium</em>
+<a href="mina''i.html">&#x2192; mina&#x294;i</a> <em>tungsten</em>
+<a href="lakka.html">&#x2191; lakka</a> <em>niobium</em>
+<a href="nullasu.html">&#x2193; nullasu</a> <em>dubnium</em>
 
 [1]hisu
 [2]High Lulani
