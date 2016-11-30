@@ -262,17 +262,17 @@ class HtmlPage:
                 else:
                     while True:
                         if generation < self.leaf_level:
-                            text += "<p><a href=\""
+                            text += "<h" + str(generation) + "><a href=\""
                             for ancestor in ancestors:
                                 text += self.name_in_url_form(ancestor) + "/"
                             text += self.name_in_url_form(node) + "/index.html\">"
-                            text += node.get_name() + "</a></p>\n"
+                            text += node.get_name() + "</a></h" + str(generation) + ">\n"
                         else:
-                            text += "<p><a href=\""
+                            text += "<h" + str(generation) + "><a href=\""
                             for ancestor in ancestors:
                                 text += self.name_in_url_form(ancestor) + "/"
                             text += self.name_in_url_form(node) + ".html\">"
-                            text += node.get_name() + "</a></p>\n"
+                            text += node.get_name() + "</a></h" + str(generation) + ">\n"
                         try:
                             node = node.get_next_node(self.leaf_level)
                             generation = node.get_generation()

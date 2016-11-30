@@ -1,0 +1,21 @@
+a {
+	color: indigo;
+	text-decoration: none;
+	font-size: 80%;
+}
+
+h1 {
+	margin-left: 5em;
+}
+
+h2 {
+	margin-left: 10em;
+}
+
+h3 {
+	margin-left: 15em;
+}
+
+body {
+	background-color: cornsilk
+}

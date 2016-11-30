@@ -1,0 +1,31 @@
+a {
+	color: green;
+	text-decoration: none;
+	font-size: 75%;
+}
+
+div.content {
+	width: 80%;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	margin-left: 10%;
+	background-color: lightgoldenrodyellow;
+	
+}
+
+h1 {
+	margin-left: 10em;
+	line-height: 0.75;
+	font-weight: normal;
+	font-size: x-large;
+}
+
+h2 {
+	padding-top: 1em;
+	margin-left: 5em;
+	font-size: xx-large;
+}
+
+body {
+	background-color: lightslategray;
+}

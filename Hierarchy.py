@@ -86,12 +86,13 @@ class Node:
 
     # @param level: the lowest level of nodes to return
     def get_next_node(self, level=100):
-        if level == 1:
-                next_node = self.get_right_sister()
-        elif self.has_children() and self.get_generation() < level:
+        if self.has_children() and self.get_generation() < level:
             return self.children[0]
         else:
-            next_node = self.get_next_node_iter(self.parent)
+            try:
+                next_node = self.get_right_sister()
+            except IndexError:
+                next_node = self.get_next_node_iter(self.parent)
         return next_node
 
     def get_next_node_iter(self, node):

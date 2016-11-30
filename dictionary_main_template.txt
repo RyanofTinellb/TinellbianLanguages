@@ -6,7 +6,9 @@ Tinellbian Languages Dictionary
 <link rel="stylesheet" type="text/css" href="../dictionary_main_style.css">
 </head>
 <body>
-<h1>Welcome to the dictionary for the languages of Tinellb!</h1>
+<h2>Welcome to the Tinellbian Languages Dictionary!</h2>
+<div class="content">
 {toc}
+</div>
 </body>
 </html>
