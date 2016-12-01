@@ -3,6 +3,12 @@ body {
 	text-indent: 20px;
 }
 
+h1, h2, h3, h4, h5, h6 {
+	font-family: serif;
+	padding-top: 10pt;
+	text-align: center;
+}
+
 @font-face {
     font-family: lulani;
     src: url('Lulani.ttf'); 
@@ -130,11 +136,5 @@ span.tinellbian:after {
 
 span.centre {
 	display: block;
-	text-align: center;
-}
-
-h1, h2, h3, h4, h5, h6 {
-	font-family: serif;
-	padding-top: 10pt;
 	text-align: center;
 }
