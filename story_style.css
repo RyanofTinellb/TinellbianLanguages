@@ -12,9 +12,12 @@ span.tinellbian {
 	font-family: lulani;
 }
 
-span.toc p {
-	content: "\2192";
-	color: red;
+span.tinellbian:before {
+	content: "\202e";
+}
+
+span.tinellbian:after {
+	content: "\202c";
 }
 
 h1, h2, h3, h4, h5, h6 {

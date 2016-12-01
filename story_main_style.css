@@ -22,10 +22,6 @@ h1:before {
 	content: "* ";
 }
 
-span.toc p:after {
-	content: "\2192"
-}
-
 h2 {
 	margin-left: 10em;
 	font-size: large;
@@ -43,4 +39,12 @@ h3 {
 
 span.tinellbian {
 	font-family: lulani;
+}
+
+span.tinellbian:before {
+	content: "\202e";
+}
+
+span.tinellbian:after {
+	content: "\202c";
 }

@@ -1,6 +1,5 @@
-try:
-    print(5)
-    print(18)
-    print(3 / 0)
-except:
-    pass
+k = "Hey"
+l = "Moons"
+for i, v in zip(k,l):
+    print(i)
+    print(v)
