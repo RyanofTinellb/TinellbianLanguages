@@ -91,11 +91,11 @@ class HtmlPage:
 
                 for child in self.heading_node.get_children():
                     text += "<p><a href=\"" + self.name_in_url_form(child) + "/index.html\">"
-                    text += child.name + "</a></p> "
+                    text += child.name + " &#x2192;</a></p> "
             else:
                 for child in self.heading_node.get_children():
                     text += "<p><a href=\"" + self.name_in_url_form(child) + ".html\">"
-                    text += child.name + "</a></p> "
+                    text += child.name + " &#x2192;</a></p> "
         return text
 
     def get_nav_header(self):

@@ -86,14 +86,14 @@ p.example {
 	padding-left: 10em;
 	padding-top: 10pt;
 	width: 100%;
-	line-height: 0.5;
+	line-height: 1;
 }
 
 p.example_no_lines {
 	padding-left: 10em;
 	padding-top: 1pt;
 	width: 100%;
-	line-height: 0.5;
+	line-height: 1;
 }
 
 p.left {
@@ -109,6 +109,6 @@ div.toc a {
 	color: black;
 	font-size: 125%;
 	text-decoration: none;
-	line-height: 0.5;
+	line-height: 1;
 	margin-left: 15em;
 }
