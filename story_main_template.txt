@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+A Guide to the Tinellbian Languages
+</title>
+<link rel="stylesheet" type="text/css" href="../story_main_style.css">
+</head>
+<body>
+{toc}
+</body>
+</html>

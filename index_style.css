@@ -1,0 +1,32 @@
+body {
+	background-color: #e6fff1;
+	padding-top: 2em;
+	margin-left: 10em;
+}
+
+h2 {
+	margin-left: 1em;
+	margin-top: 2em;
+	margin-bottom: 0.5em;
+}
+
+li {
+	margin-left: 4em;
+}
+
+a {
+	color: saddlebrown;
+	text-decoration: none;
+}
+
+p.desc {
+	margin-left: 7em;
+	font-size: large;
+}
+
+p.intro {
+	margin-left: 2em;
+	font-family: sans-serif;
+	font-size: x-large;
+	text-indent: 2em;
+}

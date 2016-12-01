@@ -1,0 +1,123 @@
+body {
+	background-color: cornsilk;
+	text-indent: 20px;
+}
+
+@font-face {
+    font-family: lulani;
+    src: url('Lulani.ttf'); 
+}
+
+span.tinellbian {
+	font-family: lulani;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: serif;
+	padding-top: 10pt;
+}
+
+div.nav-header {
+	text-align: center;
+	float: top center;
+	background-color: purple;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin: 0;
+}
+
+div.nav-header a {
+	font-size: 150%;
+	color: cornsilk;
+	font-weight: bold;
+	text-decoration: none;
+}
+div.nav-footer {
+	text-align: center;
+	float: top center;
+	background-color: purple;
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin: 0;
+}
+
+div.nav-footer a {
+	color: cornsilk;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+div.content {
+	margin-left: 5em;
+	margin-right: 5em;
+	line-height: 2;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+th.row {
+	text-align: right;
+}
+
+td {
+	width: 75px;
+	width: 75px;
+	font-family: sans-serif;
+}
+
+ipa {
+	font-family: lucida sans unicode;
+}
+
+overline {
+	text-decoration: overline;
+}
+
+small-caps {
+	font-variant: small-caps;
+	font-weight: none;
+	font-style: normal;
+}
+
+p {
+	font-family: sans-serif;
+}
+
+p.example {
+	padding-left: 10em;
+	padding-top: 10pt;
+	width: 100%;
+	line-height: 1;
+}
+
+p.example_no_lines {
+	padding-left: 10em;
+	padding-top: 1pt;
+	width: 100%;
+	line-height: 1;
+}
+
+p.left {
+	float: left;
+}
+
+p.right {
+	float: right;
+}
+
+div.toc a {
+	font-weight: bold;
+	color: black;
+	font-size: 125%;
+	text-decoration: none;
+	line-height: 1;
+	margin-left: 15em;
+}

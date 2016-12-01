@@ -88,14 +88,12 @@ class HtmlPage:
         text = ""
         if self.heading_node.get_generation() < self.leaf_level:
             if self.heading_node.get_generation() < (self.leaf_level - 1):
-
-                for child in self.heading_node.get_children():
-                    text += "<p><a href=\"" + self.name_in_url_form(child) + "/index.html\">"
-                    text += child.name + " &#x2192;</a></p> "
+                file_name = "/index.html"
             else:
+                file_name = ".html"
                 for child in self.heading_node.get_children():
-                    text += "<p><a href=\"" + self.name_in_url_form(child) + ".html\">"
-                    text += child.name + " &#x2192;</a></p> "
+                    text += "<p><a href=\"" + self.name_in_url_form(child) + file_name + "\">"
+                    text += child.name + "</a></p>\n"
         return text
 
     def get_nav_header(self):
@@ -231,9 +229,12 @@ class HtmlPage:
     def name_in_url_form(node):
         name = node.name
         name = name.lower()
-        name = name.replace(" ", "")
         name = name.replace("&#x294;", "''")
         name = name.replace("&#x2019;", "'")
+        name = name.replace("&#x202e;", "")
+        for character in ["<span class=\"tinellbian\">", "</span>", "<small-caps>", "</small-caps>", "/", ".", ";",
+                          " "]:
+            name = name.replace(character, "")
         return name
 
     @staticmethod
