@@ -8,24 +8,6 @@ body {
     src: url('Lulani.ttf'); 
 }
 
-span.tinellbian {
-	font-family: lulani;
-}
-
-span.tinellbian:before {
-	content: "\202e";
-}
-
-span.tinellbian:after {
-	content: "\202c";
-}
-
-h1, h2, h3, h4, h5, h6 {
-	font-family: serif;
-	padding-top: 10pt;
-	text-align: center;
-}
-
 div.nav-header {
 	text-align: center;
 	float: top center;
@@ -131,7 +113,28 @@ div.toc a {
 	margin-left: 15em;
 }
 
+div.content span.tinellbian {
+	display: block;
+	font-family: lulani;
+	text-align: right;
+	
+}
+
+span.tinellbian:before {
+	content: "\202e";
+}
+
+span.tinellbian:after {
+	content: "\202c";
+}
+
 span.centre {
 	display: block;
+	text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: serif;
+	padding-top: 10pt;
 	text-align: center;
 }
