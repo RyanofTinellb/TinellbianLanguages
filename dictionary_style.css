@@ -85,13 +85,23 @@ em {
 	font-weight: none;
 }
 
-div.menu {
+div.nav-header {
 	padding-top: 10pt;
 	padding-bottom: 10pt;
 	color: white;
 }
 
-div.menu a {
+div.nav-header a {
+	color: white;
+}
+
+div.nav-footer {
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+	color: white;
+}
+
+div.nav-footer a {
 	color: white;
 }
 

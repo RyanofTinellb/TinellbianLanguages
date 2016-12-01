@@ -37,7 +37,7 @@ class HtmlPage:
                 if line != "\n":
                     self.content.append(line[:-1])
                 else:
-                    self.content.append("\n")
+                    self.content.append("<br>\n")
                 line = source.readline()
             self.create_page()
 
@@ -56,8 +56,10 @@ class HtmlPage:
                     page += self.get_title()
                 elif text == "{toc}":
                     page += self.get_toc()
-                elif text == "{menu}":
-                    page += self.get_menu()
+                elif text == "{nav-header}":
+                    page += self.get_nav_header()
+                elif text == "{nav-footer}":
+                    page += self.get_nav_footer()
                 elif text == "{stylesheet}":
                     page += self.get_stylesheet()
                 elif text == "{content}":
@@ -86,6 +88,7 @@ class HtmlPage:
         text = ""
         if self.heading_node.get_generation() < self.leaf_level:
             if self.heading_node.get_generation() < (self.leaf_level - 1):
+
                 for child in self.heading_node.get_children():
                     text += "<p><a href=\"" + self.name_in_url_form(child) + "/index.html\">"
                     text += child.name + "</a></p> "
@@ -95,42 +98,66 @@ class HtmlPage:
                     text += child.name + "</a></p> "
         return text
 
-    def get_menu(self):
+    def get_nav_header(self):
         text = ""
         ancestry = self.heading_node.get_ancestors()
         ancestry = ancestry[1:]
         for ancestor in ancestry:
             level = ancestor.get_generation()
             if level < self.leaf_level:
-                level = self.leaf_level - level
-                text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + "/index.html\">"
-                text += ancestor.name + "</a></p>\n"
+                file_name = "/index.html"
             else:
-                text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + ".html\">" + ancestor.name
-                text += "</a></p>\n"
+                file_name = ".html"
+            level = self.leaf_level - level
+            text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + file_name + "\">"
+            text += ancestor.name + "</a></p>\n"
         level = self.heading_node.get_generation()
-        try:
-            left = self.heading_node.get_left_sister()
-        except IndexError:
-            left = None
-        try:
-            right = self.heading_node.get_right_sister()
-        except IndexError:
-            right = None
+        sisters = []
         if level < self.leaf_level:
-            if left:
-                text += "<p class=\"left\"><a href=\"../" + self.name_in_url_form(left) + "/index.html\">&#x2190; "
-                text += left.name + "</a></p>"
-            if right:
-                text += "<p class=\"right\"><a href=\"../" + self.name_in_url_form(right) + "/index.html\">"
-                text += right.name + " &#x2192;</a></p>"
+            file_name = "../$/index.html"
         else:
-            if left:
-                text += "<p class=\"left\"><a href=\"" + self.name_in_url_form(left) + ".html\">&#x2190; "
-                text += left.name + "</a><p>"
-            if right:
-                text += "<p class=\"right\"><a href=\"" + self.name_in_url_form(right) + ".html\">"
-                text += right.name + " &#x2192;</a></p>"
+            file_name = "$.html"
+        for index, arrow, direction in zip([-1, 1], ["&#x2190; $", "$ &#x2192;"], ["left", "right"]):
+            try:
+                sister = self.heading_node.get_sister(index)
+                nav = "<p class=\"" + direction + "\"><a href=\""
+                nav += file_name.replace("$", self.name_in_url_form(sister))
+                nav += "\">"
+                nav += arrow.replace("$", sister.name)
+                nav += "</a></p>"
+                text += nav
+            except IndexError:
+                pass
+        text += "<div style=\"clear: both;\"></div>"
+        return text
+
+    def get_nav_footer(self):
+        level = self.heading_node.get_generation()
+        text = ""
+        if level < self.leaf_level:
+            text += "<p class=\"left\">"
+            text += "<a href=\"../index.html\">"
+            text += "&#x2191; Go up one level</a></p>\n"
+        else:
+            text += "<p class=\"left\">"
+            text += "<a href=\"index.html\">"
+            text += "&#x2191; Go up one level</a></p>\n"
+        try:
+            node = self.heading_node.get_next_node(self.leaf_level)
+        except IndexError:
+            text += "<p class=\"right\"><a href=\"" + (level - 1) * "../"
+            text += "index.html\">"
+            text += "Return to index &#x2191;</a></p>"
+            text += "<div style=\"clear: both;\"></div>"
+            return text
+        next_level = node.get_generation()
+        if next_level == self.leaf_level:
+            file_name = ".html"
+        else:
+            file_name = "/index.html"
+        text += "<p class=\"right\"><a href=\"" + max((level - next_level),0) * "../"
+        text += self.name_in_url_form(node) + file_name + "\">"
+        text += "Next Page &#x2192;</a></p>"
         text += "<div style=\"clear: both;\"></div>"
         return text
 
@@ -230,26 +257,20 @@ class HtmlPage:
     def make_list(u_list, table_type):
         text = ""
         if table_type == "l":
-            text = "<ul>\n"
-            for item in u_list:
-                text += "<li>" + item + "</li>\n"
-            text += "</ul>\n"
+            table_type = "ul"
         elif table_type == "n":
-            text = "<ol>\n"
-            for item in u_list:
-                text += "<li>" + item + "</li>\n"
-            text += "</ol>\n"
+            table_type = "ol"
         else:
             raise ValueError('Invalid Table Type')
+        text = "<" + table_type + ">\n"
+        for item in u_list:
+            text += "<li>" + item + "</li>\n"
+        text += "</" + table_type + ">\n"
         return text
 
     def create_main_page(self):
         node = self.directory.get_root()
         node = node.get_next_node()
-        generation = node.get_generation()
-        ancestors = node.get_ancestors()
-        if len(ancestors):
-            ancestors.pop(0)
         template_file = self.destination + "_main_template.txt"
         destination_filename = self.destination + "/index.html"
         text = ""
@@ -261,27 +282,22 @@ class HtmlPage:
                     text += line + "\n"
                 else:
                     while True:
+                        generation = node.get_generation()
+                        ancestors = node.get_ancestors()
+                        ancestors.pop(0)
                         if generation < self.leaf_level:
-                            text += "<h" + str(generation) + "><a href=\""
-                            for ancestor in ancestors:
-                                text += self.name_in_url_form(ancestor) + "/"
-                            text += self.name_in_url_form(node) + "/index.html\">"
-                            text += node.get_name() + "</a></h" + str(generation) + ">\n"
+                            new_file = "/index.html"
                         else:
-                            text += "<h" + str(generation) + "><a href=\""
-                            for ancestor in ancestors:
-                                text += self.name_in_url_form(ancestor) + "/"
-                            text += self.name_in_url_form(node) + ".html\">"
-                            text += node.get_name() + "</a></h" + str(generation) + ">\n"
+                            new_file = ".html"
+                        text += "<h" + str(generation) + "><a href=\""
+                        for ancestor in ancestors:
+                            text += self.name_in_url_form(ancestor) + "/"
+                        text += self.name_in_url_form(node) + new_file + "\">"
+                        text += node.get_name() + "</a></h" + str(generation) + ">\n"
                         try:
                             node = node.get_next_node(self.leaf_level)
-                            generation = node.get_generation()
-                            ancestors = node.get_ancestors()
-                            if len(ancestors):
-                                ancestors.pop(0)
                         except IndexError:
                             break
                 line = template.readline()
         with open(destination_filename, "w") as destination_file:
             destination_file.write(text)
-

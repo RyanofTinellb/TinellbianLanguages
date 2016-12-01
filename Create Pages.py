@@ -1,4 +1,4 @@
 from HtmlPage import *
 
-HtmlPage("dictionary", 1)
 HtmlPage("grammar", 3)
+HtmlPage("dictionary", 1)

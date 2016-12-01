@@ -1,7 +1,6 @@
 body {
 	background-color: cornsilk;
 	text-indent: 20px;
-	padding-bottom: 20pt;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -9,7 +8,7 @@ h1, h2, h3, h4, h5, h6 {
 	padding-top: 10pt;
 }
 
-div.menu {
+div.nav-header {
 	text-align: center;
 	float: top center;
 	background-color: cadetblue;
@@ -20,8 +19,24 @@ div.menu {
 	margin: 0;
 }
 
-div.menu a {
+div.nav-header a {
 	font-size: 150%;
+	color: cornsilk;
+	font-weight: bold;
+	text-decoration: none;
+}
+div.nav-footer {
+	text-align: center;
+	float: top center;
+	background-color: cadetblue;
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin: 0;
+}
+
+div.nav-footer a {
 	color: cornsilk;
 	font-weight: bold;
 	text-decoration: none;

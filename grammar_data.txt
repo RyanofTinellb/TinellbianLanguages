@@ -202,6 +202,7 @@ The back close vowel is rounded. It can be realised as /u/ or /&#x289;/.
 [f]<strong>mulu</strong> <em>blood</em>
 [e]<strong>bunali</strong> <em>rhyme</em>
 [e]<strong>riccu</strong> <em>sphere</em>
+
 [3]Phonotactics
 Phonemically, all syllables are CV, that is, one consonant followed by one vowel. Word-internal consonants can be geminated. The only consonant clusters are geminate consonants, and there are no vowel clusters or long vowels.
 [3]Suprasegmentals
@@ -1016,7 +1017,7 @@ Each of these terms can be compounded to refer to specific hues.
 A bonded female is called a <strong>julliga</strong> <em>married woman</em>, and the male equivalent is a <strong>xalli</strong> <em>married man</em>. These terms are not used with possessives. On the other hand, the words <strong>kitisu</strong> <em>wife</em> and <strong>silu</strong> <em>husband</em> are used with possessives.
 [4]Nuclear Family
 The words <strong>sabba</strong> <em>father</em> and <strong>piha</strong> <em>mother</em> usually refer to biological parents, but can be applied to the main guardians if the biological parents are not around. These are used both with and without possessives.
-There are two gender-neutral terms for children: <strong>tu</strong> <em>offspring</em> for postnatal children, <strong>&rsquo;appu</strong> <em>foetus</em> for antenatal. These are most often used with possessives.
+There are two terms for children: <strong>tu</strong> <em>offspring</em> for postnatal children, <strong>&rsquo;appu</strong> <em>foetus</em> for antenatal. Both of these are gender-neutral, and are most often used with possessives.
 There can be a suffixed <strong>ju&rsquo;i</strong> <em>link</em> for spouses&rsquo; offspring and parents&rsquo; spouses.
 [f]<strong>sabbaju&rsquo;ipagu</strong>
 [e]father-link-1<small-caps>gen</small-caps>

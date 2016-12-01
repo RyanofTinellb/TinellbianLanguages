@@ -4,15 +4,16 @@
 </title>
 {stylesheet}
 </head>
-<div class="menu">
-{menu}
+<div class="nav-header">
+{nav-header}
 </div>
 <div class="content">
 {content}
 </div>
 <div class="toc">
 {toc}
+<p><br></p>
 </div>
-<div class="menu">
-<p><a href="index.html">&#x2190; Go Back!</a></p>
+<div class="nav-footer">
+{nav-footer}
 </div>
