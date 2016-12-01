@@ -41,9 +41,9 @@ def conversion(source_file, destination_file):
                     text += " , "
             text = text.replace("<", "&lt;")
             text = text.replace(">", "&gt;")
-            page += "<span class=\"tinellbian\">. " + text + " .</span>\n"
+            page += "<span class=\"right\"><span class=\"tinellbian\">. " + text + " .</span></span>\n"
             line = source.readline()
     with open (destination_file, "w") as destination:
         destination.write(page)
 
-conversion("Matter.txt", "Energy.txt")
+conversion("Energy.txt", "Matter.txt")

@@ -120,10 +120,12 @@ div.toc a {
 }
 
 span.tinellbian {
+	font-family: lulani;	
+}
+
+span.right {
 	display: block;
-	font-family: lulani;
 	text-align: right;
-	
 }
 
 span.tinellbian:before {
