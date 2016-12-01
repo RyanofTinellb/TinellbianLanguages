@@ -10,25 +10,25 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 h1 {
-	font-size: 15;
+	font-size: 20px;
 	font-weight: normal;
 }
 
 h2 {
 	font-family: arial;
-	font-size: 5;
+	font-size: 15px;
 }
 
 h3 {
 	font-family: lulani;
-	font-size: 20;
+	font-size: 20px;
 	font-weight: normal;
 	padding-left: 75px;
 }
 
 h4 {
 	font-family: lucida sans unicode;
-	font-size: 12;
+	font-size: 12px;
 	font-weight: normal;
 	padding-left: 75px;
 }
@@ -40,7 +40,7 @@ h5 {
 
 h6 {
 	text-decoration: underline;
-	font-size: 15;
+	font-size: 15px;
 	line-height: 2;
 }
 
