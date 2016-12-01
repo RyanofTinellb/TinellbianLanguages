@@ -80,9 +80,25 @@ class HtmlPage:
             f.write(page)
 
     def get_title(self):
-        ancestry = [i.name for i in self.heading_node.get_ancestors()]
+        ancestry = [self.sanitise(i.name) for i in self.heading_node.get_ancestors()]
         ancestry.reverse()
-        return self.heading_node.name + " &lt; " + " &lt; ".join(ancestry)
+        return self.sanitise(self.heading_node.name) + " &lt; " + " &lt; ".join(ancestry)
+
+    @staticmethod
+    def sanitise(name):
+        if "[" not in name and "<" not in name:
+            return name
+        bracket = False
+        text = ""
+        for character in name:
+            if character in "[<":
+                bracket = True
+            elif character in "]>":
+                bracket = False
+            elif not bracket:
+                text += character
+        text = text.replace("&#x202e;", "")
+        return text
 
     def get_toc(self):
         text = ""
@@ -91,9 +107,9 @@ class HtmlPage:
                 file_name = "/index.html"
             else:
                 file_name = ".html"
-                for child in self.heading_node.get_children():
-                    text += "<p><a href=\"" + self.name_in_url_form(child) + file_name + "\">"
-                    text += child.name + "</a></p>\n"
+            for child in self.heading_node.get_children():
+                text += "<p><a href=\"" + self.name_in_url_form(child) + file_name + "\">"
+                text += child.name + "</a></p>\n"
         return text
 
     def get_nav_header(self):

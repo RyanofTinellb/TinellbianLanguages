@@ -2,18 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lulani2.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create Pages.py" afterPath="$PROJECT_DIR$/Create Pages.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hierarchy.py" afterPath="$PROJECT_DIR$/Hierarchy.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlPage.py" afterPath="$PROJECT_DIR$/HtmlPage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/Guozu.html" afterPath="$PROJECT_DIR$/dictionary/Guozu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/gusu.html" afterPath="$PROJECT_DIR$/dictionary/gusu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/gusuli.html" afterPath="$PROJECT_DIR$/dictionary/gusuli.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/index.html" afterPath="$PROJECT_DIR$/dictionary/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/lulani.html" afterPath="$PROJECT_DIR$/dictionary/lulani.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_data.txt" afterPath="$PROJECT_DIR$/dictionary_data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/index.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/index.html" afterPath="$PROJECT_DIR$/grammar/introduction/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/index.html" afterPath="$PROJECT_DIR$/story/english/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" afterPath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" afterPath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/index.html" afterPath="$PROJECT_DIR$/story/gloss/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/index.html" afterPath="$PROJECT_DIR$/story/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/index.html" afterPath="$PROJECT_DIR$/story/tinellbian/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/index.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/index.html" afterPath="$PROJECT_DIR$/story/transliteration/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" afterPath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_data.txt" afterPath="$PROJECT_DIR$/story_data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_main_template.txt" afterPath="$PROJECT_DIR$/story_main_template.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_style.css" afterPath="$PROJECT_DIR$/story_style.css" />
     </list>
     <ignored path="TinellbianLanguages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HtmlPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="234" column="100" lean-forward="false" selection-start-line="234" selection-start-column="27" selection-end-line="234" selection-end-column="100" />
+            <state relative-caret-position="523">
+              <caret line="111" column="12" lean-forward="false" selection-start-line="111" selection-start-column="12" selection-end-line="111" selection-end-column="12" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -55,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hierarchy.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hierarchy.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hierarchy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+            <state relative-caret-position="878">
+              <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -119,6 +132,8 @@
       <find>create_main</find>
       <find>url</find>
       <find>get_toc</find>
+      <find>title</find>
+      <find>toc</find>
     </findStrings>
     <replaceStrings>
       <replace>str(generation)</replace>
@@ -158,8 +173,8 @@
         <option value="$PROJECT_DIR$/Directory.py" />
         <option value="$PROJECT_DIR$/Scratch.py" />
         <option value="$PROJECT_DIR$/Create Pages.py" />
-        <option value="$PROJECT_DIR$/HtmlPage.py" />
         <option value="$PROJECT_DIR$/Hierarchy.py" />
+        <option value="$PROJECT_DIR$/HtmlPage.py" />
       </list>
     </option>
   </component>
@@ -207,7 +222,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -236,6 +250,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -503,12 +518,12 @@
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13361612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13308589" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7277051" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.7277051" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -571,7 +586,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="41" />
+      <option name="time" value="45" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -668,24 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HtmlPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="234" column="100" lean-forward="false" selection-start-line="234" selection-start-column="27" selection-end-line="234" selection-end-column="100" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Create Pages.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -694,11 +691,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Hierarchy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="42" column="24" lean-forward="false" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        <state relative-caret-position="878">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HtmlPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="111" column="12" lean-forward="false" selection-start-line="111" selection-start-column="12" selection-end-line="111" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

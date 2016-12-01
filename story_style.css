@@ -12,9 +12,15 @@ span.tinellbian {
 	font-family: lulani;
 }
 
+span.toc p {
+	content: "\2192";
+	color: red;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: serif;
 	padding-top: 10pt;
+	text-align: center;
 }
 
 div.nav-header {
@@ -120,4 +126,9 @@ div.toc a {
 	text-decoration: none;
 	line-height: 1;
 	margin-left: 15em;
+}
+
+span.centre {
+	display: block;
+	text-align: center;
 }

@@ -4558,7 +4558,8 @@ Guozu; person
 [6]Notes
 only used when alive
 
-[1]Guozu
+[1]guozu
+(Guozu)
 [2]English
 [3]&#x202e; 
 [4]/&#x2c8;g&#x2b7;&#x254;.z&#x28a;/
@@ -6917,6 +6918,7 @@ moon
 queen; monarch
 
 [5]proper stem noun
+(Lulani)
 Lulani (language)
 
 [1]luffu

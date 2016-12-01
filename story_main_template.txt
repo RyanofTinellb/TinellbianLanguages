@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>
-A Guide to the Tinellbian Languages
+The Coelacanth Quartet
 </title>
 <link rel="stylesheet" type="text/css" href="../story_main_style.css">
 </head>

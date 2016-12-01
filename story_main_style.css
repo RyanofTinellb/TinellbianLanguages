@@ -1,0 +1,46 @@
+body {
+	margin-top: 3em;
+	background-color: lightgoldenrodyellow;
+}
+
+small-caps {
+	font-variant: small-caps
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+h1 {
+	margin-left: 5em;
+	margin-top: 2em;
+	font-size: x-large;
+}
+
+h1:before {
+	content: "* ";
+}
+
+span.toc p:after {
+	content: "\2192"
+}
+
+h2 {
+	margin-left: 10em;
+	font-size: large;
+}
+
+h3 {
+	margin-left: 15em;
+	font-size: medium;
+}
+
+@font-face {
+    font-family: lulani;
+    src: url('Lulani.ttf'); 
+}
+
+span.tinellbian {
+	font-family: lulani;
+}
