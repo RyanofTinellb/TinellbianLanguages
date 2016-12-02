@@ -655,7 +655,7 @@ third person transitive inanimate; <small-caps>3ina;tra</small-caps>; it
 [1]&rsquo;ifuhhanaku
 [2]High Lulani
 [3]&#x202e;iv;hn&gt;
-[4]/&#x294;&#x268;.&#x2cc;fu&ccedil;.&ccedil;&ccedil;&#x259;.&#x2c8;nak&#x2b0;.&#x289;/
+[4]/&#x294;&#x268;.&#x2cc;fu&ccedil;.&ccedil;&#x259;.&#x2c8;nak&#x2b0;.&#x289;/
 [5]derived compound verb
 to agree
 [6]Etymology
@@ -1367,6 +1367,13 @@ phosphorus
 <a href="ta.html">&rarr; ta</a> <em>sulphur</em>
 <a href="sutta.html">&uarr; sutta</a> <em>nitrogen</em>
 <a href="da'u.html">&darr; da&rsquo;u</a> <em>arsenic</em>
+
+[1]piku
+[2]High Lulani
+[3]&#x202e;P&gt;
+[4]/&#x2c8;p&#x2b0;ik&#x2b0;.&#x289;/
+[5]animate stem noun
+demon
 
 [1]pini
 [2]High Lulani
@@ -2190,9 +2197,18 @@ legs
 [6]Usage Notes
 refers to each of the legs of a pair.
 [6]Derived Terms
-<strong>tiba<a href="ra.html">ra</a></strong> <em>pair of legs</em>
+<strong><a href="tibara.html">tibara</a></strong> <em>pair of legs</em>
 [6]See Also
 <a href="kanu.html">kanu</a> <em>leg</em>
+
+[1]tibara
+[2]High Lulani
+[3]&#x202e;Tbr
+[4]/t&#x2b0;&#x268;.&#x2c8;ba&#x279;.&#x259;/
+[5]derived inanimate noun
+plural of <a href="tiba.html">tiba</a> <em>leg</em>
+[6]Etymology
+<a href="tiba.html">tiba</a> <em>leg</em> + <a href="ra.html">ra</a> <em>two</em>
 
 [1]tika
 [2]High Lulani
@@ -4064,6 +4080,15 @@ to grow in number
 [4]/&#x2c8;k&#x2b0;ip&#x2b0;.&#x289;/
 [5]animate stem noun
 horse; ox; draughtsbeast; drif
+[6]See Also
+<a href="qikanni.html">qikanni</a> <em>dog</em>
+<a href="hannaku.html">hannaku</a> <em>cat</em>
+<a href="sula.html">sula</a> <em>goat</em>
+<a href="nasi''u.html">nasi&#x294;u</a> <em>sheep</em>
+<a href="kilatu'i.html">kilatu&rsquo;i</a> <em>deer</em>
+<a href="qasa.html">qasa</a> <em>fish</em>
+<a href="xu'a.html">xu&rsquo;a</a> <em>bird</em>
+
 
 [1]kibba
 [2]High Lulani
@@ -4120,6 +4145,15 @@ king
 [4]/&#x2cc;k&#x2b0;il.&#x259;.&#x2c8;t&#x2b0;u&#x294;.&#x268;/
 [5]animate stem noun
 deer
+[6]See Also
+<a href="qikanni.html">qikanni</a> <em>dog</em>
+<a href="hannaku.html">hannaku</a> <em>cat</em>
+<a href="sula.html">sula</a> <em>goat</em>
+<a href="nasi''u.html">nasi&#x294;u</a> <em>sheep</em>
+<a href="kipu.html">kipu</a> <em>ox</em>
+<a href="qasa.html">qasa</a> <em>fish</em>
+<a href="xu'a.html">xu&rsquo;a</a> <em>bird</em>
+
 
 [1]kiluqu
 [2]High Lulani
@@ -5630,6 +5664,15 @@ a heightened emotional state, especially as induced by tiredness or drunkenness.
 [4]/na.&#x2c8;si&#x294;.j&#x289;/
 [5]animate stem noun
 sheep
+[6]See Also
+<a href="qikanni.html">qikanni</a> <em>dog</em>
+<a href="hannaku.html">hannaku</a> <em>cat</em>
+<a href="sula.html">sula</a> <em>goat</em>
+<a href="kipu.html">kipu</a> <em>ox</em>
+<a href="kilatu'i.html">kilatu&rsquo;i</a> <em>deer</em>
+<a href="qasa.html">qasa</a> <em>fish</em>
+<a href="xu'a.html">xu&rsquo;a</a> <em>bird</em>
+
 
 [1]nasufi
 [2]High Lulani
@@ -6148,6 +6191,15 @@ to open
 fish
 [6]Derived Terms
 <strong><a href="dasuni.html">dasuni</a><a href="kifi.html">kifi</a><a href="cani.html">cani</a> qasa</strong> <em>coelacanth</em>
+[6]See Also
+<a href="qikanni.html">qikanni</a> <em>dog</em>
+<a href="hannaku.html">hannaku</a> <em>cat</em>
+<a href="sula.html">sula</a> <em>goat</em>
+<a href="nasi''u.html">nasi&#x294;u</a> <em>sheep</em>
+<a href="kipu.html">kipu</a> <em>ox</em>
+<a href="kilatu'i.html">kilatu&rsquo;i</a> <em>deer</em>
+<a href="xu'a.html">xu&rsquo;a</a> <em>bird</em>
+
 
 [1]qaxa
 [2]High Lulani
@@ -6198,7 +6250,14 @@ to experience
 [4]/&#x14b;&#x268;.&#x2c8;k&#x2b0;a&#x272;.&#x272;&#x268;/
 [5]animate stem noun
 dog
-
+[6]See Also
+<a href="hannaku.html">hannaku</a> <em>cat</em>
+<a href="sula.html">sula</a> <em>goat</em>
+<a href="nasi''u.html">nasi&#x294;u</a> <em>sheep</em>
+<a href="kipu.html">kipu</a> <em>ox</em>
+<a href="kilatu'i.html">kilatu&rsquo;i</a> <em>deer</em>
+<a href="qasa.html">qasa</a> <em>fish</em>
+<a href="xu'a.html">xu&rsquo;a</a> <em>bird</em>
 [1]qilu
 [2]High Lulani
 [3]&#x202e;QW
@@ -8638,6 +8697,14 @@ the patient must be inanimate.
 [4]/&#x2c8;sul.&#x259;/
 [5]animate stem noun lifeform
 goat
+[6]See Also
+<a href="qikanni.html">qikanni</a> <em>dog</em>
+<a href="hannaku.html">hannaku</a> <em>cat</em>
+<a href="nasi''u.html">nasi&#x294;u</a> <em>sheep</em>
+<a href="kipu.html">kipu</a> <em>ox</em>
+<a href="kilatu'i.html">kilatu&rsquo;i</a> <em>deer</em>
+<a href="qasa.html">qasa</a> <em>fish</em>
+<a href="xu'a.html">xu&rsquo;a</a> <em>bird</em>
 [5]inanimate stem noun element
 molybdenum
 [6]See Also
@@ -8880,7 +8947,14 @@ carbon
 [4]/&#x2c8;&#x255;&#x289;&#x294;.&#x259;/
 [5]animate stem noun lifeform
 bird
-
+[6]See Also
+<a href="qikanni.html">qikanni</a> <em>dog</em>
+<a href="hannaku.html">hannaku</a> <em>cat</em>
+<a href="sula.html">sula</a> <em>goat</em>
+<a href="nasi''u.html">nasi&#x294;u</a> <em>sheep</em>
+<a href="kipu.html">kipu</a> <em>ox</em>
+<a href="kilatu'i.html">kilatu&rsquo;i</a> <em>deer</em>
+<a href="qasa.html">qasa</a> <em>fish</em>
 [1]xu&#x294;a
 [2]High Lulani
 [3]&#x202e;Z;a
@@ -8952,6 +9026,14 @@ copernicium
 [4]/&#x2c8;ha&#x272;.&#x272;&#x259;.k&#x289;/
 [5]animate stem noun lifeform
 cat
+[6]See Also
+<a href="qikanni.html">qikanni</a> <em>dog</em>
+<a href="sula.html">sula</a> <em>goat</em>
+<a href="nasi''u.html">nasi&#x294;u</a> <em>sheep</em>
+<a href="kipu.html">kipu</a> <em>ox</em>
+<a href="kilatu'i.html">kilatu&rsquo;i</a> <em>deer</em>
+<a href="qasa.html">qasa</a> <em>fish</em>
+<a href="xu'a.html">xu&rsquo;a</a> <em>bird</em>
 
 [1]halu
 [2]High Lulani

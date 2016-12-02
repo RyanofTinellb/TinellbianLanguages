@@ -9,6 +9,7 @@ class EditDictionary(tk.Frame):
         self.heading = None
         self.go_button = None
         self.finish_button = None
+        self.publish_button = None
         self.edit_text = None
         self.old_page = ""
         self.new_page = ""
@@ -21,11 +22,14 @@ class EditDictionary(tk.Frame):
         self.heading = tk.Text(self, height=1, width=20, wrap=tk.NONE)
         self.heading.grid(sticky=tk.NE)
         self.go_button = tk.Button(self, text="GO!", command=self.bring_entry)
-        self.go_button.grid(row=0, column=1, sticky=tk.NW)
-        self.edit_text = tk.Text(self, height=25, width=125, font=('Calibri', '15'))
-        self.edit_text.grid(columnspan=4)
-        self.finish_button = tk.Button(self, text="Finished", command=self.finish)
-        self.finish_button.grid(row=0, column=2, sticky=tk.NW)
+        self.go_button.grid(row=1, column=1, sticky=tk.NW)
+        self.finish_button = tk.Button(text="Finished", command=self.finish)
+        self.finish_button.grid(row=1, column=1, sticky=tk.NW)
+        self.publish_button = tk.Button(text="Publish", command=self.publish)
+        self.publish_button.grid(row=1, column=3, sticky=tk.NW)
+        self.edit_text = tk.Text(self, height=25, width=105, font=('Calibri', '15'))
+        self.edit_text.grid(row=1, rowspan=19)
+
 
     def bring_entry(self):
         entry = self.heading.get(1.0, tk.END+"-1c")
@@ -42,8 +46,11 @@ class EditDictionary(tk.Frame):
         page = page.replace(self.old_page, self.new_page)
         with open("dictionary_data.txt", "w") as dictionary:
             dictionary.write(page)
-        HtmlPage("dictionary", 1)
         self.edit_text.delete(1.0, tk.END)
+
+    @staticmethod
+    def publish():
+        HtmlPage("dictionary", 1)
 
     def make_replacements(self, text, to_markup=True):
         if not len(self.markup):
