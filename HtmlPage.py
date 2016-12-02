@@ -21,8 +21,7 @@ class HtmlPage:
         self.stylesheet = stylesheet
         self.create_main_page()
         with open(source_file, 'r') as source:
-            line = source.readline()
-            while line != "":
+            for line in source:
                 if line[0] == "[":
                     try:
                         self.level = int(line[1])
@@ -38,7 +37,6 @@ class HtmlPage:
                     self.content.append(line[:-1])
                 else:
                     self.content.append("<br>\n")
-                line = source.readline()
             self.create_page()
 
     def create_page(self):
@@ -247,6 +245,7 @@ class HtmlPage:
         name = name.lower()
         name = name.replace("&#x294;", "''")
         name = name.replace("&#x2019;", "'")
+        name = name.replace("&rsquo;", "'")
         name = name.replace("&#x202e;", "")
         for character in ["<span class=\"tinellbian\">", "</span>", "<small-caps>", "</small-caps>", "/", ".", ";",
                           " "]:
@@ -292,8 +291,7 @@ class HtmlPage:
         destination_filename = self.destination + "/index.html"
         text = ""
         with open(template_file, "r") as template:
-            line = template.readline()
-            while line != "":
+            for line in template:
                 line = line[:-1]
                 if line != "{toc}":
                     text += line + "\n"
@@ -315,6 +313,5 @@ class HtmlPage:
                             node = node.get_next_node(self.leaf_level)
                         except IndexError:
                             break
-                line = template.readline()
         with open(destination_filename, "w") as destination_file:
             destination_file.write(text)

@@ -34,7 +34,7 @@ When I decided to write a novel, a constructed language (conlang) was an obvious
 
 [1]High Lulani
 [2]Phonology
-High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are1 prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated.
+High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated.
 [3]Consonants
 Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
 [t]
@@ -908,53 +908,53 @@ Here are the names for the one-digit numbers:
 
 [5]Two-digit Numbers
 Numbers between 1<overline>7</overline> and 16 are composed of the prefix <strong>sa</strong> and the final two syllables of the number, except for:
-[f]<strong>sabilla</strong> (not <strong>sabila</strong>) <em>1<overline>3</overline></em>
-[e]<strong>salura</strong> (not <strong>sara</strong>) <em>12</em>
-All other two digit numbers, except for <em>22</em>, are formed by juxtaposing the tens digit with the units.
-[f]<strong>mullukifi</strong> <em><overline>1</overline>3</em>
-[e]<strong>xitasalumi</strong> <em>17</em>
-[e]<strong>ranuru</strong> <em>24</em>
-[e]<strong>kifilaffi</strong> <em>3<overline>5</overline></em>
-[e]<strong>&rsquo;usiqikka</strong> <em>60</em>
-The word for <em>22</em>, the exception, is <strong>ranira</strong><em>.</em>
+[f]<strong>sabilla</strong> (not <strong>sabila</strong>) 1<overline>3</overline>
+[e]<strong>salura</strong> (not <strong>sara</strong>) 12
+All other two digit numbers, except for 22, are formed by juxtaposing the tens digit with the units.
+[f]<strong>mullukifi</strong> <overline>1</overline>3
+[e]<strong>xitasalumi</strong> 17
+[e]<strong>ranuru</strong> 24
+[e]<strong>kifilaffi</strong> 3<overline>5</overline>
+[e]<strong>&rsquo;usiqikka</strong> 60
+The word for 22, the exception, is <strong>ranira</strong>.
 [5]Three- and Four-digit Numbers
 Three- and four-digit numbers are divided into the number of hundreds, and the remainder. This remainder is always the last two digits of the number.
-The word for <em>100</em> is <strong>takki</strong>.
-Other three-digit numbers beginning with a <em>1</em> are formed by prefixing <strong>takki</strong> to the remainder.
-[f]<strong>takkinurukirallu</strong> <em>14<overline>2</overline></em>
+The word for 100 is <strong>takki</strong>.
+Other three-digit numbers beginning with a 1 are formed by prefixing <strong>takki</strong> to the remainder.
+[f]<strong>takkinurukirallu</strong> 14<overline>2</overline>
 Three- and four-digit numbers greater than this are formed by appending <strong>takki</strong> to the number of hundreds, which is then followed by the remainder as a separate word. 
-[f]<strong>guhitakki &rsquo;usibila</strong> <em>56<overline>3</overline></em>
-[e]<strong>saqikkatakki kifinuru</strong> <em>1034</em>
-[e]<strong>kiralluratakki missumullu</strong> <em><overline>2</overline>2<overline>4</overline><overline>1</overline></em>
+[f]<strong>guhitakki &rsquo;usibila</strong> 56<overline>3</overline>
+[e]<strong>saqikkatakki kifinuru</strong> 1034
+[e]<strong>kiralluratakki missumullu</strong> <overline>2</overline>2<overline>4</overline><overline>1</overline>
 In any of these cases, if the remainder is zero, it is left off.
-[f]<strong>mullutakki</strong> <em><overline>1</overline>00</em>
-[e]<strong>ratakki</strong> <em>200</em>
-[e]<strong>saguhitakki</strong> <em>1500</em>
-[e]<strong>bilasalumitakki</strong> <em><overline>3</overline>700</em>
+[f]<strong>mullutakki</strong> <overline>1</overline>00
+[e]<strong>ratakki</strong> 200
+[e]<strong>saguhitakki</strong> 1500
+[e]<strong>bilasalumitakki</strong> <overline>3</overline>700
 [5]Higher and Lower Order Numbers
 When a number is written out in digits, each set of four digits from the fractional point makes up a group. The group furthest from the fractional point may not have this full quota of digits. An <strong>index marker</strong> notes the identity of a particular group.
 The index marker is composed of the prefix <strong>pa</strong> followed by the number of groups between this one and the fractional point. Positive index numbers are for the integer part of the number, and negative index numbers are for the mantissa.
 The index marker is suffixed to the group word.
-[f]<strong>paxita</strong> <em>1,0000</em>
-[e]<strong>para</strong> <em>1,0000,0000</em>
-[e]<strong>pakifi</strong> <em>1,0000,0000,0000</em>
-[e]<strong>pamullu</strong> <em>0.0001</em>
-[e]<strong>samissupaxita</strong> <em>1<overline>4</overline>,0000</em>
-[e]<strong>takkiranirapaxita</strong> <em>122,0000</em>
-[e]<strong>&rsquo;usitakki mullurapaxita</strong> <em>6<overline>1</overline>2,0000</em>
+[f]<strong>paxita</strong> 1,0000
+[e]<strong>para</strong> 1,0000,0000
+[e]<strong>pakifi</strong> 1,0000,0000,0000
+[e]<strong>pamullu</strong> 0.0001
+[e]<strong>samissupaxita</strong> 1<overline>4</overline>,0000
+[e]<strong>takkiranirapaxita</strong> 122,0000
+[e]<strong>&rsquo;usitakki mullurapaxita</strong> 6<overline>1</overline>2,0000
 There is nothing preventing an index-marked number being used within another index marker, although the second <strong>pa</strong> is usually geminated.
-[f]<strong>pappaxita</strong> <em>1,0000<sup>1,0000</sup></em>
-[e]<strong>papappaxita</strong> <em>1,0000<sup>1,0000^1,0000</sup></em>
+[f]<strong>pappaxita</strong> 1,0000<sup>1,0000</sup>
+[e]<strong>papappaxita</strong> 1,0000<sup>1,0000^1,0000</sup>
 [5]Non-integral Numbers
 [6]Reading Mantissas
 There are two ways to read a mantissa.
 One uses the above method of index markers, and the second reads out the digits in pairs or individually. These methods are often combined: using index markers for the first digit groups, and then continuing to read digits separately.
 [6]Repeating and Reflecting Strings
-All rational numbers end with a repeating string of digits. For some numbers, this string is &ldquo;0&rdquo;. In non-zero cases, the word <strong>tuni</strong> <em>repeat</em> is inserted before the repeating string. The string must be read out with individual digits.
-There are also numbers for which the repeating string can be cut in half, with digits in the second half being the negative of the digits in the first half. For these, only the first half is read out, with the word <strong>mala</strong> <em>reflect</em> inserted.
-[f]<strong>tuni guhira</strong> <em>0.5252&hellip;</em>
-[e]<strong>paqikka xita tuni guhira</strong> <em>0.15252&hellip;</em>
-[e]<strong>paqikka xita mala guhira</strong> [e]<em>0.152<overline>5</overline><overline>2</overline>52<overline>5</overline><overline>2</overline>&hellip;</em>
+All rational numbers end with a repeating string of digits. For some numbers, this string is &ldquo;0&rdquo;. In non-zero cases, the word <strong>tuni</strong> repeat is inserted before the repeating string. The string must be read out with individual digits.
+There are also numbers for which the repeating string can be cut in half, with digits in the second half being the negative of the digits in the first half. For these, only the first half is read out, with the word <strong>mala</strong> reflect inserted.
+[f]<strong>tuni guhira</strong> 0.5252&hellip;
+[e]<strong>paqikka xita tuni guhira</strong> 0.15252&hellip;
+[e]<strong>paqikka xita mala guhira</strong> 0.152<overline>5</overline><overline>2</overline>52<overline>5</overline><overline>2</overline>&hellip;
 [6]Fractions
 The suffix <strong>ki</strong> separates the numerator from the denominator. <strong>Saki</strong> is used if the numerator is 1. There is also a commonly used variant for &frac12;: <strong>&rsquo;ima</strong>. 
 [f]<strong>&rsquo;ima / saki ra</strong> &frac12;

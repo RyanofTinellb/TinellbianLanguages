@@ -46,4 +46,63 @@ def conversion(source_file, destination_file):
     with open (destination_file, "w") as destination:
         destination.write(page)
 
-conversion("Energy.txt", "Matter.txt")
+
+# @return boolean: true if first < second in tinellbian alphabetical order
+def is_in_order(first, second):
+    first, first_double_letter = make_replacements(first)
+    second, second_double_letter = make_replacements(second)
+    if first == second:
+        return False
+    for letter in zip(first, second):
+        if letter[0] == letter[1]:
+            continue
+        else:
+            letter_index = list(("aiu'pbtdcjkgmnqlrfsxh".find(i) for i in letter))
+            if letter_index[0] > letter_index[1]:
+                return False
+            else:
+                return True
+    if len(first) == len(second):
+        if first_double_letter:
+            return False
+        elif second_double_letter:
+            return True
+    elif len(first) > len(second):
+        return False
+    else:
+        return True
+
+
+def make_replacements(word):
+    double_letter = False
+    word = word.lower()
+    word = word.replace("&#x294;", "''")
+    word = word.replace("&#x2019;", "'")
+    word = word.replace("&rsquo;", "'")
+    for i in "pbtdcjkgmnqlrfsxh":
+        new = word.replace(i+i, i)
+        if new != word:
+            double_letter = True
+            word = new
+        new = word.replace("''", "\"")
+        if new != word:
+            double_letter = True
+            word = new
+    for i in "aiu":
+        word = word.replace("-" + i, "'" + i)
+    word = word.replace("-", "")
+    return word, double_letter
+
+
+def find_entry(source, entry):
+    in_entry = False
+    page = ""
+    with open(source, "r") as dictionary:
+        for line in dictionary:
+            if line[:3] == "[1]" and in_entry:
+                return page
+            elif line[:3] == "[1]" and not is_in_order(line[3:-1], entry):
+                in_entry = True
+                page += line
+            elif in_entry:
+                page += line

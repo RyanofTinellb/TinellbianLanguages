@@ -7,6 +7,7 @@ The Coelacanth Quartet
 <link rel="stylesheet" type="text/css" href="../story_main_style.css">
 </head>
 <body>
+<a href="../index.html">Return to Main Menu</a>
 {toc}
 </body>
 </html>

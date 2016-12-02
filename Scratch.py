@@ -1,5 +1,2 @@
-k = "Hey"
-l = "Moons"
-for i, v in zip(k,l):
-    print(i)
-    print(v)
+from tinellb import make_replacements
+print(make_replacements("-kku"))

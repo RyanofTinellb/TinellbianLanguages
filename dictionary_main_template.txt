@@ -9,6 +9,7 @@ Tinellbian Languages Dictionary
 <body>
 <h2>Welcome to the Tinellbian Languages Dictionary!</h2>
 <div class="content">
+<a href="../index.html">Return to Main Menu</a>
 {toc}
 </div>
 </body>

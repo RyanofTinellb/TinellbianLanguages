@@ -2,19 +2,20 @@ a {
 	color: green;
 	text-decoration: none;
 	font-size: 75%;
+	margin-left: 10%;
 }
 
 div.content {
 	width: 80%;
-	padding-top: 20px;
+	padding-top: 30px;
 	padding-bottom: 50px;
 	margin-left: 10%;
 	background-color: lightgoldenrodyellow;
-	
 }
 
+
 h1 {
-	margin-left: 10em;
+	margin-left: 10%;
 	line-height: 1;
 	font-weight: normal;
 	font-size: x-large;
