@@ -2,15 +2,767 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'a'ami.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'a'ima.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'aba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'adda.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'adi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'agga.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'aggami.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'aggini.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'agu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ahati.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'aka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'akki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ala.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ali.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'alissa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'alla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ama.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'anni.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'anu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'appu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'appuli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'aqqixi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ara.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'aru'u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'asila.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'asilari.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'assa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'axasi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'axasiri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'i'ami.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'i'isata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'i'uja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'idu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'iffa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ifuhhanaku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ihafi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ikka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'iku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ilasa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ilu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ima.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'isaki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'isili.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'issa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'issi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'issu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ita'i'assa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ita'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'iti.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'itikku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ittika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ixxa'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ixxa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'u'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'u'ili.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'uccadama.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'udi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'uhu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ulanu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'umi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'usa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'usaju'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'usapacca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'usi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ussa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ussaba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'ussi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'usu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/'uxxi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-ahi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-aku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-atinna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-ffi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-fi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-illu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-ini.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-kku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-ssasu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-ssiji.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-uju.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/-ulu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/Guozu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/Naengi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/Naqi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/Nuobi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/Sa'imi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ba'u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/baca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bada.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/baju.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bajukunubi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/banara.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/basa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/basi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bassa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/batu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/batuja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bi'u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bibu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bijaju.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bila.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bitta.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/buccata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bufi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bufiqi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bufitila.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/buma.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bumaki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bumissi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/bunali.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/buqqi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/busatta.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ca'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ca'alla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ca'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cabahi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/caga.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cakassu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cakina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/calluna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/calu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cani.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ci''a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cica.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cijja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cikki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cipu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ciqu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cissa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cu'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cula.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cura'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cura.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/curri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cussa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cussi'ala.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/cussi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/da'aru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/da'u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/da.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/danagi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/danna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dapi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/daru'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/daru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/daruli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dasa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dasi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dasu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dasutila.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dattu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dattusa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/daxuni.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/di.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dihiqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/diru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/disa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/disi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/disinnamuka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dissu'ahati.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dissu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dixxa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/du'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/duci.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ducinibasa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/duha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dukku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/duku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dumi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dura.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dusi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/dusuni.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fa''a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fa'aka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fa'ida.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fada.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fajuli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/faluki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/famati.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/famu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fana.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fara.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/farra.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fasa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fasami.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/faxi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fi'atu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fibaku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/filli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fiqqala.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fiqu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fuhha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/fula.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/funi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ga'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ga'iniqqi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ga.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gaca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gakka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/galaffidu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gaxiki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gi'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gi'ika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gibi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/girammi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gufu'iri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/guhi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gupi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/guqqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gurrisu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gusu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/gusuli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hafi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/haki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/halu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hannaku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/haru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hassifula.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hasuki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hatanu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hibu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hila.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hiqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hisu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hu'asa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/huba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hulla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hulu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/huri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/husabi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/hussu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jagaru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jaha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jala.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jalla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jami.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jana.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/janni.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ji'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ji'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ji.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jifiru'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jiqu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jisuka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ju'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ju'iduku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ju'ipu'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/julliga.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jusi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/jusiti.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ka''a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ka'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ka'u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kaca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kadu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kadusi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kahi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kalu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kamiri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kanama.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kanu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kaqqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/karafi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kari.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/karra.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/karu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kasa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kasi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kasika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kassi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kassu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kasuja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kati.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/katiru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ki''a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kibba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kica.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kicu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kiffaculi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kifi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kilatu'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kiluqu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kimilli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kipacca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kipu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kirallu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kissa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kitisu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kixa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kixina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kixxita.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kuddu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kuffa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kuli'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kuli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kulu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kunaqi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kunubi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kupira.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kuppu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kuxalu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/kuxxu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/la'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/la'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/la.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/labu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ladi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/laffi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lagi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lahha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/laji.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lajja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lakatti.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lakka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lalu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lannaga.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lannuhu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/laqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/laqqu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/laqura.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lara.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/laru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lasakka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lassi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lasu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lati.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/li'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/li.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lica.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lidita.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/liffa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lilu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/limma.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/linu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/liqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lisa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lisanu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lisina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lisu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lu'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lu'iki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/luffu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/luffuxita.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/luka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lukku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lulani.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lumi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/luna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/lupumma.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/luxi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ma''u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ma'iki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ma.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mabarri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/madi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/madusi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/majja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/maku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mala.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/malaki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mali.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/malliju.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mallu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/malu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mana.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/manafa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mari.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/marika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/masi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/masula.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/matirra.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/matta.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mi'ula.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mi'ulla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mica.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mici.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mifasu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mihu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mikkuddu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/miku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/milami.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/millu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mimu'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mina''i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/miru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/missu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mituja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/muka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/muli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mulikki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mulisa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mullu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mulu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mulukku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/munika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/muru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/musa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/musaqu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/mussa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/na'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/na'ipa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/na.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nacca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/naci.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nada.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nagi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nakaku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/naku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nali.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nallimi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/naludu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nama.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/napuxi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/naqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nara.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/narra.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/naru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nasi''u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nassa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nasufi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/natiha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/natu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ni.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/niddi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nidu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/niga.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nikili.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nimalu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/niqqi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nisa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nisanna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nittu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nu'ifi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nubi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nudda.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nufira.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nufirahi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nuhu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nuhubatu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nuki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nukki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nuku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nulina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nullasu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nulli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nura.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nuru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/nussa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pa'aka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pa'usa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pacca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/paccafuni.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pada.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pagi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pagu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/paguqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/paji.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pajiga.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pakicu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pamana.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pamasi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pamilami.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pana'ifu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pani.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pannaxa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/panu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/papa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/paraba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/piba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pibi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pifa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/piha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/piku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pini.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pixi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pu'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pu'iba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/puca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pura.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/purakassu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/purillu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/purissiji.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/pusu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/puttu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/puxila.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qa''iku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qa'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qacca'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qacca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qala.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qapi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qarri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qasa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qaxa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qikanni.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qikka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qilu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qira.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qixa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qu'u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/quffi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/quhha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/quhu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/quliru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qumalli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/qumu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/quxi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ra''asa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ra'u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ra.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/rabaci.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/raca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/raddilla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/rali.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ranira.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ranna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/raqu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/rasi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ri'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ri.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/rica.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/riccu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/rika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/rila.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/rili.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/risu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ru'iha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ruba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ruci.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ruku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/rusa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sa'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sabba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sabi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sabilla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sabufi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sacu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sadadu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/saggi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sahha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/saja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sajimu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sajja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/saki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sala.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/salari.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/salilu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/salumi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/salura.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sama.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/samma.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sani.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/saniki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sanna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sannaca'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/saqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/saqala.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/saqqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sara.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sarru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/satadu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/satta.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/saxxuru.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/si'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/si'apa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/si.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sicu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sida.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sija.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sikka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/siku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sikuffi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/silla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/silu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sinna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sippa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/siqi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sisa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/soul.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/su'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/su'usi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/su.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/subtle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/suda.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sufi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/suki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sukki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sula.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/suma.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sumika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sunu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/supu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/suqa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/surra.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sussi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sutta.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/sutti.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ta'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/ta.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tacala.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tacuca.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/taka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/takki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/takkulu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/taku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tali.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tana.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tanna.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tara.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tasa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tasi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tiba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tibara.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tiha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tihu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tika.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tiku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tila.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tinalli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tirusi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tisaka.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tissa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tissini.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tu'afu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tu'i.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tu'uci.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tuci.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tucinaci.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tuhi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tuhinuhu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tuja.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tujatihu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tukaga.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tukkuni.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tuni.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/tupa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/turassi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/turu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/turulu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xa''a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xa''u.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xa'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xaba.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xaha.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xaki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xakila.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xalli.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xanaki.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xasagi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xati.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xibbuti.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xidu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xiku.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xissata.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xita.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xu''a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xu'a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xuci.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xudi.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xuga.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dictionary/xuhhi.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/'ifuhhanaku.html" afterPath="$PROJECT_DIR$/dictionary/'ifuhhanaku.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create Pages.py" afterPath="$PROJECT_DIR$/Create Pages.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlPage.py" afterPath="$PROJECT_DIR$/HtmlPage.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/index.html" afterPath="$PROJECT_DIR$/dictionary/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/pibi.html" afterPath="$PROJECT_DIR$/dictionary/pibi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/pini.html" afterPath="$PROJECT_DIR$/dictionary/pini.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/tiba.html" afterPath="$PROJECT_DIR$/dictionary/tiba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/tika.html" afterPath="$PROJECT_DIR$/dictionary/tika.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_data.txt" afterPath="$PROJECT_DIR$/dictionary_data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_main_style.css" afterPath="$PROJECT_DIR$/dictionary_main_style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_main_template.txt" afterPath="$PROJECT_DIR$/dictionary_main_template.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_template.txt" afterPath="$PROJECT_DIR$/dictionary_template.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_dictionary.py" afterPath="$PROJECT_DIR$/edit_dictionary.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/colours.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/colours.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/kinship.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/kinship.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/numbers.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/numbers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/adjectives.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/adjectives.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/adpositions.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/adpositions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/adverbs.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/adverbs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/auxiliaries.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/auxiliaries.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/conjunctions.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/conjunctions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/nouns.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/nouns.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/particles.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/particles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/suffixes.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/suffixes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/verbs.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/verbs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/consonants.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/consonants.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/phonotactics.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/phonotactics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/suprasegmentals.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/suprasegmentals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/vowels.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/vowels.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/argumentpromotion.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/argumentpromotion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/case.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/case.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/comparatives.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/comparatives.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/dependentclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/dependentclauses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/gerunds.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/gerunds.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/matrixclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/matrixclauses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/nounphrases.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/nounphrases.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/particularclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/particularclauses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/index.html" afterPath="$PROJECT_DIR$/grammar/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/externalhistory.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/externalhistory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/index.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/internalhistory.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/internalhistory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/index.html" afterPath="$PROJECT_DIR$/grammar/introduction/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_data.txt" afterPath="$PROJECT_DIR$/grammar_data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_main_template.txt" afterPath="$PROJECT_DIR$/grammar_main_template.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/index.html" afterPath="$PROJECT_DIR$/story/english/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/thecrackledegg/index.html" afterPath="$PROJECT_DIR$/story/english/thecrackledegg/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" afterPath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/feather-becomingegg/index.html" afterPath="$PROJECT_DIR$/story/gloss/feather-becomingegg/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" afterPath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/index.html" afterPath="$PROJECT_DIR$/story/gloss/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/index.html" afterPath="$PROJECT_DIR$/story/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/index.html" afterPath="$PROJECT_DIR$/story/tinellbian/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/index.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/index.html" afterPath="$PROJECT_DIR$/story/transliteration/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" afterPath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/xucinagicula/index.html" afterPath="$PROJECT_DIR$/story/transliteration/xucinagicula/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_main_template.txt" afterPath="$PROJECT_DIR$/story_main_template.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tinellb.py" afterPath="$PROJECT_DIR$/tinellb.py" />
     </list>
     <ignored path="TinellbianLanguages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,11 +782,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Create Pages.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Create Pages.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Create Pages.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="25" />
+              <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -43,8 +795,8 @@
       <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HtmlPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6250">
-              <caret line="251" column="31" lean-forward="false" selection-start-line="251" selection-start-column="31" selection-end-line="251" selection-end-column="31" />
+            <state relative-caret-position="4575">
+              <caret line="184" column="14" lean-forward="false" selection-start-line="184" selection-start-column="14" selection-end-line="184" selection-end-column="14" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -62,11 +814,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit_dictionary.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="edit_dictionary.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="30" column="45" lean-forward="false" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+            <state relative-caret-position="507">
+              <caret line="51" column="32" lean-forward="false" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -77,8 +829,8 @@
       <file leaf-file-name="tinellb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tinellb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2525">
-              <caret line="101" column="46" lean-forward="false" selection-start-line="101" selection-start-column="46" selection-end-line="101" selection-end-column="46" />
+            <state relative-caret-position="2575">
+              <caret line="103" column="32" lean-forward="false" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -121,6 +873,8 @@
       <find>which</find>
       <find>tab</find>
       <find>wrap</find>
+      <find>style</find>
+      <find>styles</find>
     </findStrings>
     <replaceStrings>
       <replace>str(generation)</replace>
@@ -167,10 +921,10 @@
         <option value="$PROJECT_DIR$/tinellbian_conversion.py" />
         <option value="$PROJECT_DIR$/edit_page.py" />
         <option value="$PROJECT_DIR$/Scratch.py" />
-        <option value="$PROJECT_DIR$/HtmlPage.py" />
-        <option value="$PROJECT_DIR$/tinellb.py" />
-        <option value="$PROJECT_DIR$/Create Pages.py" />
         <option value="$PROJECT_DIR$/edit_grammar.py" />
+        <option value="$PROJECT_DIR$/HtmlPage.py" />
+        <option value="$PROJECT_DIR$/Create Pages.py" />
+        <option value="$PROJECT_DIR$/tinellb.py" />
         <option value="$PROJECT_DIR$/edit_dictionary.py" />
       </list>
     </option>
@@ -178,7 +932,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
-    <option name="width" value="1934" />
+    <option name="width" value="1942" />
     <option name="height" value="1042" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -218,7 +972,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -248,6 +1001,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -270,7 +1024,7 @@
       <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\coding" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.edit_dictionary">
+  <component name="RunManager" selected="Python.Create Pages">
     <configuration default="false" name="Create Pages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -499,9 +1253,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.edit_dictionary" />
-        <item index="1" class="java.lang.String" itemvalue="Python.edit_grammar" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Create Pages" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Create Pages" />
+        <item index="1" class="java.lang.String" itemvalue="Python.edit_dictionary" />
+        <item index="2" class="java.lang.String" itemvalue="Python.edit_grammar" />
         <item index="3" class="java.lang.String" itemvalue="Python.Scratch" />
         <item index="4" class="java.lang.String" itemvalue="Python.tinellb" />
       </list>
@@ -530,10 +1284,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1934" height="1042" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21618743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21367975" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -601,7 +1355,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="61" />
+      <option name="time" value="62" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -701,32 +1455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tinellb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2525">
-          <caret line="101" column="46" lean-forward="false" selection-start-line="101" selection-start-column="46" selection-end-line="101" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HtmlPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6250">
-          <caret line="251" column="31" lean-forward="false" selection-start-line="251" selection-start-column="31" selection-end-line="251" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Create Pages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/edit_grammar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -735,13 +1463,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HtmlPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4575">
+          <caret line="184" column="14" lean-forward="false" selection-start-line="184" selection-start-column="14" selection-end-line="184" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tinellb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="103" column="32" lean-forward="false" selection-start-line="103" selection-start-column="32" selection-end-line="103" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="30" column="45" lean-forward="false" selection-start-line="30" selection-start-column="45" selection-end-line="30" selection-end-column="45" />
+        <state relative-caret-position="507">
+          <caret line="51" column="32" lean-forward="false" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Create Pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>

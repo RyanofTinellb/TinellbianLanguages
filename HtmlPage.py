@@ -182,6 +182,8 @@ class HtmlPage:
         line = "<link rel=\"stylesheet\" type=\"text/css\" href=\""
         line += levels * "../"
         line += self.stylesheet + "\">\n"
+        line += "<link rel=\"icon\" type=\"image/png\" href=\""
+        line += levels * "../" + "favicon.png\">\n"
         return line
 
     def get_content(self):
@@ -193,13 +195,13 @@ class HtmlPage:
         generation = self.heading_node.get_generation()
         for line in self.content:
             if in_table:
-                if line[:4] != "[\\t]":
+                if line[:4] != "[/t]":
                     table.append(line)
                 else:
                     text += self.make_table(table)
                     in_table = False
             elif in_list:
-                if line[:4] not in ["[\\l]", "[\\n]"]:
+                if line[:4] not in ["[/l]", "[/n]"]:
                     u_list.append(line)
                 else:
                     text += self.make_list(u_list, line[2])

@@ -1,30 +1,43 @@
-a {
-	color: green;
-	text-decoration: none;
-	font-size: 75%;
-	margin-left: 10%;
-}
-
 div.content {
 	width: 80%;
-	padding-top: 30px;
-	padding-bottom: 50px;
 	margin-left: 10%;
 	background-color: lightgoldenrodyellow;
+	padding-bottom: 2em;
 }
 
-
-h1 {
-	margin-left: 10%;
-	line-height: 1;
-	font-weight: normal;
-	font-size: x-large;
+h1 a {
+	font-size: xx-large;
+	margin-left: 12%;
+	text-decoration: underline;
 }
 
 h2 {
+	font-size: medium;
+	line-height: 0.5;
+	margin-left: 6%;
+}
+
+div.welcome {
+	font-size: 45;
+	font-family: serif;
+	padding-bottom: 1em;
 	padding-top: 1em;
-	margin-left: 5em;
-	font-size: xx-large;
+	text-align: center;
+	font-weight: bold;
+	color: blue;
+}
+
+div.return {
+	padding-top: 2em;
+	font-size: large;
+}
+
+a {
+	line-height: 1;
+	color: green;
+	margin-left: 10%;
+	text-decoration: none;
+	font-weight: normal;
 }
 
 body {

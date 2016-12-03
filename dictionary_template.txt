@@ -10,6 +10,8 @@
 </div>
 <div class="content">
 {content}
+{toc}
+<p><br></p>
 </div>
 <div class="nav-footer">
 {nav-footer}

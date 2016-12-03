@@ -10,7 +10,6 @@ Despite their shared language, as more time went by, fractures again showed betw
 One such group were the Fezhl&ecirc;. They found themselves on a world already inhabited by the Zhaladi. The Fezhl&ecirc; tongue evolved independently from Lulani, and was influenced by Zhaladi dialects.
 The people that remained on Ptoko slowly grew back towards peace. Their vernacular evolved into Ptokan, and thence into Tsarin. By the time of Tsarin, Lulani was used only for science and the arts, not for everyday use.
 Tsarin was spoken in the realm of Tsarein.
-<img src="../../../language_family_tree.jpg">
 [l]HL: High Lulani
 VL: Vulgar Lulani
 EF: Early Fezhl&ecirc;
@@ -31,7 +30,7 @@ AB: Archaic Brequ&egrave;n
 CB: Common Brequ&egrave;n
 CS: Classical Solajin
 MS: Modern Solajin
-[\l]
+[/l]
 [3]External History
 I have been interested in language and linguistics since at least the age of 10. I remember making up words when I was quite young. In fact, the High Lulani word <strong>mica</strong> <em>hello</em> dates from that time.
 When I decided to write a novel, a constructed language (conlang) was an obvious prospect for inclusion in the background information. I had the beginnings of what were to be the Ptokan language, and the language of the Fezhl&ecirc;. This latter language was once designed as a daughter language of Ptokan, but it had some features, mostly phonological, that seemed to come from an earlier language. Thus was Lulani born. Originally intended to be a phonology sketch, Lulani has expanded greatly into a language in its own right. So much so, in fact, that Ptokan and Fezhl&ecirc; have been forced to change somewhat to adapt.
@@ -77,7 +76,7 @@ s
 &#x255; &lt;x&gt;
 
 h
-[\t]
+[/t]
 This table shows the consonants phonemically, using the International Phonetic Alphabet. Where it differs from IPA, the transliteration is given in &lt;triangular brackets&gt;. Capital or geminate glottal stops are transliterated with &lt;&#x294;&gt;.
 [4]Stops
 Plosives are differentiated by voicing, although voiced consonants tend to be rarer than their voiceless counterparts.
@@ -189,7 +188,7 @@ u
 a
 
 
-[\t]
+[/t]
 There are three phonemic vowels: two close vowels and one open. These are given in the above chart, with the variant allophones in (round brackets). The central and mid vowels are considered the lax variants, while the lengthened vowels are long.
 [4]Front
 The front close vowel is unrounded. It is realised as /i/ or /&#x268;/.
@@ -275,7 +274,7 @@ pagu
 ba
 disi
 qa
-[\t]
+[/t]
 <strong>Case</strong> will be discussed in a later section.
 [6]Person
 <strong>First person</strong> refers to the speaker or speakers, and any group for whom they are speaking.
@@ -358,7 +357,7 @@ batuja
 mituja
 fana
 fana
-[\t]
+[/t]
 [l]The pronouns in the <strong>object</strong> column are used for people and things.
 The <strong>place</strong> column pronouns are used for locations in both space and time.
 The <strong>manner</strong> column is used to refer to the way in which an action is undertaken, and
@@ -370,7 +369,7 @@ The <strong>state</strong> column refers to the condition of a thing.
 <strong>Negative</strong> pronouns are used in negative sentences.
 <strong>Universal</strong> means &ldquo;all&rdquo; or &ldquo;every&rdquo;,
 <strong>Existential</strong> means &ldquo;some&rdquo; or &ldquo;any&rdquo;.
-[\l]
+[/l]
 The &lsquo;object&rsquo; indefinite pronouns can modify a noun when used as a suffix. When <strong>cu&rsquo;i</strong> <em>nothing</em> is used as a suffix, it loses its last syllable. When <strong>&rsquo;umi</strong> <em>something</em> is used as a suffix, it loses its first syllable.
 [f]<strong>takacu</strong> <em>no sound</em>
 [e]<strong>manafamari</strong> <em>this country</em>
@@ -404,7 +403,7 @@ There is a special class of verbs that allow one noun to modify another in a par
 <strong>pi</strong> <em>giving</em>
 <strong>taku</strong> <em>for</em>
 <strong>hu</strong> 
-[\l]
+[/l]
 
 [f]<strong>sinnaqixa gusuli</strong>
 [e]<em>story-doing person</em>
@@ -505,7 +504,7 @@ nagi
 funi
 hu
 ruku
-[\t]
+[/t]
 Auxiliary stacking gives a poetic or archaic nuance.
 [f]<strong>&#x294;usu rusarukuru lu&rsquo;i fu</strong>.
 [e]<em>1</em><small-caps>int pst;gno-fut;gno-prs;gno</small-caps> <em>love 2</em><small-caps>tra.</small-caps>
@@ -850,7 +849,7 @@ main noun
 -adjective
 -conjunction
 -genitive marker
-[\n]
+[/n]
 Hyphens in this list are used to mark where a space is not used to separate components.
 Relative clauses include intransitives.
 The only compulsory component of a noun phrase is the noun itself.

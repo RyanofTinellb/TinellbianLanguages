@@ -5,11 +5,12 @@
 Tinellbian Languages Dictionary
 </title>
 <link rel="stylesheet" type="text/css" href="../dictionary_main_style.css">
+<link rel="icon" type="image/png" href="../favicon.png">
 </head>
 <body>
-<h2>Welcome to the Tinellbian Languages Dictionary!</h2>
+<div class="welcome">Welcome to the Tinellbian Languages Dictionary!</div>
 <div class="content">
-<a href="../index.html">Return to Main Menu</a>
+<div class="return"><a href="../index.html">Return to Main Menu</a></div>
 {toc}
 </div>
 </body>

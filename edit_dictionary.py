@@ -30,7 +30,6 @@ class EditDictionary(tk.Frame):
         self.edit_text = tk.Text(self, height=25, width=105, font=('Calibri', '15'))
         self.edit_text.grid(row=1, rowspan=19)
 
-
     def bring_entry(self):
         entry = self.heading.get(1.0, tk.END+"-1c")
         self.old_page = find_entry("dictionary_data.txt", entry)
@@ -50,7 +49,7 @@ class EditDictionary(tk.Frame):
 
     @staticmethod
     def publish():
-        HtmlPage("dictionary", 1)
+        HtmlPage("dictionary", 2)
 
     def make_replacements(self, text, to_markup=True):
         if not len(self.markup):
