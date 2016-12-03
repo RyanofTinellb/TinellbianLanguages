@@ -50,6 +50,7 @@ class EditDictionary(tk.Frame):
     @staticmethod
     def publish():
         HtmlPage("dictionary", 2)
+        self.edit_text.delete(1.0, tk.END)
 
     def make_replacements(self, text, to_markup=True):
         if not len(self.markup):
