@@ -40,6 +40,7 @@
 &#x272;,&npalatal;
 &#x273;,&nretro;
 &#x252;,&oback;
+&#x14d;,&omacron;
 &#x254;,&openo;
 &#x279;,&rturned;
 &#x259;,&schwa;
