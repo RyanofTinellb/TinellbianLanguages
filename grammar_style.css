@@ -121,13 +121,3 @@ div.glossary {
 	margin: auto;
 	padding-left: 7em;
 }
-
-@media screen and (max-width: 1000) {
-	div.glossary {	-webkit-column-count: 3; /* Chrome, Safari, Opera */
-    -moz-column-count: 3; /* Firefox */
-    column-count: 1;
-	text-indent: 0em;
-	margin: auto;
-	padding-left: 7em;
-	}
-}
