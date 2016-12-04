@@ -112,3 +112,12 @@ div.toc a {
 	line-height: 1;
 	margin-left: 15em;
 }
+
+div.glossary {
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+	text-indent: 0em;
+	margin: auto;
+	padding-left: 7em;
+}

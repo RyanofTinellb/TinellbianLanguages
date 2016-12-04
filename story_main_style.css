@@ -10,6 +10,7 @@ small-caps {
 a {
 	color: black;
 	text-decoration: none;
+	font-weight: bold;
 }
 
 h1 {
@@ -19,7 +20,9 @@ h1 {
 }
 
 h1:before {
-	content: "* ";
+	content: "\2605";
+	font-size: large;
+	margin-right: 0.5em;
 }
 
 h2 {
@@ -47,4 +50,14 @@ span.tinellbian:before {
 
 span.tinellbian:after {
 	content: "\202c";
+}
+
+p {
+	font-size: large;
+	text-indent: 2em;
+	margin-top: 2em;
+	margin-left: 5em;
+	margin-right: 7em;
+	line-height: 2;
+	text-align: justify;
 }
