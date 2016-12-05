@@ -1,5 +1,7 @@
-with open("story_data.txt", "r") as f:
-    for line in f:
-        for k in line:
-            if ord(k) > 128:
-                print(line)
+from Directory import *
+
+d = Directory("story_data.txt", "story")
+k = d.get_root()
+k = k.children[4]
+for i in k.get_cousins():
+    print i.name

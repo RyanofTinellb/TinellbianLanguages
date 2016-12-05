@@ -6545,7 +6545,7 @@ gnomic
 [6]stem attributive
 resembling
 [7]Example
-<strong><a href="../q/qikanni.html">Qikanni</a>labu <a href="../h/hannaku.html">hannaku</a></a> <em>the cat that looks like a dog</em>
+<strong><a href="../q/qikanni.html">Qikanni</a>labu <a href="../h/hannaku.html">hannaku</a></strong> <em>the cat that looks like a dog</em>
 
 [2]lati
 [3]High Lulani

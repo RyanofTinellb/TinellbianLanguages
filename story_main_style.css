@@ -61,3 +61,32 @@ p {
 	line-height: 2;
 	text-align: justify;
 }
+
+p.title {
+	font-family: "lucida handwriting", fantasy;
+	font-size: xx-large;
+	font-weight: bold;
+	text-decoration: underline;
+	font-style: italic;
+	color: green;
+}
+
+p.forward {
+	font-size: x-large;
+	font-weight: bold;
+	margin: 0;
+	margin-left: 15em;
+	padding-top: 0;
+	padding-bottom: 0;
+	line-height: 2;
+}
+
+p.return {
+	font-size: x-large;
+	font-weight: bold;
+	margin: 0;
+	margin-left: 5em;
+	padding-top: 0;
+	padding-bottom: 0;
+	line-height: 2;
+}

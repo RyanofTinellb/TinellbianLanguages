@@ -17,6 +17,7 @@ div.nav-header {
 	padding-left: 10%;
 	padding-right: 10%;
 	margin: 0;
+	font-family: sans-serif;
 }
 
 div.nav-header a {
@@ -26,14 +27,13 @@ div.nav-header a {
 	text-decoration: none;
 }
 div.nav-footer {
-	text-align: center;
-	float: top center;
 	background-color: cadetblue;
 	padding-top: 0;
 	padding-bottom: 0;
 	padding-left: 10%;
 	padding-right: 10%;
 	margin: 0;
+	font-family: sans-serif;
 }
 
 div.nav-footer a {
@@ -96,12 +96,16 @@ p.example_no_lines {
 	line-height: 1;
 }
 
-p.left {
+div.left {
 	float: left;
 }
 
-p.right {
+div.right {
 	float: right;
+}
+
+div.centre {
+	text-align: center;
 }
 
 div.toc a {

@@ -27,8 +27,14 @@ div.welcome {
 	color: blue;
 }
 
-div.return {
+p.return {
 	padding-top: 2em;
+	font-size: large;
+	margin: 0;
+}
+ 
+p.forward {
+	margin-left: 15%;
 	font-size: large;
 }
 
@@ -38,6 +44,21 @@ a {
 	margin-left: 10%;
 	text-decoration: none;
 	font-weight: normal;
+}
+
+div.justify {
+	text-align: center;
+	margin-bottom: 2em;
+	letter-spacing: 2em;
+}
+
+div.justify a {
+    width: 50%;
+	margin-left: 0;
+	color: blue;
+	font-weight: bold;
+	font-size: x-large;
+	letter-spacing: 0em;
 }
 
 body {

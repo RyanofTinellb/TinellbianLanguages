@@ -104,3 +104,18 @@ class Node:
         except IndexError:
             right = self.get_next_node_iter(node.parent)
         return right
+
+    def get_cousins(self):
+        node = self
+        indices = []
+        while node.parent is not None:
+            indices.insert(0, node.parent.children.index(node))
+            node = node.parent
+        indices.pop(0)
+        cousins = []
+        for child in node.children:
+            cousin = child
+            for index in indices:
+                cousin = cousin.children[index]
+            cousins.append(cousin)
+        return cousins

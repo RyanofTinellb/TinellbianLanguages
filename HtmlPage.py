@@ -12,7 +12,9 @@ class HtmlPage:
         source_file = destination + "_data.txt"
         template_file = destination + "_template.txt"
         stylesheet = destination + "_style.css"
-        self.directory = Directory(source_file, destination)
+        self.alphabet = "aiupbtdcjkgmnqlrfsxh"
+        self.directory = Directory(source_file, destination.capitalize())
+        self.root = self.directory.get_root()
         self.destination = destination
         self.template_file = template_file
         self.leaf_level = leaf_level
@@ -55,7 +57,14 @@ class HtmlPage:
                 elif text == "{toc}":
                     page += self.get_toc()
                 elif text == "{nav-header}":
-                    page += self.get_nav_header()
+                    if self.destination == "grammar":
+                        page += self.get_nav_header_grammar()
+                    elif self.destination == "story":
+                        page += self.get_nav_header_story()
+                    elif self.destination == "dictionary":
+                        page += self.get_nav_header_dictionary()
+                    else:
+                        pass
                 elif text == "{nav-footer}":
                     page += self.get_nav_footer()
                 elif text == "{stylesheet}":
@@ -110,21 +119,32 @@ class HtmlPage:
                 text += child.name + "</a></p>\n"
         return text
 
-    def get_nav_header(self):
+    def get_nav_header_grammar(self):
         text = ""
-        ancestry = self.heading_node.get_ancestors()
-        ancestry = ancestry[1:]
-        for ancestor in ancestry:
-            level = ancestor.get_generation()
-            if level < self.leaf_level:
-                file_name = "/index.html"
-            else:
-                file_name = ".html"
-            level = self.leaf_level - level
-            text += "<p><a href=\"" + (level * "../") + self.name_in_url_form(ancestor) + file_name + "\">"
-            text += ancestor.name + "</a></p>\n"
         level = self.heading_node.get_generation()
-        sisters = []
+        ancestry = self.heading_node.get_ancestors()
+        # top-level links
+        for subject, direction, arrow, in \
+                zip(["dictionary", "story"], ["left", "right"], ["&nwarr; $", "$ &nearr;"]):
+            text += "<div class=\"" + direction + "\"><a href=\"" + (level + (level != self.leaf_level)) * "../"
+            text += subject + "/index.html\">" + arrow.replace("$", subject.capitalize()) + "</a></div>\n"
+        # medium-level side links
+        for ancestor_level, ancestor in enumerate(ancestry):
+            for index, arrow, direction in zip([-1, 1], ["&#x2190; $", "$ &#x2192;"], ["left", "right"]):
+                try:
+                    sister = ancestor.get_sister(index)
+                    nav = "<div class=\"" + direction + "\"><a href=\""
+                    nav += (level - ancestor_level + (level != self.leaf_level)) * "../"
+                    nav += self.name_in_url_form(sister)
+                    nav += "/index.html\">"
+                    nav += arrow.replace("$", sister.name)
+                    nav += "</a></div>\n"
+                    text += nav
+                except (IndexError, AttributeError):
+                    pass
+            text += "<div class=\"centre\"><a href=\""
+            text += (level - ancestor_level - (level == self.leaf_level)) * "../"
+            text += "index.html\">" + ancestor.name + "</a></div>\n"
         if level < self.leaf_level:
             file_name = "../$/index.html"
         else:
@@ -132,11 +152,124 @@ class HtmlPage:
         for index, arrow, direction in zip([-1, 1], ["&#x2190; $", "$ &#x2192;"], ["left", "right"]):
             try:
                 sister = self.heading_node.get_sister(index)
-                nav = "<p class=\"" + direction + "\"><a href=\""
+                nav = "<div class=\"" + direction + "\"><a href=\""
                 nav += file_name.replace("$", self.name_in_url_form(sister))
                 nav += "\">"
                 nav += arrow.replace("$", sister.name)
-                nav += "</a></p>"
+                nav += "</a></div>\n"
+                text += nav
+            except IndexError:
+                pass
+        text += "<div style=\"clear: both;\"></div>"
+        return text
+
+    def get_nav_header_story(self):
+        text = ""
+        level = self.heading_node.get_generation()
+        # top-level links
+        for subject, direction, arrow, in \
+                zip(["grammar", "dictionary"], ["left", "right"], ["&nwarr; $", "$ &nearr;"]):
+            text += "<div class=\"" + direction + "\"><a href=\"" + (level + (level != self.leaf_level)) * "../"
+            text += subject + "/index.html\">" + arrow.replace("$", subject.capitalize()) + "</a></div>\n"
+        # medium-level side links
+        text += "<div class=\"centre\"><a href=\""
+        text += (level - (level == self.leaf_level)) * "../"
+        text += "index.html\">Story</a></div>\n"
+        text += "<div class=\"cousins\">"
+        categories = [i.name for i in self.root.children]
+        for cousin, category in zip(self.heading_node.get_cousins(), categories):
+            if self.heading_node is cousin:
+                continue
+            text += "<a href=\"" + (level - (level == self.leaf_level)) * "../"
+            ancestors = cousin.get_ancestors()
+            ancestors.pop(0)
+            for ancestor in ancestors:
+                text += self.name_in_url_form(ancestor) + "/"
+            text += self.name_in_url_form(cousin)
+            if level == self.leaf_level:
+                text += ".html\">"
+            else:
+                text += "/index.html\">"
+            text += category + "</a>\n"
+        text += "</div>"
+        if level >= 2:
+            ancestry = self.heading_node.get_ancestors()
+            ancestry.pop(0)
+            # medium-level side links
+            for a_level, ancestor in enumerate(ancestry):
+                ancestor_level = a_level + 1
+                if a_level:
+                    for index, arrow, direction in zip([-1, 1], ["&#x2190; $", "$ &#x2192;"], ["left", "right"]):
+                        try:
+                            sister = ancestor.get_sister(index)
+                            nav = "<div class=\"" + direction + "\"><a href=\""
+                            nav += (level - ancestor_level + (level != self.leaf_level)) * "../"
+                            nav += self.name_in_url_form(sister)
+                            nav += "/index.html\">"
+                            nav += arrow.replace("$", sister.name)
+                            nav += "</a></div>\n"
+                            text += nav
+                        except (IndexError, AttributeError):
+                            pass
+                text += "<div class=\"centre\"><a href=\""
+                text += (level - ancestor_level - (level == self.leaf_level)) * "../"
+                text += "index.html\">" + ancestor.name + "</a></div>\n"
+            if level < self.leaf_level:
+                file_name = "../$/index.html"
+            else:
+                file_name = "$.html"
+            for index, arrow, direction in zip([-1, 1], ["&#x2190; $", "$ &#x2192;"], ["left", "right"]):
+                try:
+                    sister = self.heading_node.get_sister(index)
+                    nav = "<div class=\"" + direction + "\"><a href=\""
+                    nav += file_name.replace("$", self.name_in_url_form(sister))
+                    nav += "\">"
+                    nav += arrow.replace("$", sister.name)
+                    nav += "</a></div>\n"
+                    text += nav
+                except IndexError:
+                    pass
+            text += "<div style=\"clear: both;\"></div>"
+        return text
+
+    def get_nav_header_dictionary(self):
+        text = ""
+        level = self.heading_node.get_generation()
+        ancestry = self.heading_node.get_ancestors()
+        # top-level links
+        for subject, direction, arrow, in \
+                zip(["grammar", "story"], ["left", "right"], ["&nwarr; $", "$ &nearr;"]):
+            text += "<div class=\"" + direction + "\"><a href=\"" + (level + (level != self.leaf_level)) * "../"
+            text += subject + "/index.html\">" + arrow.replace("$", subject.capitalize()) + "</a></div>\n"
+        text += "<div class=\"centre\"><a href=\"../index.html\">Dictionary</a></div>\n"
+        text += "<div class=\"justify\">\n"
+        name = self.name_in_url_form(self.heading_node)
+        initial = ""
+        for character in name:
+            if character in self.alphabet:
+                initial = character
+                break
+        for letter in self.alphabet:
+            if letter != initial:
+                text += "<a href=\"../" + letter + "/index.html\">" + letter.capitalize() + "</a> \n"
+            elif level != self.leaf_level:
+                text += "<span class=\"normal\">" + letter.capitalize() + "</span> "
+            else:
+                text += "<a href=\"../" + letter + "/index.html\"><span class=\"normal\">"
+                text += letter.capitalize() + "</span></a> \n "
+        text += "</div>\n"
+        if level < self.leaf_level:
+            file_name = "../$/index.html"
+        else:
+            file_name = "$.html"
+        for index, arrow, direction in zip([-1, 1], ["&#x2190; $", "$ &#x2192;"], ["left", "right"]):
+            try:
+                sister = self.heading_node.get_sister(index)
+                nav = "<div class=\"" + direction + "\"><a href=\""
+                nav += file_name.replace("$", self.name_in_url_form(sister))
+                nav += "\">"
+                nav += arrow.replace("$", sister.name)
+                nav += "</a></div>\n"
                 text += nav
             except IndexError:
                 pass
@@ -147,30 +280,30 @@ class HtmlPage:
         level = self.heading_node.get_generation()
         text = ""
         if level < self.leaf_level:
-            text += "<p class=\"left\">"
+            text += "<div class=\"left\">"
             text += "<a href=\"../index.html\">"
-            text += "&#x2191; Go up one level</a></p>\n"
+            text += "&#x2191; Go up one level</a></div>\n"
         else:
-            text += "<p class=\"left\">"
+            text += "<div class=\"left\">"
             text += "<a href=\"index.html\">"
-            text += "&#x2191; Go up one level</a></p>\n"
+            text += "&#x2191; Go up one level</a></div>\n"
         try:
             node = self.heading_node.get_next_node(self.leaf_level)
         except IndexError:
-            text += "<p class=\"right\"><a href=\"" + (level - 1) * "../"
+            text += "<div class=\"right\"><a href=\"" + (level - 1) * "../"
             text += "index.html\">"
-            text += "Return to index &#x2191;</a></p>"
-            text += "<div style=\"clear: both;\"></div>"
+            text += "Return to index &#x2191;</a></div>\n"
+            text += "<div style=\"clear: both;\"></div>\n"
             return text
         next_level = node.get_generation()
         if next_level == self.leaf_level:
             file_name = ".html"
         else:
             file_name = "/index.html"
-        text += "<p class=\"right\"><a href=\"" + max((level - next_level),0) * "../"
+        text += "<div class=\"right\"><a href=\"" + max((level - next_level), 0) * "../"
         text += self.name_in_url_form(node) + file_name + "\">"
-        text += "Next Page &#x2192;</a></p>"
-        text += "<div style=\"clear: both;\"></div>"
+        text += "Next Page &#x2192;</a></div>\n"
+        text += "<div style=\"clear: both;\"></div>\n"
         return text
 
     def get_stylesheet(self):
@@ -315,5 +448,9 @@ class HtmlPage:
                             node = node.get_next_node(self.leaf_level)
                         except IndexError:
                             break
+        try:
+            os.makedirs(self.destination)
+        except os.error:
+            pass
         with open(destination_filename, "w") as destination_file:
             destination_file.write(text)
