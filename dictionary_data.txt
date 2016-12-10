@@ -2508,14 +2508,14 @@ to be folded up
 [6]derivational suffix (noun)
 negative aspect
 [7]Derived Terms
-<strong><a href="../d/dasa.html">dasa</a>da</strong> <em>anger</em>
+<strong><a href="../d/dasa.html">dasada</a></strong> <em>anger</em>
 [7]See Also
 <a href="../t/tu'i.html">tu&rsquo;i</a> <em>positive</em>
 [5]/da/
 [6]inanimate stem noun
 water
 [7]See Also
-<strong><a href="../s/sa.html">sa</a><a href="../x/xita.html">xita</a> <a href="../l/lara.html">lara</a></strong> <em>water</em>
+<a href="../s/saxitalara.html">saxita lara</a> <em>water</em>
 <a href="../u/'u'a.html">&rsquo;u&rsquo;a</a> <em>wood</em>
 <a href="../l/lupumma.html">lupumma</a> <em>fire</em>
 <a href="../c/cissa.html">cissa</a> <em>air</em>
@@ -2622,8 +2622,8 @@ passion; anger
 <a href="../a/'ahati.html">&rsquo;ahati</a> <em>happiness</em>
 <a href="../i/'isili.html">&rsquo;isili</a> <em>sadness</em>
 <a href="../s/sutti.html">sutti</a> <em>fear</em>
-<strong>dasa<a href="../t/tu'i.html">tu&rsquo;i</a></strong> <em>passion</em>
-<strong>dasa<a href="../d/da.html">da</a></strong> <em>anger</em>
+<a href="../t/tu'i.html">dasatu&rsquo;i</a></strong> <em>passion</em>
+<a href="../d/da.html">dasada</a></strong> <em>anger</em>
 
 [2]dasi
 [3]High Lulani
@@ -2837,7 +2837,7 @@ to have; to own; to possess
 
 [2]ducinibasa
 [3]High Lulani
-[4]&#x202e;ECIbs
+[4]&#x202e;ECNbs
 [5]/d&#x289;.&#x2cc;c&#x2b0;in.&#x268;.&#x2c8;bas.&#x259;/
 [6]transitive derived verb
 to steal; to come by unlawfully
@@ -6476,7 +6476,7 @@ third person animate transitive; <small-caps>3ani;tra</small-caps>; him, her, he
 [1]L
 [2]la
 [3]High Lulani
-[4]&#x202e;l
+[4]<tinellbian>l
 [5]/la&#x2d0;/
 [6]transitive stem verb
 do
@@ -6484,13 +6484,14 @@ do
 <strong>agent</strong> <em>subject</em>
 <strong>patient</strong> <em>object</em>
 [7]Example
-<strong><a href="../u/'usu.html">&#x294;usu</a> la<a href="../s/sinna.html">sinna</a>.</strong>
+<strong>&#x294;usu lasinna.</strong>
 <small-caps>1int</small-caps> <em>do-story.</em>
 &#x201c;I&rsquo;m telling the story.&#x201d;
 [6]inanimate stem noun element
 hydrogen
 [7]See Also
 <a href="../l/li'a.html">&rarr; li&rsquo;a</a> <em>helium</em>
+<a href="../s/saxitalaru.html">saxita laru</a> <em>dihydrogen monoxide</em>
 
 [2]la&rsquo;a
 [3]High Lulani
@@ -6914,7 +6915,8 @@ love
 <strong>experiencer</strong> <em>subject</em>
 <strong>stimulus</strong> <em>object</em>
 [7]Example
-<strong><a href="../u/'usu.html">&#x294;usu</a> lu&rsquo;i <a href="../f/fu.html">fu</a>.</strong>
+<strong>&#x294;usu lu&rsquo;i fu.</strong>
+<tinellbian>.uz / Wi / v.</tinellbian>
 <small-caps>1int</small-caps> <em>love</em> <small-caps>2tra.</small-caps>
 &#x201c;I love you.&#x201d;
 [6]abstract stem noun
@@ -6993,7 +6995,6 @@ moon
 [5]/l&#x289;.&#x2c8;lan.&#x268;/
 [6]animate stem noun
 queen; monarch
-
 [6]proper stem noun
 (Lulani)
 Lulani (language)
@@ -7014,14 +7015,14 @@ eye
 
 [2]luxi
 [3]High Lulani
-[4]&#x202e;WX
+[4]<tinellbian>WX</tinellbian>
 [5]/&#x2c8;lu&#x255;.&#x268;/
-[6]animate stem noun
+[6]abstract stem noun
 multiple birth
 [7]Derived Terms
-<strong>luxi<a href="../r/ra.html">ra</a></strong> birth of twins
-<strong>luxi<a href="../r/ra.html">ra</a><a href="../s/sa.html">sa</a></strong> one of a set of twins
-<strong>luxira<a href="../u/'uxxi.html">&rsquo;uxxi</a></strong> set of twins
+<strong><a href="../l/luxira.html">luxira</a></strong> <tinellbian>WXr</tinellbian> <em>birth of twins</em>
+<strong><a href="../l/luxirasa.html">luxirasa</a></strong> <tinellbian>WXrs</tinellbian> <em>one of a set of twins</em>
+<strong><a href="../l/luxira'uxxi.html">luxira&rsquo;uxxi</a></strong> <tinellbian>WXru;X</tinellbian> <em>set of twins</em>
 [7]Notes
 Words dealing with twins are usually dictionary words, anything with greater are often nonce
 
@@ -8284,6 +8285,16 @@ without; instead of; rather than
 [6]derivational suffix (verb)
 augmentative
 
+[2]saxita lara
+[3]High Lulani
+[4]<tinellbian>sXt / lr</tinellbian>
+[5]/&#x2cc;sa.&#x255;it&#x2b0;.&#x259;.&#x2c8;la&#x279;a/
+[6]derived noun element compound
+water, dihydrogen monoxide, H<sub>2</sub>O
+[7]Etymology
+<a href="../s/sa.html">sa</a> <em>water</em> + <a href="../x/xita.html">xita</a> <em>one</em> + <a href="../l/la.html">la</a> <em>hydrogen</em> + <a href="../r/ra.html">ra</a> <em>two</em>
+[7]See Also
+<a href="../d/da.html">da</a> <em>water</em>
 [2]saxxuru
 [3]High Lulani
 [4]&#x202e;s;Zw

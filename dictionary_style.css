@@ -5,7 +5,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 @font-face {
-    font-family: lulani;
+    font-family: tinellb;
     src: url('Lulani.ttf'); 
 }
 
@@ -20,7 +20,7 @@ h2 {
 }
 
 h3 {
-	font-family: lulani;
+	font-family: tinellb, lulani;
 	font-size: 20px;
 	font-weight: normal;
 	padding-left: 75px;
@@ -60,25 +60,28 @@ p.example {
 	padding-top: 10pt;
 }
 
-div.left {
-	float: left;
-	margin-left: 10%;
-}
-
-div.right {
-	float: right;
-	margin-right: 10%;
-}
-
 div.centre {
 	text-align: center;
+}
+
+div.nav-header {
+	text-align: center;
+}
+
+div.right a {
+	text-align: right;
+	margin-right: 1em;
+}
+
+div.left a {
+	text-align: left;
 }
 
 div.justify {
 	text-align: center;
 	margin-top: 2em;
 	margin-bottom: 1em;
-	margin-left: 1%;
+	margin-left: 15%;
 	letter-spacing: 2em;
 	font-weight: bold;
 	font-size: large;
@@ -91,6 +94,10 @@ div.justify a {
 span.normal {
 	letter-spacing: 0;
 	text-decoration: underline;
+	color: powderblue;
+}
+
+div.nav-header span.normal a {
 	color: powderblue;
 }
 
@@ -112,6 +119,8 @@ em {
 }
 
 div.nav-header {
+	width: 10%;
+	float: left;
 	padding-top: 10pt;
 	padding-bottom: 10pt;
 	color: white;
@@ -119,6 +128,7 @@ div.nav-header {
 
 div.nav-header a {
 	color: white;
+	display: block;
 }
 
 div.nav-footer {
@@ -136,8 +146,15 @@ div.content {
 	padding-top: 20px;
 	padding-bottom: 0px;
 	margin-left: 10%;
-	background-color: lightgoldenrodyellow;
-	
+	background-color: lightgoldenrodyellow;	
+}
+
+div.content a {
+	text-decoration: underline;
+}
+
+div.toc a {
+	text-align: left;
 }
 
 td a {
@@ -162,4 +179,18 @@ th {
 
 th:first-child {
 	text-align: right;
+}
+
+tinellbian {
+	direction: rtl;
+	font-family: tinellb, lulani;
+	font-size: larger;
+}
+
+tinellbian:before {
+	content: "\202e"
+}
+
+tinellbian:after {
+	content: "\202c"
 }

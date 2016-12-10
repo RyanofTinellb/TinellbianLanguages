@@ -47,8 +47,14 @@ class EditDictionary(tk.Frame):
             dictionary.write(page)
         self.edit_text.delete(1.0, tk.END)
 
-    @staticmethod
-    def publish():
+    def publish(self):
+        self.new_page = self.edit_text.get(1.0, tk.END+"-1c")
+        self.new_page = self.make_replacements(self.new_page)
+        with open("dictionary_data.txt", "r") as dictionary:
+            page = dictionary.read()
+        page = page.replace(self.old_page, self.new_page)
+        with open("dictionary_data.txt", "w") as dictionary:
+            dictionary.write(page)
         HtmlPage("dictionary", 2)
         self.edit_text.delete(1.0, tk.END)
 

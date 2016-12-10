@@ -1,7 +1,20 @@
 from Directory import *
 
-d = Directory("story_data.txt", "story")
-k = d.get_root()
-k = k.children[4]
-for i in k.get_cousins():
-    print i.name
+d = Directory("grammar")
+page = ""
+i = d.root
+while True:
+    j = d.root
+    while True:
+        page += i.name + "--> "
+        page += i.hyperlink(j) + "\n"
+        try:
+            j = j.next_node()
+        except IndexError:
+            break
+    try:
+        i = i.next_node()
+    except IndexError:
+        break
+with open("prac.html", "w") as f:
+    f.write(page)

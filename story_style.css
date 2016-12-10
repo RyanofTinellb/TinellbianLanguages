@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @font-face {
-    font-family: lulani;
+    font-family: tinellb;
     src: url('Lulani.ttf'); 
 }
 
@@ -147,12 +147,29 @@ span.right {
 	text-align: right;
 }
 
-span.tinellbian:before {
+tinellbian:before {
 	content: "\202e";
 }
 
-span.tinellbian:after {
+tinellbian:after {
 	content: "\202c";
+}
+
+tinellbian {
+	font-family: tinellb, lulani;
+}
+
+p tinellbian {
+	display: block;
+	direction: rtl;
+	text-indent: 1rem;
+	text-align: right;
+	font-size: x-large;
+}
+
+div.toc p tinellbian {
+	text-align: left;
+	margin-left: 300px;
 }
 
 span.centre {

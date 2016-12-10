@@ -5,9 +5,8 @@
 <small-caps>,[k]
 </small-caps>,[/k]
 <span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;</span>,***
-<span class="right">,[x]
-<span class="tinellbian">,[m]
-</span>,&[];
+<tinellbian>,[m]
+</tinellbian>,[/m]
 <overline>1</overline>,&rone;
 <overline>2</overline>,&rwo;
 <overline>3</overline>,&ree;

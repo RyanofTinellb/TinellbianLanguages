@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Ryan.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ryan.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Hierarchy.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Making Tables.xlsm" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Create Pages.py" afterPath="$PROJECT_DIR$/Create Pages.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hierarchy.py" afterPath="$PROJECT_DIR$/Hierarchy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Directory.py" afterPath="$PROJECT_DIR$/Directory.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlPage.py" afterPath="$PROJECT_DIR$/HtmlPage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Replacements.txt" afterPath="$PROJECT_DIR$/Replacements.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scratch.py" afterPath="$PROJECT_DIR$/Scratch.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'a'ami.html" afterPath="$PROJECT_DIR$/dictionary/a/'a'ami.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'a'ima.html" afterPath="$PROJECT_DIR$/dictionary/a/'a'ima.html" />
@@ -730,9 +732,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xuga.html" afterPath="$PROJECT_DIR$/dictionary/x/xuga.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xuhhi.html" afterPath="$PROJECT_DIR$/dictionary/x/xuhhi.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_data.txt" afterPath="$PROJECT_DIR$/dictionary_data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_main_style.css" afterPath="$PROJECT_DIR$/dictionary_main_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_main_template.txt" afterPath="$PROJECT_DIR$/dictionary_main_template.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_style.css" afterPath="$PROJECT_DIR$/dictionary_style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_template.txt" afterPath="$PROJECT_DIR$/dictionary_template.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_dictionary.py" afterPath="$PROJECT_DIR$/edit_dictionary.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/appendices/glossing/abbreviations.html" afterPath="$PROJECT_DIR$/grammar/appendices/glossing/abbreviations.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/appendices/glossing/glossingrules.html" afterPath="$PROJECT_DIR$/grammar/appendices/glossing/glossingrules.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/appendices/glossing/index.html" afterPath="$PROJECT_DIR$/grammar/appendices/glossing/index.html" />
@@ -766,15 +768,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/matrixclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/matrixclauses.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/nounphrases.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/nounphrases.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/particularclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/particularclauses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/index.html" afterPath="$PROJECT_DIR$/grammar/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/externalhistory.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/externalhistory.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/index.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/internalhistory.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/internalhistory.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/index.html" afterPath="$PROJECT_DIR$/grammar/introduction/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_data.txt" afterPath="$PROJECT_DIR$/grammar_data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_main_style.css" afterPath="$PROJECT_DIR$/grammar_main_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_main_template.txt" afterPath="$PROJECT_DIR$/grammar_main_template.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_style.css" afterPath="$PROJECT_DIR$/grammar_style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/index.html" afterPath="$PROJECT_DIR$/story/english/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/thecrackledegg/index.html" afterPath="$PROJECT_DIR$/story/english/thecrackledegg/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" afterPath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" />
@@ -791,8 +788,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/index.html" afterPath="$PROJECT_DIR$/story/transliteration/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" afterPath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/xucinagicula/index.html" afterPath="$PROJECT_DIR$/story/transliteration/xucinagicula/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_main_style.css" afterPath="$PROJECT_DIR$/story_main_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_main_template.txt" afterPath="$PROJECT_DIR$/story_main_template.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_data.txt" afterPath="$PROJECT_DIR$/story_data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_style.css" afterPath="$PROJECT_DIR$/story_style.css" />
     </list>
     <ignored path="TinellbianLanguages.iws" />
@@ -813,41 +809,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Scratch.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scratch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Create Pages.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Create Pages.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="125">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hierarchy.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hierarchy.py">
+      <file leaf-file-name="Directory.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Directory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="60" column="17" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="17" />
+            <state relative-caret-position="3850">
+              <caret line="154" column="94" lean-forward="false" selection-start-line="154" selection-start-column="94" selection-end-line="154" selection-end-column="94" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Scratch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scratch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="edit_dictionary.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="479">
+              <caret line="56" column="34" lean-forward="false" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HtmlPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="194" column="21" lean-forward="false" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="21" />
+            <state relative-caret-position="393">
+              <caret line="142" column="25" lean-forward="false" selection-start-line="142" selection-start-column="25" selection-end-line="142" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -864,36 +870,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>get_toc</find>
-      <find>title</find>
-      <find>toc</find>
-      <find>&quot;r&quot;</find>
-      <find>word</find>
-      <find>first</find>
-      <find>url</find>
-      <find>replace</find>
-      <find>dictionary</find>
-      <find>print</find>
-      <find>grammar</find>
-      <find>gramm</find>
-      <find>html</find>
-      <find>which</find>
-      <find>tab</find>
-      <find>wrap</find>
-      <find>style</find>
-      <find>styles</find>
-      <find>nav-header</find>
-      <find>nav_hea</find>
-      <find>gene</find>
-      <find>self.level</find>
-      <find>sisters</find>
-      <find>nav-foo</find>
-      <find>nav_foo</find>
-      <find>&lt;/div&gt;</find>
-      <find>pbtd</find>
-      <find>diction</find>
       <find>cate</find>
       <find>ances</find>
+      <find>next pag</find>
+      <find>level</find>
+      <find>next</find>
+      <find>heading_node</find>
+      <find>self.name_in_url_form(self.current)</find>
+      <find>self.name_in_url_form(child)</find>
+      <find>name_in_url_form(sister)</find>
+      <find>self.name_in_url_form(cousin)</find>
+      <find>self.sister</find>
+      <find>self.name_in_url_form(node)</find>
+      <find>self.template</find>
+      <find>get_ancestors</find>
+      <find>()()</find>
+      <find>get_children()</find>
+      <find>hyperli</find>
+      <find>source</find>
+      <find>url</find>
+      <find>self.destin</find>
+      <find>top</find>
+      <find>change</find>
+      <find>print</find>
+      <find>nav_header_di</find>
+      <find>toc</find>
+      <find>story</find>
+      <find>join</find>
+      <find>next_node</find>
+      <find>ancestor</find>
+      <find>content</find>
     </findStrings>
     <replaceStrings>
       <replace>str(generation)</replace>
@@ -902,6 +908,17 @@
       <replace>word</replace>
       <replace>grammar</replace>
       <replace>article</replace>
+      <replace>current</replace>
+      <replace>self.current.url()</replace>
+      <replace>child.url()</replace>
+      <replace>sister.url()</replace>
+      <replace>cousin.url()</replace>
+      <replace>sister</replace>
+      <replace>node.url()</replace>
+      <replace>ancestors()</replace>
+      <replace>()</replace>
+      <replace>children</replace>
+      <replace>self</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -935,17 +952,19 @@
         <option value="$PROJECT_DIR$/dictionary/Directory.py" />
         <option value="$PROJECT_DIR$/practice/Replacements.txt" />
         <option value="$PROJECT_DIR$/insert_table.py" />
-        <option value="$PROJECT_DIR$/Directory.py" />
         <option value="$PROJECT_DIR$/tinellbian_conversion.py" />
         <option value="$PROJECT_DIR$/edit_page.py" />
         <option value="$PROJECT_DIR$/edit_grammar.py" />
         <option value="$PROJECT_DIR$/tinellb.py" />
-        <option value="$PROJECT_DIR$/edit_dictionary.py" />
         <option value="$PROJECT_DIR$/coding/Interlinear.py" />
-        <option value="$PROJECT_DIR$/Scratch.py" />
         <option value="$PROJECT_DIR$/Hierarchy.py" />
+        <option value="$PROJECT_DIR$/Scrath.py" />
+        <option value="$PROJECT_DIR$/Website.py" />
         <option value="$PROJECT_DIR$/Create Pages.py" />
+        <option value="$PROJECT_DIR$/Scratch.py" />
+        <option value="$PROJECT_DIR$/Directory.py" />
         <option value="$PROJECT_DIR$/HtmlPage.py" />
+        <option value="$PROJECT_DIR$/edit_dictionary.py" />
       </list>
     </option>
   </component>
@@ -992,8 +1011,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1006,22 +1023,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TinellbianLanguages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TinellbianLanguages" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="coding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1096,7 +1101,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="HtmlPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Scrath" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -1108,7 +1113,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TinellbianLanguages" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HtmlPage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrath.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -1268,21 +1273,25 @@
       <item index="0" class="java.lang.String" itemvalue="Python.Create Pages" />
       <item index="1" class="java.lang.String" itemvalue="Python.Scratch" />
       <item index="2" class="java.lang.String" itemvalue="Python.edit_grammar" />
-      <item index="3" class="java.lang.String" itemvalue="Python.HtmlPage" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Scrath" />
       <item index="4" class="java.lang.String" itemvalue="Python.edit_dictionary" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.Create Pages" />
-        <item index="1" class="java.lang.String" itemvalue="Python.edit_grammar" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Scratch" />
-        <item index="3" class="java.lang.String" itemvalue="Python.HtmlPage" />
-        <item index="4" class="java.lang.String" itemvalue="Python.edit_dictionary" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Scratch" />
+        <item index="2" class="java.lang.String" itemvalue="Python.edit_dictionary" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Scrath" />
+        <item index="4" class="java.lang.String" itemvalue="Python.edit_grammar" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1307,23 +1316,23 @@
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20678686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20625663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33293697" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497349" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49940547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.67895365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24892008" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4530321" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1334,15 +1343,15 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7277051" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.67895365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13202545" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24918567" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20466596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24892008" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497349" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49940547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55172414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1375,14 +1384,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="65" />
+      <option name="time" value="109" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dictionary/Scratch.py" />
-    <entry file="file://$PROJECT_DIR$/dictionary/Create_Dictionary_Page.py" />
-    <entry file="file://$PROJECT_DIR$/dictionary/Scratch.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/Create_Dictionary_Page.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/Create_Dictionary_Page.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/Create_Dictionary_Page.py" />
@@ -1425,41 +1431,21 @@
     <entry file="file://$PROJECT_DIR$/grammar/HtmlPage.py" />
     <entry file="file://$PROJECT_DIR$/grammar/Directory.py" />
     <entry file="file://$PROJECT_DIR$/grammar/Create Pages.py" />
-    <entry file="file://$PROJECT_DIR$/coding/Tinellbian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/coding/Tinellbian.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/Directory.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/Hierarchy.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/Create Pages.py" />
     <entry file="file://$PROJECT_DIR$/dictionary/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/replacements.txt">
+    <entry file="file://$PROJECT_DIR$/Replacements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/do_replacements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/do_replacements.py" />
     <entry file="file://$USER_HOME$/Desktop/collator.py" />
     <entry file="file://$PROJECT_DIR$/insert_table.py" />
-    <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tinellb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
@@ -1467,59 +1453,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Directory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coding/Interlinear.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="25" column="45" lean-forward="false" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/coding/Interlinear.py" />
     <entry file="file://$PROJECT_DIR$/edit_grammar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scratch.py">
+    <entry file="file://$PROJECT_DIR$/Hierarchy.py" />
+    <entry file="file://$PROJECT_DIR$/Scrath.py" />
+    <entry file="file://$PROJECT_DIR$/Website.py" />
+    <entry file="file://$PROJECT_DIR$/Directory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="3850">
+          <caret line="154" column="94" lean-forward="false" selection-start-line="154" selection-start-column="94" selection-end-line="154" selection-end-column="94" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hierarchy.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-408382549/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="60" column="17" lean-forward="false" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="268">
+          <caret line="599" column="4" lean-forward="false" selection-start-line="599" selection-start-column="4" selection-end-line="599" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Create Pages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HtmlPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="194" column="21" lean-forward="false" selection-start-line="194" selection-start-column="21" selection-end-line="194" selection-end-column="21" />
+        <state relative-caret-position="393">
+          <caret line="142" column="25" lean-forward="false" selection-start-line="142" selection-start-column="25" selection-end-line="142" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="56" column="34" lean-forward="false" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
           <folding />
         </state>
       </provider>
