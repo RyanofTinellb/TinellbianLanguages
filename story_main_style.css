@@ -36,19 +36,20 @@ h3 {
 }
 
 @font-face {
-    font-family: lulani;
+    font-family: tinellb;
     src: url('Lulani.ttf'); 
 }
 
-span.tinellbian {
-	font-family: lulani;
+tinellbian {
+	font-family: tinellb, lulani;
+	font-size: larger;
 }
 
-span.tinellbian:before {
+tinellbian:before {
 	content: "\202e";
 }
 
-span.tinellbian:after {
+tinellbian:after {
 	content: "\202c";
 }
 
@@ -89,4 +90,18 @@ p.return {
 	padding-top: 0;
 	padding-bottom: 0;
 	line-height: 2;
+}
+
+ul.level-1 {
+	padding-left: 15%;
+	line-height: 3em;
+}
+
+ul.level-2 {
+	padding-left: 5%;
+	line-height: 2em;
+}
+
+ul.level-3 {
+	padding-left: 5%;
 }
