@@ -1,6 +1,5 @@
 body {
 	background-color: cornsilk;
-	text-indent: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -9,30 +8,51 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 div.nav-header {
-	text-align: center;
-	float: top center;
+	float: left;
 	background-color: cadetblue;
-	padding-top: 5px;
-	padding-bottom: 10px;
-	padding-left: 10%;
-	padding-right: 10%;
-	margin: 0;
-	font-family: sans-serif;
+	width: 25%;
+	min-width: 300px;
+	font-family: serif;
+	font-size: large;
+	color: cornsilk;
+	font-weight: bold;
 }
 
 div.nav-header a {
-	font-size: 150%;
-	color: cornsilk;
-	font-weight: bold;
 	text-decoration: none;
+	color: cornsilk;
+	font-weight: normal;
 }
+
+div.nav-header span.normal {
+	text-decoration: underline;
+	display: list-item;
+}
+
+ul {
+	list-style: none;
+}
+
+ul span.normal {
+	list-style: square;
+}
+
+ul.level-1 {
+	margin-left: 1%;
+}
+
+ul.level-2 {
+	margin-left: 1%;
+}
+
+ul.level-3 {
+	margin-left: 1%;
+}
+
 div.nav-footer {
 	background-color: cadetblue;
-	padding-top: 0;
-	padding-bottom: 0;
-	padding-left: 10%;
-	padding-right: 10%;
-	margin: 0;
+	padding: 1em 5% 2em 25%;
+	height: 1em;
 	font-family: sans-serif;
 }
 
@@ -43,9 +63,12 @@ div.nav-footer a {
 }
 
 div.content {
-	margin-left: 5em;
-	margin-right: 5em;
+	margin-left: 30%;
+	position: relative;
+	left: 5%;
+	margin-right: 10%;
 	line-height: 2;
+	text-indent: 2em;
 }
 
 table {
@@ -83,14 +106,16 @@ p {
 }
 
 p.example {
-	padding-left: 10em;
+	position: relative;
+	left: 10%;
 	padding-top: 10pt;
 	width: 100%;
 	line-height: 1;
 }
 
 p.example_no_lines {
-	padding-left: 10em;
+	position: relative;
+	left: 10%;
 	padding-top: 1pt;
 	width: 100%;
 	line-height: 1;
@@ -108,20 +133,27 @@ div.centre {
 	text-align: center;
 }
 
-div.toc a {
-	font-weight: bold;
-	color: black;
-	font-size: 125%;
-	text-decoration: none;
-	line-height: 1;
-	margin-left: 15em;
-}
-
 div.glossary {
 	-webkit-column-count: 3; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3;
 	text-indent: 0em;
 	margin: auto;
-	padding-left: 7em;
+	padding-left: 10%;
+}
+
+@media screen and (max-width: 900px) {
+    div.glossary {
+        	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+			-moz-column-count: 2; /* Firefox */
+			column-count: 2;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    div.glossary {
+        	-webkit-column-count: 1; /* Chrome, Safari, Opera */
+			-moz-column-count: 1; /* Firefox */
+			column-count: 1;
+    }
 }

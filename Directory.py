@@ -119,6 +119,20 @@ class Node:
             right = self.next_node_iter(node.parent)
         return right
 
+    def descendants(self):
+        descendants = set(self.children)
+        for child in self.children:
+            descendants.update(child.descendants())
+        return descendants
+
+    # returns self, descendants, ancestors and sisters of ancestors
+    def family(self):
+        family = set([])
+        for ancestor in self.ancestors():
+            family.update(ancestor.children)
+        family.update(self.descendants())
+        return family
+
     def cousins(self):
         node = self
         indices = []
@@ -160,5 +174,3 @@ class Node:
             href = "href=\"" + up * "../" + destination + "\""
             link = "<a " + href + ">" + template.replace("$", destination) + "</a>"
         return href if just_href else link
-
-

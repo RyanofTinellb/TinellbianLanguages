@@ -116,8 +116,30 @@ class HtmlPage:
         return text
 
     def nav_header_grammar(self):
-        text = self.top_level_links()
-        text += self.medium_level_links(0, 3)
+        text = ""
+        node = self.root
+        family = self.current.family()
+        level = 0
+        while True:
+            try:
+                node = node.next_node()
+            except IndexError:
+                break
+            if node in family:
+                line = self.current.hyperlink(node)
+            else:
+                line = ""
+            if node is self.current:
+                line = "<span class=\"normal\">" + line + "</span>"
+            if line:
+                old_level = level
+                level = node.generation()
+                if level > old_level:
+                    text += "<ul class=\"level-" + str(level) + "\">"
+                elif level < old_level:
+                    text += (old_level - level) * "</ul>\n"
+                text += "<li>" + line + "</li>\n"
+        text += level * "</ul>\n"
         return text
 
     def nav_header_story(self):
@@ -254,6 +276,7 @@ class HtmlPage:
         template_file = self.name + "_main_template.txt"
         destination_filename = self.name + "/index.html"
         text = ""
+        level = 0
         with open(template_file, "r") as template:
             for line in template:
                 line = line[:-1]
@@ -263,11 +286,16 @@ class HtmlPage:
                     while True:
                         try:
                             node = node.next_node()
+                            old_level = level
+                            level = node.generation()
                         except IndexError:
                             break
-                        text += "<h" + str(node.generation()) + ">"
-                        text += self.root.hyperlink(node)
-                        text += "</h" + str(node.generation()) + ">\n"
+                        if level > old_level:
+                            text += "<ul class=\"level-" + str(level) + "\">"
+                        elif level < old_level:
+                            text += (old_level - level) * "</ul>\n"
+                        text += "<li>" + self.root.hyperlink(node) + "</li>\n"
+                    text += level * "</ul>\n"
         try:
             os.makedirs(self.name)
         except os.error:
