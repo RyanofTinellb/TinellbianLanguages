@@ -116,15 +116,11 @@ class HtmlPage:
         return text
 
     def nav_header_grammar(self):
-        text = ""
+        text = "<ul class=\"level-1\">" + "<li class=\"link\">" + self.current.hyperlink(self.root) + "</li>"
         node = self.root
         family = self.current.family()
-        level = 0
+        level = 1
         while True:
-            try:
-                node = node.next_node()
-            except IndexError:
-                break
             if node in family:
                 line = self.current.hyperlink(node)
             else:
@@ -139,7 +135,14 @@ class HtmlPage:
                 elif level < old_level:
                     text += (old_level - level) * "</ul>\n"
                 text += "<li>" + line + "</li>\n"
-        text += level * "</ul>\n"
+            try:
+                node = node.next_node()
+            except IndexError:
+                break
+        text += (level -1) * "</ul>\n"
+        for link in ["story", "dictionary"]:
+            text += "<li class=\"link\">" + self.current.hyperlink(link + "/index.html", link.capitalize()) + "</li>\n"
+        text += "</ul>\n"
         return text
 
     def nav_header_story(self):
@@ -170,12 +173,11 @@ class HtmlPage:
         return text
 
     def nav_footer(self):
-        text = "<div class=\"left\">" + self.current.hyperlink(self.current.parent, "&uarr; Go up one level") + "</div>"
-        text += "<div class=\"right\">"
+        text = "<div class=\"right\">"
         try:
             text += self.current.hyperlink(self.current.next_node(), "Next page &rarr;")
         except IndexError:
-            text += self.current.hyperlink(self.root)
+            text += self.current.hyperlink(self.root, "Return to Menu &uarr;")
         text += "</div>\n<div style=\"clear: both;\"></div>\n"
         return text
 

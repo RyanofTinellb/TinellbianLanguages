@@ -3,8 +3,60 @@
   <component name="ChangeListManager">
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_data.txt" afterPath="$PROJECT_DIR$/grammar_data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlPage.py" afterPath="$PROJECT_DIR$/HtmlPage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/appendices/glossing/abbreviations.html" afterPath="$PROJECT_DIR$/grammar/appendices/glossing/abbreviations.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/appendices/glossing/glossingrules.html" afterPath="$PROJECT_DIR$/grammar/appendices/glossing/glossingrules.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/appendices/glossing/index.html" afterPath="$PROJECT_DIR$/grammar/appendices/glossing/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/appendices/index.html" afterPath="$PROJECT_DIR$/grammar/appendices/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/colours.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/colours.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/kinship.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/kinship.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/apocrypha/numbers.html" afterPath="$PROJECT_DIR$/grammar/highlulani/apocrypha/numbers.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/adjectives.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/adjectives.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/adpositions.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/adpositions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/adverbs.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/adverbs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/auxiliaries.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/auxiliaries.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/conjunctions.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/conjunctions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/nouns.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/nouns.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/particles.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/particles.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/suffixes.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/suffixes.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/morphology/verbs.html" afterPath="$PROJECT_DIR$/grammar/highlulani/morphology/verbs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/consonants.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/consonants.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/phonotactics.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/phonotactics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/suprasegmentals.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/suprasegmentals.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/phonology/vowels.html" afterPath="$PROJECT_DIR$/grammar/highlulani/phonology/vowels.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/argumentpromotion.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/argumentpromotion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/case.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/case.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/comparatives.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/comparatives.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/dependentclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/dependentclauses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/gerunds.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/gerunds.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/matrixclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/matrixclauses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/nounphrases.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/nounphrases.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/particularclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/particularclauses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/externalhistory.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/externalhistory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/index.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/history/internalhistory.html" afterPath="$PROJECT_DIR$/grammar/introduction/history/internalhistory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/introduction/index.html" afterPath="$PROJECT_DIR$/grammar/introduction/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_style.css" afterPath="$PROJECT_DIR$/grammar_style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/index.html" afterPath="$PROJECT_DIR$/story/english/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/thecrackledegg/index.html" afterPath="$PROJECT_DIR$/story/english/thecrackledegg/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" afterPath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/feather-becomingegg/index.html" afterPath="$PROJECT_DIR$/story/gloss/feather-becomingegg/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" afterPath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/index.html" afterPath="$PROJECT_DIR$/story/gloss/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/interlinear/index.html" afterPath="$PROJECT_DIR$/story/interlinear/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/interlinear/story/index.html" afterPath="$PROJECT_DIR$/story/interlinear/story/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/interlinear/story/prologue.html" afterPath="$PROJECT_DIR$/story/interlinear/story/prologue.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/index.html" afterPath="$PROJECT_DIR$/story/tinellbian/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/index.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/index.html" afterPath="$PROJECT_DIR$/story/transliteration/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" afterPath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/xucinagicula/index.html" afterPath="$PROJECT_DIR$/story/transliteration/xucinagicula/index.html" />
     </list>
     <ignored path="TinellbianLanguages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,8 +89,8 @@
       <file leaf-file-name="Directory.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Directory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2700">
-              <caret line="108" column="25" lean-forward="false" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="25" />
+            <state relative-caret-position="268">
+              <caret line="128" column="8" lean-forward="false" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -47,8 +99,8 @@
       <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HtmlPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="131" column="35" lean-forward="false" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="35" />
+            <state relative-caret-position="100">
+              <caret line="128" column="67" lean-forward="false" selection-start-line="128" selection-start-column="67" selection-end-line="128" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -75,7 +127,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>level</find>
       <find>next</find>
       <find>heading_node</find>
       <find>self.name_in_url_form(self.current)</find>
@@ -105,6 +156,7 @@
       <find>family</find>
       <find>next_node</find>
       <find>nav_header_grammar</find>
+      <find>nex</find>
     </findStrings>
     <replaceStrings>
       <replace>str(generation)</replace>
@@ -519,7 +571,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20625663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -691,26 +743,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Directory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2700">
-          <caret line="108" column="25" lean-forward="false" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="25" />
+        <state relative-caret-position="268">
+          <caret line="128" column="8" lean-forward="false" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HtmlPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="131" column="35" lean-forward="false" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="100">
+          <caret line="128" column="67" lean-forward="false" selection-start-line="128" selection-start-column="67" selection-end-line="128" selection-end-column="67" />
           <folding />
         </state>
       </provider>

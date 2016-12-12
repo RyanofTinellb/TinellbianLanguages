@@ -29,6 +29,16 @@ div.nav-header span.normal {
 	display: list-item;
 }
 
+div.nav-header li.link {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 5%;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: large;
+	list-style: disc;
+}
+
 ul {
 	list-style: none;
 }
@@ -50,16 +60,12 @@ ul.level-3 {
 }
 
 div.nav-footer {
-	background-color: cadetblue;
-	padding: 1em 5% 2em 25%;
-	height: 1em;
 	font-family: sans-serif;
 }
 
 div.nav-footer a {
-	color: cornsilk;
+	color: black;
 	font-weight: bold;
-	text-decoration: none;
 }
 
 div.content {
@@ -108,19 +114,22 @@ p {
 p.example {
 	position: relative;
 	left: 20%;
-	padding-top: 10pt;
+	padding-top: 1em;
 	width: 100%;
 	line-height: 2;
 	text-indent: -3em;
+	margin-top: 0em;
+	margin-bottom: 0em;
 }
 
 p.example_no_lines {
 	position: relative;
 	left: 20%;
-	padding-top: 1pt;
 	width: 100%;
 	line-height: 2;
 	text-indent: -3em;
+	margin-top: 0em;
+	margin-bottom: 0em;
 }
 
 div.left {
@@ -128,7 +137,7 @@ div.left {
 }
 
 div.right {
-	float: right;
+	text-align: right;
 }
 
 div.centre {
@@ -160,7 +169,8 @@ div.glossary-2 {
 }
 
 div.glossary-2 p {
-	margin: 1;
+	margin: 0;
+	line-height: 1.5;
 }
 
 @media screen and (max-width: 900px) {
@@ -186,6 +196,11 @@ div.glossary-2 p {
 	
 	div.nav-header {
 		float: none;
+		padding-left: 0;
+	}
+	
+	ul.level-1 {
+		padding-left: 5%;
 	}
 	
 	div.content {
