@@ -111,6 +111,9 @@ p.example {
 	padding-top: 10pt;
 	width: 100%;
 	line-height: 1;
+		-webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
 }
 
 p.example_no_lines {
@@ -140,6 +143,25 @@ div.glossary {
 	text-indent: 0em;
 	margin: auto;
 	padding-left: 10%;
+	display: block;
+}
+
+div.glossary p {
+	margin: 0;
+}
+
+div.glossary-2 {
+	-webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+	text-indent: 0em;
+	margin: auto;
+	padding-left: 10%;
+	display: block;
+}
+
+div.glossary-2 p {
+	margin: 1;
 }
 
 @media screen and (max-width: 900px) {
@@ -148,6 +170,12 @@ div.glossary {
 			-moz-column-count: 2; /* Firefox */
 			column-count: 2;
     }
+	
+	div.glossary-2 {
+		    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+			-moz-column-count: 1; /* Firefox */
+			column-count: 1;
+	}
 }
 
 @media screen and (max-width: 740px) {
@@ -156,4 +184,12 @@ div.glossary {
 			-moz-column-count: 1; /* Firefox */
 			column-count: 1;
     }
+	
+	div.nav-header {
+		float: none;
+	}
+	
+	div.content {
+		margin-left: 0;
+	}
 }

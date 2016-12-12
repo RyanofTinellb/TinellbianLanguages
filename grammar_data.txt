@@ -386,8 +386,8 @@ Reduplicated indefinite pronouns with suffixed <strong>-ta</strong> <em>and</em>
 [e]<strong>&rsquo;aba &rsquo;abata</strong> <em>absolutely everything</em>
 [4]Attributives
 There is a special class of verbs that allow one noun to modify another in a particular way. They are suffixes for the modifying noun. This whole word is then placed before the noun being modified. The modified noun can be proper, common or a pronoun.
-
-[l]<strong>qixa</strong> <em>doing</em>
+<div class="glossary">
+<strong>qixa</strong> <em>doing</em>
 <strong>qilu</strong> <em>receiving</em>
 <strong>rusa</strong> <em>coming from</em>
 <strong>cani</strong> <em>having</em>
@@ -397,14 +397,12 @@ There is a special class of verbs that allow one noun to modify another in a par
 <strong>ru</strong> <em>called</em>
 <strong>labu</strong> <em>resembling</em>
 <strong>nagi</strong> <em>becoming</em>
-<strong>funi</strong> 
 <strong>hu</strong> <em>wanting</em>
 <strong>ruku</strong> <em>being made of</em>
 <strong>pi</strong> <em>giving</em>
 <strong>taku</strong> <em>for</em>
-<strong>hu</strong> 
-[/l]
-
+</div>
+<div class="glossary-2">
 [f]<strong>sinnaqixa gusuli</strong>
 [e]<em>story-doing person</em>
 [e]person writing a story
@@ -447,6 +445,7 @@ There is a special class of verbs that allow one noun to modify another in a par
 [f]<strong>&rsquo;allapi taka</strong>
 [e]<em>familiarity-giving sound</em>
 [e]a familiar sound
+</div>
 
 In order to make any of these negative, add the adjective <strong>ji&rsquo;a</strong> <em>not</em> to the second noun.	
 [3]Verbs
@@ -1036,4 +1035,43 @@ Other kinship terms began as nuclear family names, but were thence extended acro
 The Leipzig glossing rules are used throughout this site. A summary thereof will be presented here.
 [3]Abbreviations
 These are all the three letter abbreviations used in glosses.
-<div class="glossary"><small-caps>abl</small-caps> - ablative<br><small-caps>abp</small-caps> - ablative promotion<br><small-caps>adv</small-caps> - adverbialiser<br><small-caps>ani</small-caps> - animate<br><small-caps>com</small-caps> - complementiser<br><small-caps>cmp</small-caps> - comparative<br><small-caps>dat</small-caps> - dative<br><small-caps>drv</small-caps> - derivative<br><small-caps>dtv</small-caps> - dative promotion<br><small-caps>dua</small-caps> - dual number<br><small-caps>dyn</small-caps> - dynamic<br><small-caps>fut</small-caps> - future<br><small-caps>gen</small-caps> - genitive<br><small-caps>ger</small-caps> - gerund<br><small-caps>gno</small-caps> - gnomic<br><small-caps>imp</small-caps> - imperfect<br><small-caps>imv</small-caps> - imperative<br><small-caps>ina</small-caps> - inanimate<br><small-caps>inc</small-caps> - inceptive<br><small-caps>int</small-caps> - intransitive case<br><small-caps>itr</small-caps> - iterative<br><small-caps>neg</small-caps> - negative<br><small-caps>nom</small-caps> - nominative<br><small-caps>npt</small-caps> - non-past<br><small-caps>nmn</small-caps> - nominaliser<br><small-caps>ord</small-caps> - ordinal<br><small-caps>pos</small-caps> - possessive<br><small-caps>prf</small-caps> - perfect<br><small-caps>prs</small-caps> - present<br><small-caps>pst</small-caps> - past<br><small-caps>psv</small-caps> - passive (object promotion)<br><small-caps>qal</small-caps> - qualifier<br><small-caps>que</small-caps> - question<br><small-caps>rel</small-caps> - relativiser<br><small-caps>sjv</small-caps> - subjunctive<br><small-caps>sta</small-caps> - stative<br><small-caps>tra</small-caps> - transitive case<br><small-caps>trm</small-caps> - terminative<br></div>
+<div class="glossary">
+<small-caps>abl</small-caps> - ablative
+<small-caps>abp</small-caps> - ablative promotion
+<small-caps>adv</small-caps> - adverbialiser
+<small-caps>ani</small-caps> - animate
+<small-caps>com</small-caps> - complementiser
+<small-caps>cmp</small-caps> - comparative
+<small-caps>dat</small-caps> - dative
+<small-caps>drv</small-caps> - derivative
+<small-caps>dtv</small-caps> - dative promotion
+<small-caps>dua</small-caps> - dual number
+<small-caps>dyn</small-caps> - dynamic
+<small-caps>fut</small-caps> - future
+<small-caps>gen</small-caps> - genitive
+<small-caps>ger</small-caps> - gerund
+<small-caps>gno</small-caps> - gnomic
+<small-caps>imp</small-caps> - imperfect
+<small-caps>imv</small-caps> - imperative
+<small-caps>ina</small-caps> - inanimate
+<small-caps>inc</small-caps> - inceptive
+<small-caps>int</small-caps> - intransitive case
+<small-caps>itr</small-caps> - iterative
+<small-caps>neg</small-caps> - negative
+<small-caps>nom</small-caps> - nominative
+<small-caps>npt</small-caps> - non-past
+<small-caps>nmn</small-caps> - nominaliser
+<small-caps>ord</small-caps> - ordinal
+<small-caps>pos</small-caps> - possessive
+<small-caps>prf</small-caps> - perfect
+<small-caps>prs</small-caps> - present
+<small-caps>pst</small-caps> - past
+<small-caps>psv</small-caps> - passive (object promotion)
+<small-caps>qal</small-caps> - qualifier
+<small-caps>que</small-caps> - question
+<small-caps>rel</small-caps> - relativiser
+<small-caps>sjv</small-caps> - subjunctive
+<small-caps>sta</small-caps> - stative
+<small-caps>tra</small-caps> - transitive case
+<small-caps>trm</small-caps> - terminative
+</div>
