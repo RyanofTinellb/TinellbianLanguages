@@ -68,3 +68,33 @@ body {
 ul {
 	list-style: none;
 }
+
+ul.level-1 {
+	-webkit-column-count: 4; /* Chrome, Safari, Opera */
+    -moz-column-count: 4; /* Firefox */
+    column-count: 4;
+}
+
+@media screen and (max-width: 750px) {
+	ul.level-1 {
+		-webkit-column-count: 3; /* Chrome, Safari, Opera */
+		-moz-column-count: 3; /* Firefox */
+		column-count: 3;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	ul.level-1 {
+		-webkit-column-count: 2; /* Chrome, Safari, Opera */
+		-moz-column-count: 2; /* Firefox */
+		column-count: 2;
+	}
+}
+
+@media screen and (max-width: 350px) {
+	ul.level-1 {
+		-webkit-column-count: 1; /* Chrome, Safari, Opera */
+		-moz-column-count: 1; /* Firefox */
+		column-count: 1;
+	}
+}
