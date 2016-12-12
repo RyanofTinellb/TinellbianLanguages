@@ -107,21 +107,20 @@ p {
 
 p.example {
 	position: relative;
-	left: 10%;
+	left: 20%;
 	padding-top: 10pt;
 	width: 100%;
-	line-height: 1;
-		-webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
-    break-inside: avoid;
+	line-height: 2;
+	text-indent: -3em;
 }
 
 p.example_no_lines {
 	position: relative;
-	left: 10%;
+	left: 20%;
 	padding-top: 1pt;
 	width: 100%;
-	line-height: 1;
+	line-height: 2;
+	text-indent: -3em;
 }
 
 div.left {

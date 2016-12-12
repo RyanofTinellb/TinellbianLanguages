@@ -462,7 +462,7 @@ The class of basic verbs is <strong>semi-closed</strong>. Basic verbs consist of
 In order to extend or specify the meaning of many verbs, verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of basic verbs.
 [f]<strong>&rsquo;isinna</strong> <em>to tell a story</em> (<strong>&rsquo;i</strong> <em>to speak</em> + <strong>sinna</strong> <em>story</em>)
 [e]<strong>dissu&rsquo;ahati</strong> <em>to be happy</em> (<strong>dissu</strong> <em>to feel</em> + <strong>&rsquo;ahati</strong> <em>happiness</em>)
-[e]<strong>pamilami</strong> <em>to be conscious</em> (<strong>pa</strong> <em>think</em> + [e]<strong>milami</strong> <em>surroundings</em>)
+[e]<strong>pamilami</strong> <em>to be conscious</em> (<strong>pa</strong> <em>think</em> + <strong>milami</strong> <em>surroundings</em>)
 Monosyllabic verbs may only be used this way. The object of an transitive monosyllabic verb can be used to form the compound, however, this does not occur with polysyllabic verbs.
 [f]<strong>dissu &rsquo;ahati</strong> <em>to feel happiness</em> (as above)
 [e]<strong>gasunu</strong> <em>to put the cloak (somewhere)</em> (<strong>ga</strong> <em>to put</em> + <strong>sunu</strong> <em>cloak</em>)
