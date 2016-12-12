@@ -11,6 +11,8 @@
 </div>
 <div class="content">
 {content}
+<div class="toc">
 {toc}
+</div>
 {jump}
 </div>

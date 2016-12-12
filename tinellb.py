@@ -52,7 +52,12 @@ def is_in_order(first, second):
     first, first_double_letter = make_replacements(first)
     second, second_double_letter = make_replacements(second)
     if first == second:
-        return False
+        if first_double_letter is second_double_letter:
+            return False
+        elif first_double_letter:
+            return False
+        else:
+            return True
     for letter in zip(first, second):
         if letter[0] == letter[1]:
             continue

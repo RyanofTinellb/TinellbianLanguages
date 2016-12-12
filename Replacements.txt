@@ -5,8 +5,8 @@
 <small-caps>,[k]
 </small-caps>,[/k]
 <span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;</span>,***
-<tinellbian>,[m]
-</tinellbian>,[/m]
+<high-lulani>,[hl]
+</high-lulani>,[/hl]
 <overline>1</overline>,&rone;
 <overline>2</overline>,&rwo;
 <overline>3</overline>,&ree;

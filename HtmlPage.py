@@ -1,6 +1,5 @@
 from Directory import *
 import os
-import random
 
 
 class HtmlPage:
@@ -12,7 +11,6 @@ class HtmlPage:
         self.root = self.directory.root
         self.name = name
         self.leaf_level = leaf_level
-        self.link_list = self.link()
         self.content = []
         self.current = self.directory.root.next_node()
         self.create_main_page()
@@ -311,19 +309,7 @@ class HtmlPage:
     def jump(self):
         text = ""
         try:
-            text = self.current.hyperlink(self.link_list.pop(), "<div class=\"jump\">$ &rarr;</div>\n")
+            text = self.current.hyperlink(self.current.next_node(), "<div class=\"jump\">$ &rarr;</div>\n")
         except IndexError:
             pass
         return text
-
-    def link(self):
-        link_list = []
-        node = self.root
-        while True:
-            link_list.append(node)
-            try:
-                node = node.next_node()
-            except IndexError:
-                break
-        random.shuffle(link_list)
-        return link_list

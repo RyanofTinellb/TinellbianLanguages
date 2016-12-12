@@ -28,7 +28,11 @@ class EditDictionary(tk.Frame):
         self.publish_button = tk.Button(text="Publish", command=self.publish)
         self.publish_button.grid(row=1, column=3, sticky=tk.NW)
         self.edit_text = tk.Text(self, height=25, width=105, font=('Calibri', '15'))
+        self.edit_text.bind("<Control-b>", self.do_stuff)
         self.edit_text.grid(row=1, rowspan=19)
+
+    def do_stuff(self, event):
+
 
     def bring_entry(self):
         entry = self.heading.get(1.0, tk.END+"-1c")
