@@ -75,7 +75,7 @@ ul.level-1 {
     column-count: 4;
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 800px) {
 	ul.level-1 {
 		-webkit-column-count: 3; /* Chrome, Safari, Opera */
 		-moz-column-count: 3; /* Firefox */
@@ -83,7 +83,7 @@ ul.level-1 {
 	}
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 600px) {
 	ul.level-1 {
 		-webkit-column-count: 2; /* Chrome, Safari, Opera */
 		-moz-column-count: 2; /* Firefox */
@@ -91,7 +91,7 @@ ul.level-1 {
 	}
 }
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 400px) {
 	ul.level-1 {
 		-webkit-column-count: 1; /* Chrome, Safari, Opera */
 		-moz-column-count: 1; /* Firefox */
