@@ -1,5 +1,6 @@
 from Directory import *
 import os
+import random
 
 
 class HtmlPage:
@@ -11,6 +12,7 @@ class HtmlPage:
         self.root = self.directory.root
         self.name = name
         self.leaf_level = leaf_level
+        self.link_list = self.link()
         self.content = []
         self.current = self.directory.root.next_node()
         self.create_main_page()
@@ -33,7 +35,7 @@ class HtmlPage:
 
     def create_page(self):
         replacements = [["title", self.title], ["toc", self.toc], ["nav-footer", self.nav_footer],
-                        ["stylesheet", self.stylesheet_and_icon], ["content", self.contents]]
+                        ["stylesheet", self.stylesheet_and_icon], ["content", self.contents], ["jump", self.jump]]
         if self.name == "grammar":
             nav_header = self.nav_header_grammar
         elif self.name == "story":
@@ -126,7 +128,7 @@ class HtmlPage:
             else:
                 line = ""
             if node is self.current:
-                line = "<span class=\"normal\">" + line + "</span>"
+                line = "<span class=\"normal\">" + line + "</span>\n"
             if line:
                 old_level = level
                 level = node.generation()
@@ -161,15 +163,16 @@ class HtmlPage:
         return text
 
     def nav_header_dictionary(self):
-        text = self.top_level_links()
+        text = self.current.hyperlink(self.root) + "<br>"
         for child in self.root.children:
             if child is self.current:
-                text += "<span class=\"normal\">" + child.name + "</span>"
+                text += "<span class=\"normal\">" + child.name + "</span>\n"
             elif child is self.current.parent:
                 text += "<span class=\"normal\">" + self.current.hyperlink(child) + "</span> \n"
             else:
                 text += self.current.hyperlink(child) + " \n"
-        text += "</div>\n"
+        for link in ["grammar", "story"]:
+            text += "<br>" + self.current.hyperlink(link + "/index.html", link.capitalize())
         return text
 
     def nav_footer(self):
@@ -304,3 +307,23 @@ class HtmlPage:
             pass
         with open(destination_filename, "w") as destination_file:
             destination_file.write(text)
+
+    def jump(self):
+        text = ""
+        try:
+            text = self.current.hyperlink(self.link_list.pop(), "<div class=\"jump\">$ &rarr;</div>\n")
+        except IndexError:
+            pass
+        return text
+
+    def link(self):
+        link_list = []
+        node = self.root
+        while True:
+            link_list.append(node)
+            try:
+                node = node.next_node()
+            except IndexError:
+                break
+        random.shuffle(link_list)
+        return link_list

@@ -1,7 +1,5 @@
 h1, h2, h3, h4, h5, h6, p {
 	font-family: sans-serif;
-	padding-left: 50px;
-	margin: 10px;
 }
 
 @font-face {
@@ -10,38 +8,40 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 h1 {
-	font-size: 20px;
 	font-weight: normal;
+	padding-left: 10%
 }
 
 h2 {
 	font-family: arial;
-	font-size: 15px;
+	padding-left: 10%;
 }
 
 h3 {
 	font-family: tinellb, lulani;
-	font-size: 20px;
 	font-weight: normal;
-	padding-left: 75px;
+	padding-left: 15%;
 }
 
 h4 {
 	font-family: lucida sans unicode;
-	font-size: 12px;
 	font-weight: normal;
-	padding-left: 75px;
+	padding-left: 15%;
 }
 
 h5 {
 	font-style: italic;
 	font-weight: normal;
+	padding-left: 10%;
 }
 
 h6 {
 	text-decoration: underline;
-	font-size: 15px;
-	line-height: 2;
+	line-height: 4;
+	padding-left: 12%;
+	font-size: medium;
+	font-weight: normal;
+	margin: 0;
 }
 
 a {
@@ -51,13 +51,13 @@ a {
 }
 
 p {
-	padding-left: 10%;
+	padding-left: 15%;
 	padding-right: 10%;
 	margin: 0;
 }
 
 p.example {
-	padding-top: 10pt;
+	padding-top: 1em;
 }
 
 div.centre {
@@ -143,8 +143,8 @@ div.nav-footer a {
 
 div.content {
 	width: 80%;
-	padding-top: 20px;
-	padding-bottom: 0px;
+	padding-top: 2em;
+	padding-bottom: 2em;
 	margin-left: 10%;
 	background-color: lightgoldenrodyellow;	
 }
@@ -162,7 +162,7 @@ td a {
 }
 
 table {
-	padding-left: 75px;
+	padding-left: 10%;
 }
 
 td {
@@ -193,4 +193,24 @@ tinellbian:before {
 
 tinellbian:after {
 	content: "\202c"
+}
+
+div.jump {
+	margin-left: 50%;
+}
+
+@media screen and (max-width: 850px) {
+    div.nav-header {
+        float: none;
+    }
+	
+	div.nav-header {
+		width: 100%;
+		letter-spacing: 1em;
+	}
+	
+	div.nav-header a {
+		color: white;
+		display: inline;
+		letter-spacing: normal;
 }
