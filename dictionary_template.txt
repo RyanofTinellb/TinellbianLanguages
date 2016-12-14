@@ -14,5 +14,4 @@
 <div class="toc">
 {toc}
 </div>
-{jump}
 </div>

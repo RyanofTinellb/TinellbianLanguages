@@ -1,50 +1,55 @@
 def conversion(source_file, destination_file):
+    page = ""
     with open (source_file, "r") as source:
-        line = source.readline()
-        page = ""
-        while line != "":
-            text = ""
-            line = line.replace("&rdquo", "")
-            line = line.replace("&ldquo;", "")
-            line = line.replace("&rsquo;", "'")
-            line = line.replace(" &#x294;", "'")
-            line = line.replace("&#x2019;", "'")
-            line = line.replace("&#x294;", "''")
-            line = line.replace("<em>", "")
-            line = line.replace("</em>", "")
-            line = line.lower()
-            for last, this in zip(line, line[1:]):
-                if this == last:
-                    text += ";"
-                elif last == "'":
-                    text += this
-                elif this == "a":
-                    text += last
-                elif this == "i":
-                    text += last.upper()
-                elif this == "u":
-                    index = "pbtdcjkgmnqlrfsxh".find(last)
-                    text += "oOeEyY><UIAWwvzZV"[index]
-                elif last + this == ". ":
-                    text += " . "
-                elif last + this == ", ":
-                    text += " , "
-                elif last + this == "! ":
-                    text += " . "
-                elif last + this == "? ":
-                    text += " . "
-                elif this == " ":
-                    text += " / "
-                elif last + this == "; ":
-                    text += " , "
-                elif last + this == ": ":
-                    text += " , "
-            text = text.replace("<", "&lt;")
-            text = text.replace(">", "&gt;")
-            page += "<span class=\"right\"><span class=\"tinellbian\">. " + text + " .</span></span>\n"
+        for line in source:
+            line = convert_line(line)
+            page += "<high-lulani>. " + line + " .</high-lulani>\n"
             line = source.readline()
     with open (destination_file, "w") as destination:
         destination.write(page)
+
+
+def convert_line(line):
+    text = ""
+    line = line.replace("&rdquo", "")
+    line = line.replace("&ldquo;", "")
+    line = line.replace("&rsquo;", "'")
+    line = line.replace(" &#x294;", "'")
+    line = line.replace("&#x2019;", "'")
+    line = line.replace("&#x294;", "''")
+    line = line.replace("&glottal;", "''")
+    line = line.lower()
+    if line[:2] == "''":
+        line = line[1:]
+    for last, this in zip(line, line[1:]):
+        if this == last:
+            text += ";"
+        elif last == "'":
+            text += this
+        elif this == "a":
+            text += last
+        elif this == "i":
+            text += last.upper()
+        elif this == "u":
+            index = "pbtdcjkgmnqlrfsxh".find(last)
+            text += "oOeEyY><UIAWwvzZV"[index]
+        elif last + this == ". ":
+            text += " . "
+        elif last + this == ", ":
+            text += " , "
+        elif last + this == "! ":
+            text += " . "
+        elif last + this == "? ":
+            text += " . "
+        elif this == " ":
+            text += " / "
+        elif last + this == "; ":
+            text += " , "
+        elif last + this == ": ":
+            text += " , "
+    text = text.replace("<", "&lt;")
+    text = text.replace(">", "&gt;")
+    return text
 
 
 # @return boolean: true if first < second in tinellbian alphabetical order
@@ -89,7 +94,7 @@ def make_replacements(word):
         if new != word:
             double_letter = True
             word = new
-        new = word.replace("''", "\"")
+        new = word.replace("''", "'")
         if new != word:
             double_letter = True
             word = new
@@ -104,10 +109,11 @@ def find_entry(source, entry):
     page = ""
     with open(source, "r") as dictionary:
         for line in dictionary:
-            if line[:3] == "[2]" and in_entry:
+            if line[:3] in ["[1]", "[1]"] and in_entry:
                 return page
             elif line[:3] == "[2]" and not is_in_order(line[3:-1], entry):
                 in_entry = True
                 page += line
             elif in_entry:
                 page += line
+        return page

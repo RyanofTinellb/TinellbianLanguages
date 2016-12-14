@@ -20,6 +20,7 @@ h2 {
 h3 {
 	font-weight: normal;
 	padding-left: 15%;
+	font-size: x-large;
 }
 
 h4 {
@@ -103,6 +104,7 @@ div.nav-header span.normal a {
 small-caps {
 	font-variant: small-caps;
 	font-weight: none;
+	font-style: normal;
 }
 
 overline {
@@ -183,7 +185,6 @@ th:first-child {
 high-lulani {
 	direction: rtl;
 	font-family: high-lulani, lulani;
-	font-size: 150%;
 }
 
 high-lulani:before {

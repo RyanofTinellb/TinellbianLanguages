@@ -33,7 +33,7 @@ class HtmlPage:
 
     def create_page(self):
         replacements = [["title", self.title], ["toc", self.toc], ["nav-footer", self.nav_footer],
-                        ["stylesheet", self.stylesheet_and_icon], ["content", self.contents], ["jump", self.jump]]
+                        ["stylesheet", self.stylesheet_and_icon], ["content", self.contents]]
         if self.name == "grammar":
             nav_header = self.nav_header_grammar
         elif self.name == "story":
@@ -164,7 +164,7 @@ class HtmlPage:
         text = self.current.hyperlink(self.root) + "<br>"
         for child in self.root.children:
             if child is self.current:
-                text += "<span class=\"normal\">" + child.name + "</span>\n"
+                text += "<span class=\"normal\">" + child.name + "</span> \n"
             elif child is self.current.parent:
                 text += "<span class=\"normal\">" + self.current.hyperlink(child) + "</span> \n"
             else:
@@ -305,11 +305,3 @@ class HtmlPage:
             pass
         with open(destination_filename, "w") as destination_file:
             destination_file.write(text)
-
-    def jump(self):
-        text = ""
-        try:
-            text = self.current.hyperlink(self.current.next_node(), "<div class=\"jump\">$ &rarr;</div>\n")
-        except IndexError:
-            pass
-        return text
