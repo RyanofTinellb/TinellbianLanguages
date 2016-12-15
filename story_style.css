@@ -111,20 +111,7 @@ small-caps {
 
 p {
 	font-family: sans-serif;
-}
-
-p.example {
-	padding-left: 10em;
-	padding-top: 10pt;
-	width: 100%;
-	line-height: 1;
-}
-
-p.example_no_lines {
-	padding-left: 10em;
-	padding-top: 1pt;
-	width: 100%;
-	line-height: 1;
+	text-align: justify;
 }
 
 div.centre {
@@ -181,6 +168,7 @@ span.centre {
 	
 	div.content {
 		margin-left: 5%;
+		margin-right: 5%;
 	}
 	
 	table table td {
