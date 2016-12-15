@@ -83,13 +83,16 @@ table {
 	text-align: center;
 }
 
-th.row {
+th {
+	text-align: center;
+}
+
+th:first-child {
 	text-align: right;
 }
 
 td {
-	width: 75px;
-	width: 75px;
+	width: 6em;
 	font-family: sans-serif;
 }
 
@@ -138,6 +141,7 @@ div.left {
 
 div.right {
 	text-align: right;
+	margin-right: 10%;
 }
 
 div.centre {

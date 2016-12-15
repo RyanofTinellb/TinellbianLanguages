@@ -16,27 +16,32 @@ h1, h2, h3, h4, h5, h6 {
 
 div.nav-header {
 	background-color: purple;
-	padding-top: 1em;
-	padding-bottom: 1em;
-	padding-left: 10%;
-	padding-right: 10%;
+	width: 13em;
+	float: left;
 	font-family: sans-serif;
-	text-align: center;
-	letter-spacing: 7em;
+	text-align: left;
 }
 
 div.nav-header a {
-	font-size: 150%;
 	color: cornsilk;
 	font-weight: bold;
 	text-decoration: none;
-	letter-spacing: 0;
+	display: block;
 	line-height: 2;
+	margin-left: -1em;
 }
+
+div.nav-header ul {
+	color: cornsilk;
+	list-style: square;
+}
+
+div.nav-header ul ul {
+	list-style: none;
+}
+
 div.nav-footer {
-	text-align: center;
-	float: top center;
-	background-color: purple;
+	text-align: right;
 	padding-top: 0;
 	padding-bottom: 0;
 	padding-left: 10%;
@@ -46,13 +51,13 @@ div.nav-footer {
 }
 
 div.nav-footer a {
-	color: cornsilk;
+	color: black;
 	font-weight: bold;
 	text-decoration: none;
 }
 
 div.content {
-	margin-left: 5em;
+	margin-left: 17em;
 	margin-right: 5em;
 	line-height: 2;
 }
@@ -72,13 +77,18 @@ td {
 table table {
 	line-height: 2;
 	float: left;
+	margin: 0;
 }
 
 table table td {
 	text-align: left;
 	font-weight: normal;
-	padding-left: 1em;
-	padding-right: 1em;
+	padding-left: 0em;
+	padding-right: 0em;
+}
+
+table table td:first-child {
+	padding-left: 2em;
 }
 
 th.row {
@@ -117,14 +127,6 @@ p.example_no_lines {
 	line-height: 1;
 }
 
-div.left {
-	float: left;
-}
-
-div.right {
-	float: right;
-}
-
 div.centre {
 	text-align: center;
 }
@@ -140,11 +142,6 @@ div.toc a {
 
 span.tinellbian {
 	font-family: lulani;	
-}
-
-span.right {
-	display: block;
-	text-align: right;
 }
 
 tinellbian:before {
@@ -174,6 +171,20 @@ div.toc p tinellbian {
 
 span.centre {
 	display: block;
-	text-align: center;
+	text-align: center
 }
 
+@media screen and (max-width: 900px) {
+	div.nav-header {
+		float: none;
+	}
+	
+	div.content {
+		margin-left: 5%;
+	}
+	
+	table table td {
+		padding-left: 0;
+		padding-right: 0;
+	}
+}

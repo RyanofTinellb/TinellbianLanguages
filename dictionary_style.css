@@ -242,6 +242,10 @@ div.toc {
 		-moz-column-count: 2; /* Firefox */
 		column-count: 2;
 	}
+	
+	span.no-space {
+		display: block;
+	}
 }
 
 @media screen and (max-width: 500px) {

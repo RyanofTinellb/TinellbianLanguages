@@ -12,7 +12,19 @@ The Coelacanth Quartet
 <p class="forward"><a href="../grammar/index.html">Grammar &#x2192;</a></p>
 <p class="forward"><a href="../dictionary/index.html">Dictionary &#x2192;</a></p>
 <p class="title">The Coelacanth Quartet</p>
-<p>There are 5 versions here, but only one story. Originally written in <strong>English</strong>, each chapter of the <em>Coelacanth Quartet</em> is being translated into a different Tinellbian language. The <strong>Tinellbian</strong> section uses the native scripts, while the <strong>Transliteration</strong> section uses Roman type. The <strong>Interlinear</strong> shows the meaning of each morpheme, using the glossing rules and abbreviations found <a href=../grammar/appendices/glossing/index.html>here.</a> The <strong>Gloss</strong> shows just the interlinear meanings, without the native pronunciations.</p>
-{toc}
+<p>Eons ago, I decided to write a novel. I then decided, as a linguist, I should create a number of constructed languages, and now I've decided to put this on the web. So I'm two levels away from <em>actually</em> writing the thing. One day&hellip;.</p>
+<p>Although there is only one story, it appears here in five versions. On each page, there is the option to jump between these.</p>
+<ul>
+<li><a href="english/thecrackledegg/prologue.html">English</a></li>
+<p>The original <em>Coelacanth Quartet</em>.</p>
+<li><a href="tinellbian/zcngyl/dsnuk.html">Tinellbian</a></li>
+<p>Each chapter of the original text, translated into a different Tinellbian language, using the native scripts.</p>
+<li><a href="transliteration/xucinagicula/disinnamuka.html">Transliteration</a></li>
+<p>The same as above, but using Roman letters.</p>
+<li><a href="interlinear/story/prologue.html">Interlinear</a></li>
+<p>The meaning of each morpheme, using the glossing rules and abbreviations <a href="../grammar/appendices/glossing/index.html">here</a>.
+<li><a href="gloss/feather-becomingegg/up-story-nmn.html">Gloss</a></li>
+<p>Just the meaning of each morpheme, lacking the native pronunciations. Boring, really, but might work as freeform poetry.</p>
+</ul>
 </body>
 </html>

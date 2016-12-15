@@ -507,7 +507,7 @@ ruku
 Auxiliary stacking gives a poetic or archaic nuance.
 [f]<strong>&#x294;usu rusarukuru lu&rsquo;i fu</strong>.
 [e]<em>1</em><small-caps>int pst;gno-fut;gno-prs;gno</small-caps> <em>love 2</em><small-caps>tra.</small-caps>
-&ldquo;I have always and will always love you.&rdquo; 
+[e]&ldquo;I have always and will always love you.&rdquo; 
 [4]Tense
 The three tenses are <strong>past</strong>, <strong>present</strong> and <strong>future</strong>. In conversation, the tenses tend to mark the time at which the action began or occurred.
 On the other hand, narratives are mainly told in present tense. The other tenses are then used relatively, so that past tense is used for things that happened earlier than the narrative present, and the future tense for things that happened later.

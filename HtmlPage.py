@@ -139,25 +139,25 @@ class HtmlPage:
                 node = node.next_node()
             except IndexError:
                 break
-        text += (level -1) * "</ul>\n"
+        text += (level - 1) * "</ul>\n"
         for link in ["story", "dictionary"]:
             text += "<li class=\"link\">" + self.current.hyperlink(link + "/index.html", link.capitalize()) + "</li>\n"
         text += "</ul>\n"
         return text
 
     def nav_header_story(self):
-        text = self.top_level_links()
-        # medium-level side links
-        text += "<div class=\"centre\">" + self.current.hyperlink(self.root) + "</div>\n"
-        text += "<div class=\"cousins\">"
+        text = "<ul><li>" + self.current.hyperlink("story/index.html", "Story") + "</li>"
+        text += "<ul>"
         categories = [i.name for i in self.root.children]
         for cousin, category in zip(self.current.cousins(), categories):
             if self.current is cousin:
                 continue
-            text += self.current.hyperlink(cousin, category) + "\n"
-        text += "</div>"
-        if self.current.generation() >= 2:
-            text += self.medium_level_links(1, 10, [0])
+            text += "<li>" + self.current.hyperlink(cousin, category) + "</li>\n"
+        text += "</ul>"
+        text += "<li class=\"up-arrow\">" + self.current.hyperlink(self.current.parent, "Go up one level") + "</li>"
+        for link in ["grammar", "dictionary"]:
+            text += "<li class=\"link\">" + self.current.hyperlink(link + "/index.html", link.capitalize()) + "</li>\n"
+        text += "</ul>\n"
         return text
 
     def nav_header_dictionary(self):
@@ -169,6 +169,8 @@ class HtmlPage:
                 text += "<span class=\"normal\">" + self.current.hyperlink(child) + "</span> \n"
             else:
                 text += self.current.hyperlink(child) + " \n"
+            if child.name == "K":
+                text += "<span class=\"no-space\"> </span>"
         for link in ["grammar", "story"]:
             text += "<br>" + self.current.hyperlink(link + "/index.html", link.capitalize())
         return text
@@ -191,17 +193,33 @@ class HtmlPage:
 
     def contents(self):
         text = ""
-        in_table = False
+        in_table = 0
         in_list = False
-        table = []
+        first_row = False
         u_list = []
         for line in self.content:
             if in_table:
-                if line[:4] != "[/t]":
-                    table.append(line)
+                if line[:6] == "[r][t]":
+                    first_row = False
+                    in_table += 1
+                    text += "</tr>\n<tr><td>\n<table><tr><td>" + line[6:] + "</td>\n"
+                elif line[:3] == "[t]":
+                    first_row = False
+                    in_table += 1
+                    text += "<table><tr><td>" + line[3:] + "</td>\n"
+                elif line[:3] == "[r]" and in_table == 1:
+                    first_row = False
+                    text += "</tr>\n<tr><th>" + line[3:] + "</th>\n"
+                elif line[:3] == "[r]":
+                    first_row = False
+                    text += "</tr>\n<tr><td>" + line[3:] + "</td>\n"
+                elif line[:4] == "[/t]":
+                    in_table -= 1
+                    text += "</tr></table>\n"
+                elif first_row:
+                    text += "<th>" + line + "</th>"
                 else:
-                    text += self.make_table(table)
-                    in_table = False
+                    text += "<td>" + line + "</td>"
             elif in_list:
                 if line[:4] not in ["[/l]", "[/n]"]:
                     u_list.append(line)
@@ -214,8 +232,9 @@ class HtmlPage:
                     text += self.change_to_heading(heading, self.current.generation(), line[3:])
                 except ValueError:
                     if line[:3] == "[t]":
-                        in_table = True
-                        table = [line[3:]]
+                        in_table += 1
+                        text += "<table><tr><th>" + line[3:] + "</th>"
+                        first_row += 1
                     elif line[:3] in ["[l]", "[n]"]:
                         in_list = True
                         u_list = [line[3:]]
@@ -241,23 +260,6 @@ class HtmlPage:
             text = "<p class=\"example_no_lines\">" + line + "</p>\n"
         else:
             text = line + "\n"
-        return text
-
-    @staticmethod
-    def make_table(table):
-        text = "<table>\n<tr>\n"
-        first_row = True
-        for cell in table:
-            if cell[:3] == "[r]":
-                text += "</tr>\n<tr>\n<th>"
-                text += cell[3:] + "</th>\n"
-                first_row = False
-            else:
-                if not first_row:
-                    text += "<td>" + cell + "</td>\n"
-                else:
-                    text += "<th>" + cell + "</th>\n"
-        text += "</tr>\n</table>"
         return text
 
     @staticmethod
