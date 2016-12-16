@@ -27,6 +27,15 @@ div.welcome {
 	color: blue;
 }
 
+p {
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+input#search {
+	margin-left: 20%;
+}
+
 p.return {
 	padding-top: 2em;
 	font-size: large;

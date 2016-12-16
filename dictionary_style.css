@@ -60,6 +60,10 @@ p.example {
 	padding-top: 1em;
 }
 
+p.search-box {
+	padding-left: 10%;
+}
+
 div.centre {
 	text-align: center;
 }

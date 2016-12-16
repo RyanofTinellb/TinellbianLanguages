@@ -7,6 +7,18 @@ Tinellbian Languages Dictionary
 </title>
 <link rel="stylesheet" type="text/css" href="../dictionary_main_style.css">
 <link rel="icon" type="image/png" href="../favicon.png">
+<script>
+function dictionarysearch() {
+	var text;
+	var folder;
+	text = document.getElementById("search").value.toLowerCase();
+	if (text.startsWith("'")) {
+	folder = text.charAt(1);
+	} else {
+	folder = text.charAt(0); }
+	window.location.href = folder + "/" + text + ".html";
+}
+</script>
 </head>
 <body>
 <div class="welcome">Welcome to the Tinellbian Languages Dictionary!</div>
@@ -35,6 +47,9 @@ Tinellbian Languages Dictionary
 <p class="return"><a href="../index.html">&#x2191; Return to Main Menu</a></p>
 <p class="forward"><a href="../grammar/index.html">Grammar &#x2192;</a></p>
 <p class="forward"><a href="../story/index.html">Story &#x2192;</a></p>
+<p>Type a word into the searchbox on any Dictionary page, and go straight to that entry:</p>
+<input type="text" name="search" id="search" onKeyDown="if (event.keyCode == 13) {dictionarysearch()}">
+<input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Search">
 <ul class="level-1"><li><a href="a/index.html">A</a></li>
 <ul class="level-2"><li><a href="a/'a.html">&rsquo;a</a></li>
 <li><a href="a/'a'ami.html">&rsquo;a&rsquo;ami</a></li>

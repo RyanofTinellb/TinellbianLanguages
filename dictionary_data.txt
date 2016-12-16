@@ -1028,6 +1028,7 @@ first person intransitive; <small-caps>1int</small-caps>; I; me
 <a href="../d/disi.html">disi</a>
 <a href="../q/qa.html">qa</a>
 [/t]
+
 [2]&rsquo;uxxi
 [3]High Lulani
 [4]<high-lulani>u;X</high-lulani>

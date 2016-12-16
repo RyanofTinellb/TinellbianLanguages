@@ -7,6 +7,7 @@ dihiqa &lt; D &lt; Dictionary
 <link rel="stylesheet" type="text/css" href="../../dictionary_style.css">
 <link rel="icon" type="image/png" href="../../favicon.png">
 
+<script src="../../searchFunction.js"></script>
 </head>
 <div class="nav-header">
 <a href="../../dictionary/index.html">Dictionary</a><br><a href="../a/index.html">A</a> 
@@ -45,6 +46,9 @@ dihiqa &lt; D &lt; Dictionary
 <p><br>
 </p>
 
+<p class="search-box"><input type="text" name="search" id="search" onKeyDown="if (event.keyCode == 13) {dictionarysearch()}">
+<input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Search"></p>
+<br>
 <div class="toc">
 
 </div>
