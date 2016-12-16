@@ -2,13 +2,13 @@
 [2]&rsquo;a
 [3]High Lulani
 [4]<high-lulani>a</high-lulani>
-[5]/&#x294;&#x259;/
+[5]<ipa>/&#x294;&#x259;/</ipa>
 [6]stem derivational suffix (verb &rarr; noun)
 derives an abstract noun from a verb
 [7]Derived Terms
 <a href="../c/cura'a.html">cura&rsquo;a</a> <high-lulani>yra</high-lulani> <em>time</em>
 <a href="../q/qacca'a.html">qacca&rsquo;a</a> <high-lulani>q;ca</high-lulani> <em>choice</em>
-[5]/&#x294;a/
+[5]<ipa>/&#x294;a/</ipa>
 [6]inanimate stem noun element
 iron
 [7]See Also
@@ -19,7 +19,7 @@ iron
 [2]&rsquo;a&rsquo;ami
 [3]High Lulani
 [4]<high-lulani>aaM</high-lulani>
-[5]/&#x294;&#x259;.&#x2c8;&#x294;am.&#x268;/
+[5]<ipa>/&#x294;&#x259;.&#x2c8;&#x294;am.&#x268;/</ipa>
 [6]inanimate stem noun element
 cerium
 [7]See Also
@@ -30,7 +30,7 @@ cerium
 [2]&rsquo;a&rsquo;ima
 [3]High Lulani
 [4]<high-lulani>aim</high-lulani>
-[5]/&#x294;&#x259;.&#x2c8;&#x294;im.&#x259;/
+[5]<ipa>/&#x294;&#x259;.&#x2c8;&#x294;im.&#x259;/</ipa>
 [6]animate stem noun
 traveller; journeyman
 [7]See Also
@@ -39,7 +39,7 @@ traveller; journeyman
 [2]&rsquo;appu
 [3]High Lulani
 [4]<high-lulani>a;o</high-lulani>
-[5]/&#x2c8;&#x294;ap.p&#x289;/
+[5]<ipa>/&#x2c8;&#x294;ap.p&#x289;/</ipa>
 [6]animate stem noun
 baby; foetus
 [7]Usage Notes
@@ -50,7 +50,7 @@ only used with possessives or in compounds
 [2]&rsquo;appuli
 [3]High Lulani
 [4]<high-lulani>a;oL</high-lulani>
-[5]/&#x2c8;&#x294;ap.p&#x289;.l&#x268;/
+[5]<ipa>/&#x2c8;&#x294;ap.p&#x289;.l&#x268;/</ipa>
 [6]derived inanimate noun
 miscarriage; abortion
 [7]Etymology
@@ -59,7 +59,7 @@ miscarriage; abortion
 [2]&rsquo;aba
 [3]High Lulani
 [4]<high-lulani>ab</high-lulani>
-[5]/&#x2c8;&#x294;ab.&#x259;/
+[5]<ipa>/&#x2c8;&#x294;ab.&#x259;/</ipa>
 [6]stem indefinite pronoun
 all; every; everything; universal object
 [7]Example
@@ -105,7 +105,7 @@ state
 [2]-atinna
 [3]High Lulani
 [4]<high-lulani>;aT;n</high-lulani>
-[5]/&#x259;.&#x2cc;t&#x2b0;i&#x272;.&#x272;&#x259;/
+[5]<ipa>/&#x259;.&#x2cc;t&#x2b0;i&#x272;.&#x272;&#x259;/</ipa>
 [6]derivational suffix (verb &rarr; adverb)
 derives an adverb from a verb
 [7]Derived Terms
@@ -116,7 +116,7 @@ derives an adverb from a verb
 [2]&rsquo;adda
 [3]High Lulani
 [4]<high-lulani>a;d</high-lulani>
-[5]/&#x2c8;&#x294;ad&#x2b1;.d&#x2b1;&#x259;/
+[5]<ipa>/&#x2c8;&#x294;ad&#x2b1;.d&#x2b1;&#x259;/</ipa>
 [6]abstract stem noun
 the past
 [7]See Also
@@ -126,7 +126,7 @@ the past
 [2]&rsquo;adi
 [3]High Lulani
 [4]<high-lulani>aD</high-lulani>
-[5]/&#x2c8;&#x294;ad.&#x268;/<em></em>
+[5]<ipa>/&#x2c8;&#x294;ad.&#x268;/<em></em></ipa>
 [6]stem adposition
 close; near
 [7]Antonym
@@ -135,7 +135,7 @@ close; near
 [2]&rsquo;aka
 [3]High Lulani
 [4]<high-lulani>ak</high-lulani>
-[5]/&#x2c8;&#x294;ak&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;&#x294;ak&#x2b0;.&#x259;/</ipa>
 [6]abstract stem noun
 spiritual plane
 [7]See Also
@@ -151,14 +151,14 @@ spiritual plane
 [2]&rsquo;akki
 [3]High Lulani
 [4]<high-lulani>a;K</high-lulani>
-[5]/&#x2c8;&#x294;ak.k&#x268;/
+[5]<ipa>/&#x2c8;&#x294;ak.k&#x268;/</ipa>
 [6]inanimate stem noun
 boat
 
 [2]-aku
 [3]High Lulani
 [4]<high-lulani>;a&gt;</high-lulani>
-[5]/&#x259;.k&#x2b0;&#x289;/
+[5]<ipa>/&#x259;.k&#x2b0;&#x289;/</ipa>
 [6]derivational suffix (noun &rarr; noun)
 augmentative
 [7]Examples
@@ -168,7 +168,7 @@ augmentative
 [2]&rsquo;agga
 [3]High Lulani
 [4]<high-lulani>a;g</high-lulani>
-[5]/&#x2c8;&#x294;ag&#x2b1;.g&#x2b1;&#x259;/
+[5]<ipa>/&#x2c8;&#x294;ag&#x2b1;.g&#x2b1;&#x259;/</ipa>
 [6]abstract stem noun
 the law
 [7]Definition
@@ -179,7 +179,7 @@ a collection of rules for a society
 [2]&rsquo;aggami
 [3]High Lulani
 [4]<high-lulani>a;gM</high-lulani>
-[5]/&#x2c8;&#x294;ag&#x2b1;.g&#x2b1;&#x259;.m&#x268;/
+[5]<ipa>/&#x2c8;&#x294;ag&#x2b1;.g&#x2b1;&#x259;.m&#x268;/</ipa>
 [6]derived animate noun
 police officer
 [7]Etymology
@@ -188,7 +188,7 @@ police officer
 [2]&rsquo;aggini
 [3]High Lulani
 [4]<high-lulani>a;GN</high-lulani>
-[5]/&#x2c8;&#x294;ag&#x2b1;.g&#x2b1;&#x268;.n&#x268;/
+[5]<ipa>/&#x2c8;&#x294;ag&#x2b1;.g&#x2b1;&#x268;.n&#x268;/</ipa>
 [6]inanimate stem noun element
 bismuth
 [7]See Also
@@ -200,14 +200,14 @@ bismuth
 [2]&rsquo;agusa
 [3]High Lulani
 [4]<high-lulani>a&lt;s</high-lulani>
-[5]/&#x294;&#x259;.&#x2c8;gus.&#x259;/
+[5]<ipa>/&#x294;&#x259;.&#x2c8;gus.&#x259;/</ipa>
 [6]abstract stem noun
 contest
 
 [2]&rsquo;ama
 [3]High Lulani
 [4]<high-lulani>am</high-lulani>
-[5]/&#x2c8;&#x294;am.&#x259;/
+[5]<ipa>/&#x2c8;&#x294;am.&#x259;/</ipa>
 [6]inanimate stem noun element
 silicon
 [7]See Also
@@ -219,7 +219,7 @@ silicon
 [2]&rsquo;anni
 [3]High Lulani
 [4]<high-lulani>a;N</high-lulani>
-[5]/&#x2c8;&#x294;a&#x272;.&#x272;&#x268;/
+[5]<ipa>/&#x2c8;&#x294;a&#x272;.&#x272;&#x268;/</ipa>
 [6]abstract stem noun
 plane of existence
 [7]Hyponyms
@@ -233,7 +233,7 @@ plane of existence
 [2]&rsquo;anu
 [3]High Lulani
 [4]<high-lulani>aI</high-lulani>
-[5]/&#x2c8;&#x294;an.&#x289;/
+[5]<ipa>/&#x2c8;&#x294;an.&#x289;/</ipa>
 [6]intransitive stem
 to be balanced
 [7]Thematic Relations
@@ -264,7 +264,7 @@ Three plus four is seven.
 [2]&rsquo;aqqixi
 [3]High Lulani
 [4]<high-lulani>a;QX</high-lulani>
-[5]/&#x2c8;&#x294;a&#x14b;.&#x14b;&#x268;.&#x255;&#x268;/
+[5]<ipa>/&#x2c8;&#x294;a&#x14b;.&#x14b;&#x268;.&#x255;&#x268;/</ipa>
 [6]inanimate stem noun element
 yttrium
 [7]See Also
@@ -276,7 +276,7 @@ yttrium
 [2]&rsquo;ala
 [3]High Lulani
 [4]<high-lulani>al</high-lulani>
-[5]/&#x2c8;&#x294;al.&#x259;/
+[5]<ipa>/&#x2c8;&#x294;al.&#x259;/</ipa>
 [6]inanimate stem noun
 heat
 [7]Derived Terms
@@ -293,7 +293,7 @@ these are just about the only terms of this type. Anything else uses the genitiv
 [2]&rsquo;alla
 [3]High Lulani
 [4]<high-lulani>a;l</high-lulani>
-[5]/&#x2c8;&#x294;a&#x28e;.&#x28e;&#x259;/
+[5]<ipa>/&#x2c8;&#x294;a&#x28e;.&#x28e;&#x259;/</ipa>
 [6]abstract stem noun
 familiarity
 [7]Definition
@@ -302,7 +302,7 @@ a feeling of recognition
 [2]&rsquo;ali
 [3]High Lulani
 [4]<high-lulani>aL</high-lulani>
-[5]/&#x2c8;&#x294;al.&#x268;/
+[5]<ipa>/&#x2c8;&#x294;al.&#x268;/</ipa>
 [6]inanimate stem noun element
 gallium
 [7]See Also
@@ -314,7 +314,7 @@ gallium
 [2]&rsquo;alissa
 [3]High Lulani
 [4]<high-lulani>aL;s</high-lulani>
-[5]/&#x294;&#x259;.&#x2c8;lis.s&#x259;/
+[5]<ipa>/&#x294;&#x259;.&#x2c8;lis.s&#x259;/</ipa>
 [6]abstract stem noun
 need
 [7]Definition
@@ -326,14 +326,14 @@ a subtle requirement. Note that the object of requirement may be physical or sub
 [3]High Lulani
 [4]<high-lulani>ar</high-lulani>
 
-[5]/&#x2c8;&#x294;a&#x279;.&#x259;/
+[5]<ipa>/&#x2c8;&#x294;a&#x279;.&#x259;/</ipa>
 [6]inanimate stem noun
 face
 
 [2]&rsquo;aru&rsquo;u
 [3]High Lulani
 [4]<high-lulani>awu</high-lulani>
-[5]/&#x294;&#x259;.&#x2c8;&#x279;u&#x294;.&#x289;/
+[5]<ipa>/&#x294;&#x259;.&#x2c8;&#x279;u&#x294;.&#x289;/</ipa>
 [6]inanimate stem noun element
 strontium
 [7]See Also
@@ -345,14 +345,14 @@ strontium
 [2]&rsquo;assa
 [3]High Lulani
 [4]<high-lulani>a;s</high-lulani>
-[5]/&#x2c8;&#x294;as.s&#x259;/
+[5]<ipa>/&#x2c8;&#x294;as.s&#x259;/</ipa>
 [6]inanimate stem noun
 goods; groceries
 
 [2]&rsquo;asila
 [3]High Lulani
 [4]<high-lulani>aSl</high-lulani>
-[5]/&#x294;&#x259;.&#x2c8;sil.&#x259;/
+[5]<ipa>/&#x294;&#x259;.&#x2c8;sil.&#x259;/</ipa>
 [6]abstract stem noun
 friendship
 [7]Derived Terms
@@ -361,7 +361,7 @@ friendship
 [2]&rsquo;asilari
 [3]High Lulani
 [4]<high-lulani>aSlR</high-lulani>
-[5]/&#x2cc;&#x294;as.&#x268;.&#x2c8;la&#x279;.&#x268;/
+[5]<ipa>/&#x2cc;&#x294;as.&#x268;.&#x2c8;la&#x279;.&#x268;/</ipa>
 [6]animate derived noun
 friend
 [7]Etymology
@@ -372,7 +372,7 @@ friend
 [2]&rsquo;axasi
 [3]High Lulani
 [4]<high-lulani>axS</high-lulani>
-[5]/&#x294;&#x259;.&#x2c8;&#x255;as.&#x268;/
+[5]<ipa>/&#x294;&#x259;.&#x2c8;&#x255;as.&#x268;/</ipa>
 [6]abstract stem noun
 maturity
 [7]Definition
@@ -384,7 +384,7 @@ the act of being or seeming physically or subtly mature
 [2]&rsquo;axasiri
 [3]High Lulani
 [4]<high-lulani>axSR</high-lulani>
-[5]/&#x2cc;&#x294;a&#x255;.&#x259;.&#x2c8;si&#x279;.&#x268;/
+[5]<ipa>/&#x2cc;&#x294;a&#x255;.&#x259;.&#x2c8;si&#x279;.&#x268;/</ipa>
 [6]animate derived noun
 adult
 [7]Etymology
@@ -393,7 +393,7 @@ adult
 [2]&rsquo;ahati
 [3]High Lulani
 [4]<high-lulani>ahT</high-lulani>
-[5]/&#x294;&#x259;.&#x2c8;hat&#x2b0;.&#x268;/
+[5]<ipa>/&#x294;&#x259;.&#x2c8;hat&#x2b0;.&#x268;/</ipa>
 [6]abstract stem noun
 happiness
 [7]Definition
@@ -407,7 +407,7 @@ a mood of joy or supreme contentment
 [2]-ahi
 [3]High Lulani
 [4]<high-lulani>/aH</high-lulani>
-[5]/&#x259;.h&#x268;/
+[5]<ipa>/&#x259;.h&#x268;/</ipa>
 [6]suffix
 derives a noun from an adverb
 [7]Derived Terms
@@ -416,7 +416,7 @@ derives a noun from an adverb
 [2]&rsquo;i
 [3]High Lulani
 [4]<high-lulani>i</high-lulani>
-[5]/&#x294;i/
+[5]<ipa>/&#x294;i/</ipa>
 [6]transitive stem verb
 to say; to speak; to tell
 [7]Derived Terms
@@ -445,7 +445,7 @@ to say; to speak; to tell
 [2]&rsquo;i&rsquo;ami
 [3]High Lulani
 [4]<high-lulani>iaM</high-lulani>
-[5]/&#x294;&#x268;.&#x2c8;&#x294;am.&#x268;/
+[5]<ipa>/&#x294;&#x268;.&#x2c8;&#x294;am.&#x268;/</ipa>
 [6]inanimate stem noun element
 hassium
 [7]See Also
@@ -456,7 +456,7 @@ hassium
 [2]&rsquo;i&rsquo;isata
 [3]High Lulani
 [4]<high-lulani>iist</high-lulani>
-[5]/&#x2cc;&#x294;i&#x294;.&#x268;.&#x2c8;sat&#x2b0;.&#x259;/
+[5]<ipa>/&#x2cc;&#x294;i&#x294;.&#x268;.&#x2c8;sat&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element
 samarium
 [7]See Also
@@ -467,14 +467,14 @@ samarium
 [2]&rsquo;i&rsquo;uja
 [3]High Lulani
 [4]<high-lulani>iuj</high-lulani>
-[5]/&#x294;&#x268;.&#x294;u&#x25f;.&#x259;/
+[5]<ipa>/&#x294;&#x268;.&#x294;u&#x25f;.&#x259;/</ipa>
 [6]inanimate stem noun
 table
 
 [2]&rsquo;ita&rsquo;i
 [3]High Lulani
 [4]<high-lulani>iti</high-lulani>
-[5]/&#x294;&#x268;.&#x2c8;t&#x2b0;a&#x294;.&#x268;/
+[5]<ipa>/&#x294;&#x268;.&#x2c8;t&#x2b0;a&#x294;.&#x268;/</ipa>
 [6]inanimate stem noun
 car; wagon; vehicle
 [7]Derived Terms
@@ -483,7 +483,7 @@ car; wagon; vehicle
 [2]&rsquo;ita&rsquo;i&rsquo;assa
 [3]High Lulani
 [4]<high-lulani>itia;s</high-lulani>
-[5]/&#x294;&#x268;.&#x2cc;t&#x2b0;a&#x294;.&#x268;.&#x2c8;&#x294;as.s&#x259;/
+[5]<ipa>/&#x294;&#x268;.&#x2cc;t&#x2b0;a&#x294;.&#x268;.&#x2c8;&#x294;as.s&#x259;/</ipa>
 [6]inanimate derived compound noun
 wagon
 [7]Etymology
@@ -492,7 +492,7 @@ wagon
 [2]&rsquo;iti
 [3]High Lulani
 [4]<high-lulani>iT</high-lulani>
-[5]/&#x2c8;&#x294;it&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;&#x294;it&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun
 milk
 [7]Derived Terms
@@ -501,7 +501,7 @@ milk
 [2]&rsquo;ittika
 [3]High Lulani
 [4]<high-lulani>i;Tk</high-lulani>
-[5]/&#x2c8;&#x294;it.t&#x268;.k&#x2b0;&#x259;/
+[5]<ipa>/&#x2c8;&#x294;it.t&#x268;.k&#x2b0;&#x259;/</ipa>
 [6]inanimate stem noun element
 oganesson
 [7]See Also
@@ -511,7 +511,7 @@ oganesson
 [2]&rsquo;itikku
 [3]High Lulani
 [4]<high-lulani>iT;&gt;</high-lulani>
-[5]/&#x294;&#x268;.&#x2c8;t&#x2b0;ik.k&#x289;/
+[5]<ipa>/&#x294;&#x268;.&#x2c8;t&#x2b0;ik.k&#x289;/</ipa>
 [6]derived inanimate noun
 breast
 [7]Etymology
@@ -520,7 +520,7 @@ breast
 [2]&rsquo;idu
 [3]High Lulani
 [4]<high-lulani>iE</high-lulani>
-[5]/&#x2c8;&#x294;id.&#x289;/
+[5]<ipa>/&#x2c8;&#x294;id.&#x289;/</ipa>
 [6]transitive stem verb
 to create; to make
 [7]Definition
@@ -542,7 +542,7 @@ to create; to make
 [2]&rsquo;ikka
 [3]High Lulani
 [4]<high-lulani>i;k</high-lulani>
-[5]/&#x2c8;&#x294;ik.k&#x259;/
+[5]<ipa>/&#x2c8;&#x294;ik.k&#x259;/</ipa>
 [6]inanimate stem noun element
 californium
 [7]See Also
@@ -553,7 +553,7 @@ californium
 [2]&rsquo;iku
 [3]High Lulani
 [4]<high-lulani>i&gt;</high-lulani>
-[5]/&#x2c8;&#x294;ik&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;&#x294;ik&#x2b0;.&#x289;/</ipa>
 [6]abstract stem noun
 hunger
 [7]Derived Terms
@@ -564,7 +564,7 @@ hunger
 [2]&rsquo;ima
 [3]High Lulani
 [4]<high-lulani>im</high-lulani>
-[5]/&#x2c8;&#x294;im.&#x259;/
+[5]<ipa>/&#x2c8;&#x294;im.&#x259;/</ipa>
 [6]stem mathematics
 half
 [7]Synonyms
@@ -582,7 +582,7 @@ void; vacuum
 [2]-ini
 [3]High Lulani
 [4]<high-lulani>/iN</high-lulani>
-[5]/&#x268;.n&#x268;/
+[5]<ipa>/&#x268;.n&#x268;/</ipa>
 [6]derivational suffix (noun)
 diminutive; derives a noun of lesser intensity or size from another noun
 [7]Example
@@ -593,7 +593,7 @@ diminutive; derives a noun of lesser intensity or size from another noun
 [2]&rsquo;ilasa
 [3]High Lulani
 [4]<high-lulani>ils</high-lulani>
-[5]/&#x294;&#x268;.&#x2c8;las.&#x259;/
+[5]<ipa>/&#x294;&#x268;.&#x2c8;las.&#x259;/</ipa>
 [6]inanimate stem noun element
 radium
 [7]See Also
@@ -604,7 +604,7 @@ radium
 [2]&rsquo;ilu
 [3]High Lulani
 [4]<high-lulani>iW</high-lulani>
-[5]/&#x2c8;&#x294;il.&#x289;/
+[5]<ipa>/&#x2c8;&#x294;il.&#x289;/</ipa>
 [6]inanimate stem noun
 heart; emotional body
 [7]See Also
@@ -620,14 +620,14 @@ heart; emotional body
 [2]-illu
 [3]High Lulani
 [4]<high-lulani>/i;W</high-lulani>
-[5]/&#x2cc;i&#x28e;.&#x28e;&#x289;/
+[5]<ipa>/&#x2cc;i&#x28e;.&#x28e;&#x289;/</ipa>
 [6]derivational suffix (verb)
 passive
 
 [2]&rsquo;iffa
 [3]High Lulani
 [4]<high-lulani>i;f</high-lulani>
-[5]/&#x2c8;&#x294;if.f&#x259;/
+[5]<ipa>/&#x2c8;&#x294;if.f&#x259;/</ipa>
 [6]stem personal pronoun
 third person transitive inanimate; <small-caps>3ina;tra</small-caps>; it
 [7]See Also
@@ -666,7 +666,7 @@ third person transitive inanimate; <small-caps>3ina;tra</small-caps>; it
 [2]&rsquo;ifuhhanaku
 [3]High Lulani
 [4]<high-lulani>iv;hn&gt;</high-lulani>
-[5]/&#x294;&#x268;.&#x2cc;fu&ccedil;.&ccedil;&#x259;.&#x2c8;nak&#x2b0;.&#x289;/
+[5]<ipa>/&#x294;&#x268;.&#x2cc;fu&ccedil;.&ccedil;&#x259;.&#x2c8;nak&#x2b0;.&#x289;/</ipa>
 [6]derived compound verb
 to agree
 [7]Etymology
@@ -675,21 +675,21 @@ to agree
 [2]&rsquo;issa
 [3]High Lulani
 [4]<high-lulani>i;s</high-lulani>
-[5]/&#x2c8;&#x294;is.s&#x259;/
+[5]<ipa>/&#x2c8;&#x294;is.s&#x259;/</ipa>
 [6]inanimate stem noun
 oscillation; vibration
 
 [2]&rsquo;isaki
 [3]High Lulani
 [4]<high-lulani>isK</high-lulani>
-[5]/&#x294;&#x268;.sak&#x2b0;.&#x268;/
+[5]<ipa>/&#x294;&#x268;.sak&#x2b0;.&#x268;/</ipa>
 [6]abstract, inanimate stem noun
 company; business
 
 [2]&rsquo;issi
 [3]High Lulani
 [4]<high-lulani>i;S</high-lulani>
-[5]/&#x2c8;&#x294;is.s&#x268;/
+[5]<ipa>/&#x2c8;&#x294;is.s&#x268;/</ipa>
 [6]inanimate stem noun
 song
 [7]Derived Terms
@@ -698,7 +698,7 @@ song
 [2]&rsquo;isili
 [3]High Lulani
 [4]<high-lulani>iSL</high-lulani>
-[5]/&#x294;&#x268;.sil.&#x268;/
+[5]<ipa>/&#x294;&#x268;.sil.&#x268;/</ipa>
 [6]abstract stem noun
 sadness
 [7]Derived Terms
@@ -714,7 +714,7 @@ sadness
 [2]&rsquo;issu
 [3]High Lulani
 [4]<high-lulani>i;z</high-lulani>
-[5]/&#x2c8;&#x294;is.s&#x289;/
+[5]<ipa>/&#x2c8;&#x294;is.s&#x289;/</ipa>
 [6]inanimate stem noun
 vulva; vagina
 [7]See Also
@@ -723,7 +723,7 @@ vulva; vagina
 [2]&rsquo;ixxa
 [3]High Lulani
 [4]<high-lulani>i;x</high-lulani>
-[5]/&#x2c8;&#x294;i&#x255;.&#x255;&#x259;/
+[5]<ipa>/&#x2c8;&#x294;i&#x255;.&#x255;&#x259;/</ipa>
 [6]inanimate stem noun
 belly
 [7]See Also
@@ -733,14 +733,14 @@ belly
 [2]&rsquo;ixxa&rsquo;i
 [3]High Lulani
 [4]<high-lulani>i;xi</high-lulani>
-[5]/&#x2c8;&#x294;i&#x255;.&#x255;&#x259;.&#x294;&#x268;/
+[5]<ipa>/&#x2c8;&#x294;i&#x255;.&#x255;&#x259;.&#x294;&#x268;/</ipa>
 [6]abstract stem noun
 pride in another
 
 [2]&rsquo;ihafi
 [3]High Lulani
 [4]<high-lulani>ihF</high-lulani>
-[5]/&#x294;&#x268;.&#x2c8;haf.&#x268;/
+[5]<ipa>/&#x294;&#x268;.&#x2c8;haf.&#x268;/</ipa>
 [6]abstract stem noun
 the four planes
 [7]See Also
@@ -758,7 +758,7 @@ the four planes
 [2]&rsquo;u&rsquo;a
 [3]High Lulani
 [4]<high-lulani>ua</high-lulani>
-[5]/&#x2c8;&#x294;u&#x294;.&#x259;/
+[5]<ipa>/&#x2c8;&#x294;u&#x294;.&#x259;/</ipa>
 [6]inanimate stem noun
 wood
 [7]See Also
@@ -772,7 +772,7 @@ wood
 [2]&rsquo;u&rsquo;ili
 [3]High Lulani
 [4]<high-lulani>uiL</high-lulani>
-[5]/&#x294;&#x289;.&#x2c8;&#x294;il.&#x268;/
+[5]<ipa>/&#x294;&#x289;.&#x2c8;&#x294;il.&#x268;/</ipa>
 [6]inanimate stem noun
 reality
 [7]Definition
@@ -787,7 +787,7 @@ the one relative dimension
 [2]&rsquo;udi
 [3]High Lulani
 [4]<high-lulani>uD</high-lulani>
-[5]/&#x2c8;&#x294;ud.&#x268;/
+[5]<ipa>/&#x2c8;&#x294;ud.&#x268;/</ipa>
 [6]inanimate stem noun
 teeth
 [7]Derived Terms
@@ -796,7 +796,7 @@ teeth
 [2]&rsquo;uccadama
 [3]High Lulani
 [4]<high-lulani>u;cdm</high-lulani>
-[5]/&#x2cc;&#x294;uc.c&#x259;.&#x2c8;dam.&#x259;/
+[5]<ipa>/&#x2cc;&#x294;uc.c&#x259;.&#x2c8;dam.&#x259;/</ipa>
 [6]inanimate stem noun element
 promethium
 [7]See Also
@@ -807,7 +807,7 @@ promethium
 [2]-uju
 [3]High Lulani
 [4]<high-lulani>/uY</high-lulani>
-[5]/&#x289;.&#x25f;&#x289;/
+[5]<ipa>/&#x289;.&#x25f;&#x289;/</ipa>
 [6]mathematics suffix
 ordinal
 [7]Example
@@ -819,7 +819,7 @@ ordinal
 [2]&rsquo;umi
 [3]High Lulani
 [4]<high-lulani>uM</high-lulani>
-[5]/&#x2c8;&#x294;um.&#x268;/
+[5]<ipa>/&#x2c8;&#x294;um.&#x268;/</ipa>
 [6]stem indefinite pronoun
 anything; something; anyone; anything; existential object
 [7]See Also
@@ -863,7 +863,7 @@ state
 [2]&rsquo;ulanu
 [3]High Lulani
 [4]<high-lulani>ulI</high-lulani>
-[5]/&#x294;&#x289;.&#x2c8;lan.&#x289;/
+[5]<ipa>/&#x294;&#x289;.&#x2c8;lan.&#x289;/</ipa>
 [6]abstract stem noun
 horniness; arousal
 [7]Derived Terms
@@ -872,7 +872,7 @@ horniness; arousal
 [2]-ulu
 [3]High Lulani
 [4]<high-lulani>/uW</high-lulani>
-[5]/&#x289;.l&#x289;/
+[5]<ipa>/&#x289;.l&#x289;/</ipa>
 [6]derivational suffix (verb)
 undo
 [7]Examples
@@ -883,7 +883,7 @@ undo
 [2]&rsquo;usa
 [3]High Lulani
 [4]<high-lulani>us</high-lulani>
-[5]/&#x2c8;&#x294;us.&#x259;/
+[5]<ipa>/&#x2c8;&#x294;us.&#x259;/</ipa>
 [6]ambitransitive stem verb
 to look; to see; to watch
 [7]Thematic Relations
@@ -920,7 +920,7 @@ mercury
 [2]&rsquo;ussa
 [3]High Lulani
 [4]<high-lulani>u;s</high-lulani>
-[5]/&#x2c8;&#x294;us.s&#x259;/
+[5]<ipa>/&#x2c8;&#x294;us.s&#x259;/</ipa>
 [6]transitive stem verb
 to follow; to obey
 [7]Definition
@@ -948,7 +948,7 @@ to follow; to obey
 [2]&rsquo;usapacca
 [3]High Lulani
 [4]<high-lulani>usp;c</high-lulani>
-[5]/&#x2cc;&#x294;us.&#x259;.&#x2c8;p&#x2b0;ac.c&#x259;/
+[5]<ipa>/&#x2cc;&#x294;us.&#x259;.&#x2c8;p&#x2b0;ac.c&#x259;/</ipa>
 [6]derived verb
 to count
 [7]Etymology
@@ -957,7 +957,7 @@ to count
 [2]&rsquo;ussaba
 [3]High Lulani
 [4]<high-lulani>u;sb</high-lulani>
-[5]/&#x2c8;&#x294;us.s&#x259;.b&#x259;/
+[5]<ipa>/&#x2c8;&#x294;us.s&#x259;.b&#x259;/</ipa>
 [6]animate derived noun
 follower; submissive
 [7]Etymology
@@ -966,7 +966,7 @@ follower; submissive
 [2]&rsquo;usaju&rsquo;i
 [3]High Lulani
 [4]<high-lulani>usYi</high-lulani>
-[5]/&#x2cc;&#x294;us.&#x259;.&#x2c8;&#x25f;u&#x294;.&#x268;/
+[5]<ipa>/&#x2cc;&#x294;us.&#x259;.&#x2c8;&#x25f;u&#x294;.&#x268;/</ipa>
 [6]transitive derived compound verb
 to find
 [7]Etymology
@@ -975,7 +975,7 @@ to find
 [2]&rsquo;usi
 [3]High Lulani
 [4]<high-lulani>uS</high-lulani>
-[5]/&#x2c8;&#x294;us.&#x268;/
+[5]<ipa>/&#x2c8;&#x294;us.&#x268;/</ipa>
 [6]stem mathematics numeral
 6; six
 [7]See Also
@@ -986,14 +986,14 @@ to find
 [2]&rsquo;ussi
 [3]High Lulani
 [4]<high-lulani>u;S</high-lulani>
-[5]/&#x2c8;&#x294;us.s&#x268;/
+[5]<ipa>/&#x2c8;&#x294;us.s&#x268;/</ipa>
 [6]inanimate stem noun
 present; gift
 
 [2]&rsquo;usu
 [3]High Lulani
 [4]<high-lulani>uz</high-lulani>
-[5]/&#x2c8;&#x294;us.&#x289;/
+[5]<ipa>/&#x2c8;&#x294;us.&#x289;/</ipa>
 [6]stem personal pronoun
 first person intransitive; <small-caps>1int</small-caps>; I; me
 [7]See Also
@@ -1032,7 +1032,7 @@ first person intransitive; <small-caps>1int</small-caps>; I; me
 [2]&rsquo;uxxi
 [3]High Lulani
 [4]<high-lulani>u;X</high-lulani>
-[5]/&#x2c8;&#x294;u&#x255;.&#x255;&#x268;/
+[5]<ipa>/&#x2c8;&#x294;u&#x255;.&#x255;&#x268;/</ipa>
 [6]animate stem noun
 group of people
 [7]Related Term
@@ -1043,7 +1043,7 @@ group of people
 [2]&rsquo;uhu
 [3]High Lulani
 [4]<high-lulani>uV</high-lulani>
-[5]/&#x2c8;&#x294;uh.&#x289;/
+[5]<ipa>/&#x2c8;&#x294;uh.&#x289;/</ipa>
 [6]stem adjective
 many
 
@@ -1051,7 +1051,7 @@ many
 [2]pa
 [3]High Lulani
 [4]<high-lulani>p</high-lulani>
-[5]/p&#x2b0;a/
+[5]<ipa>/p&#x2b0;a/</ipa>
 [6]stem adposition
 towards
 [6]stem personal pronoun
@@ -1115,14 +1115,14 @@ to think
 [2]pa&rsquo;aka
 [3]High Lulani
 [4]<high-lulani>pak</high-lulani>
-[5]/p&#x2b0;&#x259;.&#x294;ak&#x2b0;.&#x259;/
+[5]<ipa>/p&#x2b0;&#x259;.&#x294;ak&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun
 shoulder
 
 [2]pa&rsquo;usa
 [3]High Lulani
 [4]<high-lulani>pus</high-lulani>
-[5]/p&#x2b0;&#x259;.&#x2c8;&#x294;us.&#x259;/
+[5]<ipa>/p&#x2b0;&#x259;.&#x2c8;&#x294;us.&#x259;/</ipa>
 [6]intransitive derived verb
 to notice
 [7]Thematic Relations
@@ -1135,7 +1135,7 @@ to notice
 [2]papa
 [3]High Lulani
 [4]<high-lulani>pp</high-lulani>
-[5]/&#x2c8;p&#x2b0;ap&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;p&#x2b0;ap&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element
 iodine
 [7]See Also
@@ -1147,14 +1147,14 @@ iodine
 [2]pada
 [3]High Lulani
 [4]<high-lulani>pd</high-lulani>
-[5]/&#x2c8;p&#x2b0;ad.&#x259;/
+[5]<ipa>/&#x2c8;p&#x2b0;ad.&#x259;/</ipa>
 [6]coordinating stem conjunction
 and then
 
 [2]pacca
 [3]High Lulani
 [4]<high-lulani>p;c</high-lulani>
-[5]/&#x2c8;pac.c&#x259;/
+[5]<ipa>/&#x2c8;pac.c&#x259;/</ipa>
 [6]abstract stem noun
 number; mathematics; count; quantity
 [7]Derived Terms
@@ -1163,7 +1163,7 @@ number; mathematics; count; quantity
 [2]paccafuni
 [3]High Lulani
 [4]<high-lulani>p;cvN</high-lulani>
-[5]/&#x2c8;p&#x2b0;ac.c&#x259;.&#x2cc;fun.&#x268;/
+[5]<ipa>/&#x2c8;p&#x2b0;ac.c&#x259;.&#x2cc;fun.&#x268;/</ipa>
 [6]derived attributive
 lacking; sparse
 [7]Etymology
@@ -1172,7 +1172,7 @@ lacking; sparse
 [2]paji
 [3]High Lulani
 [4]<high-lulani>pJ</high-lulani>
-[5]/&#x2c8;pa&#x25f;.&#x268;/
+[5]<ipa>/&#x2c8;pa&#x25f;.&#x268;/</ipa>
 [6]inanimate stem noun
 fruit
 [7]Derived Terms
@@ -1181,7 +1181,7 @@ fruit
 [2]pajiga
 [3]High Lulani
 [4]<high-lulani>pJg</high-lulani>
-[5]/p&#x2b0;&#x259;.&#x2c8;&#x25f;ig.&#x259;/
+[5]<ipa>/p&#x2b0;&#x259;.&#x2c8;&#x25f;ig.&#x259;/</ipa>
 [6]inanimate derived compound noun
 olive
 [7]Etymology
@@ -1190,7 +1190,7 @@ olive
 [2]pakicu
 [3]High Lulani
 [4]<high-lulani>pKy</high-lulani>
-[5]/p&#x2b0;&#x259;.k&#x2b0;ic&#x2b0;.&#x289;/
+[5]<ipa>/p&#x2b0;&#x259;.k&#x2b0;ic&#x2b0;.&#x289;/</ipa>
 [6]intransitive derived compound verb
 to think of as true
 [7]Etymology
@@ -1199,7 +1199,7 @@ to think of as true
 [2]pagi
 [3]High Lulani
 [4]<high-lulani>pG</high-lulani>
-[5]/&#x2c8;pag.&#x268;/
+[5]<ipa>/&#x2c8;pag.&#x268;/</ipa>
 [6]intransitive derived compound verb
 to understand; to know
 [7]Etymology
@@ -1208,7 +1208,7 @@ to understand; to know
 [2]pagu
 [3]High Lulani
 [4]<high-lulani>p&lt;</high-lulani>
-[5]/&#x2c8;pag.&#x289;/
+[5]<ipa>/&#x2c8;pag.&#x289;/</ipa>
 [6]stem personal pronoun
 first person genitive; my; mine; 1<small-caps>gen</small-caps>
 [7]See Also
@@ -1247,7 +1247,7 @@ first person genitive; my; mine; 1<small-caps>gen</small-caps>
 [2]paguqa
 [3]High Lulani
 [4]<high-lulani>p&lt;q</high-lulani>
-[5]/&#x2c8;pag.&#x289;.&#x14b;&#x259;/
+[5]<ipa>/&#x2c8;pag.&#x289;.&#x14b;&#x259;/</ipa>
 [6]derived noun pronoun
 first person genitive pronoun; mine
 [7]Etymology
@@ -1259,7 +1259,7 @@ first person genitive pronoun; mine
 [2]pamana
 [3]High Lulani
 [4]<high-lulani>pmn</high-lulani>
-[5]/p&#x2b0;&#x259;.&#x2c8;man.&#x259;/
+[5]<ipa>/p&#x2b0;&#x259;.&#x2c8;man.&#x259;/</ipa>
 [6]intransitive derived compound verb
 to realise
 [7]Etymology
@@ -1268,7 +1268,7 @@ to realise
 [2]pamasi
 [3]High Lulani
 [4]<high-lulani>pmS</high-lulani>
-[5]/p&#x2b0;&#x259;.&#x2c8;mas.&#x268;/
+[5]<ipa>/p&#x2b0;&#x259;.&#x2c8;mas.&#x268;/</ipa>
 [6]intransitive derived compound verb
 to decide on a course of action
 [7]Etymology
@@ -1277,7 +1277,7 @@ to decide on a course of action
 [2]pamilami
 [3]High Lulani
 [4]<high-lulani>pMlM</high-lulani>
-[5]/&#x2cc;p&#x2b0;am.&#x268;.&#x2c8;lam.&#x268;/
+[5]<ipa>/&#x2cc;p&#x2b0;am.&#x268;.&#x2c8;lam.&#x268;/</ipa>
 [6]intransitive derived compound verb
 to be awake; to be conscious
 [7]Etymology
@@ -1286,21 +1286,21 @@ to be awake; to be conscious
 [2]pana&rsquo;ifu
 [3]High Lulani
 [4]<high-lulani>pniv</high-lulani>
-[5]/&#x2cc;p&#x2b0;an.&#x259;.&#x2c8;&#x294;if.&#x289;/
+[5]<ipa>/&#x2cc;p&#x2b0;an.&#x259;.&#x2c8;&#x294;if.&#x289;/</ipa>
 [6]animate stem noun
 domesticated animal; klesh
 
 [2]pannaxa
 [3]High Lulani
 [4]<high-lulani>p;nx</high-lulani>
-[5]/&#x2c8;p&#x2b0;a&#x272;.&#x272;&#x259;.&#x255;&#x259;/
+[5]<ipa>/&#x2c8;p&#x2b0;a&#x272;.&#x272;&#x259;.&#x255;&#x259;/</ipa>
 [6]animate stem noun
 warrior
 
 [2]pani
 [3]High Lulani
 [4]<high-lulani>pN</high-lulani>
-[5]/&#x2c8;p&#x2b0;an.&#x268;/
+[5]<ipa>/&#x2c8;p&#x2b0;an.&#x268;/</ipa>
 [6]intransitive stem verb
 to be tame; to be tamed
 [7]Thematic Relations
@@ -1316,14 +1316,14 @@ to be tame; to be tamed
 [2]panu
 [3]High Lulani
 [4]<high-lulani>pI</high-lulani>
-[5]/&#x2c8;p&#x2b0;an.&#x289;/
+[5]<ipa>/&#x2c8;p&#x2b0;an.&#x289;/</ipa>
 [6]inanimate stem noun
 mess
 
 [2]paraba
 [3]High Lulani
 [4]<high-lulani>prb</high-lulani>
-[5]/p&#x2b0;&#x259;.&#x2c8;&#x279;ab.&#x259;/
+[5]<ipa>/p&#x2b0;&#x259;.&#x2c8;&#x279;ab.&#x259;/</ipa>
 [6]inanimate stem noun element
 thorium
 [7]See Also
@@ -1334,7 +1334,7 @@ thorium
 [2]pi
 [3]High Lulani
 [4]<high-lulani>P</high-lulani>
-[5]/p&#x2b0;i/
+[5]<ipa>/p&#x2b0;i/</ipa>
 [6]stem auxiliary
 past stative; <small-caps>pst;sta;</small-caps> was; were
 [7]See Also
@@ -1367,7 +1367,7 @@ gnomic
 [2]piba
 [3]High Lulani
 [4]<high-lulani>Pb</high-lulani>
-[5]/&#x2c8;p&#x2b0;ib.&#x259;/
+[5]<ipa>/&#x2c8;p&#x2b0;ib.&#x259;/</ipa>
 [6]stem particle
 superlative; maximum; most; deep in colour
 [7]Examples
@@ -1381,7 +1381,7 @@ superlative; maximum; most; deep in colour
 [2]pibi
 [3]High Lulani
 [4]<high-lulani>PB</high-lulani>
-[5]/&#x2c8;p&#x2b0;ib.&#x268;/
+[5]<ipa>/&#x2c8;p&#x2b0;ib.&#x268;/</ipa>
 [6]inanimate stem noun element
 phosphorus
 [7]See Also
@@ -1393,14 +1393,14 @@ phosphorus
 [2]piku
 [3]High Lulani
 [4]<high-lulani>P&gt;</high-lulani>
-[5]/&#x2c8;p&#x2b0;ik&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;p&#x2b0;ik&#x2b0;.&#x289;/</ipa>
 [6]animate stem noun
 demon
 
 [2]pini
 [3]High Lulani
 [4]<high-lulani>PN</high-lulani>
-[5]/&#x2c8;p&#x2b0;in.&#x268;/
+[5]<ipa>/&#x2c8;p&#x2b0;in.&#x268;/</ipa>
 [6]inanimate stem noun element
 lithium
 [7]See Also
@@ -1411,7 +1411,7 @@ lithium
 [2]pifa
 [3]High Lulani
 [4]<high-lulani>Pf</high-lulani>
-[5]/&#x2c8;p&#x2b0;if.&#x259;/
+[5]<ipa>/&#x2c8;p&#x2b0;if.&#x259;/</ipa>
 [6]transitive stem verb
 to create <em>ex nihilo</em>
 [7]Thematic Relations
@@ -1430,7 +1430,7 @@ to create <em>ex nihilo</em>
 [2]pixi
 [3]High Lulani
 [4]<high-lulani>PX</high-lulani>
-[5]/&#x2c8;p&#x2b0;i&#x255;.&#x268;/
+[5]<ipa>/&#x2c8;p&#x2b0;i&#x255;.&#x268;/</ipa>
 [6]stem personal pronoun
 first person dative; to me; <small-caps>1dat</small-caps>
 [7]See Also
@@ -1468,7 +1468,7 @@ first person dative; to me; <small-caps>1dat</small-caps>
 [2]piha
 [3]High Lulani
 [4]<high-lulani>Ph</high-lulani>
-[5]/&#x2c8;p&#x2b0;ih.&#x259;/
+[5]<ipa>/&#x2c8;p&#x2b0;ih.&#x259;/</ipa>
 [6]animate stem noun
 mother; parent
 [7]See Also
@@ -1479,7 +1479,7 @@ mother; parent
 [2]pu&rsquo;a
 [3]High Lulani
 [4]<high-lulani>oa</high-lulani>
-[5]/p&#x2b0;&#x289;.&#x294;&#x259;/
+[5]<ipa>/p&#x2b0;&#x289;.&#x294;&#x259;/</ipa>
 [6]derivational suffix (verb &rarr; noun)
 derives an animate patientive noun from a verb
 [7]Example
@@ -1489,7 +1489,7 @@ derives an animate patientive noun from a verb
 [2]pu&rsquo;iba
 [3]High Lulani
 [4]<high-lulani>oib</high-lulani>
-[5]/p&#x2b0;&#x289;.&#x2c8;&#x294;ib.&#x259;/
+[5]<ipa>/p&#x2b0;&#x289;.&#x2c8;&#x294;ib.&#x259;/</ipa>
 [6]inanimate stem noun
 ball
 [7]See Also
@@ -1498,7 +1498,7 @@ ball
 [2]puttu
 [3]High Lulani
 [4]<high-lulani>o;e</high-lulani>
-[5]/&#x2c8;p&#x2b0;ut.t&#x289;/
+[5]<ipa>/&#x2c8;p&#x2b0;ut.t&#x289;/</ipa>
 [6]stem personal pronoun
 first person ablative; because of me; from me; 1<small-caps>abl</small-caps>
 [7]See Also
@@ -1537,14 +1537,14 @@ first person ablative; because of me; from me; 1<small-caps>abl</small-caps>
 [2]puca
 [3]High Lulani
 [4]<high-lulani>oc</high-lulani>
-[5]/p&#x2b0;uc&#x2b0;.&#x259;/
+[5]<ipa>/p&#x2b0;uc&#x2b0;.&#x259;/</ipa>
 [6]abstract stem noun
 optimism
 
 [2]pura
 [3]High Lulani
 [4]<high-lulani>or</high-lulani>
-[5]/&#x2c8;p&#x2b0;u&#x279;.&#x259;/
+[5]<ipa>/&#x2c8;p&#x2b0;u&#x279;.&#x259;/</ipa>
 [6]intransitive stem verb
 to change; to become
 [7]Thematic Relations
@@ -1559,7 +1559,7 @@ to change; to become
 [2]purakassu
 [3]High Lulani
 [4]<high-lulani>ork;z</high-lulani>
-[5]/&#x2cc;p&#x2b0;u&#x279;.&#x259;.&#x2c8;kas.s&#x289;/
+[5]<ipa>/&#x2cc;p&#x2b0;u&#x279;.&#x259;.&#x2c8;kas.s&#x289;/</ipa>
 [6]derived verb
 to trade
 [7]Thematic Relations
@@ -1569,14 +1569,14 @@ to trade
 [2]purillu
 [3]High Lulani
 [4]<high-lulani>oR;W</high-lulani>
-[5]/p&#x2b0;&#x289;.&#x2c8;&#x279;i&#x28e;.&#x28e;&#x289;/
+[5]<ipa>/p&#x2b0;&#x289;.&#x2c8;&#x279;i&#x28e;.&#x28e;&#x289;/</ipa>
 [6]derived passive verb
 passive form of <a href="../p/pura.html">pura</a> <high-lulani>or</high-lulani> <em>to change</em>
 
 [2]purissiji
 [3]High Lulani
 [4]<high-lulani>oR;SJ</high-lulani>
-[5]/p&#x2b0;&#x289;.&#x2c8;&#x279;is.s&#x268;.&#x25f;&#x268;/
+[5]<ipa>/p&#x2b0;&#x289;.&#x2c8;&#x279;is.s&#x268;.&#x25f;&#x268;/</ipa>
 [6]inanimate stem noun
 circle
 [7]See Also
@@ -1585,7 +1585,7 @@ circle
 [2]pusu
 [3]High Lulani
 [4]<high-lulani>oz</high-lulani>
-[5]/&#x2c8;p&#x2b0;us.&#x289;/
+[5]<ipa>/&#x2c8;p&#x2b0;us.&#x289;/</ipa>
 [6]inanimate stem noun element
 zirconium
 [7]See Also
@@ -1597,21 +1597,21 @@ zirconium
 [2]puxila
 [3]High Lulani
 [4]<high-lulani>oXl</high-lulani>
-[5]/&#x2c8;p&#x2b0;&#x289;.&#x255;il.&#x259;/
+[5]<ipa>/&#x2c8;p&#x2b0;&#x289;.&#x255;il.&#x259;/</ipa>
 [6]abstract stem noun
 message
 [1]B
 [2]ba
 [3]High Lulani
 [4]<high-lulani>b</high-lulani>
-[5]/b&#x259;/
+[5]<ipa>/b&#x259;/</ipa>
 [6]derivational suffix (verb &rarr; noun)
 derives an animate agentive noun from a verb
 [7]Example
 <strong><a href="../h/hisu.html">hisuba</a></strong> <high-lulani>Hzb</high-lulani> <em>administrator</em>
 <strong><a href="../b/bibu.html">bibuba</a></strong> <high-lulani>BOb</high-lulani> <em>whiner</em>
 <a href="../u/'ussaba.html">&rsquo;ussaba</a> <high-lulani>u;sb</high-lulani> <em>follower</em>
-[5]/ba/
+[5]<ipa>/ba/</ipa>
 [6]stem personal pronoun
 second person genitive; <small-caps>2gen</small-caps>; your; yours
 [7]See Also
@@ -1649,7 +1649,7 @@ second person genitive; <small-caps>2gen</small-caps>; your; yours
 [2]ba&rsquo;u
 [3]High Lulani
 [4]<high-lulani>bu</high-lulani>
-[5]/&#x2c8;ba&#x294;.&#x289;/
+[5]<ipa>/&#x2c8;ba&#x294;.&#x289;/</ipa>
 [6]stem personal pronoun
 second person dative; <small-caps>2dat</small-caps>; to you
 [7]See Also
@@ -1688,7 +1688,7 @@ second person dative; <small-caps>2dat</small-caps>; to you
 [2]bata
 [3]High Lulani
 [4]<high-lulani>bt</high-lulani>
-[5]/&#x2c8;bat&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;bat&#x2b0;.&#x259;/</ipa>
 [6]abstract stem noun
 caution; care
 [7]Derived Terms
@@ -1697,7 +1697,7 @@ caution; care
 [2]batu
 [3]High Lulani
 [4]<high-lulani>be</high-lulani>
-[5]/&#x2c8;bat&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;bat&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun
 collection; group
 [7]Definition
@@ -1722,7 +1722,7 @@ multiplied by
 [2]batuja
 [3]High Lulani
 [4]<high-lulani>bej</high-lulani>
-[5]/b&#x259;.&#x2c8;t&#x2b0;u&#x25f;.&#x259;/
+[5]<ipa>/b&#x259;.&#x2c8;t&#x2b0;u&#x25f;.&#x259;/</ipa>
 [6]indefinite stem pronoun
 everywhere; universal place
 [7]See Also
@@ -1766,7 +1766,7 @@ state
 [2]bada
 [3]High Lulani
 [4]<high-lulani>bd</high-lulani>
-[5]/&#x2c8;bad.&#x259;/
+[5]<ipa>/&#x2c8;bad.&#x259;/</ipa>
 [6]animate stem noun
 mammalian non-Guozu young offspring, baby
 [7]See Also
@@ -1775,7 +1775,7 @@ mammalian non-Guozu young offspring, baby
 [2]baca
 [3]High Lulani
 [4]<high-lulani>bc</high-lulani>
-[5]/&#x2c8;bac&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;bac&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element
 barium
 [7]See Also
@@ -1787,7 +1787,7 @@ barium
 [2]baju
 [3]High Lulani
 [4]<high-lulani>bY</high-lulani>
-[5]/&#x2c8;ba&#x25f;.&#x289;/
+[5]<ipa>/&#x2c8;ba&#x25f;.&#x289;/</ipa>
 [6]stem verb
 to be blue, to turn blue
 [7]See Also
@@ -1798,7 +1798,7 @@ to be blue, to turn blue
 [2]bajukunubi
 [3]High Lulani
 [4]<high-lulani>bY&gt;IB</high-lulani>
-[5]/b&#x259;.&#x2cc;&#x25f;uk&#x2b0;.&#x289;.&#x2c8;nub.&#x268;/
+[5]<ipa>/b&#x259;.&#x2cc;&#x25f;uk&#x2b0;.&#x289;.&#x2c8;nub.&#x268;/</ipa>
 [6]derived compound verb
 to be sky-blue
 [7]Etymology
@@ -1807,7 +1807,7 @@ to be sky-blue
 [2]banara
 [3]High Lulani
 [4]<high-lulani>bnr</high-lulani>
-[5]/b&#x259;.&#x2c8;na&#x279;.&#x259;/
+[5]<ipa>/b&#x259;.&#x2c8;na&#x279;.&#x259;/</ipa>
 [6]inanimate stem noun element
 einsteinium
 [7]See Also
@@ -1818,14 +1818,14 @@ einsteinium
 [2]basa
 [3]High Lulani
 [4]<high-lulani>bs</high-lulani>
-[5]/&#x2c8;bas.&#x259;/
+[5]<ipa>/&#x2c8;bas.&#x259;/</ipa>
 [6]stem adverb
 unlawfully; immorally
 
 [2]bassa
 [3]High Lulani
 [4]<high-lulani>b;s</high-lulani>
-[5]/&#x2c8;bas.s&#x259;/
+[5]<ipa>/&#x2c8;bas.s&#x259;/</ipa>
 [6]abstract stem noun
 situation
 [7]Derived Terms
@@ -1834,14 +1834,14 @@ situation
 [2]basi
 [3]High Lulani
 [4]<high-lulani>bS</high-lulani>
-[5]/&#x2c8;bas.&#x268;/
+[5]<ipa>/&#x2c8;bas.&#x268;/</ipa>
 [6]inanimate stem noun
 covering, lid
 
 [2]bi
 [3]High Lulani
 [4]<high-lulani>B</high-lulani>
-[5]/bi/
+[5]<ipa>/bi/</ipa>
 [6]stem adposition
 out, out of, from
 [6]inanimate stem noun element
@@ -1855,7 +1855,7 @@ bromine
 [2]bi&rsquo;u
 [3]High Lulani
 [4]<high-lulani>Bu</high-lulani>
-[5]/&#x2c8;bi&#x294;.&#x289;/
+[5]<ipa>/&#x2c8;bi&#x294;.&#x289;/</ipa>
 [6]intransitive stem verb
 to be sore, to hurt, to be painful, to be a pain, to ache
 [7]Thematic Relations
@@ -1872,7 +1872,7 @@ to be sore, to hurt, to be painful, to be a pain, to ache
 [2]bibu
 [3]High Lulani
 [4]<high-lulani>BO</high-lulani>
-[5]/&#x2c8;bib.&#x289;/
+[5]<ipa>/&#x2c8;bib.&#x289;/</ipa>
 [6]abstract stem noun
 complaint; whine
 [7]Derived Term
@@ -1881,7 +1881,7 @@ complaint; whine
 [2]bitta
 [3]High Lulani
 [4]<high-lulani>B;t</high-lulani>
-[5]/&#x2c8;bit.t&#x259;/
+[5]<ipa>/&#x2c8;bit.t&#x259;/</ipa>
 [6]inanimate stem noun
 time
 [7]Definition
@@ -1900,7 +1900,7 @@ The second dimension is objective: if one time-travels into the past, then one's
 [2]bijaju
 [3]High Lulani
 [4]<high-lulani>BjY</high-lulani>
-[5]/b&#x268;.&#x2c8;&#x25f;a&#x25f;.&#x289;/
+[5]<ipa>/b&#x268;.&#x2c8;&#x25f;a&#x25f;.&#x289;/</ipa>
 [6]stem mathematics ordinal 
 first; 1st
 [7]See Also
@@ -1910,7 +1910,7 @@ first; 1st
 [2]bila
 [3]High Lulani
 [4]<high-lulani>Bl</high-lulani>
-[5]/&#x2c8;bil.&#x259;/
+[5]<ipa>/&#x2c8;bil.&#x259;/</ipa>
 [6]stem mathematics numeral
 -3; <overline>3</overline>; ree; negative three
 [7]See Also
@@ -1922,7 +1922,7 @@ first; 1st
 [2]buccata
 [3]High Lulani
 [4]<high-lulani>O;ct</high-lulani>
-[5]/&#x2c8;buc.c&#x259;.t&#x2b0;&#x259;/
+[5]<ipa>/&#x2c8;buc.c&#x259;.t&#x2b0;&#x259;/</ipa>
 [6]inanimate stem noun element
 tennessine
 [7]See Also
@@ -1933,7 +1933,7 @@ tennessine
 [2]buma
 [3]High Lulani
 [4]<high-lulani>Om</high-lulani>
-[5]/&#x2c8;bum.&#x259;/
+[5]<ipa>/&#x2c8;bum.&#x259;/</ipa>
 [6]transitive stem verb
 to draw; to write; to project on screen
 [7]Thematic Relations
@@ -1950,7 +1950,7 @@ to draw; to write; to project on screen
 [2]bumaki
 [3]High Lulani
 [4]<high-lulani>OmK</high-lulani>
-[5]/b&#x289;.&#x2c8;mak.&#x268;/
+[5]<ipa>/b&#x289;.&#x2c8;mak.&#x268;/</ipa>
 [6]derived noun
 screen
 [7]Etymology
@@ -1959,7 +1959,7 @@ screen
 [2]bumissi
 [3]High Lulani
 [4]<high-lulani>OM;S</high-lulani>
-[5]/b&#x289;.&#x2c8;mis.s&#x268;/
+[5]<ipa>/b&#x289;.&#x2c8;mis.s&#x268;/</ipa>
 [6]inanimate stem noun element
 dysprosium
 [7]See Also
@@ -1970,7 +1970,7 @@ dysprosium
 [2]bunali
 [3]High Lulani
 [4]<high-lulani>OnL</high-lulani>
-[5]/b&#x289;.&#x2c8;nal.&#x268;/
+[5]<ipa>/b&#x289;.&#x2c8;nal.&#x268;/</ipa>
 [6]abstract stem noun
 rhyme
 [7]Definition
@@ -1989,7 +1989,7 @@ to have the same vowels and placement of geminates
 [2]buqqi
 [3]High Lulani
 [4]<high-lulani>O;Q</high-lulani>
-[5]/&#x2c8;bu&#x14b;.&#x14b;&#x268;/
+[5]<ipa>/&#x2c8;bu&#x14b;.&#x14b;&#x268;/</ipa>
 [6]inanimate stem noun
 penis
 [7]See Also
@@ -1998,7 +1998,7 @@ penis
 [2]bufi
 [3]High Lulani
 [4]<high-lulani>OF</high-lulani>
-[5]/&#x2c8;buf.&#x268;/
+[5]<ipa>/&#x2c8;buf.&#x268;/</ipa>
 [6]inanimate stem noun
 pebble; stone; sedimentary rock
 [7]Definition
@@ -2010,7 +2010,7 @@ pebble; stone; sedimentary rock
 [2]bufitila
 [3]High Lulani
 [4]<high-lulani>OFTl</high-lulani>
-[5]/&#x2cc;buf.&#x268;.&#x2c8;t&#x2b0;il.&#x259;/
+[5]<ipa>/&#x2cc;buf.&#x268;.&#x2c8;t&#x2b0;il.&#x259;/</ipa>
 [6]inanimate derived compound noun
 limestone
 [7]Etymology
@@ -2019,14 +2019,14 @@ limestone
 [2]bufiqi
 [3]High Lulani
 [4]<high-lulani>OFQ</high-lulani>
-[5]/b&#x289;.&#x2c8;fi&#x14b;.&#x268;/
+[5]<ipa>/b&#x289;.&#x2c8;fi&#x14b;.&#x268;/</ipa>
 [6]abstract stem noun
 illness
 
 [2]busatta
 [3]High Lulani
 [4]<high-lulani>Os;t</high-lulani>
-[5]/b&#x289;.&#x2c8;sat.t&#x259;/
+[5]<ipa>/b&#x289;.&#x2c8;sat.t&#x259;/</ipa>
 [6]abstract stem noun
 colour
 
@@ -2034,7 +2034,7 @@ colour
 [2]ta
 [3]High Lulani
 [4]<high-lulani>t</high-lulani>
-[5]/t&#x2b0;&#x259;/
+[5]<ipa>/t&#x2b0;&#x259;/</ipa>
 [6]stem conjunction enclitic
 and
 [7]Example
@@ -2042,7 +2042,7 @@ and
 <high-lulani>WlN / KM;Lt</high-lulani>
 <em>queen king-and</em>
 &ldquo;The queen and the king&rdquo;
-[5]/t&#x2b0;a/
+[5]<ipa>/t&#x2b0;a/</ipa>
 [6]inanimate stem noun element
 sulphur
 [7]See Also
@@ -2054,7 +2054,7 @@ sulphur
 [2]ta&rsquo;i
 [3]High Lulani
 [4]<high-lulani>ti</high-lulani>
-[5]/&#x2c8;t&#x2b0;a&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;t&#x2b0;a&#x294;.&#x268;/</ipa>
 [6]inanimate stem noun
 scent; smell; aroma
 [7]Derived Terms
@@ -2064,7 +2064,7 @@ scent; smell; aroma
 [2]tacala
 [3]High Lulani
 [4]<high-lulani>tcl</high-lulani>
-[5]/t&#x2b0;&#x259;.&#x2c8;c&#x2b0;al.&#x259;/
+[5]<ipa>/t&#x2b0;&#x259;.&#x2c8;c&#x2b0;al.&#x259;/</ipa>
 [6]inanimate stem noun element
 gadolinium
 [7]See Also
@@ -2075,7 +2075,7 @@ gadolinium
 [2]tacuca
 [3]High Lulani
 [4]<high-lulani>tyc</high-lulani>
-[5]/t&#x2b0;&#x259;.&#x2c8;cuc.&#x259;/
+[5]<ipa>/t&#x2b0;&#x259;.&#x2c8;cuc.&#x259;/</ipa>
 [6]inanimate stem noun element
 hafnium
 [7]See Also
@@ -2087,7 +2087,7 @@ hafnium
 [2]taka
 [3]High Lulani
 [4]<high-lulani>tk</high-lulani>
-[5]/&#x2c8;t&#x2b0;ak&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;ak&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun
 sound
 [7]Definition
@@ -2098,7 +2098,7 @@ a meaningful oscillation of medium
 [2]takki
 [3]High Lulani
 [4]<high-lulani>t;K</high-lulani>
-[5]/&#x2c8;t&#x2b0;ak.k&#x268;/
+[5]<ipa>/&#x2c8;t&#x2b0;ak.k&#x268;/</ipa>
 [6]stem mathematics numeral
 100; one hundred; (225)<em></em>
 [6]stem adjective
@@ -2107,7 +2107,7 @@ many
 [2]taku
 [3]High Lulani
 [4]<high-lulani>t&gt;</high-lulani>
-[5]/&#x2c8;t&#x2b0;ak&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;t&#x2b0;ak&#x2b0;.&#x289;/</ipa>
 [6]stem auxiliary
 past iterative
 [7]See Also
@@ -2144,7 +2144,7 @@ for; as a
 [2]takkulu
 [3]High Lulani
 [4]<high-lulani>t;&gt;W</high-lulani>
-[5]/&#x2c8;t&#x2b0;ak.k&#x289;.l&#x289;/
+[5]<ipa>/&#x2c8;t&#x2b0;ak.k&#x289;.l&#x289;/</ipa>
 [6]inanimate stem noun
 chest; front of the body
 [7]See Also
@@ -2154,7 +2154,7 @@ chest; front of the body
 [2]tana
 [3]High Lulani
 [4]<high-lulani>tn</high-lulani>
-[5]/&#x2c8;t&#x2b0;an.&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;an.&#x259;/</ipa>
 [6]abstract stem noun
 there is
 [7]Example
@@ -2168,7 +2168,7 @@ while this is not a noun in the strict sense of the word, it does act like one w
 [2]tanna
 [3]High Lulani
 [4]<high-lulani>t;n</high-lulani>
-[5]/&#x2c8;t&#x2b0;a&#x272;.&#x272;&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;a&#x272;.&#x272;&#x259;/</ipa>
 [6]abstract stem noun
 memory
 [7]Definition
@@ -2179,7 +2179,7 @@ something remembered or recalled
 [2]tali
 [3]High Lulani
 [4]<high-lulani>tL</high-lulani>
-[5]/&#x2c8;t&#x2b0;al.&#x268;/
+[5]<ipa>/&#x2c8;t&#x2b0;al.&#x268;/</ipa>
 [6]transitive stem verb
 to take away from someone
 [7]Thematic Relations
@@ -2207,7 +2207,7 @@ subtract; minus
 [2]tara
 [3]High Lulani
 [4]<high-lulani>tr</high-lulani>
-[5]/&#x2c8;t&#x2b0;a&#x279;.&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;a&#x279;.&#x259;/</ipa>
 [6]transitive stem verb
 to begin
 [7]Thematic Relations
@@ -2224,7 +2224,7 @@ to begin
 [2]tasa
 [3]High Lulani
 [4]<high-lulani>ts</high-lulani>
-[5]/&#x2c8;t&#x2b0;as.&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;as.&#x259;/</ipa>
 [6]inanimate stem noun element
 nickel
 [7]See Also
@@ -2235,14 +2235,14 @@ nickel
 [2]tasi
 [3]High Lulani
 [4]<high-lulani>tS</high-lulani>
-[5]/&#x2c8;t&#x2b0;as.&#x268;/
+[5]<ipa>/&#x2c8;t&#x2b0;as.&#x268;/</ipa>
 [6]modal adverb
 probability &#x2248; 0.75; probably
 
 [2]tiba
 [3]High Lulani
 [4]<high-lulani>Tb</high-lulani>
-[5]/&#x2c8;t&#x2b0;ib.&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;ib.&#x259;/</ipa>
 [6]inanimate stem noun
 legs
 [7]Usage Notes
@@ -2255,7 +2255,7 @@ refers to each of the legs of a pair.
 [2]tibara
 [3]High Lulani
 [4]<high-lulani>Tbr</high-lulani>
-[5]/t&#x2b0;&#x268;.&#x2c8;ba&#x279;.&#x259;/
+[5]<ipa>/t&#x2b0;&#x268;.&#x2c8;ba&#x279;.&#x259;/</ipa>
 [6]derived inanimate noun
 plural of <a href="../t/tiba.html">tiba</a> <high-lulani>Tb</high-lulani> <em>leg</em>
 [7]Etymology
@@ -2264,7 +2264,7 @@ plural of <a href="../t/tiba.html">tiba</a> <high-lulani>Tb</high-lulani> <em>le
 [2]tika
 [3]High Lulani
 [4]<high-lulani>Tk</high-lulani>
-[5]/&#x2c8;t&#x2b0;ik&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;ik&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element
 fermium
 [7]See Also
@@ -2275,7 +2275,7 @@ fermium
 [2]tiku
 [3]High Lulani
 [4]<high-lulani>T&gt;</high-lulani>
-[5]/&#x2c8;t&#x2b0;ik&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;t&#x2b0;ik&#x2b0;.&#x289;/</ipa>
 [6]intransitive stem verb
 turn; rotate
 [7]Definition
@@ -2289,7 +2289,7 @@ around
 [2]tina
 [3]High Lulani
 [4]<high-lulani>Tn</high-lulani>
-[5]/&#x2c8;t&#x2b0;in.&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;in.&#x259;/</ipa>
 [6]intransitive stem verb
 to differ from
 [7]Thematic Relations
@@ -2308,7 +2308,7 @@ to differ from
 [2]tinalli
 [3]High Lulani
 [4]<high-lulani>Tn;L</high-lulani>
-[5]/t&#x268;.&#x2c8;na&#x28e;.&#x28e;&#x268;/
+[5]<ipa>/t&#x268;.&#x2c8;na&#x28e;.&#x28e;&#x268;/</ipa>
 [6]inanimate stem noun
 universe; multiverse
 [6]stem proper noun (capitalised)
@@ -2317,7 +2317,7 @@ Tinellb
 [2]tila
 [3]High Lulani
 [4]<high-lulani>Tl</high-lulani>
-[5]/&#x2c8;til.&#x259;/
+[5]<ipa>/&#x2c8;til.&#x259;/</ipa>
 [6]inanimate stem noun
 animal shell
 [7]Derived Terms
@@ -2327,7 +2327,7 @@ animal shell
 [2]tirusi
 [3]High Lulani
 [4]<high-lulani>TwS</high-lulani>
-[5]/t&#x2b0;&#x268;.&#x279;us.&#x268;/
+[5]<ipa>/t&#x2b0;&#x268;.&#x279;us.&#x268;/</ipa>
 [6]stem noun
 faculty of memory
 [7]Derived Terms
@@ -2338,7 +2338,7 @@ faculty of memory
 [2]tissa
 [3]High Lulani
 [4]<high-lulani>T;s</high-lulani>
-[5]/&#x2c8;t&#x2b0;is.s&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;is.s&#x259;/</ipa>
 [6]inanimate stem noun
 wind; moving air
 [7]See Also
@@ -2347,14 +2347,14 @@ wind; moving air
 [2]tisaka
 [3]High Lulani
 [4]<high-lulani>Tsk</high-lulani>
-[5]/t&#x2b0;&#x268;.sak&#x2b0;.&#x259;/
+[5]<ipa>/t&#x2b0;&#x268;.sak&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun
 town; city; village
 
 [2]tissini
 [3]High Lulani
 [4]<high-lulani>T;SN</high-lulani>
-[5]/&#x2c8;t&#x2b0;is.s&#x268;.n&#x268;/
+[5]<ipa>/&#x2c8;t&#x2b0;is.s&#x268;.n&#x268;/</ipa>
 [6]inanimate derived noun
 breeze
 [7]Etymology
@@ -2363,7 +2363,7 @@ breeze
 [2]tiha
 [3]High Lulani
 [4]<high-lulani>Th</high-lulani>
-[5]/&#x2c8;t&#x2b0;ih.&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;ih.&#x259;/</ipa>
 [6]inanimate stem noun
 row; line
 [7]See Also
@@ -2372,7 +2372,7 @@ row; line
 [2]tihu
 [3]High Lulani
 [4]<high-lulani>TV</high-lulani>
-[5]/&#x2c8;t&#x2b0;ih.&#x289;/
+[5]<ipa>/&#x2c8;t&#x2b0;ih.&#x289;/</ipa>
 [6]intransitive stem verb
 to abide
 [7]Thematic Relations
@@ -2389,14 +2389,14 @@ to abide
 [2]tu
 [3]High Lulani
 [4]<high-lulani>e</high-lulani>
-[5]/t&#x2b0;u/
+[5]<ipa>/t&#x2b0;u/</ipa>
 [6]animate stem noun
 child; offspring; daughter; son
 
 [2]tu&rsquo;afu
 [3]High Lulani
 [4]<high-lulani>eav</high-lulani>
-[5]/t&#x2b0;&#x289;.&#x294;af.&#x289;/
+[5]<ipa>/t&#x2b0;&#x289;.&#x294;af.&#x289;/</ipa>
 [6]inanimate stem noun
 plain; flatland; savanna
 [7]Derived Terms
@@ -2405,7 +2405,7 @@ plain; flatland; savanna
 [2]tu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>ei</high-lulani>
-[5]/&#x2cc;tu&#x294;.&#x268;/
+[5]<ipa>/&#x2cc;tu&#x294;.&#x268;/</ipa>
 [6]derivational suffix (noun)
 positive aspect
 [7]Derived Terms
@@ -2415,28 +2415,28 @@ positive aspect
 [2]tu&rsquo;uci
 [3]High Lulani
 [4]<high-lulani>euC</high-lulani>
-[5]/t&#x2b0;&#x289;.&#x2c8;&#x294;uc&#x2b0;.&#x268;/
+[5]<ipa>/t&#x2b0;&#x289;.&#x2c8;&#x294;uc&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun
 honey
 
 [2]tupa
 [3]High Lulani
 [4]<high-lulani>ep</high-lulani>
-[5]/&#x2c8;t&#x2b0;up&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;up&#x2b0;.&#x259;/</ipa>
 [6]abstract stem noun
 responsibility; task
 
 [2]tuci
 [3]High Lulani
 [4]<high-lulani>eC</high-lulani>
-[5]/&#x2c8;t&#x2b0;uc&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;t&#x2b0;uc&#x2b0;.&#x268;/</ipa>
 [6]stem adverb
 to half do; to barely do
 
 [2]tucinaci
 [3]High Lulani
 [4]<high-lulani>eCnC</high-lulani>
-[5]/&#x2cc;t&#x2b0;uc&#x2b0;.&#x268;.&#x2c8;nac&#x2b0;.&#x268;/
+[5]<ipa>/&#x2cc;t&#x2b0;uc&#x2b0;.&#x268;.&#x2c8;nac&#x2b0;.&#x268;/</ipa>
 [6]modal adverb
 sort of; somewhat
 [7]Etymology
@@ -2445,14 +2445,14 @@ sort of; somewhat
 [2]tuja
 [3]High Lulani
 [4]<high-lulani>ej</high-lulani>
-[5]/&#x2c8;t&#x2b0;u&#x25f;.&#x259;/
+[5]<ipa>/&#x2c8;t&#x2b0;u&#x25f;.&#x259;/</ipa>
 [6]inanimate stem noun
 place; location in space
 
 [2]tujatihu
 [3]High Lulani
 [4]<high-lulani>ejTV</high-lulani>
-[5]/&#x2cc;t&#x2b0;u&#x25f;.&#x259;.&#x2c8;t&#x2b0;ih.&#x289;/
+[5]<ipa>/&#x2cc;t&#x2b0;u&#x25f;.&#x259;.&#x2c8;t&#x2b0;ih.&#x289;/</ipa>
 [6]inanimate derived compound noun
 home
 [7]Etymology
@@ -2461,7 +2461,7 @@ home
 [2]tukaga
 [3]High Lulani
 [4]<high-lulani>ekg</high-lulani>
-[5]/t&#x2b0;&#x289;.&#x2c8;k&#x2b0;ag.&#x259;/
+[5]<ipa>/t&#x2b0;&#x289;.&#x2c8;k&#x2b0;ag.&#x259;/</ipa>
 [6]inanimate stem noun element
 ytterbium
 [7]See Also
@@ -2472,14 +2472,14 @@ ytterbium
 [2]tukkuni
 [3]High Lulani
 [4]<high-lulani>e;&gt;N</high-lulani>
-[5]/&#x2c8;t&#x2b0;uk.k&#x289;.n&#x268;/
+[5]<ipa>/&#x2c8;t&#x2b0;uk.k&#x289;.n&#x268;/</ipa>
 [6]abstract stem noun
 reason; logic
 
 [2]tuni
 [3]High Lulani
 [4]<high-lulani>EN</high-lulani>
-[5]/&#x2c8;t&#x2b0;un.&#x268;/
+[5]<ipa>/&#x2c8;t&#x2b0;un.&#x268;/</ipa>
 [6]transitive stem verb
 to repeat
 [7]Thematic Relations
@@ -2500,14 +2500,14 @@ denotes a repeating infinite digit string
 [2]turassi
 [3]High Lulani
 [4]<high-lulani>er;S</high-lulani>
-[5]/t&#x2b0;&#x289;.&#x2c8;&#x279;as.s&#x268;/
+[5]<ipa>/t&#x2b0;&#x289;.&#x2c8;&#x279;as.s&#x268;/</ipa>
 [6]animate stem noun
 red-head
 
 [2]turu
 [3]High Lulani
 [4]<high-lulani>ew</high-lulani>
-[5]/&#x2c8;tu&#x279;.&#x289;/
+[5]<ipa>/&#x2c8;tu&#x279;.&#x289;/</ipa>
 [6]transitive stem verb
 to close; to fill
 [7]Thematic Relations
@@ -2522,7 +2522,7 @@ to close; to fill
 [2]turulu
 [3]High Lulani
 [4]<high-lulani>ewW</high-lulani>
-[5]/t&#x289;.&#x2c8;&#x279;ul.&#x289;/
+[5]<ipa>/t&#x289;.&#x2c8;&#x279;ul.&#x289;/</ipa>
 [6]transitive derived verb
 to open up
 [7]Etymology
@@ -2531,7 +2531,7 @@ to open up
 [2]tuhi
 [3]High Lulani
 [4]<high-lulani>EH</high-lulani>
-[5]/tuh.&#x268;/
+[5]<ipa>/tuh.&#x268;/</ipa>
 [6]intransitive stem verb
 to be little; to shrink
 [7]Thematic Relations
@@ -2547,7 +2547,7 @@ to be little; to shrink
 [2]tuhinuhu
 [3]High Lulani
 [4]<high-lulani>EHIV</high-lulani>
-[5]/&#x2cc;tuh.&#x268;.&#x2c8;nuh.&#x289;/
+[5]<ipa>/&#x2cc;tuh.&#x268;.&#x2c8;nuh.&#x289;/</ipa>
 [6]intransitive derived verb
 to be folded up
 [7]Etymology
@@ -2557,14 +2557,14 @@ to be folded up
 [2]da
 [3]High Lulani
 [4]<high-lulani>d</high-lulani>
-[5]/d&#x259;/
+[5]<ipa>/d&#x259;/</ipa>
 [6]derivational suffix (noun)
 negative aspect
 [7]Derived Terms
 <strong><a href="../d/dasa.html">dasada</a></strong> <high-lulani>dsd</high-lulani> <em>anger</em>
 [7]See Also
 <a href="../t/tu'i.html">tu&rsquo;i</a> <high-lulani>ei</high-lulani> <em>positive</em>
-[5]/da/
+[5]<ipa>/da/</ipa>
 [6]inanimate stem noun
 water
 [7]See Also
@@ -2579,7 +2579,7 @@ water
 [2]da&rsquo;aru
 [3]High Lulani
 [4]<high-lulani>daw</high-lulani>
-[5]/d&#x259;.&#x2c8;&#x294;a&#x279;.&#x289;/
+[5]<ipa>/d&#x259;.&#x2c8;&#x294;a&#x279;.&#x289;/</ipa>
 [6]modal stem adverb
 it exists; it happened; experience; it could happen
 [7]Examples
@@ -2595,7 +2595,7 @@ it exists; it happened; experience; it could happen
 [2]da&rsquo;u
 [3]High Lulani
 [4]<high-lulani>du</high-lulani>
-[5]/&#x2c8;da&#x294;.&#x289;/
+[5]<ipa>/&#x2c8;da&#x294;.&#x289;/</ipa>
 [6]inanimate stem noun element
 arsenic
 [7]See Also
@@ -2607,21 +2607,21 @@ arsenic
 [2]dapi
 [3]High Lulani
 [4]<high-lulani>dP</high-lulani>
-[5]/&#x2c8;dap&#x2b0;.i/
+[5]<ipa>/&#x2c8;dap&#x2b0;.i/</ipa>
 [6]stem adverb
 more than is necessary; spare
 
 [2]dattu
 [3]High Lulani
 [4]<high-lulani>d;e</high-lulani>
-[5]/&#x2c8;dat.t&#x289;/
+[5]<ipa>/&#x2c8;dat.t&#x289;/</ipa>
 [6]abstract stem noun
 divine force
 
 [2]dattusa
 [3]High Lulani
 [4]<high-lulani>d;es</high-lulani>
-[5]/&#x2c8;dat.t&#x289;.s&#x259;/
+[5]<ipa>/&#x2c8;dat.t&#x289;.s&#x259;/</ipa>
 [6]animate derived noun
 god; deity
 [7]Etymology
@@ -2630,35 +2630,35 @@ god; deity
 [2]danna
 [3]High Lulani
 [4]<high-lulani>d;n</high-lulani>
-[5]/&#x2c8;da&#x272;.&#x272;&#x259;/
+[5]<ipa>/&#x2c8;da&#x272;.&#x272;&#x259;/</ipa>
 [6]adverb
 succeed
 
 [2]danagi
 [3]High Lulani
 [4]<high-lulani>dnG</high-lulani>
-[5]/d&#x259;.nag.&#x268;/
+[5]<ipa>/d&#x259;.nag.&#x268;/</ipa>
 [6]abstract stem noun
 decree; proclamation
 
 [2]daru
 [3]High Lulani
 [4]<high-lulani>dw</high-lulani>
-[5]/&#x2c8;da&#x279;.&#x289;/
+[5]<ipa>/&#x2c8;da&#x279;.&#x289;/</ipa>
 [6]inanimate stem noun
 road; street
 
 [2]daru&rsquo;i
 [3]High Lulani
 [4]<high-lulani>dwi</high-lulani>
-[5]/d&#x259;.&#x279;u&#x294;.&#x268;/
+[5]<ipa>/d&#x259;.&#x279;u&#x294;.&#x268;/</ipa>
 [6]subordinating stem conjunction
 because
 
 [2]daruli
 [3]High Lulani
 [4]<high-lulani>dwL</high-lulani>
-[5]/d&#x259;.&#x2c8;rul.&#x268;/
+[5]<ipa>/d&#x259;.&#x2c8;rul.&#x268;/</ipa>
 [6]inanimate derived noun
 wrong way
 [7]Definition
@@ -2670,7 +2670,7 @@ wrong way
 [2]dasa
 [3]High Lulani
 [4]<high-lulani>ds</high-lulani>
-[5]/&#x2c8;das.&#x259;/
+[5]<ipa>/&#x2c8;das.&#x259;/</ipa>
 [6]abstract stem noun
 passion; anger
 [7]See Also
@@ -2683,7 +2683,7 @@ passion; anger
 [2]dasi
 [3]High Lulani
 [4]<high-lulani>dS</high-lulani>
-[5]/&#x2c8;das.&#x268;/
+[5]<ipa>/&#x2c8;das.&#x268;/</ipa>
 [6]transitive stem verb
 to place in the mouth; to eat; to chew; to suck; to lick; to drink.
 [7]Thematic Relations
@@ -2698,14 +2698,14 @@ to place in the mouth; to eat; to chew; to suck; to lick; to drink.
 [2]dasu
 [3]High Lulani
 [4]<high-lulani>dz</high-lulani>
-[5]/&#x2c8;das.&#x289;/
+[5]<ipa>/&#x2c8;das.&#x289;/</ipa>
 [6]animate stem noun
 animal
 
 [2]dasutila
 [3]High Lulani
 [4]<high-lulani>dzTl</high-lulani>
-[5]/&#x2cc;das.&#x289;.&#x2c8;t&#x2b0;il.&#x259;/
+[5]<ipa>/&#x2cc;das.&#x289;.&#x2c8;t&#x2b0;il.&#x259;/</ipa>
 [6]derived animate noun
 mollusc
 [7]Etymology
@@ -2714,20 +2714,20 @@ mollusc
 [2]daxuni
 [3]High Lulani
 [4]<high-lulani>dZN</high-lulani>
-[5]/d&#x259;.&#x2c8;&#x255;un.&#x268;/
+[5]<ipa>/d&#x259;.&#x2c8;&#x255;un.&#x268;/</ipa>
 [6]inanimate stem noun
 tail
 
 [2]di
 [3]High Lulani
 [4]<high-lulani>D</high-lulani>
-[5]/d&#x268;/
+[5]<ipa>/d&#x268;/</ipa>
 [6]derivational suffix (noun: abstract &rarr; inanimate)
 derives a patientive inanimate noun from an abstract noun
 [7]Examples
 <a href="../l/ladi.html">ladi</a> <high-lulani>lD</high-lulani> <em>activity</em>
 <strong><a href="../s/sinna.html">sinnadi</a></strong> <high-lulani>S;nD</high-lulani> <em>story</em>
-[5]/di/
+[5]<ipa>/di/</ipa>
 [6]stem adposition
 up; above; atop; before
 [7]Antonym
@@ -2736,7 +2736,7 @@ up; above; atop; before
 [2]dina
 [3]High Lulani
 [4]<high-lulani>Dn</high-lulani>
-[5]/&#x2c8;din.&#x259;/
+[5]<ipa>/&#x2c8;din.&#x259;/</ipa>
 [6]inanimate stem noun element
 potassium
 [7]See Also
@@ -2748,7 +2748,7 @@ potassium
 [2]diru
 [3]High Lulani
 [4]<high-lulani>Dw</high-lulani>
-[5]/&#x2c8;di&#x279;.&#x289;/
+[5]<ipa>/&#x2c8;di&#x279;.&#x289;/</ipa>
 [6]inanimate stem noun
 money; dollar
 [7]Example
@@ -2760,7 +2760,7 @@ money; dollar
 [2]disa
 [3]High Lulani
 [4]<high-lulani>Ds</high-lulani>
-[5]/&#x2c8;dis.&#x259;/
+[5]<ipa>/&#x2c8;dis.&#x259;/</ipa>
 [6]inanimate stem noun element
 aluminium
 [7]See Also
@@ -2772,7 +2772,7 @@ aluminium
 [2]disi
 [3]High Lulani
 [4]<high-lulani>DS</high-lulani>
-[5]/&#x2c8;dis.&#x268;/
+[5]<ipa>/&#x2c8;dis.&#x268;/</ipa>
 [6]stem personal pronoun
 third person animate genitive; <small-caps>3ani;gen</small-caps>; his; her
 [7]See Also
@@ -2811,7 +2811,7 @@ third person animate genitive; <small-caps>3ani;gen</small-caps>; his; her
 [2]disinnamuka
 [3]High Lulani
 [4]<high-lulani>DS;nUk</high-lulani>
-[5]/d&#x268;.&#x2c8;si&#x272;.&#x272;&#x259;.&#x2cc;muk&#x2b0;.&#x259;/
+[5]<ipa>/d&#x268;.&#x2c8;si&#x272;.&#x272;&#x259;.&#x2cc;muk&#x2b0;.&#x259;/</ipa>
 [6]inanimate derived noun
 prologue
 [7]Etymology
@@ -2820,7 +2820,7 @@ prologue
 [2]dissu
 [3]High Lulani
 [4]<high-lulani>D;z</high-lulani>
-[5]/&#x2c8;dis.s&#x289;/
+[5]<ipa>/&#x2c8;dis.s&#x289;/</ipa>
 [6]ambitransitive stem verb
 to feel
 [7]Usage Notes
@@ -2844,21 +2844,21 @@ youth; newness
 [2]dissu&rsquo;ahati
 [3]High Lulani
 [4]<high-lulani>D;zahT</high-lulani>
-[5]/&#x2cc;dis.s&#x289;.&#x294;&#x259;.&#x2c8;hat&#x2b0;.&#x268;/
+[5]<ipa>/&#x2cc;dis.s&#x289;.&#x294;&#x259;.&#x2c8;hat&#x2b0;.&#x268;/</ipa>
 [6]intransitive compound verb
 to be happy
 
 [2]dixxa
 [3]High Lulani
 [4]<high-lulani>D;x</high-lulani>
-[5]/&#x2c8;di&#x255;.&#x255;&#x259;/
+[5]<ipa>/&#x2c8;di&#x255;.&#x255;&#x259;/</ipa>
 [6]inanimate stem noun
 drink
 
 [2]dihiqa
 [3]High Lulani
 [4]<high-lulani>DHq</high-lulani>
-[5]/d&#x268;.&#x2c8;hi&#x14b;.&#x259;/
+[5]<ipa>/d&#x268;.&#x2c8;hi&#x14b;.&#x259;/</ipa>
 [6]inanimate stem noun element
 americium
 [7]See Also
@@ -2869,7 +2869,7 @@ americium
 [2]du&rsquo;i
 [3]High Lulani
 [4]<high-lulani>Ei</high-lulani>
-[5]/&#x2c8;du&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;du&#x294;.&#x268;/</ipa>
 [6]stem adposition
 beyond; opposite
 [7]Usage Notes
@@ -2881,7 +2881,7 @@ tends to mean &lsquo;beyond&rsquo; when the area can be seen, &lsquo;opposite&rs
 [2]duci
 [3]High Lulani
 [4]<high-lulani>EC</high-lulani>
-[5]/&#x2c8;duc&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;duc&#x2b0;.&#x268;/</ipa>
 [6]transitive stem verb
 to have; to own; to possess
 [7]Thematic Relations
@@ -2896,7 +2896,7 @@ to have; to own; to possess
 [2]ducinibasa
 [3]High Lulani
 [4]<high-lulani>ECNbs</high-lulani>
-[5]/d&#x289;.&#x2cc;c&#x2b0;in.&#x268;.&#x2c8;bas.&#x259;/
+[5]<ipa>/d&#x289;.&#x2cc;c&#x2b0;in.&#x268;.&#x2c8;bas.&#x259;/</ipa>
 [6]transitive derived verb
 to steal; to come by unlawfully
 [7]Etymology
@@ -2905,7 +2905,7 @@ to steal; to come by unlawfully
 [2]duku
 [3]High Lulani
 [4]<high-lulani>E&gt;</high-lulani>
-[5]/&#x2c8;duk&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;duk&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun
 the four bodies; ones whole self
 [7]See Also
@@ -2921,14 +2921,14 @@ the four bodies; ones whole self
 [2]dukku
 [3]High Lulani
 [4]<high-lulani>E;&gt;</high-lulani>
-[5]/duk.k&#x289;/
+[5]<ipa>/duk.k&#x289;/</ipa>
 [6]modal stem adverb
 not by choice
 
 [2]dumi
 [3]High Lulani
 [4]<high-lulani>EM</high-lulani>
-[5]/&#x2c8;dum.&#x268;/
+[5]<ipa>/&#x2c8;dum.&#x268;/</ipa>
 [6]stem adverb
 try to
 [7]Notes
@@ -2942,21 +2942,21 @@ When used with ablative promotion, gives nuance of <em>encouraged</em>.
 [2]dura
 [3]High Lulani
 [4]<high-lulani>Er</high-lulani>
-[5]/&#x2c8;du&#x279;.&#x259;/
+[5]<ipa>/&#x2c8;du&#x279;.&#x259;/</ipa>
 [6]stem adverb
 repeatedly
 
 [2]dusi
 [3]High Lulani
 [4]<high-lulani>ES</high-lulani>
-[5]/&#x2c8;dus.&#x268;/
+[5]<ipa>/&#x2c8;dus.&#x268;/</ipa>
 [6]abstract stem noun
 manner; fashion; way
 
 [2]dusuni
 [3]High Lulani
 [4]<high-lulani>ESN</high-lulani>
-[5]/d&#x289;.&#x2c8;sun.&#x268;/
+[5]<ipa>/d&#x289;.&#x2c8;sun.&#x268;/</ipa>
 [6]inanimate stem noun
 hand
 [7]See Also
@@ -2965,7 +2965,7 @@ hand
 [2]duha
 [3]High Lulani
 [4]<high-lulani>Eh</high-lulani>
-[5]/&#x2c8;duh.&#x259;/
+[5]<ipa>/&#x2c8;duh.&#x259;/</ipa>
 [6]animate stem noun
 person
 [7]Notes
@@ -2977,7 +2977,7 @@ rare
 [2]ca
 [3]High Lulani
 [4]<high-lulani>c</high-lulani>
-[5]/c&#x2b0;a/
+[5]<ipa>/c&#x2b0;a/</ipa>
 [6]transitive stem verb
 to help
 [7]Thematic Relations
@@ -2997,7 +2997,7 @@ to help
 [2]ca&rsquo;a
 [3]High Lulani
 [4]<high-lulani>ca</high-lulani>
-[5]/&#x2c8;ca&#x294;.&#x259;/
+[5]<ipa>/&#x2c8;ca&#x294;.&#x259;/</ipa>
 [6]inanimate stem noun element
 fluorine
 [7]See Also
@@ -3009,14 +3009,14 @@ fluorine
 [2]ca&rsquo;alla
 [3]High Lulani
 [4]<high-lulani>ca;l</high-lulani>
-[5]/c&#x2b0;&#x259;.&#x2c8;&#x294;a&#x28e;.&#x28e;&#x259;/
+[5]<ipa>/c&#x2b0;&#x259;.&#x2c8;&#x294;a&#x28e;.&#x28e;&#x259;/</ipa>
 [6]adverb
 have to; obligation
 
 [2]ca&rsquo;i
 [3]High Lulani
 [4]<high-lulani>ci</high-lulani>
-[5]/&#x2c8;ca&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;ca&#x294;.&#x268;/</ipa>
 [6]abstract stem noun
 romance
 [7]Derived Terms
@@ -3026,7 +3026,7 @@ romance
 [2]cabahi
 [3]High Lulani
 [4]<high-lulani>cbH</high-lulani>
-[5]/c&#x259;.&#x2c8;bah.&#x268;/
+[5]<ipa>/c&#x259;.&#x2c8;bah.&#x268;/</ipa>
 [6]inanimate stem noun element
 bohrium
 [7]See Also
@@ -3037,7 +3037,7 @@ bohrium
 [2]cakassu
 [3]High Lulani
 [4]<high-lulani>ck;z</high-lulani>
-[5]/c&#x259;.&#x2c8;k&#x2b0;as.s&#x289;/
+[5]<ipa>/c&#x259;.&#x2c8;k&#x2b0;as.s&#x289;/</ipa>
 [6]inanimate stem noun element
 polonium
 [7]See Also
@@ -3049,7 +3049,7 @@ polonium
 [2]cakina
 [3]High Lulani
 [4]<high-lulani>cKn</high-lulani>
-[5]/c&#x2b0;&#x259;.&#x2c8;k&#x2b0;in.&#x259;/
+[5]<ipa>/c&#x2b0;&#x259;.&#x2c8;k&#x2b0;in.&#x259;/</ipa>
 [6]inanimate stem noun element
 scandium
 [7]See Also
@@ -3060,14 +3060,14 @@ scandium
 [2]caga
 [3]High Lulani
 [4]<high-lulani>cg</high-lulani>
-[5]/&#x2c8;c&#x2b0;ag.&#x259;/
+[5]<ipa>/&#x2c8;c&#x2b0;ag.&#x259;/</ipa>
 [6]inanimate stem noun
 mouth
 
 [2]cani
 [3]High Lulani
 [4]<high-lulani>cN</high-lulani>
-[5]/&#x2c8;c&#x2b0;an.&#x268;/
+[5]<ipa>/&#x2c8;c&#x2b0;an.&#x268;/</ipa>
 [6]stem auxiliary
 present dynamic; <small-caps>prs;dyn;</small-caps> is
 [7]See Also
@@ -3104,7 +3104,7 @@ to have
 [2]calu
 [3]High Lulani
 [4]<high-lulani>cW</high-lulani>
-[5]/&#x2c8;cal.&#x289;/
+[5]<ipa>/&#x2c8;cal.&#x289;/</ipa>
 [6]abstract stem noun
 dimension
 [7]Definition
@@ -3125,7 +3125,7 @@ exponential; power
 [2]calluna
 [3]High Lulani
 [4]<high-lulani>c;Wn</high-lulani>
-[5]/&#x2c8;ca&#x28e;.&#x28e;&#x289;.n&#x259;/
+[5]<ipa>/&#x2c8;ca&#x28e;.&#x28e;&#x289;.n&#x259;/</ipa>
 [6]inanimate stem noun element
 erbium
 [7]See Also
@@ -3136,21 +3136,21 @@ erbium
 [2]ci&#x294;a
 [3]High Lulani
 [4]<high-lulani>C;a</high-lulani>
-[5]/&#x2c8;c&#x2b0;i&#x294;.j&#x259;/
+[5]<ipa>/&#x2c8;c&#x2b0;i&#x294;.j&#x259;/</ipa>
 [6]abstract stem noun
 life processes
 
 [2]cipu
 [3]High Lulani
 [4]<high-lulani>Co</high-lulani>
-[5]/&#x2c8;cip&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;cip&#x2b0;.&#x289;/</ipa>
 [6]abstract stem noun
 desire to know; ask; question
 
 [2]cica
 [3]High Lulani
 [4]<high-lulani>Cc</high-lulani>
-[5]/&#x2c8;c&#x2b0;ic&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;c&#x2b0;ic&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun
 fence; gate
 [7]Derived Terms
@@ -3159,14 +3159,14 @@ fence; gate
 [2]cijja
 [3]High Lulani
 [4]<high-lulani>C;j</high-lulani>
-[5]/&#x2c8;c&#x2b0;i&#x25f;.&#x25f;&#x259;/
+[5]<ipa>/&#x2c8;c&#x2b0;i&#x25f;.&#x25f;&#x259;/</ipa>
 [6]inanimate stem noun
 alcohol
 
 [2]cikki
 [3]High Lulani
 [4]<high-lulani>C;K</high-lulani>
-[5]/&#x2c8;c&#x2b0;ik.k&#x268;/
+[5]<ipa>/&#x2c8;c&#x2b0;ik.k&#x268;/</ipa>
 [6]ambitransitive stem verb
 to hear telepathically; to see empathically
 [7]Thematic Relations
@@ -3191,14 +3191,14 @@ to hear telepathically; to see empathically
 [2]ciqu
 [3]High Lulani
 [4]<high-lulani> CA</high-lulani>
-[5]/&#x2c8;c&#x2b0;i&#x14b;.&#x289;/
+[5]<ipa>/&#x2c8;c&#x2b0;i&#x14b;.&#x289;/</ipa>
 [6]inanimate stem noun
 mould (for pouring, etc.)
 
 [2]cissa
 [3]High Lulani
 [4]<high-lulani>C;s</high-lulani>
-[5]/&#x2c8;c&#x2b0;is.s&#x259;/
+[5]<ipa>/&#x2c8;c&#x2b0;is.s&#x259;/</ipa>
 [6]inanimate stem noun
 air
 [7]See Also
@@ -3213,14 +3213,14 @@ air
 [2]cu
 [3]High Lulani
 [4]<high-lulani>y</high-lulani>
-[5]/c&#x2b0;u/
+[5]<ipa>/c&#x2b0;u/</ipa>
 [6]stem adjective
 none
 
 [2]cu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>yi</high-lulani>
-[5]/&#x2c8;c&#x2b0;u&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;c&#x2b0;u&#x294;.&#x268;/</ipa>
 [6]indefinite stem pronoun
 nothing; no one; negative object
 [7]See Also
@@ -3264,7 +3264,7 @@ state
 [2]cula
 [3]High Lulani
 [4]<high-lulani>yl</high-lulani>
-[5]/&#x2c8;c&#x2b0;ul.&#x259;/
+[5]<ipa>/&#x2c8;c&#x2b0;ul.&#x259;/</ipa>
 [6]inanimate stem noun
 egg
 [7]Derived Terms
@@ -3274,14 +3274,14 @@ egg
 [2]cura
 [3]High Lulani
 [4]<high-lulani>yr</high-lulani>
-[5]/&#x2c8;c&#x2b0;u&#x279;.&#x259;/
+[5]<ipa>/&#x2c8;c&#x2b0;u&#x279;.&#x259;/</ipa>
 [6]impersonal stem verb
 (time) passes
 
 [2]cura&rsquo;a
 [3]High Lulani
 [4]<high-lulani>yra</high-lulani>
-[5]/&#x2c8;c&#x2b0;u&#x279;.&#x259;.&#x294;&#x259;/
+[5]<ipa>/&#x2c8;c&#x2b0;u&#x279;.&#x259;.&#x294;&#x259;/</ipa>
 [6]derived noun
 time
 [7]Definition
@@ -3299,14 +3299,14 @@ poetic
 [2]curri
 [3]High Lulani
 [4]<high-lulani>y;R</high-lulani>
-[5]/&#x2c8;c&#x2b0;ur.r&#x268;/
+[5]<ipa>/&#x2c8;c&#x2b0;ur.r&#x268;/</ipa>
 [6]inanimate stem noun
 part; section
 
 [2]cussa
 [3]High Lulani
 [4]<high-lulani>y;s</high-lulani>
-[5]/&#x2c8;c&#x2b0;us.s&#x259;/
+[5]<ipa>/&#x2c8;c&#x2b0;us.s&#x259;/</ipa>
 [6]inanimate stem noun
 subtle bodies; psyche
 [7]See Also
@@ -3322,7 +3322,7 @@ subtle bodies; psyche
 [2]cussi
 [3]High Lulani
 [4]<high-lulani>y;S</high-lulani>
-[5]/&#x2c8;c&#x2b0;us.s&#x268;/
+[5]<ipa>/&#x2c8;c&#x2b0;us.s&#x268;/</ipa>
 [6]ambitransitive stem verb
 feel; touch
 [7]Thematic Relations
@@ -3342,7 +3342,7 @@ feel; touch
 [2]cussi&rsquo;ala
 [3]High Lulani
 [4]<high-lulani>y;Sal</high-lulani>
-[5]/&#x2c8;cus.s&#x268;.&#x2cc;&#x294;al.&#x259;/
+[5]<ipa>/&#x2c8;cus.s&#x268;.&#x2cc;&#x294;al.&#x259;/</ipa>
 [6]intransitive derived compound verb
 to be hot
 [7]Etymology
@@ -3353,27 +3353,27 @@ to be hot
 [2]ja
 [3]High Lulani
 [4]<high-lulani>j</high-lulani>
-[5]/&#x25f;a/
+[5]<ipa>/&#x25f;a/</ipa>
 [6]stem adposition
 along
 [2]jagaru
 [3]High Lulani
 [4]<high-lulani>jgw</high-lulani>
-[5]/&#x25f;&#x259;.&#x2c8;ga&#x279;.&#x289;/
+[5]<ipa>/&#x25f;&#x259;.&#x2c8;ga&#x279;.&#x289;/</ipa>
 [6]inanimate stem noun
 sand
 
 [2]jami
 [3]High Lulani
 [4]<high-lulani>jM</high-lulani>
-[5]/&#x2c8;&#x25f;am.&#x268;/
+[5]<ipa>/&#x2c8;&#x25f;am.&#x268;/</ipa>
 [6]modal adverb
 worked out; known from evidence; evidentially
 
 [2]jana
 [3]High Lulani
 [4]<high-lulani>jn</high-lulani>
-[5]/&#x2c8;&#x25f;an.&#x259;/
+[5]<ipa>/&#x2c8;&#x25f;an.&#x259;/</ipa>
 [6]animate stem noun
 old person; elder
 [7]Derived Terms
@@ -3382,7 +3382,7 @@ old person; elder
 [2]janni
 [3]High Lulani
 [4]<high-lulani>j;N</high-lulani>
-[5]/&#x2c8;&#x25f;a&#x272;.&#x272;&#x268;/
+[5]<ipa>/&#x2c8;&#x25f;a&#x272;.&#x272;&#x268;/</ipa>
 [6]intransitive stem verb
 move around; vibrate
 [7]Thematic Relations
@@ -3403,7 +3403,7 @@ move around; vibrate
 [2]janni'u'ili
 [3]High Lulani
 [4]<high-lulani>j;NuiL</high-lulani>
-[5]/&#x2cc;&#x25f;a&#x272;.&#x272;&#x268;.&#x294;&#x289;.&#x2c8;&#x294;il.&#x268;/
+[5]<ipa>/&#x2cc;&#x25f;a&#x272;.&#x272;&#x268;.&#x294;&#x289;.&#x2c8;&#x294;il.&#x268;/</ipa>
 [6]derived compound verb
 to <a href="https://en.wikipedia.org/wiki/Sliders">slide</a>; to move through parallel worlds
 [7]Etymology
@@ -3412,7 +3412,7 @@ to <a href="https://en.wikipedia.org/wiki/Sliders">slide</a>; to move through pa
 [2]jala
 [3]High Lulani
 [4]<high-lulani>jl</high-lulani>
-[5]/&#x2c8;&#x25f;al.&#x259;/
+[5]<ipa>/&#x2c8;&#x25f;al.&#x259;/</ipa>
 [6]inanimate stem noun element
 platinum
 [7]See Also
@@ -3424,21 +3424,21 @@ platinum
 [2]jalla
 [3]High Lulani
 [4]<high-lulani>j;l</high-lulani>
-[5]/&#x2c8;&#x25f;a&#x28e;.&#x28e;&#x259;/
+[5]<ipa>/&#x2c8;&#x25f;a&#x28e;.&#x28e;&#x259;/</ipa>
 [6]inanimate stem noun
 object; item
 
 [2]jaha
 [3]High Lulani
 [4]<high-lulani>jh</high-lulani>
-[5]/&#x2c8;&#x25f;ah.&#x259;/
+[5]<ipa>/&#x2c8;&#x25f;ah.&#x259;/</ipa>
 [6]abstract stem noun
 offence; worry 
 
 [2]ji
 [3]High Lulani
 [4]<high-lulani>J</high-lulani>
-[5]/&#x25f;&#x268;/
+[5]<ipa>/&#x25f;&#x268;/</ipa>
 [6]stem<small-caps></small-caps> attributive suffix
 needing; requiring
 [7]Example
@@ -3446,7 +3446,7 @@ needing; requiring
 <high-lulani>itiJ / uz</high-lulani>
 <em>car-need <small-caps>1int</small-caps></em>
 &ldquo;I who need a car&rdquo;
-[5]/&#x25f;i/
+[5]<ipa>/&#x25f;i/</ipa>
 [6]stem auxiliary
 present negative; <small-caps>prs;neg;</small-caps> is not; isn&rsquo;t
 [7]See Also
@@ -3479,7 +3479,7 @@ gnomic
 [2]ji&rsquo;a
 [3]High Lulani
 [4]<high-lulani>Ja</high-lulani>
-[5]/&#x2cc;&#x25f;i&#x294;.&#x259;/
+[5]<ipa>/&#x2cc;&#x25f;i&#x294;.&#x259;/</ipa>
 [6]stem adjective
 not; not a
 [7]Example
@@ -3489,7 +3489,7 @@ not; not a
 [2]ji&rsquo;i
 [3]High Lulani
 [4]<high-lulani>Ji</high-lulani>
-[5]/&#x2c8;&#x25f;i&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;&#x25f;i&#x294;.&#x268;/</ipa>
 [6]ambitransitive stem verb
 to taste; to smell
 [7]Thematic Relations
@@ -3514,28 +3514,28 @@ to taste; to smell
 [2]jiqu
 [3]High Lulani
 [4]<high-lulani>JA</high-lulani>
-[5]/&#x2c8;&#x25f;i&#x14b;.&#x289;/
+[5]<ipa>/&#x2c8;&#x25f;i&#x14b;.&#x289;/</ipa>
 [6]inanimate stem noun
 voice
 
 [2]jifiru&rsquo;i
 [3]High Lulani
 [4]<high-lulani>JFwi</high-lulani>
-[5]/&#x2cc;&#x25f;if.&#x268;.&#x2c8;&#x279;u&#x294;.&#x268;/
+[5]<ipa>/&#x2cc;&#x25f;if.&#x268;.&#x2c8;&#x279;u&#x294;.&#x268;/</ipa>
 [6]inanimate stem noun
 lake
 
 [2]jisuka
 [3]High Lulani
 [4]<high-lulani>Jzk</high-lulani>
-[5]/&#x25f;&#x268;.&#x2c8;suk&#x2b0;.&#x259;/
+[5]<ipa>/&#x25f;&#x268;.&#x2c8;suk&#x2b0;.&#x259;/</ipa>
 [6]abstract stem noun
 ideology; philosophy; thoughts
 
 [2]ju&rsquo;i
 [3]High Lulani
 [4]<high-lulani>Yi</high-lulani>
-[5]/&#x2c8;&#x25f;u&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;&#x25f;u&#x294;.&#x268;/</ipa>
 [6]ambitransitive stem verb
 link; join; wear
 [7]Thematic Relations
@@ -3563,7 +3563,7 @@ plus
 [2]ju&rsquo;ipu&rsquo;a
 [3]High Lulani
 [4]<high-lulani>Yioa</high-lulani>
-[5]/&#x2cc;&#x25f;u&#x294;.&#x268;.&#x2c8;p&#x2b0;u&#x294;.&#x259;/
+[5]<ipa>/&#x2cc;&#x25f;u&#x294;.&#x268;.&#x2c8;p&#x2b0;u&#x294;.&#x259;/</ipa>
 [6]animate derived noun
 assembly; group
 [7]Definition
@@ -3576,7 +3576,7 @@ a group of people brought together for common purpose
 [2]ju&rsquo;iduku
 [3]High Lulani
 [4]<high-lulani>YiE&gt;</high-lulani>
-[5]/&#x2c8;&#x25f;u&#x294;.&#x268;.&#x2cc;duk&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;&#x25f;u&#x294;.&#x268;.&#x2cc;duk&#x2b0;.&#x289;/</ipa>
 [6]transitive derived compound verb
 to marry
 [7]Etymology
@@ -3585,7 +3585,7 @@ to marry
 [2]julliga
 [3]High Lulani
 [4]<high-lulani>Y;Lg</high-lulani>
-[5]/&#x2c8;&#x25f;u&#x28e;.&#x28e;&#x268;.g&#x259;/
+[5]<ipa>/&#x2c8;&#x25f;u&#x28e;.&#x28e;&#x268;.g&#x259;/</ipa>
 [6]animate stem noun
 married woman; spouse
 [7]See Also
@@ -3602,7 +3602,7 @@ Not used with possessives.
 [2]jusi
 [3]High Lulani
 [4]<high-lulani>YS</high-lulani>
-[5]/&#x2c8;&#x25f;us.&#x268;/
+[5]<ipa>/&#x2c8;&#x25f;us.&#x268;/</ipa>
 [6]stem personal pronoun
 third person animate dative; <small-caps>3ani;dat;</small-caps> to her; to him
 [7]See Also
@@ -3641,7 +3641,7 @@ third person animate dative; <small-caps>3ani;dat;</small-caps> to her; to him
 [2]jusiti
 [3]High Lulani
 [4]<high-lulani>YST</high-lulani>
-[5]/&#x25f;&#x289;.&#x2c8;sit.&#x268;/
+[5]<ipa>/&#x25f;&#x289;.&#x2c8;sit.&#x268;/</ipa>
 [6]stem mathematics numeral
 -6; <overline>6</overline>; rix; minus six; negative six
 [7]See Also
@@ -3653,7 +3653,7 @@ third person animate dative; <small-caps>3ani;dat;</small-caps> to her; to him
 [2]ka
 [3]High Lulani
 [4]<high-lulani>k</high-lulani>
-[5]/k&#x2b0;a/
+[5]<ipa>/k&#x2b0;a/</ipa>
 [6]stem adposition (1)
 south; southwards
 [7]See Also
@@ -3676,14 +3676,14 @@ state
 [2]ka&#x294;a
 [3]High Lulani
 [4]<high-lulani>k;a</high-lulani>
-[5]/&#x2c8;k&#x2b0;a&#x294;.j&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;a&#x294;.j&#x259;/</ipa>
 [6]abstract stem noun
 being lost; being unable to find one&rsquo;s way
 
 [2]ka&rsquo;i
 [3]High Lulani
 [4]<high-lulani>ki</high-lulani>
-[5]/&#x2c8;k&#x2b0;a&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;k&#x2b0;a&#x294;.&#x268;/</ipa>
 [6]inanimate stem noun element
 titanium
 [7]See Also
@@ -3694,7 +3694,7 @@ titanium
 [2]ka&rsquo;u
 [3]High Lulani
 [4]<high-lulani>ku</high-lulani>
-[5]/&#x2c8;k&#x2b0;a&#x294;.&#x289;/
+[5]<ipa>/&#x2c8;k&#x2b0;a&#x294;.&#x289;/</ipa>
 [6]intransitive stem verb
 jump
 [7]Thematic Relations
@@ -3708,14 +3708,14 @@ jump
 [2]kata
 [3]High Lulani
 [4]<high-lulani>kt</high-lulani>
-[5]/&#x2c8;k&#x2b0;at&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;at&#x2b0;.&#x259;/</ipa>
 [6]stem indefinite pronoun
 each other; reciprocal
 
 [2]kati
 [3]High Lulani
 [4]<high-lulani>kT</high-lulani>
-[5]/k&#x2b0;&#x259;t&#x2b0;.&#x268;/
+[5]<ipa>/k&#x2b0;&#x259;t&#x2b0;.&#x268;/</ipa>
 [6]derivational suffix (animate noun: neuter &rarr; masculine)
 denotes a male animate
 [7]See Also
@@ -3725,7 +3725,7 @@ denotes a male animate
 [2]katiru
 [3]High Lulani
 [4]<high-lulani>kTw</high-lulani>
-[5]/k&#x2b0;&#x259;.&#x2c8;t&#x2b0;i&#x279;.&#x289;/
+[5]<ipa>/k&#x2b0;&#x259;.&#x2c8;t&#x2b0;i&#x279;.&#x289;/</ipa>
 [6]inanimate stem noun element
 holmium
 [7]See Also
@@ -3736,7 +3736,7 @@ holmium
 [2]kadu
 [3]High Lulani
 [4]<high-lulani>kE</high-lulani>
-[5]/&#x2c8;k&#x2b0;ad.&#x289;/
+[5]<ipa>/&#x2c8;k&#x2b0;ad.&#x289;/</ipa>
 [6]stem adposition
 on a vertical surface
 [7]Related Terms
@@ -3745,7 +3745,7 @@ on a vertical surface
 [2]kadusi
 [3]High Lulani
 [4]<high-lulani>kES</high-lulani>
-[5]/k&#x2b0;&#x259;.&#x2c8;dus.&#x268;/
+[5]<ipa>/k&#x2b0;&#x259;.&#x2c8;dus.&#x268;/</ipa>
 [6]indefinite stem pronoun
 that way; in that manner; distal manner
 [7]See Also
@@ -3789,7 +3789,7 @@ state
 [2]kaca
 [3]High Lulani
 [4]<high-lulani>kc</high-lulani>
-[5]/&#x2c8;k&#x2b0;ac&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;ac&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element
 cadmium
 [7]See Also
@@ -3801,21 +3801,21 @@ cadmium
 [2]kamiri
 [3]High Lulani
 [4]<high-lulani>kMR</high-lulani>
-[5]/k&#x2b0;&#x259;.&#x2c8;mi&#x279;.&#x268;/
+[5]<ipa>/k&#x2b0;&#x259;.&#x2c8;mi&#x279;.&#x268;/</ipa>
 [6]inanimate stem noun
 cage; pen
 
 [2]kanama
 [3]High Lulani
 [4]<high-lulani>knm</high-lulani>
-[5]/k&#x2b0;&#x259;.&#x2c8;nam.&#x259;/
+[5]<ipa>/k&#x2b0;&#x259;.&#x2c8;nam.&#x259;/</ipa>
 [6]abstract stem noun
 play; mucking around
 
 [2]kanu
 [3]High Lulani
 [4]<high-lulani>kI</high-lulani>
-[5]/&#x2c8;k&#x2b0;an.&#x289;/
+[5]<ipa>/&#x2c8;k&#x2b0;an.&#x289;/</ipa>
 [6]inanimate stem noun
 leg
 [7]Usage Notes
@@ -3827,7 +3827,7 @@ refers to an individual leg, or each leg individually
 [2]kaqqa
 [3]High Lulani
 [4]<high-lulani>k;q</high-lulani>
-[5]/&#x2c8;k&#x2b0;a&#x14b;.&#x14b;&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;a&#x14b;.&#x14b;&#x259;/</ipa>
 [6]animate stem noun
 brother; male cousin
 [7]See Also
@@ -3836,7 +3836,7 @@ brother; male cousin
 [2]kalu
 [3]High Lulani
 [4]<high-lulani>kW</high-lulani>
-[5]/&#x2c8;k&#x2b0;al.&#x289;/
+[5]<ipa>/&#x2c8;k&#x2b0;al.&#x289;/</ipa>
 [6]stem pronoun
 third person inanimate ablative; 3<small-caps>ina;abl;</small-caps> because of it; from it<em></em>
 [7]See Also
@@ -3890,21 +3890,21 @@ physical body
 [2]karra
 [3]High Lulani
 [4]<high-lulani>k;r</high-lulani>
-[5]/&#x2c8;k&#x2b0;ar.r&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;ar.r&#x259;/</ipa>
 [6]inanimate stem noun
 wheat
 
 [2]karafi
 [3]High Lulani
 [4]<high-lulani>krF</high-lulani>
-[5]/k&#x2b0;&#x259;.&#x2c8;&#x279;af.&#x268;/
+[5]<ipa>/k&#x2b0;&#x259;.&#x2c8;&#x279;af.&#x268;/</ipa>
 [6]abstract stem noun
 sacredness; enlightenment
 
 [2]kari
 [3]High Lulani
 [4]<high-lulani>kR</high-lulani>
-[5]/&#x2c8;k&#x2b0;a&#x279;.&#x268;/
+[5]<ipa>/&#x2c8;k&#x2b0;a&#x279;.&#x268;/</ipa>
 [6]inanimate stem noun element
 uranium
 [7]See Also
@@ -3915,7 +3915,7 @@ uranium
 [2]karu
 [3]High Lulani
 [4]<high-lulani>kw</high-lulani>
-[5]/&#x2cc;ka&#x279;.&#x289;/
+[5]<ipa>/&#x2cc;ka&#x279;.&#x289;/</ipa>
 [6]derivational suffix (auxiliary)
 terminative; <small-caps>trm</small-caps>; finish; end
 [7]Usage Notes
@@ -3950,7 +3950,7 @@ gnomic
 [2]kasa
 [3]High Lulani
 [4]<high-lulani>ks</high-lulani>
-[5]/&#x2c8;k&#x2b0;as.&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;as.&#x259;/</ipa>
 [6]animate stem noun
 male; man; boy
 [7]See Also
@@ -3960,7 +3960,7 @@ male; man; boy
 [2]kasi
 [3]High Lulani
 [4]<high-lulani>kS</high-lulani>
-[5]/&#x2c8;k&#x2b0;as.&#x268;/
+[5]<ipa>/&#x2c8;k&#x2b0;as.&#x268;/</ipa>
 [6]stem indefinite pronoun
 that; distal object
 [7]See Also
@@ -4004,7 +4004,7 @@ state
 [2]kassi
 [3]High Lulani
 [4]<high-lulani>k;S</high-lulani>
-[5]/&#x2c8;k&#x2b0;as.s&#x268;/
+[5]<ipa>/&#x2c8;k&#x2b0;as.s&#x268;/</ipa>
 [6]stem personal pronoun
 third person animate ablative; 3<small-caps>ani;abl;</small-caps> from her; from him; from them; because of him; because of her; because of them
 [7]See Also
@@ -4043,7 +4043,7 @@ third person animate ablative; 3<small-caps>ani;abl;</small-caps> from her; from
 [2]kasika
 [3]High Lulani
 [4]<high-lulani>kSk</high-lulani>
-[5]/k&#x2b0;&#x259;.&#x2c8;sik&#x2b0;.&#x259;/
+[5]<ipa>/k&#x2b0;&#x259;.&#x2c8;sik&#x2b0;.&#x259;/</ipa>
 [6]indefinite stem pronoun
 that way; in that state; distal state
 [7]See Also
@@ -4087,7 +4087,7 @@ state
 [2]kassu
 [3]High Lulani
 [4]<high-lulani>k;z</high-lulani>
-[5]/&#x2c8;k&#x2b0;as.s&#x289;/
+[5]<ipa>/&#x2c8;k&#x2b0;as.s&#x289;/</ipa>
 [6]abstract stem noun
 trade
 [6]inanimate stem noun
@@ -4105,7 +4105,7 @@ mind
 [2]kasuja
 [3]High Lulani
 [4]<high-lulani>kzj</high-lulani>
-[5]/k&#x2b0;&#x259;.&#x2c8;su&#x25f;.&#x259;/
+[5]<ipa>/k&#x2b0;&#x259;.&#x2c8;su&#x25f;.&#x259;/</ipa>
 [6]indefinite stem pronoun
 there; distal place
 [7]See Also
@@ -4149,7 +4149,7 @@ state
 [2]kahi
 [3]High Lulani
 [4]<high-lulani>kH</high-lulani>
-[5]/&#x2c8;k&#x2b0;ah.&#x268;/
+[5]<ipa>/&#x2c8;k&#x2b0;ah.&#x268;/</ipa>
 [6]inanimate stem noun
 arm
 [7]See Also
@@ -4159,7 +4159,7 @@ arm
 [2]ki
 [3]High Lulani
 [4]<high-lulani>K</high-lulani>
-[5]/k&#x2b0;&#x268;/
+[5]<ipa>/k&#x2b0;&#x268;/</ipa>
 [6]mathematics derivational suffix (numeral &rarr; fraction)
 forms fractions
 [7]Example
@@ -4169,7 +4169,7 @@ forms an inanimate agentive noun
 [7]Examples
 <a href="../b/bumaki.html">bumaki</a> <high-lulani>OmK</high-lulani> <em>screen</em>
 <a href="../l/lu'iki.html">lu&rsquo;iki</a> <high-lulani>WiK</high-lulani> <em>soul</em>
-[5]/k&#x2b0;i/
+[5]<ipa>/k&#x2b0;i/</ipa>
 [6]intransitive stem verb
 big; grow; large
 [7]Thematic Relations
@@ -4186,7 +4186,7 @@ big; grow; large
 [2]ki&#x294;a
 [3]High Lulani
 [4]<high-lulani>K;a</high-lulani>
-[5]/&#x2c8;k&#x2b0;i&#x294;.j&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;i&#x294;.j&#x259;/</ipa>
 [6]intransitive stem verb
 to be white; to turn white
 [7]Thematic Relations
@@ -4203,7 +4203,7 @@ to be white; to turn white
 [2]kipacca
 [3]High Lulani
 [4]<high-lulani>Kp;c</high-lulani>
-[5]/k&#x268;.&#x2c8;p&#x2b0;ac.c&#x259;/
+[5]<ipa>/k&#x268;.&#x2c8;p&#x2b0;ac.c&#x259;/</ipa>
 [6]inanimate derived verb
 to grow in number
 [7]Etymology
@@ -4212,7 +4212,7 @@ to grow in number
 [2]kipu
 [3]High Lulani
 [4]<high-lulani>ko</high-lulani>
-[5]/&#x2c8;k&#x2b0;ip&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;k&#x2b0;ip&#x2b0;.&#x289;/</ipa>
 [6]animate stem noun
 horse; ox; draughtsbeast; drif
 [7]See Also
@@ -4228,14 +4228,14 @@ horse; ox; draughtsbeast; drif
 [2]kibba
 [3]High Lulani
 [4]<high-lulani>K;b</high-lulani>
-[5]/&#x2c8;k&#x2b0;ib&#x2b1;.b&#x2b1;&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;ib&#x2b1;.b&#x2b1;&#x259;/</ipa>
 [6]inanimate stem noun
 stick; rod; branch
 
 [2]kitisu
 [3]High Lulani
 [4]<high-lulani>KTz</high-lulani>
-[5]/k&#x2b0;&#x268;.&#x2c8;t&#x2b0;is.&#x289;/
+[5]<ipa>/k&#x2b0;&#x268;.&#x2c8;t&#x2b0;is.&#x289;/</ipa>
 [6]animate stem noun
 wife; spouse
 [7]See Also
@@ -4245,7 +4245,7 @@ wife; spouse
 [2]kica
 [3]High Lulani
 [4]<high-lulani>Kc</high-lulani>
-[5]/&#x2c8;k&#x2b0;ic&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;ic&#x2b0;.&#x259;/</ipa>
 [6]animate stem noun
 sister; sibling; cousin
 [7]See Also
@@ -4254,7 +4254,7 @@ sister; sibling; cousin
 [2]kicu
 [3]High Lulani
 [4]<high-lulani>Ky</high-lulani>
-[5]/&#x2c8;k&#x2b0;ic&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;k&#x2b0;ic&#x2b0;.&#x289;/</ipa>
 [6]abstract stem noun
 truth
 [7]Derived Terms
@@ -4263,14 +4263,14 @@ truth
 [2]kika
 [3]High Lulani
 [4]<high-lulani>Kk</high-lulani>
-[5]/&#x2c8;k&#x2b0;ik&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;ik&#x2b0;.&#x259;/</ipa>
 [6]stem adposition
 denotes a length of time or space; interval; over
 
 [2]kimilli
 [3]High Lulani
 [4]<high-lulani>KM;L</high-lulani>
-[5]/k&#x2b0;&#x268;.mi&#x28e;.&#x28e;&#x268;/
+[5]<ipa>/k&#x2b0;&#x268;.mi&#x28e;.&#x28e;&#x268;/</ipa>
 [6]animate stem noun
 king
 [7]See Also
@@ -4279,7 +4279,7 @@ king
 [2]kilatu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>Klei</high-lulani>
-[5]/&#x2cc;k&#x2b0;il.&#x259;.&#x2c8;t&#x2b0;u&#x294;.&#x268;/
+[5]<ipa>/&#x2cc;k&#x2b0;il.&#x259;.&#x2c8;t&#x2b0;u&#x294;.&#x268;/</ipa>
 [6]animate stem noun
 deer
 [7]See Also
@@ -4295,14 +4295,14 @@ deer
 [2]kiluqu
 [3]High Lulani
 [4]<high-lulani>KWA</high-lulani>
-[5]/k&#x2b0;&#x268;.&#x2c8;lu&#x14b;.&#x289;/
+[5]<ipa>/k&#x2b0;&#x268;.&#x2c8;lu&#x14b;.&#x289;/</ipa>
 [6]abstract stem noun
 walk
 
 [2]kirallu
 [3]High Lulani
 [4]<high-lulani>Kr;W</high-lulani>
-[5]/k&#x2b0;&#x268;.&#x2c8;&#x279;a&#x28e;.&#x28e;&#x289;/
+[5]<ipa>/k&#x2b0;&#x268;.&#x2c8;&#x279;a&#x28e;.&#x28e;&#x289;/</ipa>
 [6]stem mathematics numeral
 -2; <overline>2</overline>, ru, minus two
 [7]See Also
@@ -4313,14 +4313,14 @@ walk
 [2]kiffaculi
 [3]High Lulani
 [4]<high-lulani>K;fyL</high-lulani>
-[5]/&#x2cc;k&#x2b0;&#x268;f.f&#x259;.c&#x2b0;ul.&#x268;/
+[5]<ipa>/&#x2cc;k&#x2b0;&#x268;f.f&#x259;.c&#x2b0;ul.&#x268;/</ipa>
 [6]animate stem noun
 little person
 
 [2]kifi
 [3]High Lulani
 [4]<high-lulani>KF</high-lulani>
-[5]/&#x2c8;k&#x2b0;if.&#x268;/
+[5]<ipa>/&#x2c8;k&#x2b0;if.&#x268;/</ipa>
 [6]stem mathematics numeral
 3; three
 [7]See Also
@@ -4331,7 +4331,7 @@ little person
 [2]kissa
 [3]High Lulani
 [4]<high-lulani>K;s</high-lulani>
-[5]/&#x2c8;kis.s&#x259;/
+[5]<ipa>/&#x2c8;kis.s&#x259;/</ipa>
 [6]transitive stem verb
 to fight
 [7]Thematic Relations
@@ -4347,7 +4347,7 @@ to fight
 [2]kixa
 [3]High Lulani
 [4]<high-lulani>Kx</high-lulani>
-[5]/k&#x2b0;i&#x255;.&#x259;/
+[5]<ipa>/k&#x2b0;i&#x255;.&#x259;/</ipa>
 [6]inanimate stem noun element
 lutetium
 [7]See Also
@@ -4359,26 +4359,26 @@ lutetium
 [2]kixxita
 [3]High Lulani
 [4]<high-lulani>K;Xt</high-lulani>
-[5]/&#x2c8;k&#x2b0;i&#x255;.&#x255;&#x268;.t&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;i&#x255;.&#x255;&#x268;.t&#x259;/</ipa>
 [6]inanimate stem noun
 building column
 
 [2]kixina
 [3]High Lulani
 [4]<high-lulani>KXn</high-lulani>
-[5]/k&#x2b0;&#x268;.&#x2c8;&#x255;in.&#x259;/
+[5]<ipa>/k&#x2b0;&#x268;.&#x2c8;&#x255;in.&#x259;/</ipa>
 [6]abstract stem noun
 grief from loss
 
 [2]ku
 [3]High Lulani
 [4]<high-lulani>&gt;</high-lulani>
-[5]/k&#x2b0;&#x289;/
+[5]<ipa>/k&#x2b0;&#x289;/</ipa>
 [6]case marker
 dative; <small-caps>dat</small-caps>
 [7]See Also
 <a href="../k/kalu.html">kalu</a> <high-lulani>kW</high-lulani> <small-caps>abl</small-caps>
-[5]/k&#x2b0;u/
+[5]<ipa>/k&#x2b0;u/</ipa>
 [6]stem personal pronoun
 third person inanimate dative; to it; 3<small-caps>ina;dat</small-caps>
 [7]See Also
@@ -4417,7 +4417,7 @@ third person inanimate dative; to it; 3<small-caps>ina;dat</small-caps>
 [2]-kku
 [3]High Lulani
 [4]<high-lulani>;&gt;</high-lulani>
-[5]/k.k&#x289;/
+[5]<ipa>/k.k&#x289;/</ipa>
 [6]derivational suffix (noun; verb &rarr; noun)
 body part
 [7]Derived Terms
@@ -4428,14 +4428,14 @@ body part
 [2]kupira
 [3]High Lulani
 [4]<high-lulani>&gt;Pr</high-lulani>
-[5]/k&#x2b0;u.&#x2c8;p&#x2b0;i&#x279;.&#x259;/
+[5]<ipa>/k&#x2b0;u.&#x2c8;p&#x2b0;i&#x279;.&#x259;/</ipa>
 [6]stem adverb
 intensely
 
 [2]kuppu
 [3]High Lulani
 [4]<high-lulani>&gt;;o</high-lulani>
-[5]/&#x2c8;k&#x2b0;up.p&#x289;/
+[5]<ipa>/&#x2c8;k&#x2b0;up.p&#x289;/</ipa>
 [6]intransitive stem verb
 to be strong; to be dense; to be heavy
 [7]Thematic Relations
@@ -4451,14 +4451,14 @@ to be strong; to be dense; to be heavy
 [2]kuddu
 [3]High Lulani
 [4]<high-lulani>&gt;;E</high-lulani>
-[5]/&#x2c8;kud&#x2b1;.d&#x2b1;&#x289;/
+[5]<ipa>/&#x2c8;kud&#x2b1;.d&#x2b1;&#x289;/</ipa>
 [6]inanimate stem noun
 rain
 
 [2]kunaqi
 [3]High Lulani
 [4]<high-lulani>&gt;nQ</high-lulani>
-[5]/k&#x2b0;&#x289;.&#x2c8;na&#x14b;.&#x268;/
+[5]<ipa>/k&#x2b0;&#x289;.&#x2c8;na&#x14b;.&#x268;/</ipa>
 [6]derived noun
 soil; land; earth; dirt
 [7]Etymology
@@ -4476,7 +4476,7 @@ soil; land; earth; dirt
 [2]kunubi
 [3]High Lulani
 [4]<high-lulani>&gt;IB</high-lulani>
-[5]/k&#x2b0;&#x289;.&#x2c8;nub.&#x268;/
+[5]<ipa>/k&#x2b0;&#x289;.&#x2c8;nub.&#x268;/</ipa>
 [6]derived noun
 sky
 [7]Etymology
@@ -4493,7 +4493,7 @@ sky
 [2]kuli
 [3]High Lulani
 [4]<high-lulani>&gt;L</high-lulani>
-[5]/&#x2c8;k&#x2b0;ul.&#x268;/
+[5]<ipa>/&#x2c8;k&#x2b0;ul.&#x268;/</ipa>
 [6]transitive stem verb
 to meet; to become acquainted
 [7]Thematic Relations
@@ -4503,7 +4503,7 @@ to meet; to become acquainted
 [2]kuli&rsquo;a
 [3]High Lulani
 [4]<high-lulani>&gt;La</high-lulani>
-[5]/k&#x2b0;&#x289;.&#x2c8;li&#x294;.&#x259;/
+[5]<ipa>/k&#x2b0;&#x289;.&#x2c8;li&#x294;.&#x259;/</ipa>
 [6]derived abstract noun
 acquaintance; the act of being acquainted; friendship
 [7]See Also
@@ -4512,14 +4512,14 @@ acquaintance; the act of being acquainted; friendship
 [2]kulu
 [3]High Lulani
 [4]<high-lulani>&gt;W</high-lulani>
-[5]/&#x2c8;k&#x2b0;ul.&#x289;/
+[5]<ipa>/&#x2c8;k&#x2b0;ul.&#x289;/</ipa>
 [6]inanimate stem noun
 fork
 
 [2]kuffa
 [3]High Lulani
 [4]<high-lulani>&gt;;f</high-lulani>
-[5]/&#x2c8;k&#x2b0;uf.f&#x259;/
+[5]<ipa>/&#x2c8;k&#x2b0;uf.f&#x259;/</ipa>
 [6]transitive stem verb
 to give
 [7]Thematic Relations
@@ -4535,7 +4535,7 @@ to give
 [2]kuxalu
 [3]High Lulani
 [4]<high-lulani>&gt;xW</high-lulani>
-[5]/k&#x2b0;&#x289;.&#x2c8;&#x255;al.&#x289;/
+[5]<ipa>/k&#x2b0;&#x289;.&#x2c8;&#x255;al.&#x289;/</ipa>
 [6]inanimate stem noun element
 neon
 [7]See Also
@@ -4547,7 +4547,7 @@ neon
 [2]kuxxu
 [3]High Lulani
 [4]<high-lulani>&gt;;Z</high-lulani>
-[5]/&#x2c8;k&#x2b0;u&#x255;.&#x255;&#x289;/
+[5]<ipa>/&#x2c8;k&#x2b0;u&#x255;.&#x255;&#x289;/</ipa>
 [6]inanimate stem noun element
 boron
 [7]See Also
@@ -4559,7 +4559,7 @@ boron
 [2]ga
 [3]High Lulani
 [4]<high-lulani>g</high-lulani>
-[5]/ga/
+[5]<ipa>/ga/</ipa>
 [6]intransitive stem verb
 to be black; to turn black
 [7]Thematic Relations
@@ -4582,7 +4582,7 @@ to put
 [2]ga&rsquo;i
 [3]High Lulani
 [4]<high-lulani>gi</high-lulani>
-[5]/&#x2c8;ga&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;ga&#x294;.&#x268;/</ipa>
 [6]abstract stem noun
 time; while
 [7]Synonyms
@@ -4591,7 +4591,7 @@ time; while
 [2]ga&rsquo;iniqqi
 [3]High Lulani
 [4]<high-lulani>giN;Q</high-lulani>
-[5]/&#x2c8;ga&#x294;.&#x268;.&#x2cc;ni&#x14b;.&#x14b;&#x268;/
+[5]<ipa>/&#x2c8;ga&#x294;.&#x268;.&#x2cc;ni&#x14b;.&#x14b;&#x268;/</ipa>
 [6]derived adverb
 in time
 [7]Etymology
@@ -4600,28 +4600,28 @@ in time
 [2]gaca
 [3]High Lulani
 [4]<high-lulani>gc</high-lulani>
-[5]/&#x2c8;gac.&#x259;/
+[5]<ipa>/&#x2c8;gac.&#x259;/</ipa>
 [6]animate stem noun
 minister; lord; lady
 
 [2]gakka
 [3]High Lulani
 [4]<high-lulani>g;k</high-lulani>
-[5]/&#x2c8;gak.k&#x259;/
+[5]<ipa>/&#x2c8;gak.k&#x259;/</ipa>
 [6]inanimate stem noun
 wound
 
 [2]galaffidu
 [3]High Lulani
 [4]<high-lulani>gl;FE</high-lulani>
-[5]/g&#x259;.&#x2c8;laf.f&#x268;.d&#x289;/
+[5]<ipa>/g&#x259;.&#x2c8;laf.f&#x268;.d&#x289;/</ipa>
 [6]inanimate stem noun
 throne
 
 [2]gaxiki
 [3]High Lulani
 [4]<high-lulani>gXK</high-lulani>
-[5]/g&#x259;.&#x2c8;&#x255;ik&#x2b0;.&#x268;/
+[5]<ipa>/g&#x259;.&#x2c8;&#x255;ik&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element
 cobalt
 [7]See Also
@@ -4632,7 +4632,7 @@ cobalt
 [2]gi
 [3]High Lulani
 [4]<high-lulani>G</high-lulani>
-[5]/gi/
+[5]<ipa>/gi/</ipa>
 [6]stem adjective
 left; on the left-hand side
 [7]See Also
@@ -4655,7 +4655,7 @@ to carry; to take; to bring; to have; to hold
 [2]gi&rsquo;a
 [3]High Lulani
 [4]<high-lulani>Ga</high-lulani>
-[5]/&#x2c8;gi&#x294;.&#x259;/
+[5]<ipa>/&#x2c8;gi&#x294;.&#x259;/</ipa>
 [6]subordinating stem conjunction
 and; that is
 [7]Notes
@@ -4664,14 +4664,14 @@ used to give further information
 [2]gi&rsquo;ika
 [3]High Lulani
 [4]<high-lulani>Gik</high-lulani>
-[5]/g&#x268;.&#x2c8;&#x294;ik&#x2b0;.&#x259;/
+[5]<ipa>/g&#x268;.&#x2c8;&#x294;ik&#x2b0;.&#x259;/</ipa>
 [6]clausal conjunction
 in order to
 
 [2]gibi
 [3]High Lulani
 [4]<high-lulani>GB</high-lulani>
-[5]/&#x2c8;gib.&#x268;/
+[5]<ipa>/&#x2c8;gib.&#x268;/</ipa>
 [6]stem adposition
 east; eastwards
 [7]See Also
@@ -4682,7 +4682,7 @@ east; eastwards
 [2]girammi
 [3]High Lulani
 [4]<high-lulani>Gr;M</high-lulani>
-[5]/g&#x268;.&#x2c8;&#x279;am.m&#x268;/
+[5]<ipa>/g&#x268;.&#x2c8;&#x279;am.m&#x268;/</ipa>
 [6]inanimate stem noun
 thunder
 [7]See Also
@@ -4691,14 +4691,14 @@ thunder
 [2]guozu
 [3]English
 [4]
-[5]/&#x2c8;g&#x2b7;&#x254;.z&#x28a;/
+[5]<ipa>/&#x2c8;g&#x2b7;&#x254;.z&#x28a;/</ipa>
 [6]animate stem proper noun (capitalised)
 Loren&rsquo;s species, which spread out into the Tinellbian worlds from Naengi
 
 [2]gupi
 [3]High Lulani
 [4]<high-lulani>&lt;P</high-lulani>
-[5]/&#x2c8;gup&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;gup&#x2b0;.&#x268;/</ipa>
 [6]intransitive stem verb
 sit
 [7]Thematic Relations
@@ -4711,7 +4711,7 @@ sit
 [2]guqqa
 [3]High Lulani
 [4]<high-lulani>&lt;;q</high-lulani>
-[5]/&#x2c8;gu&#x14b;.&#x14b;&#x259;/
+[5]<ipa>/&#x2c8;gu&#x14b;.&#x14b;&#x259;/</ipa>
 [6]inanimate stem noun element
 francium
 [7]See Also
@@ -4722,21 +4722,21 @@ francium
 [2]gurrisu
 [3]High Lulani
 [4]<high-lulani>&lt;;Rz</high-lulani>
-[5]/&#x2c8;gur.r&#x268;.s&#x289;/
+[5]<ipa>/&#x2c8;gur.r&#x268;.s&#x289;/</ipa>
 [6]inanimate stem noun
 door
 
 [2]gufu&rsquo;iri
 [3]High Lulani
 [4]<high-lulani>&lt;viR</high-lulani>
-[5]/&#x2cc;guf.&#x289;.&#x2c8;&#x294;i&#x279;.&#x268;/
+[5]<ipa>/&#x2cc;guf.&#x289;.&#x2c8;&#x294;i&#x279;.&#x268;/</ipa>
 [6]inanimate stem noun
 radio receiver
 
 [2]gusu
 [3]High Lulani
 [4]<high-lulani>&lt;z</high-lulani>
-[5]/&#x2c8;gus.&#x289;/
+[5]<ipa>/&#x2c8;gus.&#x289;/</ipa>
 [6]animate stem noun
 Guozu; person
 [7]Notes
@@ -4745,7 +4745,7 @@ only used when alive
 [2]gusuli
 [3]High Lulani
 [4]<high-lulani>&lt;zL</high-lulani>
-[5]/g&#x289;.&#x2c8;sul.&#x268;/
+[5]<ipa>/g&#x289;.&#x2c8;sul.&#x268;/</ipa>
 [6]animate derived noun
 person; non-Guozu
 [7]Etymology
@@ -4754,7 +4754,7 @@ person; non-Guozu
 [2]guhi
 [3]High Lulani
 [4]<high-lulani>&lt;H</high-lulani>
-[5]/&#x2c8;guh.&#x268;/
+[5]<ipa>/&#x2c8;guh.&#x268;/</ipa>
 [6]stem mathematics ordinal
 5; five
 [7]See Also
@@ -4766,7 +4766,7 @@ person; non-Guozu
 [2]ma
 [3]High Lulani
 [4]<high-lulani>m</high-lulani>
-[5]/m&#x259;/
+[5]<ipa>/m&#x259;/</ipa>
 [6]clausal conjunction
 where; when
 [7]Notes
@@ -4782,14 +4782,14 @@ terminative, used for adverbs.
 [2]ma&rsquo;iki
 [3]High Lulani
 [4]<high-lulani>miK</high-lulani>
-[5]/m&#x259;.&#x2c8;&#x294;ik.&#x268;/
+[5]<ipa>/m&#x259;.&#x2c8;&#x294;ik.&#x268;/</ipa>
 [6]stem adposition
 across
 
 [2]ma&#x294;u
 [3]High Lulani
 [4]<high-lulani>m;u</high-lulani>
-[5]/&#x2c8;ma&#x294;.j&#x289;/
+[5]<ipa>/&#x2c8;ma&#x294;.j&#x289;/</ipa>
 [6]inanimate stem noun
 gingla
 [7]Definition
@@ -4802,14 +4802,14 @@ the four ginglaic dimensions.
 [2]mabarri
 [3]High Lulani
 [4]<high-lulani>mb;R</high-lulani>
-[5]/m&#x259;.&#x2c8;bar.r&#x268;/
+[5]<ipa>/m&#x259;.&#x2c8;bar.r&#x268;/</ipa>
 [6]abstract stem noun
 argument; quarrel
 
 [2]matta
 [3]High Lulani
 [4]<high-lulani>m;t</high-lulani>
-[5]/&#x2c8;mat.t&#x259;/
+[5]<ipa>/&#x2c8;mat.t&#x259;/</ipa>
 [6]stem adverb
 also
 [6]stem modal adverb
@@ -4827,7 +4827,7 @@ second
 [2]matirra
 [3]High Lulani
 [4]<high-lulani>mT;r</high-lulani>
-[5]/m&#x259;.&#x2c8;t&#x2b0;ir.r&#x259;/
+[5]<ipa>/m&#x259;.&#x2c8;t&#x2b0;ir.r&#x259;/</ipa>
 [6]inanimate stem noun element
 selenium
 [7]See Also
@@ -4839,7 +4839,7 @@ selenium
 [2]madi
 [3]High Lulani
 [4]<high-lulani>mD</high-lulani>
-[5]/&#x2c8;mad.&#x268;/
+[5]<ipa>/&#x2c8;mad.&#x268;/</ipa>
 [6]intransitive stem verb
 to rise; to be high
 [7]Thematic Relations
@@ -4853,7 +4853,7 @@ to rise; to be high
 [2]madusi
 [3]High Lulani
 [4]<high-lulani>mES</high-lulani>
-[5]/m&#x259;.&#x2c8;dus.&#x268;/
+[5]<ipa>/m&#x259;.&#x2c8;dus.&#x268;/</ipa>
 [6]indefinite stem pronoun
 this way; in this manner; proximate manner
 [7]See Also
@@ -4897,7 +4897,7 @@ state
 [2]majja
 [3]High Lulani
 [4]<high-lulani>m;j</high-lulani>
-[5]/&#x2c8;ma&#x25f;&#x2b1;.&#x25f;&#x2b1;&#x259;/
+[5]<ipa>/&#x2c8;ma&#x25f;&#x2b1;.&#x25f;&#x2b1;&#x259;/</ipa>
 [6]indefinite stem pronoun
 here; proximate place
 [7]See Also
@@ -4941,7 +4941,7 @@ state
 [2]maku
 [3]High Lulani
 [4]<high-lulani>m&gt;</high-lulani>
-[5]/&#x2c8;mak&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;mak&#x2b0;.&#x289;/</ipa>
 [6]transitive stem verb
 to throw
 [7]Thematic Relations
@@ -4956,7 +4956,7 @@ to throw
 [2]mana
 [3]High Lulani
 [4]<high-lulani>mn</high-lulani>
-[5]/&#x2c8;man.&#x259;/
+[5]<ipa>/&#x2c8;man.&#x259;/</ipa>
 [6]inanimate stem noun
 bubble
 [7]Derived Terms
@@ -4965,14 +4965,14 @@ bubble
 [2]manafa
 [3]High Lulani
 [4]<high-lulani>mnf</high-lulani>
-[5]/m&#x259;.&#x2c8;naf.&#x259;/
+[5]<ipa>/m&#x259;.&#x2c8;naf.&#x259;/</ipa>
 [6]inanimate stem noun
 country
 
 [2]mala
 [3]High Lulani
 [4]<high-lulani>ml</high-lulani>
-[5]/&#x2c8;mal.&#x259;/
+[5]<ipa>/&#x2c8;mal.&#x259;/</ipa>
 [6]intransitive stem verb
 reflect
 [7]Thematic Relations
@@ -4991,7 +4991,7 @@ denotes a mirrored repeating infinite digit string
 [2]malaki
 [3]High Lulani
 [4]<high-lulani>mlK</high-lulani>
-[5]/m&#x259;.&#x2c8;lak&#x2b0;.&#x268;/
+[5]<ipa>/m&#x259;.&#x2c8;lak&#x2b0;.&#x268;/</ipa>
 [6]derived inanimate noun
 mirror
 [7]Etymology
@@ -5000,14 +5000,14 @@ mirror
 [2]mali
 [3]High Lulani
 [4]<high-lulani>mL</high-lulani>
-[5]/&#x2c8;mal.&#x268;/
+[5]<ipa>/&#x2c8;mal.&#x268;/</ipa>
 [6]abstract stem noun
 position
 
 [2]malliju
 [3]High Lulani
 [4]<high-lulani>m;LY</high-lulani>
-[5]/&#x2c8;ma&#x28e;.&#x28e;&#x268;.&#x25f;&#x289;/
+[5]<ipa>/&#x2c8;ma&#x28e;.&#x28e;&#x268;.&#x25f;&#x289;/</ipa>
 [6]abstract stem noun
 happiness; orgasm
 [7]Definition
@@ -5021,7 +5021,7 @@ being happy in the moment
 [2]malu
 [3]High Lulani
 [4]<high-lulani>mW</high-lulani>
-[5]/&#x2c8;mal.&#x289;/
+[5]<ipa>/&#x2c8;mal.&#x289;/</ipa>
 [6]intransitive stem verb
 there is; there exists; to be in a place
 [7]Thematic Relations
@@ -5038,14 +5038,14 @@ there is; there exists; to be in a place
 [2]mallu
 [3]High Lulani
 [4]<high-lulani>m;W</high-lulani>
-[5]/&#x2c8;ma&#x28e;.&#x28e;&#x289;/
+[5]<ipa>/&#x2c8;ma&#x28e;.&#x28e;&#x289;/</ipa>
 [6]abstract stem noun
 address
 
 [2]mari
 [3]High Lulani
 [4]<high-lulani>mR</high-lulani>
-[5]/&#x2c8;ma&#x279;.&#x268;/
+[5]<ipa>/&#x2c8;ma&#x279;.&#x268;/</ipa>
 [6]stem indefinite pronoun
 proximate objective pronoun; this
 [7]See Also
@@ -5089,7 +5089,7 @@ state
 [2]marika
 [3]High Lulani
 [4]<high-lulani>mRk</high-lulani>
-[5]/m&#x259;.&#x2c8;&#x279;ik&#x2b0;.&#x259;/
+[5]<ipa>/m&#x259;.&#x2c8;&#x279;ik&#x2b0;.&#x259;/</ipa>
 [6]indefinite stem pronoun
 this way; in this state; proximate state
 [7]See Also
@@ -5133,7 +5133,7 @@ state
 [2]masi
 [3]High Lulani
 [4]<high-lulani>mS</high-lulani>
-[5]/&#x2c8;mas.&#x268;/
+[5]<ipa>/&#x2c8;mas.&#x268;/</ipa>
 [6]abstract stem noun
 course of action
 [6]inanimate stem noun
@@ -5142,14 +5142,14 @@ snow
 [2]masula
 [3]High Lulani
 [4]<high-lulani>mzL</high-lulani>
-[5]/m&#x259;.&#x2c8;sul.&#x259;/
+[5]<ipa>/m&#x259;.&#x2c8;sul.&#x259;/</ipa>
 [6]abstract stem noun
 surrender
 
 [2]mi
 [3]High Lulani
 [4]<high-lulani>M</high-lulani>
-[5]/m&#x268;/
+[5]<ipa>/m&#x268;/</ipa>
 [6]derivational suffix (noun: inanimate &rarr; animate)
 giver
 [7]Examples
@@ -5163,21 +5163,21 @@ any; some
 [2]mi&rsquo;ula
 [3]High Lulani
 [4]<high-lulani>Mul</high-lulani>
-[5]/m&#x268;.&#x2c8;&#x294;ul.&#x259;/
+[5]<ipa>/m&#x268;.&#x2c8;&#x294;ul.&#x259;/</ipa>
 [6]inanimate stem noun
 reed
 
 [2]mi&rsquo;ulla
 [3]High Lulani
 [4]<high-lulani>Mu;l</high-lulani>
-[5]/m&#x268;.&#x2c8;&#x294;u&#x28e;.&#x28e;&#x259;/
+[5]<ipa>/m&#x268;.&#x2c8;&#x294;u&#x28e;.&#x28e;&#x259;/</ipa>
 [6]inanimate stem noun
 discus
 
 [2]mituja
 [3]High Lulani
 [4]<high-lulani>Mej</high-lulani>
-[5]/m&#x268;.&#x2c8;t&#x2b0;u&#x25f;.&#x259;/
+[5]<ipa>/m&#x268;.&#x2c8;t&#x2b0;u&#x25f;.&#x259;/</ipa>
 [6]indefinite stem pronoun
 somewhere; anywhere; anytime; sometime; existential place
 [7]See Also
@@ -5221,7 +5221,7 @@ state
 [2]mica
 [3]High Lulani
 [4]<high-lulani>Mc</high-lulani>
-[5]/&#x2c8;mic.&#x259;/
+[5]<ipa>/&#x2c8;mic.&#x259;/</ipa>
 [6]interjection
 hello
 [6]abstract stem noun
@@ -5230,7 +5230,7 @@ permission
 [2]mici
 [3]High Lulani
 [4]<high-lulani>MC</high-lulani>
-[5]/&#x2c8;mic.&#x268;/
+[5]<ipa>/&#x2c8;mic.&#x268;/</ipa>
 [6]abstract stem noun
 internal peace
 [7]Derived Terms
@@ -5238,14 +5238,14 @@ internal peace
 [2]mika
 [3]High Lulani
 [4]<high-lulani>Mk</high-lulani>
-[5]/&#x2c8;mik&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;mik&#x2b0;.&#x259;/</ipa>
 [6]animate stem noun
 unspecified group of people; some group
 
 [2]miku
 [3]High Lulani
 [4]<high-lulani>M&gt;</high-lulani>
-[5]/&#x2c8;mik.&#x289;/
+[5]<ipa>/&#x2c8;mik.&#x289;/</ipa>
 [6]intransitive stem verb
 to be red; to make red
 [7]Thematic Relations
@@ -5263,7 +5263,7 @@ to be red; to make red
 [2]mikkuddu
 [3]High Lulani
 [4]<high-lulani>M;&gt;;E</high-lulani>
-[5]/m&#x268;k.&#x2c8;kud&#x2b1;.d&#x2b1;&#x289;/
+[5]<ipa>/m&#x268;k.&#x2c8;kud&#x2b1;.d&#x2b1;&#x289;/</ipa>
 [6]animate, inanimate stem noun
 annoyance
 
@@ -5271,14 +5271,14 @@ annoyance
 [2]mimu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>MUi</high-lulani>
-[5]/m&#x268;.&#x2c8;mu.&#x294;&#x268;/
+[5]<ipa>/m&#x268;.&#x2c8;mu.&#x294;&#x268;/</ipa>
 [6]stem adjective
 some; more than one
 <em></em>
 [2]mina&#x294;i
 [3]High Lulani
 [4]<high-lulani>Mn;o</high-lulani>
-[5]/m&#x268;.&#x2c8;na&#x294;.j&#x268;/
+[5]<ipa>/m&#x268;.&#x2c8;na&#x294;.j&#x268;/</ipa>
 [6]inanimate stem noun element
 tungsten
 [7]See Also
@@ -5290,14 +5290,14 @@ tungsten
 [2]milami
 [3]High Lulani
 [4]<high-lulani>MlM</high-lulani>
-[5]/m&#x268;.&#x2c8;lam.&#x268;/
+[5]<ipa>/m&#x268;.&#x2c8;lam.&#x268;/</ipa>
 [6]inanimate stem noun
 surroundings; mise-en-sc&egrave;ne
 
 [2]millu
 [3]High Lulani
 [4]<high-lulani>M;W</high-lulani>
-[5]/&#x2c8;mi&#x28e;.&#x28e;&#x289;/
+[5]<ipa>/&#x2c8;mi&#x28e;.&#x28e;&#x289;/</ipa>
 [6]intransitive stem verb
 to be brown; to turn brown
 [7]Thematic Relations
@@ -5317,7 +5317,7 @@ to be brown; to turn brown
 [2]miru
 [3]High Lulani
 [4]<high-lulani>Mw</high-lulani>
-[5]/&#x2c8;mi&#x279;.&#x289;/
+[5]<ipa>/&#x2c8;mi&#x279;.&#x289;/</ipa>
 [6]stem indefinite pronoun
 now; here
 [7]Notes
@@ -5328,14 +5328,14 @@ informal
 [2]mifasu
 [3]High Lulani
 [4]<high-lulani>Mfz</high-lulani>
-[5]/m&#x268;.&#x2c8;fas.&#x289;/
+[5]<ipa>/m&#x268;.&#x2c8;fas.&#x289;/</ipa>
 [6]animate stem noun
 subject; subordinate; vassal
 
 [2]missu
 [3]High Lulani
 [4]<high-lulani>M;z</high-lulani>
-[5]/&#x2c8;mis.s&#x289;/
+[5]<ipa>/&#x2c8;mis.s&#x289;/</ipa>
 [6]stem mathematics ordinal
 -4; <overline>4</overline>;rour; minus four
 [7]See Also
@@ -5346,7 +5346,7 @@ subject; subordinate; vassal
 [2]mihu
 [3]High Lulani
 [4]<high-lulani>MV</high-lulani>
-[5]/&#x2c8;mih.&#x289;/
+[5]<ipa>/&#x2c8;mih.&#x289;/</ipa>
 [6]stem personal pronoun
 third person animate intransitive; he; him; her; she; <small-caps>3ani;int</small-caps>
 [7]See Also
@@ -5385,7 +5385,7 @@ third person animate intransitive; he; him; her; she; <small-caps>3ani;int</smal
 [2]muka
 [3]High Lulani
 [4]<high-lulani>Uk</high-lulani>
-[5]/&#x2cc;muk&#x2b0;.&#x259;/
+[5]<ipa>/&#x2cc;muk&#x2b0;.&#x259;/</ipa>
 [6]derivational suffix (adposition &rarr; noun)
 derives a noun from a prepositional phrase
 [7]Example
@@ -5394,7 +5394,7 @@ derives a noun from a prepositional phrase
 [2]munika
 [3]High Lulani
 [4]<high-lulani>UNk</high-lulani>
-[5]/m&#x289;.&#x2c8;nik&#x2b0;.&#x259;/
+[5]<ipa>/m&#x289;.&#x2c8;nik&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun
 liquid
 [7]Related
@@ -5403,21 +5403,21 @@ liquid
 [2]muli
 [3]High Lulani
 [4]<high-lulani>UL</high-lulani>
-[5]/&#x2c8;mul.&#x268;/
+[5]<ipa>/&#x2c8;mul.&#x268;/</ipa>
 [6]abstract stem noun
 foolishness
 
 [2]mulikki
 [3]High Lulani
 [4]<high-lulani>UL;K</high-lulani>
-[5]/m&#x289;.&#x2c8;lik.k&#x268;/
+[5]<ipa>/m&#x289;.&#x2c8;lik.k&#x268;/</ipa>
 [6]inanimate stem noun
 page of a book
 
 [2]mulisa
 [3]High Lulani
 [4]<high-lulani>ULs</high-lulani>
-[5]/m&#x289;.&#x2c8;lis.&#x259;/
+[5]<ipa>/m&#x289;.&#x2c8;lis.&#x259;/</ipa>
 [6]animate derived noun
 fool
 [7]Etymology
@@ -5426,7 +5426,7 @@ fool
 [2]mulu
 [3]High Lulani
 [4]<high-lulani>MW</high-lulani>
-[5]/&#x2c8;mul.&#x289;/
+[5]<ipa>/&#x2c8;mul.&#x289;/</ipa>
 [6]inanimate stem noun
 blood
 [7]Derived Terms
@@ -5436,7 +5436,7 @@ blood
 [2]mullu
 [3]High Lulani
 [4]<high-lulani>M;W</high-lulani>
-[5]/&#x2c8;mu&#x28e;.&#x28e;&#x289;/
+[5]<ipa>/&#x2c8;mu&#x28e;.&#x28e;&#x289;/</ipa>
 [6]stem mathematics cardinal
 -1; <overline>1</overline>; ron, minus one
 [7]See Also
@@ -5447,7 +5447,7 @@ blood
 [2]mulukku
 [3]High Lulani
 [4]<high-lulani>UW;&gt;</high-lulani>
-[5]/m&#x289;.&#x2c8;luk.k&#x289;/
+[5]<ipa>/m&#x289;.&#x2c8;luk.k&#x289;/</ipa>
 [6]inanimate derived noun
 heart
 [7]Etymology
@@ -5457,14 +5457,14 @@ refers to the physical organ. Cf: <a href="../s/sida.html">sida</a> <high-lulani
 [2]muru
 [3]High Lulani
 [4]<high-lulani>Uw</high-lulani>
-[5]/&#x2c8;mu&#x279;.&#x289;/
+[5]<ipa>/&#x2c8;mu&#x279;.&#x289;/</ipa>
 [6]inanimate stem noun
 pile; cairn
 
 [2]musa
 [3]High Lulani
 [4]<high-lulani>Us</high-lulani>
-[5]/&#x2c8;mus.&#x259;/
+[5]<ipa>/&#x2c8;mus.&#x259;/</ipa>
 [6]inanimate stem noun
 sun; day
 [7]See Also
@@ -5474,7 +5474,7 @@ sun; day
 [2]mussa
 [3]High Lulani
 [4]<high-lulani>U;s</high-lulani>
-[5]/&#x2c8;mus.s&#x259;/
+[5]<ipa>/&#x2c8;mus.s&#x259;/</ipa>
 [6]abstract stem noun
 exoticism
 [7]Derived Terms
@@ -5483,7 +5483,7 @@ exoticism
 [2]musaqu
 [3]High Lulani
 [4]<high-lulani>UsA</high-lulani>
-[5]/m&#x289;.&#x2c8;sa&#x14b;.&#x289;/
+[5]<ipa>/m&#x289;.&#x2c8;sa&#x14b;.&#x289;/</ipa>
 [6]inanimate stem noun element
 lead
 [7]Definition
@@ -5498,7 +5498,7 @@ a dense, heavy metal. Element 82
 [2]na
 [3]High Lulani
 [4]<high-lulani>n</high-lulani>
-[5]/n&#x259;/
+[5]<ipa>/n&#x259;/</ipa>
 [6]stem attributive
 going to
 [7]Examples
@@ -5506,7 +5506,7 @@ going to
 <high-lulani>i;Ran / &lt;z</high-lulani>
 <em>Ir&igrave;a-going_to person</em>
 &ldquo;person going to Ir&igrave;a.&rdquo;
-[5]/na/
+[5]<ipa>/na/</ipa>
 [6]stem auxiliary
 present iterative; <small-caps>prs;itr;</small-caps> is
 [7]See Also
@@ -5550,14 +5550,14 @@ most usually used as a verbal prefix
 [2]naengi
 [3]English
 [4]
-[5]/&#x2c8;na&#x25b;&#x14b;.g&#x26a;/
+[5]<ipa>/&#x2c8;na&#x25b;&#x14b;.g&#x26a;/</ipa>
 [6]stem proper noun (capitalised)
 (name of Loren&rsquo;s home planet)
 
 [2]na&rsquo;a
 [3]High Lulani
 [4]<high-lulani>na</high-lulani>
-[5]/&#x2c8;na&#x294;.&#x259;/
+[5]<ipa>/&#x2c8;na&#x294;.&#x259;/</ipa>
 [6]inanimate stem noun element
 actinium
 [7]See Also
@@ -5568,7 +5568,7 @@ actinium
 [2]na&rsquo;ipa
 [3]High Lulani
 [4]<high-lulani>nip</high-lulani>
-[5]/n&#x259;.&#x2c8;&#x294;ip&#x2b0;.&#x259;/
+[5]<ipa>/n&#x259;.&#x2c8;&#x294;ip&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element
 darmstadtium
 [7]See Also
@@ -5579,21 +5579,21 @@ darmstadtium
 [2]napuxi
 [3]High Lulani
 [4]<high-lulani>noX</high-lulani>
-[5]/n&#x259;.p&#x2b0;u&#x255;.&#x268;/
+[5]<ipa>/n&#x259;.p&#x2b0;u&#x255;.&#x268;/</ipa>
 [6]inanimate stem noun
 fur; hair
 
 [2]natiha
 [3]High Lulani
 [4]<high-lulani>nTh</high-lulani>
-[5]/n&#x259;.t&#x2b0;ih.&#x259;/
+[5]<ipa>/n&#x259;.t&#x2b0;ih.&#x259;/</ipa>
 [6]inanimate stem noun
 box
 
 [2]natu
 [3]High Lulani
 [4]<high-lulani>ne</high-lulani>
-[5]/&#x2c8;nat&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;nat&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun element
 iridium
 [7]See Also
@@ -5605,7 +5605,7 @@ iridium
 [2]nada
 [3]High Lulani
 [4]<high-lulani>nd</high-lulani>
-[5]/&#x2c8;nad.&#x259;/
+[5]<ipa>/&#x2c8;nad.&#x259;/</ipa>
 [6]abstract stem noun
 emotional plane
 [7]See Also
@@ -5621,14 +5621,14 @@ emotional plane
 [2]nacca
 [3]High Lulani
 [4]<high-lulani>n;c</high-lulani>
-[5]/&#x2c8;nac.c&#x259;/
+[5]<ipa>/&#x2c8;nac.c&#x259;/</ipa>
 [6]inanimate stem noun
 covering; clothing
 
 [2]naci
 [3]High Lulani
 [4]<high-lulani>nC</high-lulani>
-[5]/&#x2c8;nac&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;nac&#x2b0;.&#x268;/</ipa>
 [6]stem adjective
 somewhat
 [7]Examples
@@ -5639,7 +5639,7 @@ somewhat
 [2]nakaku
 [3]High Lulani
 [4]<high-lulani>nk&gt;</high-lulani>
-[5]/&#x2c8;n&#x259;.&#x2c8;k&#x2b0;ak&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;n&#x259;.&#x2c8;k&#x2b0;ak&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun element
 meitnerium
 [7]See Also
@@ -5650,7 +5650,7 @@ meitnerium
 [2]naku
 [3]High Lulani
 [4]<high-lulani>n&gt;</high-lulani>
-[5]/&#x2c8;nak&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;nak&#x2b0;.&#x289;/</ipa>
 [6]stem adverb
 together
 [7]Examples
@@ -5666,7 +5666,7 @@ together
 [2]nagi
 [3]High Lulani
 [4]<high-lulani>nG</high-lulani>
-[5]/&#x2c8;nag.&#x268;/
+[5]<ipa>/&#x2c8;nag.&#x268;/</ipa>
 [6]stem auxiliary
 future stative; <small-caps>fut;sta</small-caps>; will be
 [7]See Also
@@ -5710,7 +5710,7 @@ become
 [2]nama
 [3]High Lulani
 [4]<high-lulani>nm</high-lulani>
-[5]/&#x2c8;nam.&#x259;/
+[5]<ipa>/&#x2c8;nam.&#x259;/</ipa>
 [6]intransitive stem verb
 to be light; to be rarefied; to be weak
 [7]Thematic Relations
@@ -5726,7 +5726,7 @@ to be light; to be rarefied; to be weak
 [2]naqa
 [3]High Lulani
 [4]<high-lulani>nq</high-lulani>
-[5]/&#x2c8;na&#x14b;.&#x259;/
+[5]<ipa>/&#x2c8;na&#x14b;.&#x259;/</ipa>
 [6]transitive stem verb
 need
 [7]Thematic Relations
@@ -5743,7 +5743,7 @@ need
 [2]naqi
 [3]High Lulani
 [4]<high-lulani>nQ</high-lulani>
-[5]/&#x2c8;na&#x14b;.&#x268;/
+[5]<ipa>/&#x2c8;na&#x14b;.&#x268;/</ipa>
 [6]stem proper noun (capitalised)
 Naengi
 [7]Derived Terms
@@ -5752,21 +5752,21 @@ Naengi
 [2]nali
 [3]High Lulani
 [4]<high-lulani>nL</high-lulani>
-[5]/&#x2c8;nal.&#x268;/
+[5]<ipa>/&#x2c8;nal.&#x268;/</ipa>
 [6]abstract stem noun
 general need for intimacy; hemd&oacute;iness
 
 [2]nallimi
 [3]High Lulani
 [4]<high-lulani>n;LM</high-lulani>
-[5]/&#x2c8;na&#x28e;.&#x28e;&#x268;.m&#x268;/
+[5]<ipa>/&#x2c8;na&#x28e;.&#x28e;&#x268;.m&#x268;/</ipa>
 [6]inanimate stem noun
 cheese
 
 [2]naludu
 [3]High Lulani
 [4]<high-lulani>nWE</high-lulani>
-[5]/n&#x259;.&#x2c8;lud.&#x289;/
+[5]<ipa>/n&#x259;.&#x2c8;lud.&#x289;/</ipa>
 [6]abstract stem noun
 physical plane
 [7]See Also
@@ -5782,7 +5782,7 @@ physical plane
 [2]nara
 [3]High Lulani
 [4]<high-lulani>nr</high-lulani>
-[5]/&#x2c8;na&#x279;.&#x259;/
+[5]<ipa>/&#x2c8;na&#x279;.&#x259;/</ipa>
 [6]interjection
 goodbye
 [6]intransitive stem verb
@@ -5798,21 +5798,21 @@ to sleep; to fall asleep
 [2]narra
 [3]High Lulani
 [4]<high-lulani>n;r</high-lulani>
-[5]/&#x2c8;nar.r&#x259;/
+[5]<ipa>/&#x2c8;nar.r&#x259;/</ipa>
 [6]inanimate stem noun
 corner
 
 [2]naru
 [3]High Lulani
 [4]<high-lulani>nw</high-lulani>
-[5]/&#x2c8;na&#x279;.&#x289;/
+[5]<ipa>/&#x2c8;na&#x279;.&#x289;/</ipa>
 [6]stem adverb
 slowly
 
 [2]nassa
 [3]High Lulani
 [4]<high-lulani>n;s</high-lulani>
-[5]/&#x2c8;nas.s&#x259;/
+[5]<ipa>/&#x2c8;nas.s&#x259;/</ipa>
 [6]abstract stem noun
 euphoria
 [7]Definition
@@ -5821,7 +5821,7 @@ a heightened emotional state, especially as induced by tiredness or drunkenness.
 [2]nasi&#x294;u
 [3]High Lulani
 [4]<high-lulani>nS;u</high-lulani>
-[5]/na.&#x2c8;si&#x294;.j&#x289;/
+[5]<ipa>/na.&#x2c8;si&#x294;.j&#x289;/</ipa>
 [6]animate stem noun
 sheep
 [7]See Also
@@ -5837,7 +5837,7 @@ sheep
 [2]nasufi
 [3]High Lulani
 [4]<high-lulani>nzF</high-lulani>
-[5]/n&#x259;.&#x2c8;suf.&#x268;/
+[5]<ipa>/n&#x259;.&#x2c8;suf.&#x268;/</ipa>
 [6]inanimate stem noun element
 ruthenium
 [7]See Also
@@ -5849,10 +5849,10 @@ ruthenium
 [2]ni
 [3]High Lulani
 [4]<high-lulani>N</high-lulani>
-[5]/n&#x268;/
+[5]<ipa>/n&#x268;/</ipa>
 [6]derivational suffix (verb)
 begin to
-[5]/ni/
+[5]<ipa>/ni/</ipa>
 [6]stem adposition
 at; in
 [6]inanimate stem noun element
@@ -5866,7 +5866,7 @@ silver
 [2]nittu
 [3]High Lulani
 [4]<high-lulani>N;e</high-lulani>
-[5]/&#x2c8;nit.t&#x289;/
+[5]<ipa>/&#x2c8;nit.t&#x289;/</ipa>
 [6]intransitive stem verb
 be wild
 [7]Thematic Relations
@@ -5882,14 +5882,14 @@ be wild
 [2]niddi
 [3]High Lulani
 [4]<high-lulani>N;D</high-lulani>
-[5]/&#x2c8;nid&#x2b1;.d&#x2b1;&#x268;/
+[5]<ipa>/&#x2c8;nid&#x2b1;.d&#x2b1;&#x268;/</ipa>
 [6]abstract stem noun
 alertness
 
 [2]nidu
 [3]High Lulani
 [4]<high-lulani>NE</high-lulani>
-[5]/&#x2c8;nid.&#x289;/
+[5]<ipa>/&#x2c8;nid.&#x289;/</ipa>
 [6]transitive stem verb
 to use
 [7]Thematic Relations
@@ -5902,7 +5902,7 @@ with; using
 [2]nika
 [3]High Lulani
 [4]<high-lulani>Nk</high-lulani>
-[5]/&#x2c8;nik&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;nik&#x2b0;.&#x259;/</ipa>
 [6]abstract stem noun
 journey; travel
 [7]Derived Terms
@@ -5913,7 +5913,7 @@ journey; travel
 [2]nikili
 [3]High Lulani
 [4]<high-lulani>NKL</high-lulani>
-[5]/n&#x268;.&#x2c8;k&#x2b0;il.&#x268;/
+[5]<ipa>/n&#x268;.&#x2c8;k&#x2b0;il.&#x268;/</ipa>
 [6]inanimate stem noun element
 technetium
 [7]See Also
@@ -5925,7 +5925,7 @@ technetium
 [2]niga
 [3]High Lulani
 [4]<high-lulani>Ng</high-lulani>
-[5]/&#x2c8;nig.&#x259;/
+[5]<ipa>/&#x2c8;nig.&#x259;/</ipa>
 [6]abstract stem noun
 guide; protection
 [7]Derived Phrase
@@ -5934,7 +5934,7 @@ guide; protection
 [2]nimalu
 [3]High Lulani
 [4]<high-lulani>NmW</high-lulani>
-[5]/n&#x268;.mal.&#x289;/
+[5]<ipa>/n&#x268;.mal.&#x289;/</ipa>
 [6]inanimate stem noun
 bear
 [7]Definition
@@ -5943,7 +5943,7 @@ a wild forest animal
 [2]nina
 [3]High Lulani
 [4]<high-lulani>Nn</high-lulani>
-[5]/&#x2c8;nin.&#x259;/
+[5]<ipa>/&#x2c8;nin.&#x259;/</ipa>
 [6]stem adposition
 used for the purpose of
 [7]Examples
@@ -5952,7 +5952,7 @@ used for the purpose of
 [2]niqqi
 [3]High Lulani
 [4]<high-lulani>N;Q</high-lulani>
-[5]/n&#x268;&#x14b;.&#x14b;&#x268;/
+[5]<ipa>/n&#x268;&#x14b;.&#x14b;&#x268;/</ipa>
 [6]derivational suffix (noun &rarr; adverb)
 derives an adverb from a noun
 [7]Example
@@ -5963,14 +5963,14 @@ derives an adverb from a noun
 [2]nisa
 [3]High Lulani
 [4]<high-lulani>Ns</high-lulani>
-[5]/&#x2c8;nis.&#x259;/
+[5]<ipa>/&#x2c8;nis.&#x259;/</ipa>
 [6]stem adjective
 only; sole
 
 [2]nisanna
 [3]High Lulani
 [4]<high-lulani>Ns;n</high-lulani>
-[5]/&#x2c8;n&#x268;.sa&#x272;.&#x272;&#x259;/
+[5]<ipa>/&#x2c8;n&#x268;.sa&#x272;.&#x272;&#x259;/</ipa>
 [6]inanimate stem noun
 bottom; posterior; derri&egrave;re; buttocks
 [7]See Also
@@ -5979,7 +5979,7 @@ bottom; posterior; derri&egrave;re; buttocks
 [2]nu
 [3]High Lulani
 [4]<high-lulani>I</high-lulani>
-[5]/nu&#x2d0;/
+[5]<ipa>/nu&#x2d0;/</ipa>
 [6]transitive stem verb
 to stop
 [7]Thematic Relation
@@ -5995,14 +5995,14 @@ to stop
 [2]nuobi
 [3]English
 [4]
-[5]/&#x2c8;nu.wo.b&#x26a;/
+[5]<ipa>/&#x2c8;nu.wo.b&#x26a;/</ipa>
 [6]stem proper noun (capitalised)
 (name given to Loren&rsquo;s home reality)
 
 [2]nu&rsquo;ifi
 [3]High Lulani
 [4]<high-lulani>IiF</high-lulani>
-[5]/n&#x289;.&#x2c8;&#x294;if.&#x268;/
+[5]<ipa>/n&#x289;.&#x2c8;&#x294;if.&#x268;/</ipa>
 [6]intransitive stem verb
 hide
 [7]Thematic Relations
@@ -6016,7 +6016,7 @@ hide
 [2]nubi
 [3]High Lulani
 [4]<high-lulani>IB</high-lulani>
-[5]/&#x2c8;nub.&#x268;/
+[5]<ipa>/&#x2c8;nub.&#x268;/</ipa>
 [6]stem proper noun (capitalised)
 <a href="../n/nuobi.html">Nuobi</a>
 [7]Derived Terms
@@ -6027,7 +6027,7 @@ hide
 [2]nudda
 [3]High Lulani
 [4]<high-lulani>I;d</high-lulani>
-[5]/&#x2c8;nud&#x2b1;.d&#x2b1;&#x259;/
+[5]<ipa>/&#x2c8;nud&#x2b1;.d&#x2b1;&#x259;/</ipa>
 [6]inanimate stem noun element
 caesium
 [7]See Also
@@ -6039,21 +6039,21 @@ caesium
 [2]nuki
 [3]High Lulani
 [4]<high-lulani>IK</high-lulani>
-[5]/&#x2c8;nuk&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;nuk&#x2b0;.&#x268;/</ipa>
 [6]coordinating stem conjunction
 or
 
 [2]nukki
 [3]High Lulani
 [4]<high-lulani>I;K</high-lulani>
-[5]/&#x2c8;nuk.k&#x268;/
+[5]<ipa>/&#x2c8;nuk.k&#x268;/</ipa>
 [6]inanimate stem noun
 strawberry
 
 [2]nuku
 [3]High Lulani
 [4]<high-lulani>I&gt;</high-lulani>
-[5]/&#x2c8;nuk&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;nuk&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun
 world; planet
 [7]See Also
@@ -6063,7 +6063,7 @@ world; planet
 [2]nullasu
 [3]High Lulani
 [4]<high-lulani>I;lz</high-lulani>
-[5]/&#x2c8;nu&#x28e;.&#x28e;&#x259;.s&#x259;/
+[5]<ipa>/&#x2c8;nu&#x28e;.&#x28e;&#x259;.s&#x259;/</ipa>
 [6]inanimate stem noun element
 dubnium
 [7]See Also
@@ -6074,7 +6074,7 @@ dubnium
 [2]nulli
 [3]High Lulani
 [4]<high-lulani>I;L</high-lulani>
-[5]/&#x2c8;nu&#x28e;.&#x28e;&#x268;/
+[5]<ipa>/&#x2c8;nu&#x28e;.&#x28e;&#x268;/</ipa>
 [6]inanimate stem noun
 mountain; hill
 [7]Definition
@@ -6085,7 +6085,7 @@ a hill or mountain that does not have year-round snow upon it
 [2]nulina
 [3]High Lulani
 [4]<high-lulani>ILn</high-lulani>
-[5]/n&#x289;.&#x2c8;lin.&#x259;/
+[5]<ipa>/n&#x289;.&#x2c8;lin.&#x259;/</ipa>
 [6]inanimate stem noun element
 lawrencium
 [7]See Also
@@ -6096,7 +6096,7 @@ lawrencium
 [2]nura
 [3]High Lulani
 [4]<high-lulani>Ir</high-lulani>
-[5]/&#x2c8;nu&#x279;.&#x259;/
+[5]<ipa>/&#x2c8;nu&#x279;.&#x259;/</ipa>
 [6]intransitive stem verb
 to separate; to move away from someone else; to leave
 [7]Thematic Relations
@@ -6118,7 +6118,7 @@ This is a dative verb for volitional separation, ablative for non-volitional sep
 [2]nuru
 [3]High Lulani
 [4]<high-lulani>Iw</high-lulani>
-[5]/&#x2c8;nu&#x279;.&#x289;/
+[5]<ipa>/&#x2c8;nu&#x279;.&#x289;/</ipa>
 [6]stem mathematics cardinal
 4; four
 [7]See Also
@@ -6129,7 +6129,7 @@ This is a dative verb for volitional separation, ablative for non-volitional sep
 [2]nufira
 [3]High Lulani
 [4]<high-lulani>IFr</high-lulani>
-[5]/n&#x289;.fi&#x279;.&#x259;/
+[5]<ipa>/n&#x289;.fi&#x279;.&#x259;/</ipa>
 [6]modal adverb
 optative; want
 [7]Usage Notes
@@ -6143,7 +6143,7 @@ Only used in first person
 [2]nufirahi
 [3]High Lulani
 [4]<high-lulani>IFrH</high-lulani>
-[5]/&#x2cc;nuf.&#x268;.&#x2c8;&#x279;ah.&#x268;/
+[5]<ipa>/&#x2cc;nuf.&#x268;.&#x2c8;&#x279;ah.&#x268;/</ipa>
 [6]abstract derived noun
 expectation
 [7]Etymology
@@ -6154,7 +6154,7 @@ refers to unreasonable expectations
 [2]nussa
 [3]High Lulani
 [4]<high-lulani>I;s</high-lulani>
-[5]/&#x2c8;nus.s&#x259;/
+[5]<ipa>/&#x2c8;nus.s&#x259;/</ipa>
 [6]inanimate stem noun element
 vanadium
 [7]See Also
@@ -6165,7 +6165,7 @@ vanadium
 [2]nuhu
 [3]High Lulani
 [4]<high-lulani>IV</high-lulani>
-[5]/&#x2c8;nuh.&#x289;/
+[5]<ipa>/&#x2c8;nuh.&#x289;/</ipa>
 [6]inanimate stem noun
 folded paper; origami
 [7]Notes
@@ -6174,7 +6174,7 @@ Also used to refer to a letter for someone
 [2]nuhubatu
 [3]High Lulani
 [4]<high-lulani>IVbe</high-lulani>
-[5]/&#x2cc;nuh.&#x289;.&#x2c8;bat&#x2b0;.&#x289;/
+[5]<ipa>/&#x2cc;nuh.&#x289;.&#x2c8;bat&#x2b0;.&#x289;/</ipa>
 [6]inanimate derived noun
 book
 [7]Etymology
@@ -6184,12 +6184,12 @@ book
 [2]qa
 [3]High Lulani
 [4]<high-lulani>q</high-lulani>
-[5]/&#x14b;&#x259;/
+[5]<ipa>/&#x14b;&#x259;/</ipa>
 [6]derivational suffix (numeral, verb, pronoun &rarr; noun)
 nominaliser; <small-caps>nmn</small-caps>
 [7]Definition
 Denotes a specific case of a general number, verb or pronoun
-[5]/&#x14b;a/
+[5]<ipa>/&#x14b;a/</ipa>
 [6]stem pronoun
 third person inanimate genitive; <small-caps>3ina;gen</small-caps>; its
 [7]See Also
@@ -6232,7 +6232,7 @@ down
 [2]qa&rsquo;i
 [3]High Lulani
 [4]<high-lulani>qi</high-lulani>
-[5]/&#x2c8;&#x14b;a&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;&#x14b;a&#x294;.&#x268;/</ipa>
 [6]indefinite stem pronoun
 nowhere; never; negative place
 [7]See Also
@@ -6276,7 +6276,7 @@ state
 [2]qa&#x294;iku
 [3]High Lulani
 [4]<high-lulani>q;i&gt;</high-lulani>
-[5]/&#x2c8;&#x14b;a&#x294;.j&#x268;.k&#x2b0;&#x289;/
+[5]<ipa>/&#x2c8;&#x14b;a&#x294;.j&#x268;.k&#x2b0;&#x289;/</ipa>
 [6]inanimate stem noun element
 nobelium
 [7]See Also
@@ -6287,7 +6287,7 @@ nobelium
 [2]qapi
 [3]High Lulani
 [4]<high-lulani>qP</high-lulani>
-[5]/&#x2c8;&#x14b;ap&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;&#x14b;ap&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun
 chain; rope; string; collection
 [7]Derived Terms
@@ -6296,12 +6296,12 @@ chain; rope; string; collection
 <strong>&#x294;umi ru xiku racaxa laru ru qapi.</strong>
 <high-lulani>.uM / w / X&gt; / rcx / lw / w / qP.</high-lulani>
 <em>Something <small-caps>prs;gno rel</small-caps> hang-<small-caps>dtv</small-caps> do-<small-caps>ger prs;gno</small-caps> hang.</em>
-"Activity is the surest path to doing something."
+Activity is the surest path to doing something.
 
 [2]qacca
 [3]High Lulani
 [4]<high-lulani>q;c</high-lulani>
-[5]/&#x2c8;&#x14b;ac.c&#x259;/
+[5]<ipa>/&#x2c8;&#x14b;ac.c&#x259;/</ipa>
 [6]ambitransitive stem verb
 choose; decide
 [7]Thematic Relations
@@ -6323,7 +6323,7 @@ choose; decide
 [2]qacca&rsquo;a
 [3]High Lulani
 [4]<high-lulani>q;ca</high-lulani>
-[5]/&#x2c8;&#x14b;ac.c&#x259;.&#x294;&#x259;/
+[5]<ipa>/&#x2c8;&#x14b;ac.c&#x259;.&#x294;&#x259;/</ipa>
 [6]derived abstract noun
 choice; decision
 [7]Etymology
@@ -6332,7 +6332,7 @@ choice; decision
 [2]qala
 [3]High Lulani
 [4]<high-lulani>ql</high-lulani>
-[5]/&#x2c8;&#x14b;al.&#x259;/
+[5]<ipa>/&#x2c8;&#x14b;al.&#x259;/</ipa>
 [6]inanimate stem noun element
 palladium
 [7]See Also
@@ -6344,7 +6344,7 @@ palladium
 [2]qarri
 [3]High Lulani
 [4]<high-lulani>q;R</high-lulani>
-[5]/&#x2c8;&#x14b;ar.r&#x268;/
+[5]<ipa>/&#x2c8;&#x14b;ar.r&#x268;/</ipa>
 [6]intransitive stem verb
 to open
 [7]Thematic Relations
@@ -6360,7 +6360,7 @@ to open
 [2]qasa
 [3]High Lulani
 [4]<high-lulani>qs</high-lulani>
-[5]/&#x2c8;&#x14b;as.&#x259;/
+[5]<ipa>/&#x2c8;&#x14b;as.&#x259;/</ipa>
 [6]animate stem noun
 fish
 [7]Derived Terms
@@ -6378,7 +6378,7 @@ fish
 [2]qaxa
 [3]High Lulani
 [4]<high-lulani>qx</high-lulani>
-[5]/&#x2c8;&#x14b;a&#x255;.&#x259;/
+[5]<ipa>/&#x2c8;&#x14b;a&#x255;.&#x259;/</ipa>
 [6]inanimate stem noun element
 calcium
 [7]See Also
@@ -6390,13 +6390,13 @@ calcium
 [2]qi
 [3]High Lulani
 [4]<high-lulani>Q</high-lulani>
-[5]/&#x14b;&#x268;/
+[5]<ipa>/&#x14b;&#x268;/</ipa>
 [6]derivational suffix (noun: neuter &rarr; feminine)
 marks a female animate
 [7]See Also
 <a href="../q/qumu.html">qumu</a> <high-lulani>AU</high-lulani> <em>female</em>
 <a href="../k/kati.html">kati</a> <high-lulani>kT</high-lulani> <em>male</em>
-[5]/&#x14b;i&#x2d0;/
+[5]<ipa>/&#x14b;i&#x2d0;/</ipa>
 [6]transitive stem verb
 to experience
 [7]Thematic Relations
@@ -6412,7 +6412,7 @@ to experience
 [2]qikka
 [3]High Lulani
 [4]<high-lulani>Q;k</high-lulani>
-[5]/&#x2c8;&#x14b;ik.k&#x259;/
+[5]<ipa>/&#x2c8;&#x14b;ik.k&#x259;/</ipa>
 [6]mathematics cardinal
 0; zero
 [7]See Also
@@ -6422,7 +6422,7 @@ to experience
 [2]qikanni
 [3]High Lulani
 [4]<high-lulani>Qk;N</high-lulani>
-[5]/&#x14b;&#x268;.&#x2c8;k&#x2b0;a&#x272;.&#x272;&#x268;/
+[5]<ipa>/&#x14b;&#x268;.&#x2c8;k&#x2b0;a&#x272;.&#x272;&#x268;/</ipa>
 [6]animate stem noun
 dog
 [7]See Also
@@ -6437,7 +6437,7 @@ dog
 [2]qilu
 [3]High Lulani
 [4]<high-lulani>QW</high-lulani>
-[5]/&#x14b;il.&#x289;/
+[5]<ipa>/&#x14b;il.&#x289;/</ipa>
 [6]stem auxiliary
 past negative; did not; didn&rsquo;t; <small-caps>pst;neg</small-caps>
 [7]See Also
@@ -6477,7 +6477,7 @@ child who&rsquo;s getting a ball
 [2]qira
 [3]High Lulani
 [4]<high-lulani>Qr</high-lulani>
-[5]/&#x14b;i&#x279;.&#x259;/
+[5]<ipa>/&#x14b;i&#x279;.&#x259;/</ipa>
 [6]intransitive stem verb
 rough; coarse; difficult
 [7]Thematic Relations
@@ -6491,7 +6491,7 @@ rough; coarse; difficult
 [2]qixa
 [3]High Lulani
 [4]<high-lulani>Qx</high-lulani>
-[5]/&#x2c8;&#x14b;i&#x255;.&#x259;/
+[5]<ipa>/&#x2c8;&#x14b;i&#x255;.&#x259;/</ipa>
 [6]stem auxiliary
 past dynamic; did; <small-caps>pst;dyn</small-caps>
 [7]See Also
@@ -6535,21 +6535,21 @@ doing
 [2]qu
 [3]High Lulani
 [4]<high-lulani>A</high-lulani>
-[5]/&#x14b;u&#x2d0;/
+[5]<ipa>/&#x14b;u&#x2d0;/</ipa>
 [6]coordinating stem conjunction
 and
 
 [2]qu&rsquo;u
 [3]High Lulani
 [4]<high-lulani>Au</high-lulani>
-[5]/&#x2c8;&#x14b;u&#x294;.&#x289;/
+[5]<ipa>/&#x2c8;&#x14b;u&#x294;.&#x289;/</ipa>
 [6]stem adposition
 inside
 
 [2]qumalli
 [3]High Lulani
 [4]<high-lulani>Am;L</high-lulani>
-[5]/&#x14b;&#x289;.&#x2c8;ma&#x28e;.&#x28e;&#x268;/
+[5]<ipa>/&#x14b;&#x289;.&#x2c8;ma&#x28e;.&#x28e;&#x268;/</ipa>
 [6]inanimate stem noun element
 manganese
 [7]See Also
@@ -6560,7 +6560,7 @@ manganese
 [2]qumu
 [3]High Lulani
 [4]<high-lulani>AU</high-lulani>
-[5]/&#x2c8;&#x14b;um.&#x289;/
+[5]<ipa>/&#x2c8;&#x14b;um.&#x289;/</ipa>
 [6]animate stem noun
 female; woman; girl
 [7]See Also
@@ -6570,14 +6570,14 @@ female; woman; girl
 [2]quliru
 [3]High Lulani
 [4]<high-lulani>ALw</high-lulani>
-[5]/&#x14b;&#x289;.&#x2c8;li&#x279;.&#x289;/
+[5]<ipa>/&#x14b;&#x289;.&#x2c8;li&#x279;.&#x289;/</ipa>
 [6]animate stem noun
 family
 
 [2]quffi
 [3]High Lulani
 [4]<high-lulani>A;F</high-lulani>
-[5]/&#x2c8;&#x14b;uf.f&#x268;/
+[5]<ipa>/&#x2c8;&#x14b;uf.f&#x268;/</ipa>
 [6]inanimate stem noun element
 krypton
 [7]See Also
@@ -6589,7 +6589,7 @@ krypton
 [2]quxi
 [3]High Lulani
 [4]<high-lulani>AX</high-lulani>
-[5]/&#x2c8;&#x14b;u&#x255;.&#x268;/
+[5]<ipa>/&#x2c8;&#x14b;u&#x255;.&#x268;/</ipa>
 [6]inanimate stem noun
 mountain
 [7]Definition
@@ -6598,14 +6598,14 @@ A snow-capped mountain or volcano
 [2]quhha
 [3]High Lulani
 [4]<high-lulani>A;h</high-lulani>
-[5]/&#x2c8;&#x14b;u&ccedil;.&ccedil;&#x259;/
+[5]<ipa>/&#x2c8;&#x14b;u&ccedil;.&ccedil;&#x259;/</ipa>
 [6]inanimate stem noun
 river
 
 [2]quhu
 [3]High Lulani
 [4]<high-lulani>AV</high-lulani>
-[5]/&#x2c8;&#x14b;uh.&#x289;/
+[5]<ipa>/&#x2c8;&#x14b;uh.&#x289;/</ipa>
 [6]stem personal pronoun
 third person animate transitive; <small-caps>3ani;tra</small-caps>; him, her, he, she
 [7]See Also
@@ -6645,7 +6645,7 @@ third person animate transitive; <small-caps>3ani;tra</small-caps>; him, her, he
 [2]la
 [3]High Lulani
 [4]<high-lulani>l
-[5]/la&#x2d0;/
+[5]<ipa>/la&#x2d0;/</ipa>
 [6]transitive stem verb
 do
 [7]Thematic Roles
@@ -6665,7 +6665,7 @@ hydrogen
 [2]la&rsquo;a
 [3]High Lulani
 [4]<high-lulani>la</high-lulani>
-[5]/&#x2c8;la&#x294;.&#x259;/
+[5]<ipa>/&#x2c8;la&#x294;.&#x259;/</ipa>
 [6]stem adposition
 on a horizontal surface
 [7]Related Terms
@@ -6674,7 +6674,7 @@ on a horizontal surface
 [2]la&rsquo;i
 [3]High Lulani
 [4]<high-lulani>li</high-lulani>
-[5]/&#x2c8;la&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;la&#x294;.&#x268;/</ipa>
 [6]derivational suffix (verb &rarr; noun)
 derives an animate noun from an intransitive verb
 [7]Examples
@@ -6683,7 +6683,7 @@ derives an animate noun from an intransitive verb
 [2]labu
 [3]High Lulani
 [4]<high-lulani>lO</high-lulani>
-[5]/&#x2c8;lab.&#x289;/
+[5]<ipa>/&#x2c8;lab.&#x289;/</ipa>
 [6]stem auxiliary
 future dynamic; will; <small-caps>fut;dyn</small-caps>
 [7]See Also
@@ -6723,14 +6723,14 @@ resembling
 [2]lati
 [3]High Lulani
 [4]<high-lulani>lT</high-lulani>
-[5]/&#x2c8;lat&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;lat&#x2b0;.&#x268;/</ipa>
 [6]abstract stem noun
 chance; opportunity
 
 [2]ladi
 [3]High Lulani
 [4]<high-lulani>lD</high-lulani>
-[5]/&#x2c8;lad.&#x268;/
+[5]<ipa>/&#x2c8;lad.&#x268;/</ipa>
 [6]inanimate stem noun
 cloud
 [7]Derived Terms
@@ -6739,14 +6739,14 @@ cloud
 [2]lajja
 [3]High Lulani
 [4]<high-lulani>l;j</high-lulani>
-[5]/&#x2c8;la&#x25f;&#x2b1;.&#x25f;&#x2b1;&#x259;/
+[5]<ipa>/&#x2c8;la&#x25f;&#x2b1;.&#x25f;&#x2b1;&#x259;/</ipa>
 [6]inanimate, animate stem noun
 all the rest; the others
 
 [2]laji
 [3]High Lulani
 [4]<high-lulani>lJ</high-lulani>
-[5]/&#x2c8;la&#x25f;.&#x268;/
+[5]<ipa>/&#x2c8;la&#x25f;.&#x268;/</ipa>
 [6]inanimate stem noun element
 tin
 [7]See Also
@@ -6758,7 +6758,7 @@ tin
 [2]lakka
 [3]High Lulani
 [4]<high-lulani>l;k</high-lulani>
-[5]/&#x2c8;lak.k&#x259;/
+[5]<ipa>/&#x2c8;lak.k&#x259;/</ipa>
 [6]intransitive stem verb
 to break
 [7]Thematic Relations
@@ -6779,7 +6779,7 @@ niobium
 [2]lakatti
 [3]High Lulani
 [4]<high-lulani>lk;T</high-lulani>
-[5]/l&#x259;.&#x2c8;k&#x2b0;at.t&#x268;/
+[5]<ipa>/l&#x259;.&#x2c8;k&#x2b0;at.t&#x268;/</ipa>
 [6]inanimate stem noun element
 protactinium
 [7]See Also
@@ -6790,7 +6790,7 @@ protactinium
 [2]lagi
 [3]High Lulani
 [4]<high-lulani>lG</high-lulani>
-[5]/&#x2c8;lag.&#x268;/
+[5]<ipa>/&#x2c8;lag.&#x268;/</ipa>
 [6]abstract stem noun
 scream; yell
 [7]Derived Terms
@@ -6800,14 +6800,14 @@ scream; yell
 [2]lannaga
 [3]High Lulani
 [4]<high-lulani>l;ng</high-lulani>
-[5]/&#x2c8;la&#x272;.&#x272;&#x259;.g&#x259;/
+[5]<ipa>/&#x2c8;la&#x272;.&#x272;&#x259;.g&#x259;/</ipa>
 [6]abstract, inanimate stem noun
 scientific experiment; experimental science
 
 [2]lannuhu
 [3]High Lulani
 [4]<high-lulani>l;IV</high-lulani>
-[5]/&#x2c8;la&#x272;.&#x272;&#x289;.h&#x289;/
+[5]<ipa>/&#x2c8;la&#x272;.&#x272;&#x289;.h&#x289;/</ipa>
 [6]inanimate stem noun
 stomach
 [7]Definition
@@ -6819,7 +6819,7 @@ organ for digestion, located inside the body
 [2]laqa
 [3]High Lulani
 [4]<high-lulani>lq</high-lulani>
-[5]/&#x2c8;la&#x14b;.&#x259;/
+[5]<ipa>/&#x2c8;la&#x14b;.&#x259;/</ipa>
 [6]inanimate stem noun element
 argon
 [7]See Also
@@ -6831,7 +6831,7 @@ argon
 [2]laqqu
 [3]High Lulani
 [4]<high-lulani>l;A</high-lulani>
-[5]/&#x2c8;la&#x14b;.&#x14b;&#x289;/
+[5]<ipa>/&#x2c8;la&#x14b;.&#x14b;&#x289;/</ipa>
 [6]abstract stem noun
 wealth
 [7]See Also
@@ -6840,7 +6840,7 @@ wealth
 [2]laqura
 [3]High Lulani
 [4]<high-lulani>lAr</high-lulani>
-[5]/l&#x259;.&#x2c8;&#x14b;u&#x279;.&#x259;/
+[5]<ipa>/l&#x259;.&#x2c8;&#x14b;u&#x279;.&#x259;/</ipa>
 [6]inanimate stem noun element
 mendelevium
 [7]See Also
@@ -6851,14 +6851,14 @@ mendelevium
 [2]lalu
 [3]High Lulani
 [4]<high-lulani>lW</high-lulani>
-[5]/&#x2c8;lal.&#x289;/
+[5]<ipa>/&#x2c8;lal.&#x289;/</ipa>
 [6]inanimate stem noun
 tongue
 
 [2]lara
 [3]High Lulani
 [4]<high-lulani>lr</high-lulani>
-[5]/&#x2c8;la&#x279;.&#x259;/
+[5]<ipa>/&#x2c8;la&#x279;.&#x259;/</ipa>
 [6]indefinite stem pronoun
 interrogative manner; how?
 [7]See Also
@@ -6902,14 +6902,14 @@ state
 [2]laru
 [3]High Lulani
 [4]<high-lulani>lw</high-lulani>
-[5]/&#x2c8;la&#x279;.&#x289;/
+[5]<ipa>/&#x2c8;la&#x279;.&#x289;/</ipa>
 [6]abstract stem noun
 year
 
 [2]laffi
 [3]High Lulani
 [4]<high-lulani>l;F</high-lulani>
-[5]/&#x2c8;laf.f&#x268;/
+[5]<ipa>/&#x2c8;laf.f&#x268;/</ipa>
 [6]mathematics
 -5; <overline>5</overline>; rive; minus five
 [7]See Also
@@ -6920,7 +6920,7 @@ year
 [2]lasakka
 [3]High Lulani
 [4]<high-lulani>ls;k</high-lulani>
-[5]/l&#x259;.&#x2c8;sak.k&#x259;/
+[5]<ipa>/l&#x259;.&#x2c8;sak.k&#x259;/</ipa>
 [6]animate stem noun
 queue of people
 [7]See Also
@@ -6929,14 +6929,14 @@ queue of people
 [2]lassi
 [3]High Lulani
 [4]<high-lulani>l;S</high-lulani>
-[5]/&#x2c8;las.s&#x268;/
+[5]<ipa>/&#x2c8;las.s&#x268;/</ipa>
 [6]animate stem noun
 baby
 
 [2]lasu
 [3]High Lulani
 [4]<high-lulani>lz</high-lulani>
-[5]/&#x2c8;las.&#x289;/
+[5]<ipa>/&#x2c8;las.&#x289;/</ipa>
 [6]inanimate stem noun element
 tellurium
 [7]See Also
@@ -6948,7 +6948,7 @@ tellurium
 [2]lahha
 [3]High Lulani
 [4]<high-lulani>l;h</high-lulani>
-[5]/&#x2c8;la&ccedil;.&ccedil;&#x259;/
+[5]<ipa>/&#x2c8;la&ccedil;.&ccedil;&#x259;/</ipa>
 [6]inanimate stem noun
 body
 [7]Hyponyms
@@ -6962,7 +6962,7 @@ body
 [2]li
 [3]High Lulani
 [4]<high-lulani>L</high-lulani>
-[5]/l&#x268;/
+[5]<ipa>/l&#x268;/</ipa>
 [6]particle
 complementiser; <small-caps>com</small-caps>
 [6]stem adjective
@@ -6975,7 +6975,7 @@ not; other
 [2]li&rsquo;a
 [3]High Lulani
 [4]<high-lulani>La</high-lulani>
-[5]/&#x2c8;li&#x294;.&#x259;/
+[5]<ipa>/&#x2c8;li&#x294;.&#x259;/</ipa>
 [6]inanimate stem noun element
 helium
 [7]See Also
@@ -6986,21 +6986,21 @@ helium
 [2]lidita
 [3]High Lulani
 [4]<high-lulani>LDt</high-lulani>
-[5]/l&#x268;.&#x2c8;dit&#x2b0;.&#x259;/
+[5]<ipa>/l&#x268;.&#x2c8;dit&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun
 bag
 
 [2]lica
 [3]High Lulani
 [4]<high-lulani>Lc</high-lulani>
-[5]/&#x2c8;lic&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;lic&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun
 thread; spiderweb; wool
 
 [2]limma
 [3]High Lulani
 [4]<high-lulani>L;m</high-lulani>
-[5]/&#x2c8;lim.m&#x259;/
+[5]<ipa>/&#x2c8;lim.m&#x259;/</ipa>
 [6]inanimate stem noun element
 chlorine
 [7]See Also
@@ -7012,21 +7012,21 @@ chlorine
 [2]linu
 [3]High Lulani
 [4]<high-lulani>LI</high-lulani>
-[5]/&#x2c8;lin.&#x289;/
+[5]<ipa>/&#x2c8;lin.&#x289;/</ipa>
 [6]inanimate stem noun
 tree
 
 [2]liqa
 [3]High Lulani
 [4]<high-lulani>Lq</high-lulani>
-[5]/&#x2c8;li&#x14b;.&#x259;/
+[5]<ipa>/&#x2c8;li&#x14b;.&#x259;/</ipa>
 [6]inanimate stem noun
 head
 
 [2]lilu
 [3]High Lulani
 [4]<high-lulani>LW</high-lulani>
-[5]/&#x2c8;lil.&#x289;/
+[5]<ipa>/&#x2c8;lil.&#x289;/</ipa>
 [6]inanimate stem noun
 stairs
 [7]Derived Terms
@@ -7035,7 +7035,7 @@ stairs
 [2]liffa
 [3]High Lulani
 [4]<high-lulani>L;f</high-lulani>
-[5]/&#x2c8;lif.f&#x259;/
+[5]<ipa>/&#x2c8;lif.f&#x259;/</ipa>
 [6]abstract stem noun
 speech; address
 [7]Definition
@@ -7044,7 +7044,7 @@ a public speaking session
 [2]lisa
 [3]High Lulani
 [4]<high-lulani>Ls</high-lulani>
-[5]/&#x2c8;lis.&#x259;/
+[5]<ipa>/&#x2c8;lis.&#x259;/</ipa>
 [6]inanimate stem noun
 paper
 [7]See Also
@@ -7053,14 +7053,14 @@ paper
 [2]lisanu
 [3]High Lulani
 [4]<high-lulani>LsI</high-lulani>
-[5]/l&#x268;.&#x2c8;san.&#x289;/
+[5]<ipa>/l&#x268;.&#x2c8;san.&#x289;/</ipa>
 [6]inanimate, animate stem noun
 wheel; circle of people
 
 [2]lisina
 [3]High Lulani
 [4]<high-lulani>LSn</high-lulani>
-[5]/l&#x268;.&#x2c8;sin.&#x259;/
+[5]<ipa>/l&#x268;.&#x2c8;sin.&#x259;/</ipa>
 [6]stem adverb
 by assumption
 [7]Examples
@@ -7069,7 +7069,7 @@ by assumption
 [2]lisu
 [3]High Lulani
 [4]<high-lulani>Lz</high-lulani>
-[5]/&#x2c8;lis.&#x289;/
+[5]<ipa>/&#x2c8;lis.&#x289;/</ipa>
 [6]inanimate stem noun element
 sodium
 [7]See Also
@@ -7081,7 +7081,7 @@ sodium
 [2]lu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>Wi</high-lulani>
-[5]/&#x2c8;lu&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;lu&#x294;.&#x268;/</ipa>
 [6]transitive stem verb
 love
 [7]Thematic Relations
@@ -7098,7 +7098,7 @@ love
 [2]lu&rsquo;iki
 [3]High Lulani
 [4]<high-lulani>WiK</high-lulani>
-[5]/l&#x289;.&#x294;ik&#x2b0;.&#x268;/
+[5]<ipa>/l&#x289;.&#x294;ik&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun
 soul; spirit; that which loves
 [7]See Also
@@ -7114,7 +7114,7 @@ soul; spirit; that which loves
 [2]lupumma
 [3]High Lulani
 [4]<high-lulani>Wo;m</high-lulani>
-[5]/l&#x289;.&#x2c8;p&#x2b0;um.m&#x259;/
+[5]<ipa>/l&#x289;.&#x2c8;p&#x2b0;um.m&#x259;/</ipa>
 [6]inanimate stem noun
 fire
 [7]See Also
@@ -7129,7 +7129,7 @@ fire
 [2]luka
 [3]High Lulani
 [4]<high-lulani>Wk</high-lulani>
-[5]/&#x2c8;luk&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;luk&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element
 indium
 [7]See Also
@@ -7141,21 +7141,21 @@ indium
 [2]lukku
 [3]High Lulani
 [4]<high-lulani>W;&gt;</high-lulani>
-[5]/&#x2c8;luk.k&#x289;/
+[5]<ipa>/&#x2c8;luk.k&#x289;/</ipa>
 [6]inanimate stem noun
 wall
 
 [2]lumi
 [3]High Lulani
 [4]<high-lulani>WM</high-lulani>
-[5]/&#x2c8;lum.&#x268;/
+[5]<ipa>/&#x2c8;lum.&#x268;/</ipa>
 [6]stem adjective
 several
 
 [2]luna
 [3]High Lulani
 [4]<high-lulani>Wn</high-lulani>
-[5]/&#x2c8;lun.&#x259;/
+[5]<ipa>/&#x2c8;lun.&#x259;/</ipa>
 [6]inanimate stem noun
 moon
 [7]See Also
@@ -7165,7 +7165,7 @@ moon
 [2]lulani
 [3]High Lulani
 [4]<high-lulani>WlN</high-lulani>
-[5]/l&#x289;.&#x2c8;lan.&#x268;/
+[5]<ipa>/l&#x289;.&#x2c8;lan.&#x268;/</ipa>
 [6]animate stem noun
 queen; monarch
 [7]See Also
@@ -7176,21 +7176,21 @@ Lulani (language)
 [2]luffu
 [3]High Lulani
 [4]<high-lulani>W;v</high-lulani>
-[5]/&#x2c8;luf.f&#x289;/
+[5]<ipa>/&#x2c8;luf.f&#x289;/</ipa>
 [6]inanimate stem noun
 eye(s)
 
 [2]luffuxita
 [3]High Lulani
 [4]<high-lulani>W;vXt</high-lulani>
-[5]/&#x2cc;luf.f&#x289;.&#x2c8;&#x255;it.&#x259;/
+[5]<ipa>/&#x2cc;luf.f&#x289;.&#x2c8;&#x255;it.&#x259;/</ipa>
 [6]inanimate derived noun
 eye
 
 [2]luxi
 [3]High Lulani
 [4]<high-lulani>WX</high-lulani>
-[5]/&#x2c8;lu&#x255;.&#x268;/
+[5]<ipa>/&#x2c8;lu&#x255;.&#x268;/</ipa>
 [6]abstract stem noun
 multiple birth
 [7]Derived Terms
@@ -7204,13 +7204,13 @@ Words dealing with twins are usually dictionary words, anything with greater are
 [2]ra
 [3]High Lulani
 [4]<high-lulani>r</high-lulani>
-[5]/&#x279;&#x259;/
+[5]<ipa>/&#x279;&#x259;/</ipa>
 [6]derivational mathematics suffix (noun)
 denotes a pair of something
 [7]Examples
 <strong><a href="../l/luffu.html">luffura</a></strong> <em>eyes</em>
 <strong><a href="../i/'itikku.html">&rsquo;itikkura</a></strong> <em>breasts</em>
-[5]/&#x279;a&#x2d0;/
+[5]<ipa>/&#x279;a&#x2d0;/</ipa>
 [6]stem mathematics cardinal
 2; two
 [7]See Also
@@ -7223,7 +7223,7 @@ metal
 [2]ra&#x294;asa
 [3]High Lulani
 [4]<high-lulani>r;as</high-lulani>
-[5]/&#x2c8;&#x279;a&#x294;.j&#x259;.sa/
+[5]<ipa>/&#x2c8;&#x279;a&#x294;.j&#x259;.sa/</ipa>
 [6]inanimate stem noun element
 praseodymium
 [7]See Also
@@ -7234,7 +7234,7 @@ praseodymium
 [2]ra&rsquo;u
 [3]High Lulani
 [4]<high-lulani>ru</high-lulani>
-[5]/&#x2c8;&#x279;a&#x294;.&#x289;/
+[5]<ipa>/&#x2c8;&#x279;a&#x294;.&#x289;/</ipa>
 [6]stem auxiliary
 present stative; <small-caps>prs;sta</small-caps>; is
 [7]See Also
@@ -7271,7 +7271,7 @@ being in
 [2]rabaci
 [3]High Lulani
 [4]<high-lulani>rbC</high-lulani>
-[5]/&#x279;&#x259;.&#x2c8;bac.&#x268;/
+[5]<ipa>/&#x279;&#x259;.&#x2c8;bac.&#x268;/</ipa>
 [6]inanimate stem noun element
 nihonium
 [7]See Also
@@ -7282,7 +7282,7 @@ nihonium
 [2]raddilla
 [3]High Lulani
 [4]<high-lulani>r;D;l</high-lulani>
-[5]/&#x279;&#x259;d&#x2b1;.&#x2c8;d&#x2b1;i&#x28e;.&#x28e;&#x259;/
+[5]<ipa>/&#x279;&#x259;d&#x2b1;.&#x2c8;d&#x2b1;i&#x28e;.&#x28e;&#x259;/</ipa>
 [6]inanimate stem noun element
 thulium
 [7]See Also
@@ -7293,7 +7293,7 @@ thulium
 [2]raca
 [3]High Lulani
 [4]<high-lulani>rc</high-lulani>
-[5]/&#x2c8;&#x279;ac&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;&#x279;ac&#x2b0;.&#x259;/</ipa>
 [6]intransitive stem verb
 to hang
 [7]Thematic Relations
@@ -7309,7 +7309,7 @@ to hang
 [2]ranna
 [3]High Lulani
 [4]<high-lulani>r;n</high-lulani>
-[5]/&#x2c8;&#x279;a&#x272;.&#x272;&#x259;/
+[5]<ipa>/&#x2c8;&#x279;a&#x272;.&#x272;&#x259;/</ipa>
 [6]stem noun
 specialness; exaltedness; glory
 [7]Derived Terms
@@ -7318,7 +7318,7 @@ specialness; exaltedness; glory
 [2]ranira
 [3]High Lulani
 [4]<high-lulani>rNr</high-lulani>
-[5]/&#x279;&#x259;.&#x2c8;ni&#x279;.&#x259;/
+[5]<ipa>/&#x279;&#x259;.&#x2c8;ni&#x279;.&#x259;/</ipa>
 [6]derived mathematics cardinal
 22; twenty-two; (34)
 [7]Etymology
@@ -7327,14 +7327,14 @@ specialness; exaltedness; glory
 [2]raqu
 [3]High Lulani
 [4]<high-lulani>rA</high-lulani>
-[5]/&#x2c8;&#x279;a&#x14b;.&#x289;/
+[5]<ipa>/&#x2c8;&#x279;a&#x14b;.&#x289;/</ipa>
 [6]stem adposition
 between; among
 
 [2]rali
 [3]High Lulani
 [4]<high-lulani>rL</high-lulani>
-[5]/&#x2c8;&#x279;al.&#x268;/
+[5]<ipa>/&#x2c8;&#x279;al.&#x268;/</ipa>
 [6]inanimate stem noun
 back
 [7]Definition
@@ -7349,7 +7349,7 @@ intensely
 [2]rasi
 [3]High Lulani
 [4]<high-lulani>rS</high-lulani>
-[5]/&#x2c8;&#x279;as.&#x268;/
+[5]<ipa>/&#x2c8;&#x279;as.&#x268;/</ipa>
 [6]abstract stem noun
 the future
 [7]See Also
@@ -7359,7 +7359,7 @@ the future
 [2]ri
 [3]High Lulani
 [4]<high-lulani>R</high-lulani>
-[5]/&#x279;&#x268;/
+[5]<ipa>/&#x279;&#x268;/</ipa>
 [6]derivational suffix (noun: abstract &rarr; animate)
 derives an animate noun from an abstract noun
 [7]Examples
@@ -7370,7 +7370,7 @@ derives an animate noun from an abstract noun
 [2]ri&rsquo;i
 [3]High Lulani
 [4]<high-lulani>Ri</high-lulani>
-[5]/&#x2c8;&#x279;i&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;&#x279;i&#x294;.&#x268;/</ipa>
 [6]inanimate stem noun
 lightning
 [7]See Also
@@ -7379,14 +7379,14 @@ lightning
 [2]rica
 [3]High Lulani
 [4]<high-lulani>Rc</high-lulani>
-[5]/&#x2c8;&#x279;ic&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;&#x279;ic&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun
 end (of a line, stick)
 
 [2]riccu
 [3]High Lulani
 [4]<high-lulani>R;y</high-lulani>
-[5]/&#x2c8;&#x279;ic.c&#x289;/
+[5]<ipa>/&#x2c8;&#x279;ic.c&#x289;/</ipa>
 [6]inanimate stem noun
 sphere
 [7]See Also
@@ -7395,7 +7395,7 @@ sphere
 [2]rika
 [3]High Lulani
 [4]<high-lulani>Rk</high-lulani>
-[5]/&#x2c8;rik&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;rik&#x2b0;.&#x259;/</ipa>
 [6]subordinating stem conjunction
 and thus
 [6]stem noun
@@ -7404,7 +7404,7 @@ state of being; condition
 [2]rila
 [3]High Lulani
 [4]<high-lulani>Rl</high-lulani>
-[5]/&#x2c8;ril.&#x259;/
+[5]<ipa>/&#x2c8;ril.&#x259;/</ipa>
 [6]inanimate stem noun element
 terbium
 [7]See Also
@@ -7415,7 +7415,7 @@ terbium
 [2]rili
 [3]High Lulani
 [4]<high-lulani>RL</high-lulani>
-[5]/&#x2c8;&#x279;il.&#x268;/
+[5]<ipa>/&#x2c8;&#x279;il.&#x268;/</ipa>
 [6]inanimate stem noun element
 moscovium
 [7]See Also
@@ -7426,14 +7426,14 @@ moscovium
 [2]risu
 [3]High Lulani
 [4]<high-lulani>Rz</high-lulani>
-[5]/&#x2c8;&#x279;is.&#x289;/
+[5]<ipa>/&#x2c8;&#x279;is.&#x289;/</ipa>
 [6]abstract stem noun
 want; desire
 
 [2]ru
 [3]High Lulani
 [4]<high-lulani>w</high-lulani>
-[5]/&#x279;&#x289;/
+[5]<ipa>/&#x279;&#x289;/</ipa>
 [6]stem attributive suffix
 to be called
 [7]Example
@@ -7443,7 +7443,7 @@ derives a gerund from a verb
 [7]Example
 <strong><a href="../d/dasi.html">dasiru</a></strong> <high-lulani>dSw</high-lulani> <em>eating</em>
 <strong>&rsquo;itiqa dasiru</strong> <high-lulani>iTq / dSw</high-lulani> <em>drinking milk</em>
-[5]/&#x279;u/
+[5]<ipa>/&#x279;u/</ipa>
 [6]stem auxiliary
 present gnomic
 [7]See Also
@@ -7476,21 +7476,21 @@ gnomic
 [2]ru&rsquo;iha
 [3]High Lulani
 [4]<high-lulani>wih</high-lulani>
-[5]/&#x279;&#x289;.&#x2c8;&#x294;ih.&#x259;/
+[5]<ipa>/&#x279;&#x289;.&#x2c8;&#x294;ih.&#x259;/</ipa>
 [6]inanimate stem noun
 history book
 
 [2]ruba
 [3]High Lulani
 [4]<high-lulani>wb</high-lulani>
-[5]/&#x2c8;&#x279;ub.&#x259;/
+[5]<ipa>/&#x2c8;&#x279;ub.&#x259;/</ipa>
 [6]abstract stem noun
 sense image
 
 [2]ruci
 [3]High Lulani
 [4]<high-lulani>wC</high-lulani>
-[5]/&#x2c8;ruc&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;ruc&#x2b0;.&#x268;/</ipa>
 [6]abstract stem noun
 mental plane
 [7]See Also
@@ -7506,7 +7506,7 @@ mental plane
 [2]ruku
 [3]High Lulani
 [4]<high-lulani>w&gt;</high-lulani>
-[5]/&#x2c8;&#x279;uk&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;&#x279;uk&#x2b0;.&#x289;/</ipa>
 [6]stem auxiliary
 future gnomic; <small-caps>fut;gno;</small-caps> will be
 [7]See Also
@@ -7533,7 +7533,7 @@ gnomic
 <a href="../n/nagi.html">nagi</a>
 <a href="../f/funi.html">funi</a>
 <a href="../h/hu.html">hu</a>
-<strong>ruku</strong
+<strong>ruku</strong>
 [/t]
 [6]stem attributive suffix
 made of
@@ -7543,7 +7543,7 @@ made of
 [2]rusa
 [3]High Lulani
 [4]<high-lulani>ws</high-lulani>
-[5]/&#x2c8;&#x279;us.&#x259;/
+[5]<ipa>/&#x2c8;&#x279;us.&#x259;/</ipa>
 [6]stem auxiliary
 past gnomic; <small-caps>pst;gno;</small-caps> always was
 [7]See Also
@@ -7584,21 +7584,21 @@ coming from
 [2]fa&#x294;a
 [3]High Lulani
 [4]<high-lulani>f;a</high-lulani>
-[5]/&#x2c8;fa&#x294;.j&#x259;/
+[5]<ipa>/&#x2c8;fa&#x294;.j&#x259;/</ipa>
 [6]abstract stem noun
 language
 
 [2]fa&rsquo;aka
 [3]High Lulani
 [4]<high-lulani>fak</high-lulani>
-[5]/f&#x259;.&#x2c8;&#x294;ak&#x2b0;.&#x259;/
+[5]<ipa>/f&#x259;.&#x2c8;&#x294;ak&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun
 gorge; valley; canyon
 
 [2]fa&rsquo;ida
 [3]High Lulani
 [4]<high-lulani>fid</high-lulani>
-[5]/&#x2c8;f&#x259;.&#x2c8;&#x294;id.&#x259;/
+[5]<ipa>/&#x2c8;f&#x259;.&#x2c8;&#x294;id.&#x259;/</ipa>
 [6]abstract stem noun
 the present; now
 [7]See Also
@@ -7608,7 +7608,7 @@ the present; now
 [2]fada
 [3]High Lulani
 [4]<high-lulani>fd</high-lulani>
-[5]/&#x2c8;fad.&#x259;/
+[5]<ipa>/&#x2c8;fad.&#x259;/</ipa>
 [6]inanimate stem noun element
 chromium
 [7]See Also
@@ -7619,14 +7619,14 @@ chromium
 [2]fajuli
 [3]High Lulani
 [4]<high-lulani>fYL</high-lulani>
-[5]/f&#x259;.&#x2c8;&#x25f;ul.&#x268;/
+[5]<ipa>/f&#x259;.&#x2c8;&#x25f;ul.&#x268;/</ipa>
 [6]animate stem noun
 crowd of people
 
 [2]famati
 [3]High Lulani
 [4]<high-lulani>fmT</high-lulani>
-[5]/f&#x259;.&#x2c8;mat&#x2b0;.&#x268;/
+[5]<ipa>/f&#x259;.&#x2c8;mat&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element
 rutherfordium
 [7]See Also
@@ -7637,14 +7637,14 @@ rutherfordium
 [2]famu
 [3]High Lulani
 [4]<high-lulani>fU</high-lulani>
-[5]/&#x2c8;fam.&#x289;/
+[5]<ipa>/&#x2c8;fam.&#x289;/</ipa>
 [6]stem adverb
 completely
 
 [2]fana
 [3]High Lulani
 [4]<high-lulani>fn</high-lulani>
-[5]/&#x2c8;fan.&#x259;/
+[5]<ipa>/&#x2c8;fan.&#x259;/</ipa>
 [6]indefinite stem pronoun
 somehow; existential manner; existential state
 [7]See Also
@@ -7688,14 +7688,14 @@ state
 [2]faluki
 [3]High Lulani
 [4]<high-lulani>fWK</high-lulani>
-[5]/f&#x259;.&#x2c8;luk&#x2b0;.&#x268;/
+[5]<ipa>/f&#x259;.&#x2c8;luk&#x2b0;.&#x268;/</ipa>
 [6]abstract stem noun
 journey
 
 [2]fara
 [3]High Lulani
 [4]<high-lulani>fr</high-lulani>
-[5]/&#x2c8;fa&#x279;.&#x259;/
+[5]<ipa>/&#x2c8;fa&#x279;.&#x259;/</ipa>
 [6]abstract stem noun
 subtle planes
 [7]See Also
@@ -7711,7 +7711,7 @@ subtle planes
 [2]farra
 [3]High Lulani
 [4]<high-lulani>f;r</high-lulani>
-[5]/&#x2c8;far.r&#x259;/
+[5]<ipa>/&#x2c8;far.r&#x259;/</ipa>
 [6]inanimate stem noun element
 curium
 [7]See Also
@@ -7722,14 +7722,14 @@ curium
 [2]fasa
 [3]High Lulani
 [4]<high-lulani>fs</high-lulani>
-[5]/&#x2c8;fas.&#x259;/
+[5]<ipa>/&#x2c8;fas.&#x259;/</ipa>
 [6]abstract stem noun
 moment; second
 
 [2]fasami
 [3]High Lulani
 [4]<high-lulani>fsM</high-lulani>
-[5]/f&#x259;.&#x2c8;sam.&#x268;/
+[5]<ipa>/f&#x259;.&#x2c8;sam.&#x268;/</ipa>
 [6]inanimate stem noun element
 radon
 [7]See Also
@@ -7741,7 +7741,7 @@ radon
 [2]faxi
 [3]High Lulani
 [4]<high-lulani>fX</high-lulani>
-[5]/&#x2c8;fa&#x255;.&#x268;/
+[5]<ipa>/&#x2c8;fa&#x255;.&#x268;/</ipa>
 [6]intransitive stem verb
 to survive
 [7]Thematic Relations
@@ -7756,7 +7756,7 @@ to survive
 [2]fi
 [3]High Lulani
 [4]<high-lulani>F</high-lulani>
-[5]/fi&#x2d0;/
+[5]<ipa>/fi&#x2d0;/</ipa>
 [6]inanimate stem noun element
 gold
 [7]See Also
@@ -7768,7 +7768,7 @@ gold
 [2]-fi
 [3]High Lulani
 [4]<high-lulani>F</high-lulani>
-[5]/f&#x268;/
+[5]<ipa>/f&#x268;/</ipa>
 [6]stem suffix (noun &rarr; noun)
 honoured; exalted; sacred
 [7]Examples
@@ -7780,7 +7780,7 @@ honoured; exalted; sacred
 [2]-ffi
 [3]High Lulani
 [4]<high-lulani>;F</high-lulani>
-[5]/f.f&#x268;/
+[5]<ipa>/f.f&#x268;/</ipa>
 [6]stem derivational suffix (verb &rarr; noun)
 instrument; tool
 [7]Example
@@ -7790,14 +7790,14 @@ instrument; tool
 [2]fi&rsquo;atu
 [3]High Lulani
 [4]<high-lulani>Fae</high-lulani>
-[5]/f&#x268;.&#x294;at.&#x289;/
+[5]<ipa>/f&#x268;.&#x294;at.&#x289;/</ipa>
 [6]stem adjective
 certain; particular
 
 [2]fibaku
 [3]High Lulani
 [4]<high-lulani>Fb&gt;</high-lulani>
-[5]/f&#x268;.&#x2c8;bak&#x2b0;.&#x289;/
+[5]<ipa>/f&#x268;.&#x2c8;bak&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun element
 neodymium
 [7]See Also
@@ -7808,7 +7808,7 @@ neodymium
 [2]fiqqala
 [3]High Lulani
 [4]<high-lulani>F;ql</high-lulani>
-[5]/&#x2c8;fi&#x14b;.&#x14b;&#x259;.l&#x259;/
+[5]<ipa>/&#x2c8;fi&#x14b;.&#x14b;&#x259;.l&#x259;/</ipa>
 [6]inanimate stem noun element
 beryllium
 [7]See Also
@@ -7819,7 +7819,7 @@ beryllium
 [2]fiqu
 [3]High Lulani
 [4]<high-lulani>FA</high-lulani>
-[5]/&#x2c8;fi&#x14b;.&#x289;/
+[5]<ipa>/&#x2c8;fi&#x14b;.&#x289;/</ipa>
 [6]intransitive stem verb
 float; drift 
 [7]Thematic Relation
@@ -7836,7 +7836,7 @@ float; drift
 [2]filli
 [3]High Lulani
 [4]<high-lulani>F;L</high-lulani>
-[5]/&#x2c8;fi&#x28e;.&#x28e;&#x268;/
+[5]<ipa>/&#x2c8;fi&#x28e;.&#x28e;&#x268;/</ipa>
 [6]stem personal pronoun
 second person intransitive; <small-caps>2int</small-caps>; you
 [7]See Also
@@ -7875,7 +7875,7 @@ second person intransitive; <small-caps>2int</small-caps>; you
 [2]fu
 [3]High Lulani
 [4]<high-lulani>v</high-lulani>
-[5]/fu/
+[5]<ipa>/fu/</ipa>
 [6]stem pronoun
 second person transitive; <small-caps>2tra;</small-caps> you
 [7]See Also
@@ -7914,7 +7914,7 @@ second person transitive; <small-caps>2tra;</small-caps> you
 [2]funi
 [3]High Lulani
 [4]<high-lulani>vN</high-lulani>
-[5]/&#x2c8;fun.&#x268;/
+[5]<ipa>/&#x2c8;fun.&#x268;/</ipa>
 [6]stem auxiliary
 future negative; <small-caps>fut;neg;</small-caps> will not; won&rsquo;t
 [7]See Also
@@ -7947,7 +7947,7 @@ gnomic
 [2]fula
 [3]High Lulani
 [4]<high-lulani>vl</high-lulani>
-[5]/&#x2c8;ful.&#x259;/
+[5]<ipa>/&#x2c8;ful.&#x259;/</ipa>
 [6]inanimate stem noun element
 rhodium
 [7]See Also
@@ -7959,14 +7959,14 @@ rhodium
 [2]fuhha
 [3]High Lulani
 [4]<high-lulani>v;h</high-lulani>
-[5]/&#x2c8;fu&ccedil;.&ccedil;&#x259;/
+[5]<ipa>/&#x2c8;fu&ccedil;.&ccedil;&#x259;/</ipa>
 [6]abstract stem noun
 decision
 [1]S
 [2]sa
 [3]High Lulani
 [4]<high-lulani>s</high-lulani>
-[5]/s&#x259;/
+[5]<ipa>/s&#x259;/</ipa>
 [6]mathematics stem cardinal prefix
 one
 [6]derivational suffix (noun: abstract &rarr; animate)
@@ -7974,7 +7974,7 @@ derives an animate noun from an abstract noun
 [7]Examples
 <strong><a href="../p/puca.html">pucasa</a></strong> <em>optimist</em>
 <strong><a href="../s/sa.html">sasa</a></strong> <em>introvert</em>
-[5]/sa&#x2d0;/
+[5]<ipa>/sa&#x2d0;/</ipa>
 [6]abstract stem noun
 being alone; aloneness
 [6]inanimate stem noun element
@@ -8001,21 +8001,21 @@ to be yellow; to turn yellow
 [2]sa&rsquo;i
 [3]High Lulani
 [4]<high-lulani>si</high-lulani>
-[5]/&#x2c8;sa&#x294;.&#x268;/
+[5]<ipa>/&#x2c8;sa&#x294;.&#x268;/</ipa>
 [6]inanimate stem noun
 light
 
 [2]sa&rsquo;imi
 [3]High Lulani
 [4]<high-lulani>siM</high-lulani>
-[5]/sa.&#x2c8;&#x294;im.&#x268;/
+[5]<ipa>/sa.&#x2c8;&#x294;im.&#x268;/</ipa>
 [6]proper derived noun (capitalised)
 Caemi; goddess of light, energy and chaos; light-giver
 
 [2]sabba
 [3]High Lulani
 [4]<high-lulani>s;b</high-lulani>
-[5]/&#x2c8;sab&#x2b1;.b&#x2b1;&#x259;/
+[5]<ipa>/&#x2c8;sab&#x2b1;.b&#x2b1;&#x259;/</ipa>
 [6]animate stem noun
 father
 [7]See Also
@@ -8026,7 +8026,7 @@ father
 [2]sabi
 [3]High Lulani
 [4]<high-lulani>sB</high-lulani>
-[5]/&#x2c8;sab.&#x268;/
+[5]<ipa>/&#x2c8;sab.&#x268;/</ipa>
 [6]inanimate stem noun
 side of the body; flank
 [7]See Also
@@ -8036,7 +8036,7 @@ side of the body; flank
 [2]sabilla
 [3]High Lulani
 [4]<high-lulani>sB;l</high-lulani>
-[5]/s&#x259;.bi&#x28e;.&#x28e;&#x259;/
+[5]<ipa>/s&#x259;.bi&#x28e;.&#x28e;&#x259;/</ipa>
 [6]derived mathematics ordinal
 13; rirteen; (12)
 [7]Etymology
@@ -8045,14 +8045,14 @@ side of the body; flank
 [2]sabufi
 [3]High Lulani
 [4]<high-lulani>sOF</high-lulani>
-[5]/s&#x259;.buf.&#x268;/
+[5]<ipa>/s&#x259;.buf.&#x268;/</ipa>
 [6]stem adjective
 different
 
 [2]sata
 [3]High Lulani
 [4]<high-lulani>st</high-lulani>
-[5]/&#x2c8;sat&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;sat&#x2b0;.&#x259;/</ipa>
 [6]stem adposition
 for
 [7]Definition
@@ -8068,7 +8068,7 @@ in order to obtain or acquire
 [2]satta
 [3]High Lulani
 [4]<high-lulani>s;t</high-lulani>
-[5]/&#x2c8;sat.t&#x259;/
+[5]<ipa>/&#x2c8;sat.t&#x259;/</ipa>
 [6]indefinite stem pronoun
 where; interrogative place
 [7]See Also
@@ -8112,7 +8112,7 @@ state
 [2]satadu
 [3]High Lulani
 [4]<high-lulani>stE</high-lulani>
-[5]/s&#x259;.&#x2c8;t&#x2b0;ad.&#x289;/
+[5]<ipa>/s&#x259;.&#x2c8;t&#x2b0;ad.&#x289;/</ipa>
 [6]abstract stem noun
 conversation
 [7]Derived Terms
@@ -8121,7 +8121,7 @@ conversation
 [2]sadadu
 [3]High Lulani
 [4]<high-lulani>sdE</high-lulani>
-[5]/s&#x259;.&#x2c8;dad.&#x289;/
+[5]<ipa>/s&#x259;.&#x2c8;dad.&#x289;/</ipa>
 [6]inanimate stem noun element
 rubidium
 [7]See Also
@@ -8133,7 +8133,7 @@ rubidium
 [2]sacu
 [3]High Lulani
 [4]<high-lulani>sy</high-lulani>
-[5]/&#x2c8;sac&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;sac&#x2b0;.&#x289;/</ipa>
 [6]stem personal pronoun
 second person ablative; <small-caps>2abl</small-caps>; from you; because of you
 [7]See Also
@@ -8172,7 +8172,7 @@ second person ablative; <small-caps>2abl</small-caps>; from you; because of you
 [2]saja
 [3]High Lulani
 [4]<high-lulani>sj</high-lulani>
-[5]/&#x2c8;sa&#x25f;.&#x259;/
+[5]<ipa>/&#x2c8;sa&#x25f;.&#x259;/</ipa>
 [6]intransitive stem verb
 lie down
 [7]Thematic Relations
@@ -8186,21 +8186,21 @@ lie down
 [2]sajja
 [3]High Lulani
 [4]<high-lulani>s;j</high-lulani>
-[5]/&#x2c8;sa&#x25f;&#x2b1;.&#x25f;&#x2b1;&#x259;/
+[5]<ipa>/&#x2c8;sa&#x25f;&#x2b1;.&#x25f;&#x2b1;&#x259;/</ipa>
 [6]abstract stem noun
 silence
 
 [2]sajimu
 [3]High Lulani
 [4]<high-lulani>sJU</high-lulani>
-[5]/s&#x259;.&#x2c8;&#x25f;im.&#x289;/
+[5]<ipa>/s&#x259;.&#x2c8;&#x25f;im.&#x289;/</ipa>
 [6]inanimate stem noun
 crack
 
 [2]saki
 [3]High Lulani
 [4]<high-lulani>sK</high-lulani>
-[5]/&#x2c8;sak&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;sak&#x2b0;.&#x268;/</ipa>
 [6]transitive stem verb
 to share
 [7]Thematic Relations
@@ -8235,7 +8235,7 @@ to share
 [2]saggi
 [3]High Lulani
 [4]<high-lulani>S;G</high-lulani>
-[5]/&#x2c8;sag&#x2b1;.g&#x2b1;&#x268;/
+[5]<ipa>/&#x2c8;sag&#x2b1;.g&#x2b1;&#x268;/</ipa>
 [6]inanimate stem noun
 iron pyrites
 [7]See Also
@@ -8244,7 +8244,7 @@ iron pyrites
 [2]sama
 [3]High Lulani
 [4]<high-lulani>sm</high-lulani>
-[5]/&#x2c8;sam.&#x259;/
+[5]<ipa>/&#x2c8;sam.&#x259;/</ipa>
 [6]indefinite stem pronoun
 what; who; interrogative object
 [7]See Also
@@ -8288,7 +8288,7 @@ state
 [2]samma
 [3]High Lulani
 [4]<high-lulani>s;m</high-lulani>
-[5]/&#x2c8;sam.m&#x259;/
+[5]<ipa>/&#x2c8;sam.m&#x259;/</ipa>
 [6]abstract stem noun
 unconditional love
 [7]Derived Terms
@@ -8298,7 +8298,7 @@ unconditional love
 [2]sanna
 [3]High Lulani
 [4]<high-lulani>s;n</high-lulani>
-[5]/&#x2c8;sa&#x272;.&#x272;&#x259;/
+[5]<ipa>/&#x2c8;sa&#x272;.&#x272;&#x259;/</ipa>
 [6]abstract stem noun
 jealousy; envy
 [7]Derived Terms
@@ -8307,7 +8307,7 @@ jealousy; envy
 [2]sannaca&rsquo;i
 [3]High Lulani
 [4]<high-lulani>s;nci</high-lulani>
-[5]/&#x2cc;sa&#x272;.&#x272;&#x259;.&#x2c8;ca&#x294;.&#x268;/
+[5]<ipa>/&#x2cc;sa&#x272;.&#x272;&#x259;.&#x2c8;ca&#x294;.&#x268;/</ipa>
 [6]derived abstract compound noun
 jealousy
 [7]Definition
@@ -8316,7 +8316,7 @@ jealousy one feels when one&rsquo;s lover loves another
 [2]sani
 [3]High Lulani
 [4]<high-lulani>sN</high-lulani>
-[5]/&#x2c8;san.&#x268;/
+[5]<ipa>/&#x2c8;san.&#x268;/</ipa>
 [6]stem adposition
 north
 [7]See Also
@@ -8327,7 +8327,7 @@ north
 [2]saniki
 [3]High Lulani
 [4]<high-lulani>sNK</high-lulani>
-[5]/s&#x259;.&#x2c8;nik&#x2b0;.&#x268;/
+[5]<ipa>/s&#x259;.&#x2c8;nik&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element
 seaborgium
 [7]See Also
@@ -8338,7 +8338,7 @@ seaborgium
 [2]saqa
 [3]High Lulani
 [4]<high-lulani>sq</high-lulani>
-[5]/&#x2c8;sa&#x14b;.&#x259;/
+[5]<ipa>/&#x2c8;sa&#x14b;.&#x259;/</ipa>
 [6]stem adjective
 right; on the right-hand side
 [7]See Also
@@ -8347,7 +8347,7 @@ right; on the right-hand side
 [2]saqqa
 [3]High Lulani
 [4]<high-lulani>s;q</high-lulani>
-[5]/&#x2c8;sa&#x14b;.&#x14b;&#x259;/
+[5]<ipa>/&#x2c8;sa&#x14b;.&#x14b;&#x259;/</ipa>
 [6]indefinite stem pronoun
 how; interrogative state
 [7]See Also
@@ -8391,21 +8391,21 @@ state
 [2]saqala
 [3]High Lulani
 [4]<high-lulani>sql</high-lulani>
-[5]/s&#x259;.&#x2c8;&#x14b;al.&#x259;/
+[5]<ipa>/s&#x259;.&#x2c8;&#x14b;al.&#x259;/</ipa>
 [6]abstract stem noun
 word
 
 [2]sala
 [3]High Lulani
 [4]<high-lulani>sl</high-lulani>
-[5]/&#x2c8;sal.&#x259;/
+[5]<ipa>/&#x2c8;sal.&#x259;/</ipa>
 [6]inanimate stem noun
 salt
 
 [2]salari
 [3]High Lulani
 [4]<high-lulani>slR</high-lulani>
-[5]/s&#x259;.&#x2c8;la&#x279;.&#x268;/
+[5]<ipa>/s&#x259;.&#x2c8;la&#x279;.&#x268;/</ipa>
 [6]inanimate stem noun element
 antimony
 [7]See Also
@@ -8417,7 +8417,7 @@ antimony
 [2]salilu
 [3]High Lulani
 [4]<high-lulani>sLW</high-lulani>
-[5]/s&#x259;.&#x2c8;lil.&#x289;/
+[5]<ipa>/s&#x259;.&#x2c8;lil.&#x289;/</ipa>
 [6]inanimate stem noun
 night sky
 [7]See Also
@@ -8426,7 +8426,7 @@ night sky
 [2]salumi
 [3]High Lulani
 [4]<high-lulani>sWM</high-lulani>
-[5]/s&#x259;.&#x2c8;lum.&#x268;/
+[5]<ipa>/s&#x259;.&#x2c8;lum.&#x268;/</ipa>
 [6]stem mathematics cardinal
 7; seven
 [7]See Also
@@ -8436,7 +8436,7 @@ night sky
 [2]salura
 [3]High Lulani
 [4]<high-lulani>sWr</high-lulani>
-[5]/s&#x259;.&#x2c8;lu&#x279;.&#x259;/
+[5]<ipa>/s&#x259;.&#x2c8;lu&#x279;.&#x259;/</ipa>
 [6]derived mathematics cardinal
 12; twelve; (17)
 [7]Etymology
@@ -8445,28 +8445,28 @@ night sky
 [2]sara
 [3]High Lulani
 [4]<high-lulani>sr</high-lulani>
-[5]/&#x2c8;sa&#x279;.&#x259;/
+[5]<ipa>/&#x2c8;sa&#x279;.&#x259;/</ipa>
 [6]inanimate stem noun
 reins
 
 [2]sarru
 [3]High Lulani
 [4]<high-lulani>s;w</high-lulani>
-[5]/&#x2c8;sar.r&#x289;/
+[5]<ipa>/&#x2c8;sar.r&#x289;/</ipa>
 [6]stem adposition
 without; instead of; rather than
 
 [2]-ssasu
 [3]High Lulani
 [4]<high-lulani>;sz</high-lulani>
-[5]/s.s&#x259;.s&#x289;/
+[5]<ipa>/s.s&#x259;.s&#x289;/</ipa>
 [6]derivational suffix (verb)
 augmentative
 
 [2]saxita lara
 [3]High Lulani
 [4]<high-lulani>sXt / lr</high-lulani>
-[5]/&#x2cc;sa.&#x255;it&#x2b0;.&#x259;.&#x2c8;la&#x279;a/
+[5]<ipa>/&#x2cc;sa.&#x255;it&#x2b0;.&#x259;.&#x2c8;la&#x279;a/</ipa>
 [6]derived noun element compound
 water, dihydrogen monoxide, H<sub>2</sub>O
 [7]Etymology
@@ -8477,7 +8477,7 @@ water, dihydrogen monoxide, H<sub>2</sub>O
 [2]saxxuru
 [3]High Lulani
 [4]<high-lulani>s;Zw</high-lulani>
-[5]/&#x2c8;sa&#x255;.&#x255;&#x289;.&#x279;&#x289;/
+[5]<ipa>/&#x2c8;sa&#x255;.&#x255;&#x289;.&#x279;&#x289;/</ipa>
 [6]inanimate stem noun element
 berkelium
 [7]See Also
@@ -8488,7 +8488,7 @@ berkelium
 [2]sahha
 [3]High Lulani
 [4]<high-lulani>s;h</high-lulani>
-[5]/&#x2c8;sa&ccedil;.&ccedil;&#x259;/
+[5]<ipa>/&#x2c8;sa&ccedil;.&ccedil;&#x259;/</ipa>
 [6]inanimate stem noun element
 xenon
 [7]See Also
@@ -8500,7 +8500,7 @@ xenon
 [2]si
 [3]High Lulani
 [4]<high-lulani>S</high-lulani>
-[5]/s&#x268;/
+[5]<ipa>/s&#x268;/</ipa>
 [6]derivational suffix (auxiliary)
 inceptive
 [7]Usage Notes
@@ -8524,7 +8524,7 @@ iterative
 [2]si&rsquo;a
 [3]High Lulani
 [4]<high-lulani>Sa</high-lulani>
-[5]/&#x2c8;si&#x294;.&#x259;/
+[5]<ipa>/&#x2c8;si&#x294;.&#x259;/</ipa>
 [6]transitive stem verb
 heal; fix
 [7]Thematic Relations
@@ -8542,14 +8542,14 @@ heal; fix
 [2]si&rsquo;apa
 [3]High Lulani
 [4]<high-lulani>Sap</high-lulani>
-[5]/s&#x268;.&#x2c8;&#x294;ap&#x2b0;.&#x259;/
+[5]<ipa>/s&#x268;.&#x2c8;&#x294;ap&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun
 meal
 
 [2]sippa
 [3]High Lulani
 [4]<high-lulani>S;p</high-lulani>
-[5]/&#x2c8;sip.p&#x259;/
+[5]<ipa>/&#x2c8;sip.p&#x259;/</ipa>
 [6]derivational suffix (verb &rarr; noun)
 time
 [7]Examples
@@ -8559,7 +8559,7 @@ time
 [2]sida
 [3]High Lulani
 [4]<high-lulani>Sd</high-lulani>
-[5]/&#x2c8;sid.&#x259;/
+[5]<ipa>/&#x2c8;sid.&#x259;/</ipa>
 [6]inanimate stem noun
 heart (physical organ)
 [7]Usage Notes
@@ -8571,7 +8571,7 @@ refers to the aspects of the heart dealing with the heartbeat, as a notification
 [2]sicu
 [3]High Lulani
 [4]<high-lulani>Sy</high-lulani>
-[5]/&#x2c8;sic&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;sic&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun element
 astatine
 [7]See Also
@@ -8583,14 +8583,14 @@ astatine
 [2]sija
 [3]High Lulani
 [4]<high-lulani>Sj</high-lulani>
-[5]/&#x2c8;si&#x25f;.&#x259;/
+[5]<ipa>/&#x2c8;si&#x25f;.&#x259;/</ipa>
 [6]noun conjunction suffix
 either; or
 
 [2]-ssiji
 [3]High Lulani
 [4]<high-lulani>;SJ</high-lulani>
-[5]/s.s&#x268;.&#x25f;&#x268;/
+[5]<ipa>/s.s&#x268;.&#x25f;&#x268;/</ipa>
 [6]derivational suffix (mathematics &rarr; noun)
 derives the names of shapes from the number of edges or vertices
 [7]Example
@@ -8602,7 +8602,7 @@ derives the names of shapes from the number of edges or vertices
 [2]sika
 [3]High Lulani
 [4]<high-lulani>Sk</high-lulani>
-[5]/&#x2cc;sik&#x2b0;.&#x259;/
+[5]<ipa>/&#x2cc;sik&#x2b0;.&#x259;/</ipa>
 [6]derivational suffix (noun &rarr; verb)
 derives a verb from a noun
 [7]Derived Terms
@@ -8611,14 +8611,14 @@ derives a verb from a noun
 [2]sikka
 [3]High Lulani
 [4]<high-lulani>S;k</high-lulani>
-[5]/&#x2c8;sik.k&#x259;/
+[5]<ipa>/&#x2c8;sik.k&#x259;/</ipa>
 [6]inanimate stem noun
 skin
 
 [2]siku
 [3]High Lulani
 [4]<high-lulani>S&gt;</high-lulani>
-[5]/&#x2c8;sik&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;sik&#x2b0;.&#x289;/</ipa>
 [6]intransitive stem verb
 to die; to kill
 [7]Thematic Relations
@@ -8633,7 +8633,7 @@ to die; to kill
 [2]sikuffi
 [3]High Lulani
 [4]<high-lulani>S&gt;;F</high-lulani>
-[5]/s&#x268;.&#x2c8;k&#x2b0;uf.f&#x268;/
+[5]<ipa>/s&#x268;.&#x2c8;k&#x2b0;uf.f&#x268;/</ipa>
 [6]inanimate derived stem noun
 spear
 [7]Etymology
@@ -8642,7 +8642,7 @@ spear
 [2]sina
 [3]High Lulani
 [4]<high-lulani>Sn</high-lulani>
-[5]/&#x2c8;sin.&#x259;/
+[5]<ipa>/&#x2c8;sin.&#x259;/</ipa>
 [6]abstract stem noun
 attractiveness; prettiness; cuteness
 [7]Derived Terms
@@ -8651,7 +8651,7 @@ attractiveness; prettiness; cuteness
 [2]sinna
 [3]High Lulani
 [4]<high-lulani>S;n</high-lulani>
-[5]/&#x2c8;si&#x272;.&#x272;&#x259;/
+[5]<ipa>/&#x2c8;si&#x272;.&#x272;&#x259;/</ipa>
 [6]abstract stem noun
 story; tale
 [7]Derived Terms
@@ -8662,7 +8662,7 @@ story; tale
 [2]siqi
 [3]High Lulani
 [4]<high-lulani>SQ</high-lulani>
-[5]/&#x2c8;si&#x14b;.&#x268;/
+[5]<ipa>/&#x2c8;si&#x14b;.&#x268;/</ipa>
 [6]inanimate stem noun element
 europium
 [7]See Also
@@ -8673,7 +8673,7 @@ europium
 [2]silla
 [3]High Lulani
 [4]<high-lulani>S;l</high-lulani>
-[5]/&#x2c8;si&#x28e;.&#x28e;&#x259;/
+[5]<ipa>/&#x2c8;si&#x28e;.&#x28e;&#x259;/</ipa>
 [6]inanimate stem noun element
 thallium
 [7]See Also
@@ -8685,7 +8685,7 @@ thallium
 [2]silu
 [3]High Lulani
 [4]<high-lulani>SW</high-lulani>
-[5]/&#x2c8;sil.&#x289;/
+[5]<ipa>/&#x2c8;sil.&#x289;/</ipa>
 [6]animate stem noun
 husband
 [7]See Also
@@ -8697,7 +8697,7 @@ Used with possessives.
 [2]sisa
 [3]High Lulani
 [4]<high-lulani>Ss</high-lulani>
-[5]/&#x2c8;sis.&#x259;/
+[5]<ipa>/&#x2c8;sis.&#x259;/</ipa>
 [6]intransitive stem verb
 to be in contact
 [7]Thematic Relations
@@ -8715,7 +8715,7 @@ nakedness; nudity
 [2]su
 [3]High Lulani
 [4]<high-lulani>z</high-lulani>
-[5]/su/
+[5]<ipa>/su/</ipa>
 [6]stem adposition
 comparative; more than
 [7]Example
@@ -8730,7 +8730,7 @@ comparative; more than
 [2]su&rsquo;a
 [3]High Lulani
 [4]<high-lulani>za</high-lulani>
-[5]/&#x2cc;su&#x294;.&#x259;/
+[5]<ipa>/&#x2cc;su&#x294;.&#x259;/</ipa>
 [6]stem pronoun
 self; reflexive particle
 [7]Usage Notes
@@ -8739,7 +8739,7 @@ replaces third-person pronouns, if necessary, to refer to the subject of the sen
 [2]soul
 [3]English
 [4]<high-lulani> </high-lulani>
-[5]/s&#x254;&#x28a;l/
+[5]<ipa>/s&#x254;&#x28a;l/</ipa>
 [6]inanimate stem noun
 heart
 [7]Definition
@@ -8750,7 +8750,7 @@ the spiritual body; the emergent property of the heart; the part of a personalit
 [2]su&rsquo;usi
 [3]High Lulani
 [4]<high-lulani>zuS</high-lulani>
-[5]/s&#x289;.&#x2c8;&#x294;us.&#x268;/
+[5]<ipa>/s&#x289;.&#x2c8;&#x294;us.&#x268;/</ipa>
 [6]inanimate stem noun element
 roentgenium
 [7]See Also
@@ -8761,7 +8761,7 @@ roentgenium
 [2]supu
 [3]High Lulani
 [4]<high-lulani>zo</high-lulani>
-[5]/&#x2c8;sup&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;sup&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun element
 osmium
 [7]See Also
@@ -8773,7 +8773,7 @@ osmium
 [2]subtle
 [3]English
 [4]<high-lulani> </high-lulani>
-[5]/s&#x28c;tl/
+[5]<ipa>/s&#x28c;tl/</ipa>
 [6]stem adjective
 non-physical
 [7]See Also
@@ -8783,7 +8783,7 @@ non-physical
 [2]sutta
 [3]High Lulani
 [4]<high-lulani>z;t</high-lulani>
-[5]/&#x2c8;sut.t&#x259;/
+[5]<ipa>/&#x2c8;sut.t&#x259;/</ipa>
 [6]inanimate stem noun element
 nitrogen
 [7]See Also
@@ -8794,7 +8794,7 @@ nitrogen
 [2]sutti
 [3]High Lulani
 [4]<high-lulani>z;T</high-lulani>
-[5]/&#x2c8;sut.t&#x268;/
+[5]<ipa>/&#x2c8;sut.t&#x268;/</ipa>
 [6]abstract stem noun
 fear
 [7]Derived Terms
@@ -8807,7 +8807,7 @@ fear
 [2]suda
 [3]High Lulani
 [4]<high-lulani>zd</high-lulani>
-[5]/&#x2c8;sud.&#x259;/
+[5]<ipa>/&#x2c8;sud.&#x259;/</ipa>
 [6]inanimate stem noun element
 livermorium
 [7]See Also
@@ -8818,7 +8818,7 @@ livermorium
 [2]suki
 [3]High Lulani
 [4]<high-lulani>zK</high-lulani>
-[5]/&#x2c8;suk&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;suk&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element
 copper
 [7]See Also
@@ -8829,7 +8829,7 @@ copper
 [2]sukki
 [3]High Lulani
 [4]<high-lulani>z;K</high-lulani>
-[5]/&#x2cc;suk.k&#x268;/
+[5]<ipa>/&#x2cc;suk.k&#x268;/</ipa>
 [6]stem adjective
 entire; whole; all
 [7]Examples
@@ -8840,7 +8840,7 @@ entire; whole; all
 [2]suma
 [3]High Lulani
 [4]<high-lulani>zm</high-lulani>
-[5]/&#x2c8;sum.&#x259;/
+[5]<ipa>/&#x2c8;sum.&#x259;/</ipa>
 [6]personal stem pronoun
 first person transitive; I; me; <small-caps>1tra</small-caps>
 [7]See Also
@@ -8879,7 +8879,7 @@ first person transitive; I; me; <small-caps>1tra</small-caps>
 [2]sumika
 [3]High Lulani
 [4]<high-lulani>zMk</high-lulani>
-[5]/s&#x289;.mik&#x2b0;.&#x259;/
+[5]<ipa>/s&#x289;.mik&#x2b0;.&#x259;/</ipa>
 [6]stem adposition
 westwards
 [7]See Also
@@ -8890,14 +8890,14 @@ westwards
 [2]sunu
 [3]High Lulani
 [4]<high-lulani>zI</high-lulani>
-[5]/&#x2c8;sun.&#x289;/
+[5]<ipa>/&#x2c8;sun.&#x289;/</ipa>
 [6]inanimate stem noun
 cloak
 
 [2]suqa
 [3]High Lulani
 [4]<high-lulani>zq</high-lulani>
-[5]/&#x2c8;su&#x14b;.&#x259;/
+[5]<ipa>/&#x2c8;su&#x14b;.&#x259;/</ipa>
 [6]intransitive stem verb
 to be ready; to be completed; to be prepared
 [7]Thematic Roles
@@ -8914,7 +8914,7 @@ the patient must be inanimate.
 [2]sula
 [3]High Lulani
 [4]<high-lulani>zl</high-lulani>
-[5]/&#x2c8;sul.&#x259;/
+[5]<ipa>/&#x2c8;sul.&#x259;/</ipa>
 [6]animate stem noun
 goat
 [7]See Also
@@ -8936,14 +8936,14 @@ molybdenum
 [2]surra
 [3]High Lulani
 [4]<high-lulani>z;r</high-lulani>
-[5]/&#x2c8;sur.r&#x259;/
+[5]<ipa>/&#x2c8;sur.r&#x259;/</ipa>
 [6]subordinating stem conjunction
 because; when
 
 [2]sufi
 [3]High Lulani
 [4]<high-lulani>zF</high-lulani>
-[5]/&#x2c8;suf.&#x268;/
+[5]<ipa>/&#x2c8;suf.&#x268;/</ipa>
 [6]inanimate stem noun
 space
 [7]Definition
@@ -8956,7 +8956,7 @@ the three spatial dimensions
 [2]sussi
 [3]High Lulani
 [4]<high-lulani>z;S</high-lulani>
-[5]/&#x2c8;sus.s&#x268;/
+[5]<ipa>/&#x2c8;sus.s&#x268;/</ipa>
 [6]inanimate stem noun element
 plutonium
 [7]See Also
@@ -8968,14 +8968,14 @@ plutonium
 [2]xa
 [3]High Lulani
 [4]<high-lulani>x</high-lulani>
-[5]/&#x255;&#x259;/
+[5]<ipa>/&#x255;&#x259;/</ipa>
 [6]suffix
 dative promotion; <small-caps>dtv</small-caps>
 
 [2]xa&rsquo;a
 [3]High Lulani
 [4]<high-lulani>xa</high-lulani>
-[5]/&#x2c8;&#x255;a&#x294;.&#x259;/
+[5]<ipa>/&#x2c8;&#x255;a&#x294;.&#x259;/</ipa>
 [6]inanimate stem noun element
 flerovium
 [7]See Also
@@ -8986,7 +8986,7 @@ flerovium
 [2]xa&#x294;a
 [3]High Lulani
 [4]<high-lulani>x;a</high-lulani>
-[5]/&#x2c8;&#x255;a&#x294;.j&#x259;/
+[5]<ipa>/&#x2c8;&#x255;a&#x294;.j&#x259;/</ipa>
 [6]inanimate stem noun
 gas
 [7]Related
@@ -8995,14 +8995,14 @@ gas
 [2]xa&#x294;u
 [3]High Lulani
 [4]<high-lulani>x;u</high-lulani>
-[5]/&#x2c8;&#x255;a&#x294;.j&#x289;/
+[5]<ipa>/&#x2c8;&#x255;a&#x294;.j&#x289;/</ipa>
 [6]animate stem noun
 child
 
 [2]xaba
 [3]High Lulani
 [4]<high-lulani>xb</high-lulani>
-[5]/&#x2c8;&#x255;ab.&#x259;/
+[5]<ipa>/&#x2c8;&#x255;ab.&#x259;/</ipa>
 [6]inanimate stem noun
 noise; meaningless sound
 [7]See Also
@@ -9011,14 +9011,14 @@ noise; meaningless sound
 [2]xati
 [3]High Lulani
 [4]<high-lulani>xT</high-lulani>
-[5]/&#x255;at&#x2b0;.&#x268;/
+[5]<ipa>/&#x255;at&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun
 flour; porridge; gruel
 
 [2]xaki
 [3]High Lulani
 [4]<high-lulani>xK</high-lulani>
-[5]/&#x2c8;&#x255;ak&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;&#x255;ak&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element
 magnesium
 [7]See Also
@@ -9030,14 +9030,14 @@ magnesium
 [2]xakila
 [3]High Lulani
 [4]<high-lulani>xKl</high-lulani>
-[5]/&#x255;&#x259;.&#x2c8;kil.&#x259;/
+[5]<ipa>/&#x255;&#x259;.&#x2c8;kil.&#x259;/</ipa>
 [6]stem adverb
 thought to be
 
 [2]xanaki
 [3]High Lulani
 [4]<high-lulani>xnK</high-lulani>
-[5]/&#x255;&#x259;.&#x2c8;nak&#x2b0;.&#x268;/
+[5]<ipa>/&#x255;&#x259;.&#x2c8;nak&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element
 lanthanum
 [7]See Also
@@ -9048,7 +9048,7 @@ lanthanum
 [2]xalli
 [3]High Lulani
 [4]<high-lulani>x;L</high-lulani>
-[5]/&#x2c8;&#x255;a&#x28e;.&#x28e;&#x268;/
+[5]<ipa>/&#x2c8;&#x255;a&#x28e;.&#x28e;&#x268;/</ipa>
 [6]animate stem noun
 married man
 [7]See Also
@@ -9060,7 +9060,7 @@ not used with possessives
 [2]xasagi
 [3]High Lulani
 [4]<high-lulani>xsG</high-lulani>
-[5]/&#x255;&#x259;.&#x2c8;sag.&#x268;/
+[5]<ipa>/&#x255;&#x259;.&#x2c8;sag.&#x268;/</ipa>
 [6]inanimate stem noun element
 neptunium
 [7]See Also
@@ -9071,14 +9071,14 @@ neptunium
 [2]xaha
 [3]High Lulani
 [4]<high-lulani>xh</high-lulani>
-[5]/&#x2c8;&#x255;ah.&#x259;/
+[5]<ipa>/&#x2c8;&#x255;ah.&#x259;/</ipa>
 [6]abstract stem noun
 name
 
 [2]xi
 [3]High Lulani
 [4]<high-lulani>X</high-lulani>
-[5]/&#x255;i&#x2d0;/
+[5]<ipa>/&#x255;i&#x2d0;/</ipa>
 [6]transitive stem verb
 to appear to be; to project
 [7]Thematic Relations
@@ -9096,14 +9096,14 @@ used for subtle themes. Cf: <a href="../x/xu.html">xu</a> <high-lulani>Z</high-l
 [2]xibbuti
 [3]High Lulani
 [4]<high-lulani>X;OT</high-lulani>
-[5]/&#x2c8;&#x255;ib&#x2b1;.b&#x2b1;&#x289;.t&#x2b0;&#x268;/
+[5]<ipa>/&#x2c8;&#x255;ib&#x2b1;.b&#x2b1;&#x289;.t&#x2b0;&#x268;/</ipa>
 [6]stem adverb
 over and done with; never again
 
 [2]xita
 [3]High Lulani
 [4]<high-lulani>Xt</high-lulani>
-[5]/&#x2c8;&#x255;it&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;&#x255;it&#x2b0;.&#x259;/</ipa>
 [6]stem mathematics ordinal
 one
 [7]See Also
@@ -9119,7 +9119,7 @@ one particle of a mass
 [2]xidu
 [3]High Lulani
 [4]<high-lulani>XE</high-lulani>
-[5]/&#x2c8;&#x255;id.&#x289;/
+[5]<ipa>/&#x2c8;&#x255;id.&#x289;/</ipa>
 [6]stem adposition
 far away
 [7]Antonym
@@ -9128,21 +9128,21 @@ far away
 [2]xiku
 [3]High Lulani
 [4]<high-lulani>X&gt;</high-lulani>
-[5]/&#x2c8;&#x255;ik&#x2b0;.&#x289;/
+[5]<ipa>/&#x2c8;&#x255;ik&#x2b0;.&#x289;/</ipa>
 [6]particle
 relativiser; <small-caps>rel</small-caps>
 
 [2]xissata
 [3]High Lulani
 [4]<high-lulani>X;st</high-lulani>
-[5]/&#x2c8;&#x255;is.s&#x259;.t&#x2b0;&#x259;/
+[5]<ipa>/&#x2c8;&#x255;is.s&#x259;.t&#x2b0;&#x259;/</ipa>
 [6]inanimate stem noun
 musical instrument
 
 [2]xu
 [3]High Lulani
 [4]<high-lulani>Z</high-lulani>
-[5]/&#x255;u&#x2d0;/
+[5]<ipa>/&#x255;u&#x2d0;/</ipa>
 [6]stem transitive verb
 to put out; to radiate; to broadcast
 [7]Thematic Relations
@@ -9168,7 +9168,7 @@ carbon
 [2]xu&rsquo;a
 [3]High Lulani
 [4]<high-lulani>Za</high-lulani>
-[5]/&#x2c8;&#x255;&#x289;&#x294;.&#x259;/
+[5]<ipa>/&#x2c8;&#x255;&#x289;&#x294;.&#x259;/</ipa>
 [6]animate stem noun
 bird
 [7]See Also
@@ -9183,7 +9183,7 @@ bird
 [2]xu&#x294;a
 [3]High Lulani
 [4]<high-lulani>Z;a</high-lulani>
-[5]/&#x2c8;&#x255;u&#x294;.j&#x259;/
+[5]<ipa>/&#x2c8;&#x255;u&#x294;.j&#x259;/</ipa>
 [6]inanimate stem noun
 smile; grin
 [7]See Also
@@ -9192,7 +9192,7 @@ smile; grin
 [2]xudi
 [3]High Lulani
 [4]<high-lulani>ZD</high-lulani>
-[5]/&#x2c8;&#x255;ud.&#x268;/
+[5]<ipa>/&#x2c8;&#x255;ud.&#x268;/</ipa>
 [6]inanimate stem noun
 flow of water
 [7]See Also
@@ -9202,21 +9202,21 @@ flow of water
 [2]xuci
 [3]High Lulani
 [4]<high-lulani>ZC</high-lulani>
-[5]/&#x2c8;&#x255;uc.&#x268;/
+[5]<ipa>/&#x2c8;&#x255;uc.&#x268;/</ipa>
 [6]inanimate stem noun
 feather
 
 [2]xuga
 [3]High Lulani
 [4]<high-lulani>Zg</high-lulani>
-[5]/&#x2c8;&#x255;ug.&#x259;/
+[5]<ipa>/&#x2c8;&#x255;ug.&#x259;/</ipa>
 [6]stem adverb
 suddenly
 <em></em>
 [2]xuhhi
 [3]High Lulani
 [4]<high-lulani>Z;H</high-lulani>
-[5]/&#x2c8;&#x255;u&ccedil;.&ccedil;&#x268;/
+[5]<ipa>/&#x2c8;&#x255;u&ccedil;.&ccedil;&#x268;/</ipa>
 [6]inanimate stem noun element
 germanium
 [7]See Also
@@ -9229,7 +9229,7 @@ germanium
 [2]hatanu
 [3]High Lulani
 [4]<high-lulani>htI</high-lulani>
-[5]/h&#x259;.&#x2c8;t&#x2b0;an.&#x289;/
+[5]<ipa>/h&#x259;.&#x2c8;t&#x2b0;an.&#x289;/</ipa>
 [6]inanimate stem noun element
 copernicium
 [7]See Also
@@ -9240,7 +9240,7 @@ copernicium
 [2]haki
 [3]High Lulani
 [4]<high-lulani>hK</high-lulani>
-[5]/&#x2c8;hak&#x2b0;.&#x268;/
+[5]<ipa>/&#x2c8;hak&#x2b0;.&#x268;/</ipa>
 [6]stem mathematics ordinal
 -7; <overline>7</overline>; reven; minus seven
 [7]See Also
@@ -9250,7 +9250,7 @@ copernicium
 [2]hannaku
 [3]High Lulani
 [4]<high-lulani>h;n&gt;</high-lulani>
-[5]/&#x2c8;ha&#x272;.&#x272;&#x259;.k&#x289;/
+[5]<ipa>/&#x2c8;ha&#x272;.&#x272;&#x259;.k&#x289;/</ipa>
 [6]animate stem noun
 cat
 [7]See Also
@@ -9265,28 +9265,28 @@ cat
 [2]halu
 [3]High Lulani
 [4]<high-lulani>hW</high-lulani>
-[5]/&#x2c8;hal.&#x289;/
+[5]<ipa>/&#x2c8;hal.&#x289;/</ipa>
 [6]abstract stem noun
 algorithm; computer program
 
 [2]haru
 [3]High Lulani
 [4]<high-lulani>kw</high-lulani>
-[5]/&#x2c8;ha&#x279;.&#x289;/
+[5]<ipa>/&#x2c8;ha&#x279;.&#x289;/</ipa>
 [6]stem adposition
 with; consisting of
 
 [2]hafi
 [3]High Lulani
 [4]<high-lulani>hF</high-lulani>
-[5]/&#x2c8;haf.&#x268;/
+[5]<ipa>/&#x2c8;haf.&#x268;/</ipa>
 [6]inanimate stem noun
 grass; field; savannah
 
 [2]hassifula
 [3]High Lulani
 [4]<high-lulani>h;Svl</high-lulani>
-[5]/&#x2cc;has.s&#x268;.&#x2c8;ful.&#x259;/
+[5]<ipa>/&#x2cc;has.s&#x268;.&#x2c8;ful.&#x259;/</ipa>
 [6]abstract stem noun
 laugh
 [7]See Also
@@ -9295,7 +9295,7 @@ laugh
 [2]hasuki
 [3]High Lulani
 [4]<high-lulani>hzK</high-lulani>
-[5]/h&#x259;.&#x2c8;suk&#x2b0;.&#x268;/
+[5]<ipa>/h&#x259;.&#x2c8;suk&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element
 rhenium
 [7]See Also
@@ -9307,14 +9307,14 @@ rhenium
 [2]hibu
 [3]High Lulani
 [4]<high-lulani>HO</high-lulani>
-[5]/&#x2c8;hib.&#x289;/
+[5]<ipa>/&#x2c8;hib.&#x289;/</ipa>
 [6]adverb
 allowing oneself; making oneself; taking responsibility for oneself
 
 [2]hika
 [3]High Lulani
 [4]<high-lulani>Hk</high-lulani>
-[5]/&#x2c8;hik&#x2b0;.&#x259;/
+[5]<ipa>/&#x2c8;hik&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element
 zinc
 [7]See Also
@@ -9325,14 +9325,14 @@ zinc
 [2]hiqa
 [3]High Lulani
 [4]<high-lulani>Hq</high-lulani>
-[5]/&#x2c8;hi&#x14b;.&#x259;/
+[5]<ipa>/&#x2c8;hi&#x14b;.&#x259;/</ipa>
 [6]abstract stem noun
 order; demand; command
 
 [2]hila
 [3]High Lulani
 [4]<high-lulani>Hl</high-lulani>
-[5]/&#x2c8;hil.&#x259;/
+[5]<ipa>/&#x2c8;hil.&#x259;/</ipa>
 [6]inanimate stem noun element
 tantalum
 [7]See Also
@@ -9344,7 +9344,7 @@ tantalum
 [2]hisu
 [3]High Lulani
 [4]<high-lulani>Hz</high-lulani>
-[5]/&#x2c8;his.&#x289;/
+[5]<ipa>/&#x2c8;his.&#x289;/</ipa>
 [6]transitive stem verb
 to administer; to manage; to run; to rule
 [7]Thematic Relations
@@ -9359,7 +9359,7 @@ to administer; to manage; to run; to rule
 [2]hisubajana
 [3]High Lulani
 [4]<high-lulani>Hzbjn</high-lulani>
-[5]/h&#x268;.&#x2cc;sub.&#x259;.&#x2c8;&#x25f;an.&#x259;/
+[5]<ipa>/h&#x268;.&#x2cc;sub.&#x259;.&#x2c8;&#x25f;an.&#x259;/</ipa>
 [6]derived compound noun
 elder
 [7]Definition
@@ -9370,12 +9370,12 @@ A person chosen to lead because of their old age and wisdom.
 [2]hu
 [3]High Lulani
 [4]<high-lulani>V</high-lulani>
-[5]/h&#x289;/
+[5]<ipa>/h&#x289;/</ipa>
 [6]stem attributive suffix
 wanting
 [7]Example
 <strong><a href="../n/nukki.html">nukkihu</a> <a href="../n/nimalu.html">nimalu</a></strong> <high-lulani>I;KV / NmW</high-lulani> <em>the bear that wants a strawberry</em>
-[5]/hu/
+[5]<ipa>/hu/</ipa>
 [6]stem auxiliary
 future iterative; will; <small-caps>fut;itr</small-caps>
 [7]See Also
@@ -9408,14 +9408,14 @@ gnomic
 [2]hu&rsquo;asa
 [3]High Lulani
 [4]<high-lulani>Vas</high-lulani>
-[5]/h&#x289;.&#x2c8;&#x294;as.&#x259;/
+[5]<ipa>/h&#x289;.&#x2c8;&#x294;as.&#x259;/</ipa>
 [6]inanimate stem noun
 painting; portrait
 
 [2]huba
 [3]High Lulani
 [4]<high-lulani>Vb</high-lulani>
-[5]/&#x2c8;hub.&#x259;/
+[5]<ipa>/&#x2c8;hub.&#x259;/</ipa>
 [6]intransitive stem verb
 to breathe
 [7]Thematic Relations
@@ -9431,7 +9431,7 @@ to breathe
 [2]hulla
 [3]High Lulani
 [4]<high-lulani>V;l</high-lulani>
-[5]/&#x2c8;hu&#x28e;.&#x28e;&#x259;/
+[5]<ipa>/&#x2c8;hu&#x28e;.&#x28e;&#x259;/</ipa>
 [6]intransitive stem verb
 to have sex
 [7]Thematic Relations
@@ -9440,7 +9440,7 @@ to have sex
 [2]hulu
 [3]High Lulani
 [4]<high-lulani>VW</high-lulani>
-[5]/&#x2c8;hul.&#x289;/
+[5]<ipa>/&#x2c8;hul.&#x289;/</ipa>
 [6]transitive stem verb
 to hear
 [7]Thematic Relations
@@ -9465,21 +9465,21 @@ to hear
 [2]huri
 [3]High Lulani
 [4]<high-lulani>VR</high-lulani>
-[5]/&#x2c8;hu&#x279;.&#x268;/
+[5]<ipa>/&#x2c8;hu&#x279;.&#x268;/</ipa>
 [6]inanimate stem noun
 ocean; sea
 
 [2]husabi
 [3]High Lulani
 [4]<high-lulani>VsB</high-lulani>
-[5]/hu.&#x2c8;sab.&#x268;/
+[5]<ipa>/hu.&#x2c8;sab.&#x268;/</ipa>
 [6]inanimate stem noun bodypart
 finger
 
 [2]hussu
 [3]High Lulani
 [4]<high-lulani>V;z</high-lulani>
-[5]/&#x2c8;hus.s&#x289;/
+[5]<ipa>/&#x2c8;hus.s&#x289;/</ipa>
 [6]intransitive stem verb
 to drop; to fall; to be low
 [7]Thematic Relations

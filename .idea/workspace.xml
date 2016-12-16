@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Directory.py" afterPath="$PROJECT_DIR$/Directory.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scratch.py" afterPath="$PROJECT_DIR$/Scratch.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'a'ami.html" afterPath="$PROJECT_DIR$/dictionary/a/'a'ami.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'a'ima.html" afterPath="$PROJECT_DIR$/dictionary/a/'a'ima.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'a.html" afterPath="$PROJECT_DIR$/dictionary/a/'a.html" />
@@ -728,10 +730,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xuga.html" afterPath="$PROJECT_DIR$/dictionary/x/xuga.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xuhhi.html" afterPath="$PROJECT_DIR$/dictionary/x/xuhhi.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_data.txt" afterPath="$PROJECT_DIR$/dictionary_data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_main_style.css" afterPath="$PROJECT_DIR$/dictionary_main_style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_main_template.txt" afterPath="$PROJECT_DIR$/dictionary_main_template.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_style.css" afterPath="$PROJECT_DIR$/dictionary_style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_template.txt" afterPath="$PROJECT_DIR$/dictionary_template.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scratch2.py" afterPath="$PROJECT_DIR$/scratch2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/index.html" afterPath="$PROJECT_DIR$/story/tinellbian/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/index.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_data.txt" afterPath="$PROJECT_DIR$/story_data.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_style.css" afterPath="$PROJECT_DIR$/story_style.css" />
     </list>
     <ignored path="TinellbianLanguages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -751,21 +757,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HtmlPage.py">
+      <file leaf-file-name="Scratch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Scratch.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="35" column="92" lean-forward="false" selection-start-line="35" selection-start-column="92" selection-end-line="35" selection-end-column="92" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Create Pages.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Create Pages.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -782,7 +778,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>get_ancestors</find>
       <find>()()</find>
       <find>get_children()</find>
       <find>hyperli</find>
@@ -812,6 +807,7 @@
       <find>jump</find>
       <find>table</find>
       <find>small_caps</find>
+      <find>tinellbi</find>
     </findStrings>
     <replaceStrings>
       <replace>str(generation)</replace>
@@ -874,13 +870,15 @@
         <option value="$PROJECT_DIR$/Scrath.py" />
         <option value="$PROJECT_DIR$/Website.py" />
         <option value="$PROJECT_DIR$/Create Pages.py" />
-        <option value="$PROJECT_DIR$/Directory.py" />
-        <option value="$PROJECT_DIR$/Scratch.py" />
         <option value="$PROJECT_DIR$/edit_dictionary.py" />
         <option value="$PROJECT_DIR$/tinellb.py" />
         <option value="$PROJECT_DIR$/edit_grammar.py" />
         <option value="$PROJECT_DIR$/edit_grammar_story.py" />
         <option value="$PROJECT_DIR$/HtmlPage.py" />
+        <option value="$PROJECT_DIR$/Scratch2.py" />
+        <option value="$PROJECT_DIR$/scratch2.py" />
+        <option value="$PROJECT_DIR$/Directory.py" />
+        <option value="$PROJECT_DIR$/Scratch.py" />
       </list>
     </option>
   </component>
@@ -927,6 +925,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -941,14 +941,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/dictionary/Create Pages.py" />
     <property name="settings.editor.selected.configurable" value="Errors" />
-    <property name="SearchEverywhereHistoryKey" value="nav_header_di&#9;null&#9;null&#10;nav_h&#9;null&#9;null&#10;edit&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_dictionary.py&#10;scra&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;:&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="scrat&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;nav_header_di&#9;null&#9;null&#10;nav_h&#9;null&#9;null&#10;edit&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_dictionary.py&#10;scra&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;:&#9;null&#9;null" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
@@ -965,7 +963,7 @@
       <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\coding" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Create Pages">
+  <component name="RunManager" selected="Python.Scratch">
     <configuration default="false" name="edit_grammar_story" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -996,6 +994,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TinellbianLanguages" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Create Pages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scratch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TinellbianLanguages" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Scratch2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TinellbianLanguages" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scratch2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="scratch2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TinellbianLanguages" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -1134,14 +1183,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.edit_grammar_story" />
       <item index="1" class="java.lang.String" itemvalue="Python.Create Pages" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Scratch" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Scratch2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.scratch2" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.Create Pages" />
-        <item index="1" class="java.lang.String" itemvalue="Python.edit_grammar_story" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Scratch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Create Pages" />
+        <item index="2" class="java.lang.String" itemvalue="Python.scratch2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Scratch2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.edit_grammar_story" />
       </list>
     </recent_temporary>
   </component>
@@ -1178,7 +1233,7 @@
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19671261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19565217" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1236,11 +1291,6 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tinellb.py</url>
-          <line>82</line>
-          <option name="timeStamp" value="125" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/edit_dictionary.py</url>
           <line>197</line>
           <option name="timeStamp" value="127" />
@@ -1261,13 +1311,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="132" />
+      <option name="time" value="135" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dictionary/Create_Dictionary_Page.py" />
-    <entry file="file://$PROJECT_DIR$/dictionary/Create_Dictionary_Page.py" />
     <entry file="file://$PROJECT_DIR$/Create_Dictionary_Page.py" />
     <entry file="file://$USER_HOME$/Desktop/Beta/Create_Dictionary_Page.py" />
     <entry file="file://$USER_HOME$/Desktop/Beta/Create_Dictionary_Page.py" />
@@ -1339,21 +1387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scratch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tinellb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
@@ -1369,32 +1402,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Directory.py">
+    <entry file="file://$PROJECT_DIR$/searchFunction.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-546">
-          <caret line="128" column="8" lean-forward="false" selection-start-line="128" selection-start-column="8" selection-end-line="128" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HtmlPage.py">
+    <entry file="file://$PROJECT_DIR$/tinellb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="654">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scratch2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="35" column="92" lean-forward="false" selection-start-line="35" selection-start-column="92" selection-end-line="35" selection-end-column="92" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Create Pages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="100">
+          <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="67" column="57" lean-forward="false" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HtmlPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="153" column="22" lean-forward="false" selection-start-line="153" selection-start-column="22" selection-end-line="153" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>

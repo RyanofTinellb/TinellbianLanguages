@@ -65,7 +65,7 @@ class Node:
         name = name.replace("&#x294;", "''")
         for character in ("&#x2019;", "&rsquo;"):
             name = name.replace(character, "'")
-        for character in ["<tinellbian>", "</tinellbian>", "<small-caps>", "</small-caps>", "/", ".", ";", " "]:
+        for character in ["<high-lulani>", "</high-lulani>", "<small-caps>", "</small-caps>", "/", ".", ";", " "]:
             name = name.replace(character, "")
         extension = ".html" if self.generation() == self.leaf_level else "/index.html"
         return name + extension if extend else name

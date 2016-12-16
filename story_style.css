@@ -127,23 +127,23 @@ div.toc a {
 	margin-left: 15em;
 }
 
-span.tinellbian {
+span.high-lulani {
 	font-family: lulani;	
 }
 
-tinellbian:before {
+high-lulani:before {
 	content: "\202e";
 }
 
-tinellbian:after {
+high-lulani:after {
 	content: "\202c";
 }
 
-tinellbian {
+high-lulani {
 	font-family: tinellb, lulani;
 }
 
-p tinellbian {
+p high-lulani {
 	display: block;
 	direction: rtl;
 	text-indent: 1rem;
@@ -151,7 +151,7 @@ p tinellbian {
 	font-size: x-large;
 }
 
-div.toc p tinellbian {
+div.toc p high-lulani {
 	text-align: left;
 	margin-left: 300px;
 }
