@@ -48,7 +48,7 @@ function dictionarysearch() {
 <p class="forward"><a href="../grammar/index.html">Grammar &#x2192;</a></p>
 <p class="forward"><a href="../story/index.html">Story &#x2192;</a></p>
 <p>Type a word into the searchbox on any Dictionary page, and go straight to that entry:</p>
-<input type="text" name="search" id="search" onKeyDown="if (event.keyCode == 13) {dictionarysearch()}">
+<input type="text" name="search" id="search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"onKeyDown="if (event.keyCode == 13) {dictionarysearch()}">
 <input type="button" name="dictionary" id="dictionary" onClick="dictionarysearch()" value="Search">
 <ul class="level-1"><li><a href="a/index.html">A</a></li>
 <ul class="level-2"><li><a href="a/'a.html">&rsquo;a</a></li>
