@@ -1031,8 +1031,15 @@ Other kinship terms began as nuclear family names, but were thence extended acro
 
 [1]Appendices
 [2]Glossing
-[3]Glossing rules
-The Leipzig glossing rules are used throughout this site. A summary thereof will be presented here.
+Whenever the meaning of a Tinellbian phrase or sentence is explained morpheme by morpheme, these rules are used.
+[3]Glossing Rules
+The Leipzig glossing rules are used throughout this site. A summary thereof will be presented here. The three letter abbreviations used for functional morphemes are given on the next page.
+[n]A content mropheme is written in either roman or italic type.
+A function morpheme is written in <small-caps>small-caps</small-caps>.
+A hyphen ( - ) is used to separate morphemes.
+When two or more English content morphemes correspond to a single Tinellbian morpheme, an underscore ( _ ) is used to separate them.
+When a single Tinellbian function morpheme fulfills two or more grammatical roles, a semi-colon ( ; ) is used to separate them.
+[/n]
 [3]Abbreviations
 These are all the three letter abbreviations used in glosses.
 <div class="glossary">
