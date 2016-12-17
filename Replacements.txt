@@ -14,6 +14,7 @@
 <overline>5</overline>,&rive;
 <overline>6</overline>,&rix;
 <overline>7</overline>,&reven;
+&#xff5e,~
 &#x202e;,&rtl;
 &#x251;,&aback;
 &#x250;,&amid;

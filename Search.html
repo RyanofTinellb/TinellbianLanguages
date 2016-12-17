@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+<title>Search Tinellbian Languages</title>
+</head>
+<body>
+<script>
+function search() {
+	var terms = document.getElementById("term").value.toLowerCase().split(" ");
+	var xmlhttp = new XMLHttpRequest();
+	var url = "searching.json";
+	xmlhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			var myArr = JSON.parse(this.responseText);
+			searchFor(myArr, terms);
+		}
+	};
+	xmlhttp.open("GET", url, true);
+	xmlhttp.send();
+}
+
+function searchFor(arr, terms) {
+	var found = false;
+	var resultArray = new Array;
+	for (var i = 0; i < arr.length; i++) {
+		for (var j = 0; j < terms.length; j++) {
+			if (arr[i].term == terms[j]) {
+				resultArray.push(arr[i].results);
+				found = true;
+			}
+		}
+	}
+	if (found) {
+		var output = new Array;
+		var found;
+		for (i = 0; i < resultArray[0].length; i++) {
+			found = true;
+			for (j = 1; j < resultArray.length; j++ ) {
+				if (resultArray[j].indexOf(resultArray[0][i]) == -1) {
+					found = false;
+				}
+			}
+			if (found) {
+				output.push(resultArray[0][i]);
+			}
+		}
+		displayAsHyperlinks(output);
+	} else {
+		document.getElementById("results").innerHTML = "";
+	}
+}
+
+function displayAsHyperlinks(arr) {
+    var out = "<ul>";
+	var links
+    var i;
+    for(i = 0; i < arr.length; i++) {
+		links = arr[i].split("$$")
+        out += "<li><a href=\"" + links[0] + "\">" + links[1] + "</a></li>";
+    }
+	out += "</ul>"
+    document.getElementById("results").innerHTML = out;
+}
+</script>
+<input type="text" id="term" name="term" onKeyDown="if (event.keyCode == 13) {search();}">
+<button type="button" onClick="search()" value="Go!">Search</button>
+<div class="results" id="results" name="results"></div>
+</body>

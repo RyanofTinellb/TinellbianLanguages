@@ -140,6 +140,7 @@ class HtmlPage:
             except IndexError:
                 break
         text += (level - 1) * "</ul>\n"
+        text += "<li class=\"link\">" + self.current.hyperlink("Search.html", "Site Search") + "</li>"
         for link in ["story", "dictionary"]:
             text += "<li class=\"link\">" + self.current.hyperlink(link + "/index.html", link.capitalize()) + "</li>\n"
         text += "</ul>\n"
@@ -155,6 +156,7 @@ class HtmlPage:
             text += "<li>" + self.current.hyperlink(cousin, category) + "</li>\n"
         text += "</ul>"
         text += "<li class=\"up-arrow\">" + self.current.hyperlink(self.current.parent, "Go up one level") + "</li>"
+        text += "<li class=\"link\">" + self.current.hyperlink("Search.html", "Site Search") + "</li>"
         for link in ["grammar", "dictionary"]:
             text += "<li class=\"link\">" + self.current.hyperlink(link + "/index.html", link.capitalize()) + "</li>\n"
         text += "</ul>\n"
@@ -171,6 +173,7 @@ class HtmlPage:
                 text += self.current.hyperlink(child) + " \n"
             if child.name == "K":
                 text += "<span class=\"no-space\"> </span>"
+        text += "<br>" + self.current.hyperlink("Search.html", "Site Search")
         for link in ["grammar", "story"]:
             text += "<br>" + self.current.hyperlink(link + "/index.html", link.capitalize())
         return text

@@ -223,7 +223,7 @@ Proper nouns begin with a capital letter in the transliteration.
 [f]<strong>Ra&rsquo;ani</strong> <em>Ryan</em> (name of a person)
 [e]<strong>&#x294;ikinnisa</strong> <em>Eakins</em> (name of a family)
 [e]<strong>Sa&rsquo;imi</strong> <em>Caemi</em> (name of a deity)
-[e]<strong>Tinallibi</strong> <em>Tinellb</em> (name of a universe)
+[e]<strong>Tinalli</strong> <em>Tinellb</em> (name of a universe)
 [e]<strong>&#x294;irri&rsquo;a</strong> <em>Ir&igrave;a</em> (name of a city)
 [e]<strong>Lulani</strong> <em>Lulani</em> (name of a language)
 [e]<strong>Xucinagi Cula</strong> <em>The Crackled Egg</em> (name of a story)
@@ -282,8 +282,9 @@ qa
 <strong>Third person</strong> refers to any other party. It is not used for the subject of the sentence, whether present or implied.
 [6]Number
 Pronouns are not marked for number. However, if the pronoun refers to a group that includes more than one of these persons, then additional pronouns can be constructed as follows:
-* 	The second person transitive pronoun <strong>fu</strong> can be suffixed to the first person pronouns to form first person inclusive plural pronouns.
-* 	The third person intransitive inanimate pronoun <strong>pa</strong> can be suffixed to any first or second person pronouns, including those with <strong>fu</strong>, to form other plural pronouns.
+[l]The second person transitive pronoun <strong>fu</strong> can be suffixed to the first person pronouns to form first person inclusive plural pronouns.
+The third person intransitive inanimate pronoun <strong>pa</strong> can be suffixed to any first or second person pronouns, including those with <strong>fu</strong>, to form other plural pronouns.
+[/l]
 [f]<strong>sumafu</strong> <em>you and I</em>
 [e]<strong>pixifu</strong> <em>to you and me</em>
 [e]<strong>puttupa</strong> <em>from them and me</em>
@@ -308,7 +309,7 @@ For inalienable possession, as well as genitive constructions that do not involv
 [e]<strong>sabbaqa lulani</strong> <em>the queen&rsquo;s father</em>
 [e]<strong>hafiqa nasi&#x294;u</strong> <em>the sheep field</em>
 [e]<strong>Ra&rsquo;aniqa &#x294;ikinisa</strong> <em>Ryan (of the family) Eakins</em>
-[e]<strong>Sa&rsquo;imiqa Tinallibi</strong> <em>Caemi from Tinellb</em>
+[e]<strong>Sa&rsquo;imiqa Tinalli</strong> <em>Caemi from Tinellb</em>
 [6]Contrasts
 Because of the nature of alienability, some contrasts can be made between possessives.
 [f]<strong>luffupagu</strong> <em>my eyes, the ones with which I was born</em>
@@ -409,7 +410,7 @@ There is a special class of verbs that allow one noun to modify another in a par
 [f]<strong>naccaqilu sabba</strong>
 [e]<em>clothing-receiving father</em>
 [e]a father getting clothing
-[f]<strong>Tinallibirusa &rsquo;usu</strong>
+[f]<strong>Tinallirusa &rsquo;usu</strong>
 [e]<em>Tinellb-coming_from <small-caps>1int</small-caps></em>
 [e]I, who&rsquo;s coming from Tinellb
 [f]<strong>xucicani xu&rsquo;a</strong>
@@ -447,7 +448,8 @@ There is a special class of verbs that allow one noun to modify another in a par
 [e]a familiar sound
 </div>
 
-In order to make any of these negative, add the adjective <strong>ji&rsquo;a</strong> <em>not</em> to the second noun.	
+In order to make any of these negative, add the adjective <strong>ji&rsquo;a</strong> <em>not</em> to the second noun.
+
 [3]Verbs
 A verb is a necessary part of any sentence, except for <strong>copular</strong> sentences (q.v.).
 [4]Basic Verbs
@@ -871,7 +873,7 @@ Some verb phrases can be changed into nouns describing the activity.
 [e]Eating meat offends some people.
 [3]Comparatives
 [4]Comparatives
-The comparative marker is an adposition <strong>su</strong> <em>than</em> placed on the noun being compared against. For "little more", the qualifier <strong>tuci</strong> <em>half-do</em> is affixed to the verb, for "a lot more", the qualifier is <strong>rali</strong> <em>intensely</em>.
+The comparative marker is an adposition <strong>su</strong> <em>than</em> placed on the noun being compared against. For &ldquo;little more&rdquo;, the qualifier <strong>tuci</strong> <em>half-do</em> is affixed to the verb, for &ldquo;a lot more&rdquo;, the qualifier is <strong>rali</strong> <em>intensely</em>.
 [4]Equalatives
 The equalative marker is <strong>ka</strong> <em>as</em>, an adposition.
 [4]Superlative

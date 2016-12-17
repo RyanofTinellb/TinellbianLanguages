@@ -33,11 +33,19 @@ div.nav-header a {
 
 div.nav-header ul {
 	color: cornsilk;
-	list-style: square;
+	list-style: disc;
 }
 
 div.nav-header ul ul {
 	list-style: none;
+}
+
+div.nav-header li.up-arrow {
+	padding-bottom: 1em;
+}
+
+div.nav-header li.link {
+	list-style: square;
 }
 
 div.nav-footer {

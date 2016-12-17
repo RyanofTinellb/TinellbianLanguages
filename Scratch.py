@@ -54,10 +54,11 @@ for name, leaf_level in [["grammar", 3], ["story", 3], ["dictionary", 2]]:
             line = line[:place] + line[(other + 1):]
         line = line.split(" ")
         for word in line:
+            if word == "":
+                continue
             extension = "/index.html" if node.generation() < leaf_level else ".html"
-            link = "<a href=\""
-            link += "/".join([i.url() for i in node.ancestors()]) + "/" + node.url() + extension
-            link += "\">" + node.url() + "</a>"
+            link = "\"" + "/".join([i.url() for i in node.ancestors()]) + "/"
+            link += node.url() + extension + "$$" + node.name + "\""
             if word[:2] == "''":
                 word = word[1:]
             if word in word_list:
@@ -66,8 +67,11 @@ for name, leaf_level in [["grammar", 3], ["story", 3], ["dictionary", 2]]:
                 word_list[word] = {link}
 dictionary_list = []
 for word, links in word_list.items():
-    dictionary_list.append("<div class=\"" + word + "\">" + word + ":\n" + "\n".join(links) + "</div>\n\n")
+    links = list(links)
+    links.sort()
+    entry = "{\"term\": \"" + word + "\", \"results\": [" + ", ".join(links) + "]\n}"
+    dictionary_list.append(entry)
 dictionary_list.sort()
-text = "".join(dictionary_list)
-with open("Searching.html", "w") as g:
+text = str("[" + ",\n".join(dictionary_list) + "]\n")
+with open("searching.json", "w") as g:
     g.write(text)

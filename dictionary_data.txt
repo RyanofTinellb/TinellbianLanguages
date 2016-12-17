@@ -1646,6 +1646,7 @@ second person genitive; <small-caps>2gen</small-caps>; your; yours
 <a href="../d/disi.html">disi</a>
 <a href="../q/qa.html">qa</a>
 [/t]
+
 [2]ba&rsquo;u
 [3]High Lulani
 [4]<high-lulani>bu</high-lulani>
@@ -4490,6 +4491,7 @@ sky
 <a href="../k/kunaqi.html">kunaqi</a> <high-lulani>&gt;nQ</high-lulani> <em>earth</em>
 <a href="../i/'ima.html">&rsquo;ima</a> <high-lulani>im</high-lulani> <em>void</em>
 
+
 [2]kuli
 [3]High Lulani
 [4]<high-lulani>&gt;L</high-lulani>
@@ -4499,6 +4501,11 @@ to meet; to become acquainted
 [7]Thematic Relations
 <strong>experiencer</strong> <em>subject</em>
 <strong>stimulus</strong> <em>object</em>
+[5]<ipa>/k&#x2b0;&#x289;.&#x2c8;li/</ipa>
+[6]compound particle
+<small-caps>dat-com</small-caps>; to the &#xff5e
+[7]Etymology
+<strong><a href="../k/ku.html">ku</a></strong> <small-caps>dat</small-caps> + <strong><a href="../l/li.html">li</a></strong> <small-caps>com</small-caps>
 
 [2]kuli&rsquo;a
 [3]High Lulani

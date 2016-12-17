@@ -109,7 +109,7 @@ def find_entry(source, entry):
     page = ""
     with open(source, "r") as dictionary:
         for line in dictionary:
-            if line[:3] in ["[1]", "[1]"] and in_entry:
+            if line[:3] in ["[1]", "[2]"] and in_entry:
                 return page
             elif line[:3] == "[2]" and not is_in_order(line[3:-1], entry):
                 in_entry = True

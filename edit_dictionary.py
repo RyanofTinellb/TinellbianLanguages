@@ -192,7 +192,6 @@ class EditDictionary(tk.Frame):
         with open("dictionary_data.txt", "w") as dictionary:
             dictionary.write(page)
         HtmlPage("dictionary", 2)
-        self.edit_text.delete(1.0, tk.END)
         return "break"
 
     def make_replacements(self, text, to_markup=True):
