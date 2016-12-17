@@ -8,7 +8,7 @@
 <body>
 <script>
 function search() {
-	var term = document.getElementById("term").value.toLowerCase().split(" ");
+	var term = document.getElementById("term").value.toLowerCase();
 	term = term.replace(/\u2019/g, "'")
 	term = term.replace(/\u0294/g, "''")
 	var terms = term.split(" ")
