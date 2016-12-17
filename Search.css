@@ -1,0 +1,31 @@
+body {
+	background-color: cornsilk;
+}
+
+h1 {
+	margin-left: 10%;
+	margin-top: 2em;
+	color: purple;
+	font-family: sans-serif;
+}
+
+p {
+	margin-left: 10%;
+}
+
+small-caps {
+	font-variant: small-caps
+}
+
+input {
+	margin-left: 10%;
+}
+
+div.results {
+	margin-left: 10%;
+	line-height: 1.5;
+}
+
+a {
+	color: black;
+}

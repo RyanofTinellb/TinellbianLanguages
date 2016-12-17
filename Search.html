@@ -1,13 +1,17 @@
 <!DOCTYPE html>
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<head>
+<link rel="stylesheet" type="text/css" href="Search.css">
 <title>Search Tinellbian Languages</title>
 </head>
 <body>
 <script>
 function search() {
-	var terms = document.getElementById("term").value.toLowerCase().split(" ");
+	var term = document.getElementById("term").value.toLowerCase().split(" ");
+	term = term.replace(/\u2019/g, "'")
+	term = term.replace(/\u0294/g, "''")
+	var terms = term.split(" ")
 	var xmlhttp = new XMLHttpRequest();
 	var url = "searching.json";
 	xmlhttp.onreadystatechange = function() {
@@ -63,6 +67,8 @@ function displayAsHyperlinks(arr) {
     document.getElementById("results").innerHTML = out;
 }
 </script>
+<h1>Search the Entire Site</h1>
+<p>Pages will be returned which contain all entered search terms. A single apostrophe (') represents &rsquo;, and two apostrophes can represent the &#x294; symbol.</p>
 <input type="text" id="term" name="term" onKeyDown="if (event.keyCode == 13) {search();}">
 <button type="button" onClick="search()" value="Go!">Search</button>
 <div class="results" id="results" name="results"></div>
