@@ -7,6 +7,7 @@ for name, leaf_level in [["grammar", 3], ["story", 3], ["dictionary", 2]]:
     node = directory.root
     with open(name + "_data.txt", "r") as f:
         page = f.read()
+        unaltered_page = page.replace('"', "##")
     page = page.lower()
     page = page.replace("&rsquo;", "'")
     page = page.replace("&igrave;", "i")
@@ -28,11 +29,24 @@ for name, leaf_level in [["grammar", 3], ["story", 3], ["dictionary", 2]]:
         if place == -1:
             break
         page = page[:place] + page[(other + 6):]
+    while True:
+        place = unaltered_page.find("<high-lulani>")
+        other = unaltered_page.find("</high-lulani>")
+        if place == -1:
+            break
+        unaltered_page = unaltered_page[:place] + unaltered_page[(other + 14):]
+    while True:
+        place = unaltered_page.find("<ipa>")
+        other = unaltered_page.find("</ipa>")
+        if place == -1:
+            break
+        unaltered_page = unaltered_page[:place] + unaltered_page[(other + 6):]
     page = page.split("\n")
-    for line in page:
+    unaltered_page = unaltered_page.split("\n")
+    for num, line_text in enumerate(zip(page, unaltered_page)):
+        line, text = line_text
         if line == "":
             continue
-        print(line)
         if line[0] == "[":
             try:
                 level = int(line[1])
@@ -52,13 +66,26 @@ for name, leaf_level in [["grammar", 3], ["story", 3], ["dictionary", 2]]:
             if place == -1:
                 break
             line = line[:place] + line[(other + 1):]
+        while True:
+            place = text.find("[")
+            other = text.find("]")
+            if place == -1:
+                break
+            text = text[:place] + text[(other + 1):]
+        while True:
+            place = text.find("<")
+            other = text.find(">")
+            if place == -1:
+                break
+            text = text[:place] + text[(other + 1):]
         line = line.split(" ")
         for word in line:
             if word == "":
                 continue
             extension = "/index.html" if node.generation() < leaf_level else ".html"
-            link = "\"" + "/".join([i.url() for i in node.ancestors()]) + "/"
-            link += node.url() + extension + "$$" + node.name + "\""
+            link = "{\"url\": \"" + "/".join([i.url() for i in node.ancestors()]) + "/"
+            link += node.url() + extension + "\", \"name\": \"" + node.name + "\", \"line\": \"" + text
+            link += "\", \"num\": " + str(num) + "}"
             if word[:2] == "''":
                 word = word[1:]
             if word in word_list:

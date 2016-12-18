@@ -3385,7 +3385,7 @@ old person; elder
 [4]<high-lulani>j;N</high-lulani>
 [5]<ipa>/&#x2c8;&#x25f;a&#x272;.&#x272;&#x268;/</ipa>
 [6]intransitive stem verb
-move around; vibrate
+move around; vibrate; go; come
 [7]Thematic Relations
 <strong>theme</strong> <em>subject</em>
 <strong>source</strong> <em>ablative</em>

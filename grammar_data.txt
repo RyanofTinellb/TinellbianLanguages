@@ -570,7 +570,7 @@ The most basic use for an adposition is prefixed to a noun to signify where the 
 [f]<strong>di&rsquo;i&rsquo;uja</strong> atop the table (<strong>di</strong> up ; <strong>&rsquo;i&rsquo;uja</strong> table
 [e]<strong>harululani</strong> with the queen (<strong>haru</strong> with ; <strong>lulani</strong> queen)
 [e]<strong>nicula</strong> in an egg (<strong>ni</strong> at ; <strong>cula</strong> egg)
-[e]<strong>qakalu&rsquo;ita&rsquo;i</strong> <em>down from the cart</em> (<strong>qa</strong> <em>down</em> ; <strong>kalu</strong> <em>from</em> ; <strong>&lsquo;ita&rsquo;i</strong> <em>cart</em>)
+[e]<strong>qakalu&rsquo;ita&rsquo;i</strong> <em>down from the cart</em> (<strong>qa</strong> <em>down</em> ; <strong>kalu</strong> <em>from</em> ; <strong>&rsquo;ita&rsquo;i</strong> <em>cart</em>)
 [4]Nomninal and Verbal Modifier
 Adpositions can also be used in conjunction with nouns and verbs to make compounds.
 [f]<strong>jannigibi</strong> <em>to go east</em> (<strong>janni</strong> <em>to move</em> ; <strong>gibi</strong> <em>east</em>

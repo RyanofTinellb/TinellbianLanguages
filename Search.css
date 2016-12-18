@@ -17,7 +17,11 @@ small-caps {
 	font-variant: small-caps
 }
 
-input {
+input.term {
+	margin-left: 10%;
+}
+
+button {
 	margin-left: 10%;
 }
 
