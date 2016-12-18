@@ -2,11 +2,169 @@
 permalink: /404.html
 ---
 <!DOCTYPE html>
-<html>
 <head>
-<title>Boo!</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="Search.css">
+<title>Search Tinellbian Languages</title>
 </head>
 <body>
-<p>Hello, now go home!</p>
+<script>
+function search() {
+	var url = "Searching.json"
+	var xmlhttp = new XMLHttpRequest();
+	var andButton = document.getElementById("and")
+	xmlhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			var text = JSON.parse(this.responseText);
+			var terms = getTerms("term")
+			if (andButton.checked) {andSearch(text, terms)}
+			else {orSearch(text, terms);}
+		}
+	};
+	xmlhttp.open("GET", url, true);
+	xmlhttp.send();
+}
+
+// returns array of terms
+// @param String name: id of the textbox into which user has input search terms.
+function getTerms(name) {
+	text = document.getElementById(name).value.toLowerCase();
+	text = text.replace(/\u2019/g, "'");
+	text = text.replace(/\u0294/g, "''");
+	return text.split(" ").filter(function (i) {return i != "";});
+	
+}
+
+// builds array of results containing any search term
+// @param arr: raw json array (usually from file)
+// @param String[] terms: search terms
+function orSearch(arr, terms) {
+	output = new Array;
+		arr = arr.filter(function (item, pos, ary) {return terms.indexOf(ary[pos].term) != -1;});
+		arr = arr.map(function (item) {return item.results});
+		if (arr.length > 0) {
+			arr = arr.reduce(function (a, b) {return a.concat(b);});
+			arr = keySort(arr);
+	}
+	display(arr, "results", terms);
+}
+
+// builds array of results containing all search terms
+function andSearch(arr, terms) {
+	len = terms.length - 1
+	arr = arr.filter(function (item, pos, ary) {return terms.indexOf(ary[pos].term) != -1;});
+	arr = arr.map(function (item) {return item.results});
+	intersection = intersect(arr);
+	if (arr.length > 0) {
+		arr = arr.reduce(function (a, b) {return a.concat(b);});
+		arr = keySort(arr);
+		arr = arr.filter(function (item) {return intersection.indexOf(item.url) != -1;});
+	}
+	display(arr, "results", terms);
+}
+
+// returns an array containing only the intersection
+function intersect(arr) {
+	output = new Array;
+	if (arr.length == 0) {return;}
+	arr = arr.filter(function (item) {return item.length > 0;});
+	arr = arr.sort(function (a,b) {return a.length > b.length ? true : false;});
+	// check for each item in the first/shortest array
+	for (var i = 0; i < arr[0].length; i++) {
+		inIntersection = true;
+		url = arr[0][i].url;
+		// check in every other array
+		for (var j = 1; j < arr.length; j++) {
+			inArray = arr[j].map(function (item) {return item.url == url;}).reduce(function(a,b) {return a || b});
+			if (!inArray) {
+				inIntersection = false; break;
+			}
+		}
+		if (inIntersection) {output.push(arr[0][i].url)}
+	}
+	return output;
+}
+
+// checks equality of entries
+function equal(a, b) {
+	return a.url == b.url && a.line == b.line;
+}
+
+// checks for equality of urls
+function equalUrl(a,b) {
+	return a.url == b.url
+}
+
+// only keeps unique entries
+// arr must be sorted
+function uniqueLines(arr) {
+	return arr.filter(function(item, pos, ary) {
+		return !pos || !equal(item, ary[pos - 1]);
+	});
+}
+
+// sorts by url and line number
+function keySort(arr) {
+	return arr.sort(function (a,b) {
+		return (a.url > b.url ? 1 : (a.url < b.url ? -1 : (a.num < b.num ? -1 : (a.num > b.num ? 1 : 0))))});
+}
+
+// capitalises first letter
+function capitalise(string) {
+	if (string.length == 0) {return ""}
+	if (string.startsWith("&rsquo;")) {
+		return string.replace("&rsquo;", "&#x294;");
+	} else {
+		return string.charAt(0).toUpperCase() + string.slice(1);
+	}
+}
+	
+
+// displays results as list
+// @param Array arr: results array
+function display(arr, id, terms) {
+	if (arr.length == 0) {
+		document.getElementById(id).innerHTML = "Search term(s) not found";
+		return;
+	}
+	arr = uniqueLines(arr)
+	var text = "<ol>"
+	for (var i = 0; i < arr.length; i++) {
+		lines = new Array;
+		first_url = arr[i].url;
+		new_url = first_url;
+		while (new_url == first_url) {
+			lines.push(arr[i].line);
+			i++;
+			if (i >= arr.length) {break;}
+			new_url = arr[i].url;
+		}
+		i--
+		line = lines.join(" &hellip; ");
+		// bold search terms
+		for (var j = 0; j < terms.length; j++) {
+			term = terms[j];
+			term = term.replace(/''/g, "&#x294;");
+			term = term.replace(/'/g, "&rsquo;");
+			line = line.split(term).join("<b>" + term + "</b>");
+			term = capitalise(term);
+			line = line.split(term).join("<b>" + term + "</b>");
+		}
+		line = line.replace(/b>/g, "strong>");
+		//<li><a href="blah/index.html">Blah</a>: jhfkjsh blah jkfh </li>
+		text += "<li><a href=\"" + arr[i].url + "\">" + arr[i].name + "</a>: " + line + "</li>";
+	}
+	text += "</ol>";
+	document.getElementById(id).innerHTML = text;
+}
+
+</script>
+<h1>Search the Entire Site</h1>
+<p>Pages will be returned which contain all entered search terms. A single apostrophe (') represents &rsquo;, and two apostrophes can represent the &#x294; symbol.</p>
+<input type="text" class="term" id="term" name="term" onKeyDown="if (event.keyCode == 13) {search();}"><br>
+<button type="button" onClick="search()" value="Go!">Search</button>
+<input type="radio" name="andor" id="and" value="and" checked="true">AND
+<input type="radio" name="andor" id="or" value="or">OR
+<div class="results" id="results" name="results"></div>
 </body>
-</html>
