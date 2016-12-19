@@ -42,11 +42,11 @@ class EditDictionary(tk.Frame):
         self.edit_text.bind("<Control-h>", self.add_hyperlink)
         self.edit_text.bind("<Control-s>", self.publish)
         self.edit_text.bind("<Control-z>", self.bring_entry)
-        self.edit_text.bind("<Control-q>", self.grab_prefix)
-        self.edit_text.bind("<Control-w>", self.grab_suffix)
+        self.edit_text.bind("<Control-q>", self.get_prefix)
+        self.edit_text.bind("<Control-w>", self.get_suffix)
         self.edit_text.grid(row=1, rowspan=19)
 
-    def grab_prefix(self, event):
+    def get_prefix(self, event):
         try:
             text = self.edit_text.get(tk.SEL_FIRST, tk.SEL_LAST)
             self.edit_text.delete(tk.SEL_FIRST, tk.SEL_LAST)
@@ -59,7 +59,7 @@ class EditDictionary(tk.Frame):
         self.edit_text.insert(tk.INSERT, text)
         return "break"
 
-    def grab_suffix(self, event):
+    def get_suffix(self, event):
         try:
             text = self.edit_text.get(tk.SEL_FIRST, tk.SEL_LAST)
             self.edit_text.delete(tk.SEL_FIRST, tk.SEL_LAST)
@@ -192,6 +192,7 @@ class EditDictionary(tk.Frame):
         with open("dictionary_data.txt", "w") as dictionary:
             dictionary.write(page)
         HtmlPage("dictionary", 2)
+        create_search()
         return "break"
 
     def make_replacements(self, text, to_markup=True):

@@ -84,7 +84,10 @@ class EditPage(tk.Frame):
         return "break"
 
     def delete_word(self, event):
-        self.edit_text.delete(tk.INSERT + "-1c wordstart", tk.INSERT)
+        if self.edit_text.get(tk.INSERT + "-1c") in ".,;:?!":
+            self.edit_text.delete(tk.INSERT + "-1c wordstart", tk.INSERT)
+        else:
+            self.edit_text.delete(tk.INSERT + "-1c wordstart -1c", tk.INSERT)
         return "break"
 
     def bring_entry(self, event=None):
@@ -122,6 +125,8 @@ class EditPage(tk.Frame):
         return "break"
 
     def finish(self, event=None):
+        if self.old_page == "":
+            return "break"
         self.new_page = self.edit_text.get(1.0, tk.END+"-1c")
         self.new_page = self.make_replacements(self.new_page)
         with open(self.file_name + "_data.txt", "r") as article:
@@ -130,6 +135,7 @@ class EditPage(tk.Frame):
         with open(self.file_name + "_data.txt", "w") as article:
             article.write(page)
         HtmlPage(self.file_name, 3)
+        create_search()
         self.old_page = self.new_page
         return "break"
 

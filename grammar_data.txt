@@ -1,5 +1,5 @@
 [1]Introduction
-This is a guide to the languages of Tinellb. All these languages descend from a single common ancestor, High Lulani. Lulani and its descendants were taken into each of the Ptokan worlds by the Guozu.
+The Tinellbian languages are a range of constructed languages, as befits the constructed universe of Tinellb. In that world, the ancestor language was created by Queen Loren of the Ptokonoi, and then evolved naturally as different groups of people moved through space, time and reality.
 [2]History
 The internal history of the Guozu and their languages is written as if it were a chronicle of actual events. The external history is the more prosaic record: a description of the genesis and evolution of my ideas.
 [3]Internal History
@@ -216,6 +216,7 @@ If there are no geminates, then the final vowel, and every second vowel going ba
 Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (&#x1ce) or a falling tone (&acirc;), placed on the syllable of the appropriate word which has the greatest stress.
 Falling tone can also be used to bring focus to a particular word.
 [2]Morphology
+High Lulani is an analytic agglutinative language, as morphemes tend to keep their own shape, even when forming words.
 [3]Nouns
 Common and proper nouns are open classes; the pronouns are closed.
 [4]Proper Nouns
@@ -608,6 +609,7 @@ These conjunctions are used to join clauses or sentences. They are used as indep
 [e]<strong>daru&rsquo;i</strong> <em>because</em>
 
 [2]Syntax
+High Lulani is head-initial in compounds, but tends to be head-final in phrases and clauses. The language has Subject-Verb-Object order, but shows signs of an SOV nature, as dative and ablative complements become more common.
 [3]Case
 [4]Alignment
 The three basic arguments for any verb (intransitive subjects, transitive subjects and transitive objects) are marked in High Lulani. Because intransitive subjects cannot co-occur with transitive arguments, it is possible to mark either of the transitive arguments in the same way as the intransitive without confusion. In the <strong>ergative</strong> alignment, it is the transitive object that is marked the same as the intransitive subject. In <strong>accusative</strong> alignment, it is instead the transitive subject that shares marking with intransitive subjects. In either alignment, the <strong>intransitive</strong> case is the one treated like the intransitive subject, and the <strong>transitive</strong> case is the other.
@@ -879,6 +881,7 @@ The equalative marker is <strong>ka</strong> <em>as</em>, an adposition.
 [4]Superlative
 The superlative marker, contrary to the other two, is a particle placed before the verb.
 [2]Apocrypha
+This section details particular categories of vocabulary items.
 [3]Numbers
 [4]Cardinal Numbers
 High Lulani numbers are written with the positive digits (1, 2, 3, 4, 5, 6 and 7), their negative counterparts (<overline>1</overline>, <overline>2</overline>, <overline>3</overline>, <overline>4</overline>, <overline>5</overline>, <overline>6</overline> and <overline>7</overline>) and a zero (0).
@@ -1032,6 +1035,7 @@ There can be a suffixed <strong>ju&rsquo;i</strong> <em>link</em> for spouses&rs
 Other kinship terms began as nuclear family names, but were thence extended across a generation. So <strong>kaqqa</strong> <em>brother</em> and <strong>kica</strong> <em>sister</em> can also be applied to cousins.
 
 [1]Appendices
+This section contains information and rules that apply to all the Tinellbian languages, and their use on this site.
 [2]Glossing
 Whenever the meaning of a Tinellbian phrase or sentence is explained morpheme by morpheme, these rules are used.
 [3]Glossing Rules

@@ -1,5 +1,9 @@
 [1]English
+<h2>Ryan Eakins's <em>Coelacanth Quartet</em></h2>
+The <em>Coelacanth Quartet</em> details the adventures of Corla, a Tsarin telepath far from home. In the first book, she finds herself in Zhalad, and soon discovers a plot to take over that realm. Here is that first tale, provisionally titled...
 [2]The Crackled Egg
+The <em>Crackled Egg</em> takes place in Zhalad. Two races of people live there. While two Zhaladi or two Fezhl&ecirc; can easily telepathically receive and project emotion amongst themselves, a Zhaladi encountering a Fezhl&ecirc; has no such ability. Thus the two races tend to live separately.
+Vedran, advisor to a weak ruler, hears of a device capable of increasing one's emotional projection abilities to such a degree that one could lead a country's people by their hearts. He attempts to track down this device, with the hope of displacing his king.
 [3]Prologue
 Corla came back to consciousness slowly, the heat and the coarseness of the sand on which she sat penetrating her mind. She gingerly stood up. Her legs ached from holding the meditative pose for so long.
 <em>Three down, one to go, almost home,</em> she thought to herself. <em>By the Six gods of Tinellb, I&rsquo;ll be glad to finish this and have some peace.</em> She allowed herself to feel grief for a moment, grief at being continually separated from her beloved.
@@ -72,6 +76,8 @@ Toresh came around the next morning to take her to breakfast, and thence to her 
 As she had hoped, Corla got enough impressions from the swirling thoughts around her to be able to predict which customers could be persuaded to part with more currency, and which would be happier to barter. Even Piado was impressed, although only his daughter could tell; he did not let it show in his voice. Slowly through the day, their stores diminished as they were bought or traded for. The market went on for a couple of days yet, but Piado figured that tomorrow would see them finished. He was glad; he didn&rsquo;t mind the flatlanders on occasion, but it was very easy to become tired of them. He always needed to concentrate more, trying to communicate in words. <em>Still,</em> he reflected, <em>Corla seems to be doing what she promised. That does make it slightly easier.</em>
 
 [1]Tinellbian
+<h2><high-lulani>.dzNKFcN / qsw / S;nIwq / raNq / iK;Ns.</high-lulani></h2>
+This and subsequent pages are in Tinellbian script, beginning with the <a href="../../grammar/highlulani/index.html">High Lulani</a> language. If you have trouble reading this, you may choose one another of the options to the left.
 [2]<high-lulani>.ZCnG / yl.</high-lulani>
 [3]<high-lulani>.DS;nUk.</high-lulani>
 <high-lulani>. &gt;Rl / ruS / pMlM / m;t / nw , al / Qratq / N&lt;PP / jgw / pmn / pK . cN / j;NDTb / btN;Q . kI / ru / kWL / NyR;Ww / &lt;PkrF / P / Bu .</high-lulani>
@@ -92,6 +98,8 @@ As she had hoped, Corla got enough impressions from the swirling thoughts around
 <high-lulani>. &gt;iti / u;sp;k / MV / A , YS / &gt;Lp;k / er;X .</high-lulani>
 
 [1]Transliteration
+<h2>Dasunikificani Qasaru Sinnanuruqa Ra'aniqa &#x294;ikinnisa</h2>
+This set of pages uses Latin letters to give an idea of the sounds of the Tinellbian languages.
 [2]Xucinagi Cula
 [3]Disinnamuka
 Kurila ra&rsquo;usi pamilami matta naru, &rsquo;ala qira&rsquo;ataqa nigupipi jagaru pamana paki. Cani janniditiba bataniqqi. Kanu ra&rsquo;u kaluli nicurilluru gupikarafi pi bi&rsquo;u.
@@ -113,8 +121,58 @@ Saqalaqa &rsquo;allapi fa&#x294;aji&rsquo;a cani &rsquo;ixarunisaqa su&rsquo;a. 
 Ku&rsquo;ita&rsquo;i &rsquo;ussapakka mihu qu, jusi kulipakka Turaxxi.
 
 [1]Interlinear
+[t]<h2>Ryan Eakins's <em>Coelacanth Quartet</em></h2>
+[r][t]<em>Dasuni-</em>
+<em>kifi-</em>
+<em>cani</em>
+[r]Tail-
+three-
+having
+[/t]
+[t]<em>Qasa-</em>
+<em>ru</em>
+[r]Fish-
+named
+[/t]
+[t]<em>Sinna-</em>
+<em>nuru-</em>
+qa
+[r]Story-
+four-
+<small-caps>gen</small-caps>
+[/t]
+[t]Ra'ani-
+qa
+[r]Ryan-
+<small-caps>gen</small-caps>
+[/t]
+[t]&#x294;ikinnisa.
+[r]Eakins.
+[/t]
+[/t]
+And so it begins...
 [2]Story
+[t]<h2>The Crackled Egg</h2>
+[r][t]Xuci-
+nagi
+[r]feather-
+becoming
+[/t]
+[t]Cula.
+[r]Egg.
+[/t]
+[/t]
+And so it goes...
 [3]Prologue
+[t]
+[r][t]Di-
+sinna-
+muka.
+[r]Up-
+story-
+<small-caps>nmn.</small-caps>
+[/t]
+[/t]
 [t]Corla came back to consciousness slowly, the heat and the coarseness of the sand on which she sat penetrating her mind. She gingerly stood up. Her legs ached from holding the meditative pose for so long.
 [r][t]Kurila
 [r]K&#x14d;la
@@ -1862,6 +1920,8 @@ qa
 [/t]
 [/t]
 [1]Gloss
+<h2>Three-tail-having Fish-called Story-four-<small-caps>gen</small-caps> Ryan-<small-caps>gen</small-caps> Eakins.</h2>
+A &ldquo;threetail-having fish&rdquo; is a coelacanth, referring to the three lobes on the tail of members of this species. A &ldquo;feather-becoming egg&rdquo; is a rough translation of <em>crackled egg</em>, and refers to a hatchling emerging into the world.
 [2]Feather-becoming Egg.
 [3]Up-story-<small-caps>nmn</small-caps>
 K&#x14d;la <small-caps>prs;sta-inc</small-caps> think-surroundings again slowly, heat rough-<small-caps>nmn</small-caps>-and-<small-caps>gen</small-caps> in-sit-<small-caps>pst;sta</small-caps> sand think-bubble think-<small-caps>nmn</small-caps>. <small-caps>prs;dyn</small-caps> move-up-legs care-<small-caps>qal</small-caps>. Leg <small-caps>prs;sta</small-caps> <small-caps>abl</small-caps>-<small-caps>com</small-caps> in-time_passes-<small-caps>psv</small-caps>-<small-caps>ger</small-caps> sit-enlightenment <small-caps>pst;sta</small-caps> hurt.

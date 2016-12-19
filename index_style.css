@@ -31,3 +31,7 @@ p.intro {
 	font-size: x-large;
 	text-indent: 1em;
 }
+
+p.footnote {
+	font-size: small;
+}

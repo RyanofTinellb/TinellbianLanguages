@@ -1413,7 +1413,7 @@ lithium
 [4]<high-lulani>Pf</high-lulani>
 [5]<ipa>/&#x2c8;p&#x2b0;if.&#x259;/</ipa>
 [6]transitive stem verb
-to create <em>ex nihilo</em>
+to create <em>ex nihilo</em>; to make
 [7]Thematic Relations
 <strong>agent</strong> <em>subject</em>
 <strong>patient</strong> <em>object</em>
@@ -2528,6 +2528,13 @@ to close; to fill
 to open up
 [7]Etymology
 <a href="../t/turu.html">turu</a> <high-lulani>ew</high-lulani> <em>to close</em> + <a href="../-ulu.html">-ulu</a> <high-lulani>uW</high-lulani> <em>undo</em>
+
+[2]tuxa
+[3]High Lulani
+[4]<high-lulani>yx</high-lulani>
+[5]<ipa>/&#x2c8;t&#x2b0;u&#x255;.&#x259;/</ipa>
+[6]inanimate stem noun
+juice; tea; coffee
 
 [2]tuhi
 [3]High Lulani

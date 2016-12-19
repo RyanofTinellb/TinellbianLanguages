@@ -1,3 +1,5 @@
+import random
+
 def conversion(source_file, destination_file):
     page = ""
     with open (source_file, "r") as source:
@@ -117,3 +119,31 @@ def find_entry(source, entry):
             elif in_entry:
                 page += line
         return page
+
+
+def random_scaled_pick(from_list, scale):
+    try:
+        pick = from_list[[i < random.randint(1, sum(scale)) for i in [sum(scale[:i])
+                                                                      for i in range(len(scale))]].index(False)]
+    except ValueError:
+        pick = from_list[-1]
+    return pick
+
+
+def make_word():
+    consonant_scale = [10, 10, 11, 12, 13, 14, 15, 16, 17, 19, 21, 24, 27, 32, 38, 47, 62, 82]
+    consonants = ['b', 'g', 'j', 'f', 'h', 'd', 'p', 'r', 't', 'm', 'c', 'x', 'q', 'n', 'k', 'l', unichr(8217), 's']
+    vowel_scale = [4, 2, 1]
+    vowels = ['a', 'i', 'u']
+    syllable = [1, 2, 3, 4]
+    syllable_scale = [7, 18, 15, 2]
+    num = random_scaled_pick(syllable, syllable_scale)
+    new_word = ""
+    for i in range(num):
+        new_word += random_scaled_pick(consonants, consonant_scale)
+        if random.random() > 0.2 and i > 0:
+            new_word += new_word[-1]
+            if new_word[-2:] == '**':
+                new_word = new_word[:-2] + unichr(660)
+        new_word += random_scaled_pick(vowels, vowel_scale)
+    return new_word

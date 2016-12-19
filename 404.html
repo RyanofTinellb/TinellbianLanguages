@@ -32,6 +32,8 @@ function getTerms(name) {
 	text = document.getElementById(name).value.toLowerCase();
 	text = text.replace(/\u2019/g, "'");
 	text = text.replace(/\u0294/g, "''");
+	text = text.replace(/\u00ec/g, "e");
+	text = text.replace(/\u00ea/g, "i");
 	return text.split(" ").filter(function (i) {return i != "";});
 	
 }
