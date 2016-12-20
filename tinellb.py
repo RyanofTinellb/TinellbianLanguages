@@ -1,17 +1,49 @@
 import random
 
-def conversion(source_file, destination_file):
-    page = ""
-    with open (source_file, "r") as source:
-        for line in source:
-            line = convert_line(line)
-            page += "<high-lulani>. " + line + " .</high-lulani>\n"
-            line = source.readline()
-    with open (destination_file, "w") as destination:
-        destination.write(page)
+
+def conversion(source):
+    if source == "***":
+        return ". . ."
+    page = "[hl]."
+    page += " . ".join([convert_line(line) for line in source.split(". ")])
+    page += ".[/hl]"
+    return page
+
+
+def interlinear(english, transliteration, gloss):
+    italic = False
+    if english == "***":
+        return "***\n"
+    text = "[t]" + english + " | [r]"
+    transliteration = morpheme_split(transliteration)
+    gloss = morpheme_split(gloss)
+    for t_word, g_word in zip(transliteration, gloss):
+        if t_word[0][:3] == "[i]":
+            t_word[0] = t_word[0][3:]
+            italic = True
+        if italic:
+            text += "[t][i]"
+            text += "[/i]- | [i]".join(t_word) + "[/i] | [r]"
+            text += "- | ".join(g_word) + " | [/t] | "
+        else:
+            text += "[t]"
+            text += "- | ".join(t_word) + " | [r]"
+            text += "- | ".join(g_word) + " | [/t] | "
+        if t_word[-1][-4:] == "[/i]":
+            italic = False
+    text += "[/t]\n"
+    return text
+
+
+def morpheme_split(source):
+    source = source.split(" ")
+    source = [word.split("-") for word in source]
+    return source
 
 
 def convert_line(line):
+    if line == "***":
+        return " . "
     text = ""
     line = line.replace("&rdquo", "")
     line = line.replace("&ldquo;", "")
@@ -92,7 +124,7 @@ def make_replacements(word):
     word = word.replace("&#x2019;", "'")
     word = word.replace("&rsquo;", "'")
     for i in "pbtdcjkgmnqlrfsxh":
-        new = word.replace(i+i, i)
+        new = word.replace(i + i, i)
         if new != word:
             double_letter = True
             word = new
@@ -123,8 +155,8 @@ def find_entry(source, entry):
 
 def random_scaled_pick(from_list, scale):
     try:
-        pick = from_list[[i < random.randint(1, sum(scale)) for i in [sum(scale[:i])
-                                                                      for i in range(len(scale))]].index(False)]
+        pick = from_list[[i <= random.randint(1, sum(scale)) for i in [sum(scale[:i])
+                                                                       for i in range(len(scale))]].index(False) - 1]
     except ValueError:
         pick = from_list[-1]
     return pick
@@ -141,7 +173,7 @@ def make_word():
     new_word = ""
     for i in range(num):
         new_word += random_scaled_pick(consonants, consonant_scale)
-        if random.random() > 0.2 and i > 0:
+        if random.random() > 0.9 and i > 0:
             new_word += new_word[-1]
             if new_word[-2:] == '**':
                 new_word = new_word[:-2] + unichr(660)

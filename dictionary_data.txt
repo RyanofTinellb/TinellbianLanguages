@@ -2945,7 +2945,7 @@ When used with ablative promotion, gives nuance of <em>encouraged</em>.
 [7]Example
 <strong>Quhu kupaji dasipakka mihu dumi.</strong>
 <high-lulani>.AV / &gt;pJ / dSp;k / MV / EM.</high-lulani>
-<em><small-caps>3tra dat</small-caps>-fruit eat-<small-caps>abv</small-caps> 3int try.</em>
+<em><small-caps>3tra dat</small-caps>-fruit eat-<small-caps>abp</small-caps> 3int try.</em>
 &ldquo;She encouraged him to eat fruit.&rdquo;
 [2]dura
 [3]High Lulani

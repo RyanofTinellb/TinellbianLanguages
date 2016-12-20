@@ -11,6 +11,7 @@ h1 {
 
 p {
 	margin-left: 10%;
+	margin-right: 10%;
 }
 
 small-caps {
@@ -27,6 +28,8 @@ button {
 
 div.results {
 	margin-left: 10%;
+	margin-right: 10%;
+	text-align: justify;
 	line-height: 1.5;
 }
 

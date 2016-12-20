@@ -158,7 +158,7 @@ p high-lulani {
 	display: block;
 	direction: rtl;
 	text-indent: 1rem;
-	text-align: right;
+	text-align: justify;
 	font-size: x-large;
 }
 
@@ -171,9 +171,13 @@ div.toc p high-lulani {
 	margin-left: 300px;
 }
 
-span.centre {
+p span.centre {
 	display: block;
-	text-align: center
+	text-align: center;
+}
+
+p span.centre high-lulani {
+	display: inline;
 }
 
 @media screen and (max-width: 900px) {

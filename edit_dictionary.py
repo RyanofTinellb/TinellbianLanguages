@@ -12,6 +12,8 @@ class EditDictionary(tk.Frame):
         self.finish_button = None
         self.publish_button = None
         self.edit_text = None
+        self.random_words = None
+        self.random_word = tk.StringVar()
         self.old_page = ""
         self.new_page = ""
         self.is_bold = False
@@ -29,14 +31,15 @@ class EditDictionary(tk.Frame):
         self.heading.bind("<Return>", self.bring_entry)
         self.go_button = tk.Button(self, text="GO!", command=self.bring_entry)
         self.go_button.grid(row=1, column=1, sticky=tk.NW)
-        self.finish_button = tk.Button(text="Finished", command=self.finish)
-        self.finish_button.grid(row=1, column=1, sticky=tk.NW)
         self.publish_button = tk.Button(text="Publish", command=self.publish)
-        self.publish_button.grid(row=1, column=3, sticky=tk.NW)
+        self.publish_button.grid(row=1, column=2, sticky=tk.NW)
+        self.random_words = tk.Label(self, textvariable=self.random_word)
+        self.random_words.grid(row=1, column=0)
         self.edit_text = tk.Text(self, height=25, width=105, font=('Calibri', '15'))
         self.edit_text.bind("<Control-r>", self.remove_hyperlinks)
         self.edit_text.bind("<Control-t>", self.add_high_lulani)
         self.edit_text.bind("<Control-b>", self.bold)
+        self.edit_text.bind("<Control-r>", self.refresh_random)
         self.edit_text.bind("<Control-i>", self.italic)
         self.edit_text.bind("<Control-k>", self.small_caps)
         self.edit_text.bind("<Control-h>", self.add_hyperlink)
@@ -44,7 +47,11 @@ class EditDictionary(tk.Frame):
         self.edit_text.bind("<Control-z>", self.bring_entry)
         self.edit_text.bind("<Control-q>", self.get_prefix)
         self.edit_text.bind("<Control-w>", self.get_suffix)
-        self.edit_text.grid(row=1, rowspan=19)
+        self.edit_text.grid(row=1, rowspan=19, column=1)
+
+    def refresh_random(self, event=None):
+        text = "\n".join([tinellb.make_word() for i in range(10)])
+        self.random_word.set(text)
 
     def get_prefix(self, event):
         try:

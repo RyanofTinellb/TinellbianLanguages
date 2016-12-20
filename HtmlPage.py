@@ -25,7 +25,10 @@ class HtmlPage:
                             self.current = self.current.next_node()
                     except ValueError:
                         pass
-                if line != "\n":
+                if line.find(" | ") > -1:
+                    for item in line[:-1].split(" | "):
+                        self.content.append(item)
+                elif line != "\n":
                     self.content.append(line[:-1])
                 else:
                     self.content.append("<br>\n")
@@ -320,6 +323,8 @@ def create_search():
         node = directory.root
         with open(name + "_data.txt", "r") as f:
             page = f.read()
+            page = page.replace(" | ", "\n")
+            page = page.replace(chr(7), "")
             unaltered_page = page.replace('"', "##")
         page = page.lower()
         page = page.replace("&rsquo;", "'")
