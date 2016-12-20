@@ -3,55 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlPage.py" afterPath="$PROJECT_DIR$/HtmlPage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Replacements.txt" afterPath="$PROJECT_DIR$/Replacements.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scratch.py" afterPath="$PROJECT_DIR$/Scratch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/-ahi.html" afterPath="$PROJECT_DIR$/dictionary/a/-ahi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bitta.html" afterPath="$PROJECT_DIR$/dictionary/b/bitta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/ca'a.html" afterPath="$PROJECT_DIR$/dictionary/c/ca'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/duha.html" afterPath="$PROJECT_DIR$/dictionary/d/duha.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dumi.html" afterPath="$PROJECT_DIR$/dictionary/d/dumi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/-fi.html" afterPath="$PROJECT_DIR$/dictionary/f/-fi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/index.html" afterPath="$PROJECT_DIR$/dictionary/f/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ihafi.html" afterPath="$PROJECT_DIR$/dictionary/i/'ihafi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/index.html" afterPath="$PROJECT_DIR$/dictionary/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/ja.html" afterPath="$PROJECT_DIR$/dictionary/j/ja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/ki.html" afterPath="$PROJECT_DIR$/dictionary/k/ki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kilatu'i.html" afterPath="$PROJECT_DIR$/dictionary/k/kilatu'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kipu.html" afterPath="$PROJECT_DIR$/dictionary/k/kipu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kunaqi.html" afterPath="$PROJECT_DIR$/dictionary/k/kunaqi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kunubi.html" afterPath="$PROJECT_DIR$/dictionary/k/kunubi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mikkuddu.html" afterPath="$PROJECT_DIR$/dictionary/m/mikkuddu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nasi''u.html" afterPath="$PROJECT_DIR$/dictionary/n/nasi''u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/puxila.html" afterPath="$PROJECT_DIR$/dictionary/p/puxila.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qasa.html" afterPath="$PROJECT_DIR$/dictionary/q/qasa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/index.html" afterPath="$PROJECT_DIR$/dictionary/r/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/si.html" afterPath="$PROJECT_DIR$/dictionary/s/si.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xuga.html" afterPath="$PROJECT_DIR$/dictionary/x/xuga.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_data.txt" afterPath="$PROJECT_DIR$/dictionary_data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_style.css" afterPath="$PROJECT_DIR$/dictionary_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_story.py" afterPath="$PROJECT_DIR$/edit_story.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/argumentpromotion.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/argumentpromotion.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/case.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/case.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/comparatives.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/comparatives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/dependentclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/dependentclauses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/gerunds.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/gerunds.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/matrixclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/matrixclauses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/nounphrases.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/nounphrases.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/syntax/particularclauses.html" afterPath="$PROJECT_DIR$/grammar/highlulani/syntax/particularclauses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/index.html" afterPath="$PROJECT_DIR$/grammar/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_data.txt" afterPath="$PROJECT_DIR$/grammar_data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_style.css" afterPath="$PROJECT_DIR$/grammar_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/searching.json" afterPath="$PROJECT_DIR$/searching.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" afterPath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" afterPath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/interlinear/story/prologue.html" afterPath="$PROJECT_DIR$/story/interlinear/story/prologue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" afterPath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_data.txt" afterPath="$PROJECT_DIR$/story_data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tinellb.py" afterPath="$PROJECT_DIR$/tinellb.py" />
     </list>
     <ignored path="TinellbianLanguages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/Scratch.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="3" column="77" lean-forward="false" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -597,7 +549,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18080594" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -605,7 +557,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6765755" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6765755" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2497349" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -666,11 +618,6 @@
           <line>324</line>
           <option name="timeStamp" value="158" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Scratch.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="159" />
-        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -682,7 +629,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="160" />
+      <option name="time" value="161" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -837,7 +784,7 @@
     <entry file="file://$PROJECT_DIR$/Scratch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="3" column="77" lean-forward="false" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
