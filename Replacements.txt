@@ -44,6 +44,7 @@
 &#x14d;,&omacron;
 &#x254;,&openo;
 &#x279;,&rturned;
+&#x157;,&rcomma;
 &#x259;,&schwa;
 &#x282;,&sretro;
 &#x2cc;,&sstress;

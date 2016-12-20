@@ -1,5 +1,6 @@
 import Tkinter as tk
 import sys
+import os
 import tinellb
 from HtmlPage import HtmlPage
 from HtmlPage import create_search
@@ -74,6 +75,7 @@ class EditStory(tk.Frame):
         return "break"
 
     def open_file(self):
+        os.chdir("c:/users/ryan/documents/tinellbianLanguages")
         with open("story_data.txt") as story:
             self.page = story.read()
         self.initialise()
@@ -86,6 +88,8 @@ class EditStory(tk.Frame):
             for j, chapter in enumerate(self.story[i]):
                 count = self.story[i][j].count("\n") - self.story[1][j].count("\n")
                 self.story[i][j] = (chapter + count * "\n").split('\n')
+        self.chapter = len(self.story[1]) - 1
+        self.paragraph = self.story[3][self.chapter].index("") - 1
         self.refresh()
 
     def refresh(self):

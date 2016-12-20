@@ -4,9 +4,7 @@ import random
 def conversion(source):
     if source == "***":
         return ". . ."
-    page = "[hl]."
-    page += " . ".join([convert_line(line) for line in source.split(". ")])
-    page += ".[/hl]"
+    page = "[hl]." + convert_line(source) + ".[/hl]"
     return page
 
 
@@ -48,7 +46,8 @@ def convert_line(line):
     line = line.replace("&rdquo", "")
     line = line.replace("&ldquo;", "")
     line = line.replace("&rsquo;", "'")
-    line = line.replace(" &#x294;", "'")
+    line = line.replace(" &glottal;", " '")
+    line = line.replace(" &#x294;", " '")
     line = line.replace("&#x2019;", "'")
     line = line.replace("&#x294;", "''")
     line = line.replace("&glottal;", "''")

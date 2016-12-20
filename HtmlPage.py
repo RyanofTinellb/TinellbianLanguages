@@ -314,16 +314,18 @@ class HtmlPage:
         with open(destination_filename, "w") as destination_file:
             destination_file.write(text)
 
+# [["dictionary", 2], ["grammar", 3], ["story", 3]]:
+
 
 def create_search():
     word_list = {}
-    for name, leaf_level in [["grammar", 3], ["dictionary", 2], ["story", 3]]:
+    for name, leaf_level in [["dictionary", 2]]:
         level = 0
         directory = Directory(name, leaf_level)
         node = directory.root
         with open(name + "_data.txt", "r") as f:
             page = f.read()
-            page = page.replace(" | ", "\n")
+            page = page.replace(" | ", " ")
             page = page.replace(chr(7), "")
             unaltered_page = page.replace('"', "##")
         page = page.lower()
