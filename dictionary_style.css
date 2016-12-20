@@ -212,6 +212,10 @@ div.toc {
     column-count: 4;
 }
 
+span.hidden {
+	display: none;
+}
+
 @media screen and (max-width: 900px) {
 	body {
 		background-color: lightgoldenrodyellow;
