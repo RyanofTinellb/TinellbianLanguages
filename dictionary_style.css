@@ -33,7 +33,6 @@ h5 {
 	font-size: large;
 	font-style: italic;
 	font-weight: normal;
-	text-decoration: underline;
 	padding-left: 10%;
 }
 
@@ -214,6 +213,15 @@ div.toc {
 
 span.hidden {
 	display: none;
+	text-decoration: none;
+}
+
+h5 div.definition {
+	font-style: normal;
+	font-size: medium;
+	padding-left: 5%;
+	padding-top: 2em;
+	
 }
 
 @media screen and (max-width: 900px) {
