@@ -4925,7 +4925,7 @@ informal
 [3]High Lulani
 [4]<high-lulani>MV</high-lulani>
 [5]<ipa>/&#x2c8;mih.&#x289;/</ipa>
-[6]stem personal pronoun <div class="definition">third person animate intransitive; he; him; her; she; <small-caps>3ani;int</small-caps></div>
+[6]stem personal pronoun <div class="definition">third person animate intransitive; she; her; he; him; <small-caps>3ani;int</small-caps></div>
 [7]See Also
 [t]
 1st person

@@ -1,4 +1,5 @@
 import Tkinter as tk
+import os
 from HtmlPage import *
 
 
@@ -25,28 +26,28 @@ class EditPage(tk.Frame):
 
     def create_widgets(self):
         for i in range(3):
-            heading = tk.Text(height=1, width=20)
+            heading = tk.Entry(self, width=20)
             heading.grid(sticky=tk.NE, row=i, column=1)
             self.headings.append(heading)
         self.headings[0].bind("<Return>", self.insert_chapter)
         self.headings[1].bind("<Return>", self.insert_heading)
         self.headings[2].bind("<Return>", self.bring_entry)
-        self.go_button = tk.Button(text="GO!", width=10, command=self.bring_entry)
+        self.go_button = tk.Button(self, text="GO!", width=10, command=self.bring_entry)
         self.go_button.grid(row=0, column=2, sticky=tk.NW)
-        self.finish_button = tk.Button(text="Finished", width=10, command=self.finish)
+        self.finish_button = tk.Button(self, text="Finished", width=10, command=self.finish)
         self.finish_button.grid(row=1, column=2, sticky=tk.NW)
         self.which_var.set("grammar")
-        self.grammar_button = tk.Radiobutton(text="Grammar", width=7, variable=self.which_var, value="grammar")
-        self.grammar_button.grid(row=2, column=2, sticky=tk.NW)
-        self.story_button = tk.Radiobutton(text="Story", width=7, variable=self.which_var, value="story")
-        self.story_button.grid(row=2, column=3, sticky=tk.NW)
-        self.edit_text = tk.Text(height=22, width=105, font=('Calibri', '15'), wrap=tk.WORD)
+        self.grammar_button = tk.Radiobutton(self, text="Grammar", variable=self.which_var, value="grammar")
+        self.grammar_button.grid(row=2, column=2, sticky=tk.W)
+        self.story_button = tk.Radiobutton(self, text="Story", variable=self.which_var, value="story")
+        self.story_button.grid(row=2, column=3, sticky=tk.W)
+        self.edit_text = tk.Text(self, height=23, width=110, font=('Calibri', '15'), wrap=tk.WORD)
         self.edit_text.bind("<Control-BackSpace>", self.delete_word)
         self.edit_text.bind("<Control-s>", self.finish)
         self.edit_text.bind("<Control-k>", self.small_caps)
         self.edit_text.bind("<Control-i>", self.italics)
         self.edit_text.bind("<Control-b>", self.bold)
-        self.edit_text.grid(column=2, columnspan=5)
+        self.edit_text.grid(column=2, columnspan=150)
     
     def small_caps(self, event=None):
         if self.is_small_caps:
@@ -93,8 +94,8 @@ class EditPage(tk.Frame):
     def bring_entry(self, event=None):
         entries = []
         for i in range(3):
-            entry = self.headings[i].get(1.0, tk.END)
-            if entry == "\n":
+            entry = self.headings[i].get()
+            if entry == "":
                 break
             entries.append(entry)
         page = ""
@@ -103,8 +104,9 @@ class EditPage(tk.Frame):
         last_level = len(entries) - 1
         self.file_name = self.which_var.get()
         with open(self.file_name + "_data.txt", "r") as article:
+            os.chdir("c:/users/ryan/documents/tinellbianLanguages")
             for line in article:
-                if line == "[" + str(level+1) + "]" + entries[level]:
+                if line == "[" + str(level+1) + "]" + entries[level] + "\n":
                     if level == last_level:
                         in_page = True
                         page += line
