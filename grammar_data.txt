@@ -215,6 +215,34 @@ If there are no geminates, then the final vowel, and every second vowel going ba
 [4]Prosody
 Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (&#x1ce) or a falling tone (&acirc;), placed on the syllable of the appropriate word which has the greatest stress.
 Falling tone can also be used to bring focus to a particular word.
+[2]Orthography
+[3]Alphabet
+The Lulani alphabet was developed as a featural script, with similar sounds having similar symbols.
+It is written in horizontal rows, right-to-left, and top-to-bottom.
+[t] | stop | voiced | nasal | lateral | central | fricative
+[r]labial | <high-lulani>pPo</high-lulani> | <high-lulani>bBO</high-lulani> | <high-lulani>mMU</high-lulani> |  |  | <high-lulani>fFv</high-lulani>
+[r]alveolar | <high-lulani>tTe</high-lulani> | <high-lulani>dDE</high-lulani> | <high-lulani>nNI</high-lulani> | <high-lulani>lLW</high-lulani> | <high-lulani>rRw</high-lulani> | <high-lulani>sSz</high-lulani>
+[r]palatal | <high-lulani>cCy</high-lulani> | <high-lulani>jJY</high-lulani> |  |  |  | <high-lulani>xXZ</high-lulani>
+[r]velar | <high-lulani>kK&gt;</high-lulani> | <high-lulani>gG&lt;</high-lulani> | <high-lulani>qQA</high-lulani>
+[r]glottal | <high-lulani>aiu</high-lulani> |  |  |  |  | <high-lulani>hHV</high-lulani>
+[/t]
+Geminate consonants are shown as <high-lulani>;</high-lulani>, placed before the geminated consonant.
+A central dot <high-lulani>/</high-lulani> is placed between words, and sentences begin and end with a <high-lulani>.</high-lulani> symbol.
+While their shapes have been modified over time, it is still fairly clear how each phonetic feature has been symbolised.
+[l]stop: (none)
+nasal: vertical stroke
+fricative: arc
+lateral: swish
+central: loop
+labial: low circle
+alveolar: apex
+palatal: corner
+velar: semi-circle
+glottal: high circle
+open vowel: (none)
+front vowel: vertical line
+back vowel: horizonal line
+[/l]
 [2]Morphology
 High Lulani is an analytic agglutinative language, as morphemes tend to keep their own shape, even when forming words.
 [3]Nouns

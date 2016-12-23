@@ -25,8 +25,7 @@ class EditStory(tk.Frame):
         self.is_small_cap = False
         self.page = ""
         self.story = []
-        self.markup = []
-        self.markdown = []
+        self.markdown = tinellb.Markdown()
         self.grid()
         self.create_window()
         self.open_file()
@@ -81,7 +80,7 @@ class EditStory(tk.Frame):
         self.initialise()
 
     def initialise(self):
-        self.page = self.make_replacements(self.page, False)
+        self.page = self.markdown.to_markdown(self.page)
         self.story = self.page.split('[1]')
         for i, section in enumerate(self.story):
             self.story[i] = section.split('[3]')
@@ -129,21 +128,6 @@ class EditStory(tk.Frame):
             self.refresh()
         return "break"
 
-    def make_replacements(self, text, to_markup=True):
-        if not len(self.markup):
-            with open("replacements.txt", "r") as replacements:
-                for line in replacements:
-                    up, down = line.split(",")
-                    self.markup.append(up)
-                    self.markdown.append(down[:-1])
-        if to_markup:
-            source, destination = self.markdown, self.markup
-        else:
-            source, destination = self.markup, self.markdown
-        for first, second in zip(source, destination):
-            text = text.replace(first, second)
-        return text
-
     def publish(self, event=None):
         for window, i in self.windows:
             self.story[i][self.chapter][self.paragraph] = window.get(1.0, tk.END + "-1c")
@@ -167,7 +151,7 @@ class EditStory(tk.Frame):
         return "break"
 
     def write_file(self):
-        self.page = self.make_replacements(self.page)
+        self.page = self.markdown.to_markup(self.page)
         with open("story_data.txt", "w") as story:
             story.write(self.page)
         HtmlPage("story", 3)

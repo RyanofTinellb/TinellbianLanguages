@@ -1,58 +1,64 @@
-<em>,[i]
-</em>,[/i]
-<strong>,[b]
-</strong>,[/b]
-<small-caps>,[k]
-</small-caps>,[/k]
-<span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>,***
-<span class="centre">[hl].[/hl]&nbsp;&nbsp;&nbsp;&nbsp;[hl].[/hl]&nbsp;&nbsp;&nbsp;&nbsp;[hl].[/hl]</span>,. . .
-<high-lulani>,[hl]
-</high-lulani>,[/hl]
-<overline>1</overline>,&rone;
-<overline>2</overline>,&rwo;
-<overline>3</overline>,&ree;
-<overline>4</overline>,&rour;
-<overline>5</overline>,&rive;
-<overline>6</overline>,&rix;
-<overline>7</overline>,&reven;
-&#xff5e,~
-&#x202e;,&rtl;
-&#x251;,&aback;
-&#x250;,&amid;
-&#x2b0;,&asp;
-&#x28c;,&auback;
-&#x255;,&ccurl;
-&#x2a4;,&dezhlig;
-&#x14b;,&eng;
-&#x283;,&esh;
-&#x292;,&ezh;
-&#x27e;,&flap;
-&#x294;,&glottal;
-&#x2b1;,&hasp;
-&#x268;,&ibar;
-&#x26a;,&iflat;
-&#x25f;,&jbar;
-&#x29d;,&jcurl;
-&#x26b;,&ldark;
-&#x26e;,&lezh;
-&#x2d0;,&longvowel;
-&#x28e;,&lpalatal;
-&#x26c;,&ltrill;
-&#x272;,&npalatal;
-&#x273;,&nretro;
-&#x252;,&oback;
-&#x14d;,&omacron;
-&#x254;,&openo;
-&#x279;,&rturned;
-&#x157;,&rcomma;
-&#x259;,&schwa;
-&#x282;,&sretro;
-&#x2cc;,&sstress;
-&#x2c8;,&stress;
-&#x2a7;,&tesh;
-&#x26f;,&uback;
-&#x289;,&ubar;
-&#x28a;,&uopen;
-&#x28d;,&wvoiceless;
-&#x270;,&yback;
-&#x291;,&zcurl;
+<em> [i]
+</em> [/i]
+<strong> [b]
+</strong> [/b]
+<small-caps> [k]
+</small-caps> [/k]
+<high-lulani> [hl]
+</high-lulani> [/hl]
+<overline>1</overline> &rone;
+<overline>2</overline> &rwo;
+<overline>3</overline> &ree;
+<overline>4</overline> &rour;
+<overline>5</overline> &rive;
+<overline>6</overline> &rix;
+<overline>7</overline> &reven;
++ &plus;
+$ &dollar;
+( &lparen;
+) &rparen;
+- &hyphen;
+_ &under;
+" &doublequote;
+&#xff5e ~
+&acirc; $a
+&ecirc; $e
+&icirc; $i
+&ocirc; $o
+&ucirc; $u
+&ecirc; $e
+&acirc; $a
+&ecirc; $e
+&agrave; )a
+&egrave; )e
+&igrave; )i
+&ograve; )o
+&ugrave; )u
+&#x14d; _o
+&#x2b0; +h
+&#x255; ,c
+&#x14b; ,n
+&rsquo; '
+&#x294; ''
+&lsquo; `
+&rdquo; "
+&ldquo; `"
+&#x2b1; $h
+&#x268; -i
+&#x25f; -j
+&#x2d0; ::
+&#x28e; $l
+&#x272; $n
+&#x279; $r
+&#x157; ,r
+&#x259; !e
+&#x2cc; _'
+&#x2c8; -'
+&#x289; -u
+&plus; \+
+&dollar; \$
+&lparen; \(
+&rparen; \)
+&hyphen; \-
+&under; \_
+&doublequote; \"

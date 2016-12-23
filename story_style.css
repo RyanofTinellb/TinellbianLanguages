@@ -134,8 +134,8 @@ div.toc a {
 	color: black;
 	font-size: 125%;
 	text-decoration: none;
+	margin-left: 15%;
 	line-height: 1;
-	margin-left: 15em;
 }
 
 span.high-lulani {
@@ -166,11 +166,6 @@ p.center {
 	text-align: center;
 }
 
-div.toc p high-lulani {
-	text-align: left;
-	margin-left: 300px;
-}
-
 p span.centre {
 	display: block;
 	text-align: center;
@@ -178,6 +173,11 @@ p span.centre {
 
 p span.centre high-lulani {
 	display: inline;
+}
+
+div.toc p a high-lulani {
+	margin-left: 35%;
+	direction: ltr;
 }
 
 @media screen and (max-width: 900px) {
@@ -188,6 +188,14 @@ p span.centre high-lulani {
 	div.content {
 		margin-left: 4%;
 		margin-right: 5%;
+	}
+	
+	div.toc p {
+		text-align: center;
+	}
+	
+	div.toc a {
+		margin-left: 0;
 	}
 	
 	table table td {

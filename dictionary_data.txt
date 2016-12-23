@@ -550,6 +550,17 @@ a mood of joy or supreme contentment
 <a href="../n/na'a.html">&rarr; na&rsquo;a</a> <high-lulani>na</high-lulani> <em>actinium</em>
 <a href="../b/baca.html">&uarr; baca</a> <high-lulani>bc</high-lulani> <em>barium</em>
 
+[2]&rsquo;ili
+[3]High Lulani
+[4]<high-lulani>iL</high-lulani>
+[5]<ipa>/&#x2c8;&#x294;il.&#x268;/</ipa>
+[6]adverb <div class="definition">truly; really; actually; literally</div>
+[7]Examples
+<strong>&ldquo;&#x294;ili ra&rsquo;u?&rdquo;</strong>
+<high-lulani>.iL / ru.</high-lulani>
+&ldquo;<em>really <small-caps>prs;gno</small-caps>?</em>&rdquo;
+&lsquo;&ldquo;Really?&rdquo;&rsquo;
+
 [2]&rsquo;ilu
 [3]High Lulani
 [4]<high-lulani>iW</high-lulani>
@@ -710,14 +721,15 @@ a mood of joy or supreme contentment
 [5]<ipa>/&#x294;&#x289;.&#x2c8;&#x294;il.&#x268;/</ipa>
 [6]inanimate stem noun <div class="definition">reality</div>
 [7]Definition
-the one relative dimension
+[n]the one relative dimension
+one point on this axis, <em>i.e.:</em> a world, a reality
+[/n]
 [7]Derived Terms
 <strong><a href="../j/janni'u'ili.html">janni&rsquo;u&rsquo;ili</a></strong> <high-lulani>j;NuiL</high-lulani> <em>to slide</em>
 [7]See Also
 <a href="../b/bitta.html">bitta</a> <high-lulani>B;t</high-lulani> <em>time</em>
 <a href="../s/sufi.html">sufi</a> <high-lulani>zF</high-lulani> <em>space</em>
 <a href="../m/ma''u.html">ma&#x294;u</a> <high-lulani>m;u</high-lulani> <em>gingla</em>
-
 [2]&rsquo;udi
 [3]High Lulani
 [4]<high-lulani>uD</high-lulani>
@@ -2300,6 +2312,10 @@ to rotate on one&rsquo;s own axis
 [4]<high-lulani>er;S</high-lulani>
 [5]<ipa>/t&#x2b0;&#x289;.&#x2c8;&#x279;as.s&#x268;/</ipa>
 [6]animate stem noun <div class="definition">red-head</div>
+[6]animate stem proper noun (capitalised) <div class="definition">Toresh</div>
+[7]Translations
+[l]Fezhl&ecirc;: T&#x157;sh.
+[/l]
 
 [2]turu
 [3]High Lulani
@@ -4164,6 +4180,16 @@ state
 [4]<high-lulani>&gt;W</high-lulani>
 [5]<ipa>/&#x2c8;k&#x2b0;ul.&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">fork</div>
+
+[2]kurila
+[3]High Lulani
+[4]<high-lulani>&gt;Rl</high-lulani>
+[5]<ipa>/k&#x2b0;&#x289;.&#x2c8;&#x279;il.&#x259;/</ipa>
+[6]proper stem noun (capitalised)
+Corla
+[7]Other names
+[l]Tsarin: K&#x14d;la
+[/l]
 
 [2]kuffa
 [3]High Lulani

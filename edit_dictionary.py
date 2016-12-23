@@ -9,7 +9,6 @@ class EditDictionary(tk.Frame):
         tk.Frame.__init__(self, master)
         self.heading = None
         self.go_button = None
-        self.finish_button = None
         self.publish_button = None
         self.edit_text = None
         self.random_words = None
@@ -19,8 +18,7 @@ class EditDictionary(tk.Frame):
         self.is_bold = False
         self.is_italic = False
         self.is_small_caps = False
-        self.markup = []
-        self.markdown = []
+        self.markdown = tinellb.Markdown()
         self.grid()
         self.create_widgets()
         os.chdir("C:/Users/Ryan/Documents/TinellbianLanguages")
@@ -35,7 +33,7 @@ class EditDictionary(tk.Frame):
         self.publish_button.grid(row=1, column=2, sticky=tk.NW)
         self.random_words = tk.Label(self, textvariable=self.random_word)
         self.random_words.grid(row=1, column=0)
-        self.edit_text = tk.Text(self, height=25, width=105, font=('Calibri', '15'))
+        self.edit_text = tk.Text(self, height=27, width=88, font=('Courier New', '15'))
         self.edit_text.bind("<Control-r>", self.remove_hyperlinks)
         self.edit_text.bind("<Control-t>", self.add_high_lulani)
         self.edit_text.bind("<Control-b>", self.bold)
@@ -47,7 +45,18 @@ class EditDictionary(tk.Frame):
         self.edit_text.bind("<Control-z>", self.bring_entry)
         self.edit_text.bind("<Control-q>", self.get_prefix)
         self.edit_text.bind("<Control-w>", self.get_suffix)
+        self.edit_text.bind("<Control-n>", self.new_word)
         self.edit_text.grid(row=1, rowspan=19, column=1)
+
+    def new_word(self, event=None):
+        new_template = "[2]\n"
+        new_template += "[3]High Lulani\n"
+        new_template += "[4][hl][/hl]\n"
+        new_template += "[5]<ipa>//</ipa>\n"
+        new_template += "[6] <div class=\\\"definition\\\"></div>\n\n"
+        self.edit_text.insert(tk.INSERT, new_template)
+        self.edit_text.mark_set(tk.INSERT, "1.3")
+        return "break"
 
     def refresh_random(self, event=None):
         text = "\n".join([tinellb.make_word() for i in range(10)])
@@ -173,26 +182,16 @@ class EditDictionary(tk.Frame):
     def bring_entry(self, event=None):
         entry = self.heading.get(1.0, tk.END+"-1c")
         self.old_page = tinellb.find_entry("dictionary_data.txt", entry)
-        self.new_page = self.make_replacements(self.old_page, False)
+        self.new_page = self.markdown.to_markdown(self.old_page)
         self.edit_text.delete(1.0, tk.END)
         self.edit_text.insert(1.0, self.new_page)
         self.edit_text.focus_set()
         self.edit_text.mark_set(tk.INSERT, "1.0")
         return "break"
 
-    def finish(self):
-        self.new_page = self.edit_text.get(1.0, tk.END+"-1c")
-        self.new_page = self.make_replacements(self.new_page)
-        with open("dictionary_data.txt", "r") as dictionary:
-            page = dictionary.read()
-        page = page.replace(self.old_page, self.new_page)
-        with open("dictionary_data.txt", "w") as dictionary:
-            dictionary.write(page)
-        self.edit_text.delete(1.0, tk.END)
-
     def publish(self, event=None):
         self.new_page = self.edit_text.get(1.0, tk.END+"-1c")
-        self.new_page = self.make_replacements(self.new_page)
+        self.new_page = self.markdown.to_markup(self.new_page)
         with open("dictionary_data.txt", "r") as dictionary:
             page = dictionary.read()
         page = page.replace(self.old_page, self.new_page)
@@ -200,22 +199,8 @@ class EditDictionary(tk.Frame):
             dictionary.write(page)
         HtmlPage("dictionary", 2)
         create_search()
+        self.bring_entry()
         return "break"
-
-    def make_replacements(self, text, to_markup=True):
-        if not len(self.markup):
-            with open("replacements.txt", "r") as replacements:
-                for line in replacements:
-                    up, down = line.split(",")
-                    self.markup.append(up)
-                    self.markdown.append(down[:-1])
-        if to_markup:
-            source, destination = self.markdown, self.markup
-        else:
-            source, destination = self.markup, self.markdown
-        for first, second in zip(source, destination):
-            text = text.replace(first, second)
-        return text
 
 
 app = EditDictionary()

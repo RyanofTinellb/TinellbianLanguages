@@ -1,5 +1,6 @@
 from Directory import *
 import os
+import tinellb
 
 
 class HtmlPage:
@@ -314,54 +315,29 @@ class HtmlPage:
         with open(destination_filename, "w") as destination_file:
             destination_file.write(text)
 
-# [["dictionary", 2], ["grammar", 3], ["story", 3]]:
+# [["dictionary", 2], ["grammar", 3], ["story", 3]]
 
 
 def create_search():
     word_list = {}
-    for name, leaf_level in [["dictionary", 2]]:
+    markdown = tinellb.Markdown()
+    for name, leaf_level in [["dictionary", 2], ["grammar", 3], ["story", 3]]:
         level = 0
         directory = Directory(name, leaf_level)
         node = directory.root
         with open(name + "_data.txt", "r") as f:
             page = f.read()
-            page = page.replace(" | ", " ")
-            page = page.replace(chr(7), "")
-            unaltered_page = page.replace('"', "##")
+        page = page.replace(" | ", " ")
+        page = page.replace(chr(7), "")
+        unaltered_page = page
         page = page.lower()
-        page = page.replace("&rsquo;", "'")
-        page = page.replace("&igrave;", "i")
-        page = page.replace("&ecirc;", "e")
-        page = page.replace("&ldquo;", " ")
-        page = page.replace("&rdquo;", " ")
-        page = page.replace("&#x294;", "''")
-        punctuation = '*?!.,;:()-^='
-        for character in punctuation:
+        for character in '*?!.,:()^=-':
             page = page.replace(character, " ")
-        while True:
-            place = page.find("<high lulani>")
-            other = page.find("</high lulani>")
-            if place == -1:
-                break
-            page = page[:place] + page[(other + 14):]
-        while True:
-            place = page.find("<ipa>")
-            other = page.find("</ipa>")
-            if place == -1:
-                break
-            page = page[:place] + page[(other + 6):]
-        while True:
-            place = unaltered_page.find("<high-lulani>")
-            other = unaltered_page.find("</high-lulani>")
-            if place == -1:
-                break
-            unaltered_page = unaltered_page[:place] + unaltered_page[(other + 14):]
-        while True:
-            place = unaltered_page.find("<ipa>")
-            other = unaltered_page.find("</ipa>")
-            if place == -1:
-                break
-            unaltered_page = unaltered_page[:place] + unaltered_page[(other + 6):]
+        page = remove_tag_text(page)
+        unaltered_page = remove_tag_text(unaltered_page)
+        page = markdown.to_markdown(page)
+        for item in "&;":
+            page = page.replace(item, " ")
         page = page.split("\n")
         unaltered_page = unaltered_page.split("\n")
         for num, line_text in enumerate(zip(page, unaltered_page)):
@@ -375,33 +351,11 @@ def create_search():
                         node = node.next_node()
                 except ValueError:
                     pass
-            while True:
-                place = line.find("[")
-                other = line.find("]")
-                if place == -1:
-                    break
-                line = line[:place] + line[(other + 1):]
-            while True:
-                place = line.find("<")
-                other = line.find(">")
-                if place == -1:
-                    break
-                line = line[:place] + line[(other + 1):]
-            while True:
-                place = text.find("[")
-                other = text.find("]")
-                if place == -1:
-                    break
-                text = text[:place] + text[(other + 1):]
-            while True:
-                place = text.find("<")
-                other = text.find(">")
-                if place == -1:
-                    break
-                text = text[:place] + text[(other + 1):]
+            line = remove_tags(line)
+            text = remove_tags(text)
             line = line.split(" ")
             for word in line:
-                if word in ["", "&rarr", "&larr", "&darr", "&uarr", "&mdash"]:
+                if "\\" in word or '"' in word or word in ["", "&rarr", "&larr", "&darr", "&uarr", "&mdash"]:
                     continue
                 extension = "/index.html" if node.generation() < leaf_level else ".html"
                 link = "{\"url\": \"" + "/".join([i.url() for i in node.ancestors()]) + "/"
@@ -423,3 +377,25 @@ def create_search():
     text = str("[" + ",\n".join(dictionary_list) + "]\n")
     with open("searching.json", "w") as g:
         g.write(text)
+
+        
+def remove_tag_text(text):
+    for item in ["high-lulani", "ipa"]:
+        while True:
+            place = text.find("<" + item + ">")
+            other = text.find("</" + item + ">")
+            if place == -1 or other == -1:
+                break
+            text = text[:place] + text[(other + len(item) + 3):]
+    return text
+
+
+def remove_tags(text):
+    for opener, closer in zip("[<", "]>"):
+        while True:
+            place = text.find(opener)
+            other = text.find(closer)
+            if place == -1 or other == -1:
+                break
+            text = text[:place] + text[(other + 1):]
+    return text

@@ -8,41 +8,12 @@ def conversion(source):
     return page
 
 
-def interlinear(english, transliteration, gloss):
-    italic = False
-    if english == "***":
-        return "***\n"
-    text = "[t]" + english + " | [r]"
-    transliteration = morpheme_split(transliteration)
-    gloss = morpheme_split(gloss)
-    for t_word, g_word in zip(transliteration, gloss):
-        if t_word[0][:3] == "[i]":
-            t_word[0] = t_word[0][3:]
-            italic = True
-        if italic:
-            text += "[t][i]"
-            text += "[/i]- | [i]".join(t_word) + "[/i] | [r]"
-            text += "- | ".join(g_word) + " | [/t] | "
-        else:
-            text += "[t]"
-            text += "- | ".join(t_word) + " | [r]"
-            text += "- | ".join(g_word) + " | [/t] | "
-        if t_word[-1][-4:] == "[/i]":
-            italic = False
-    text += "[/t]\n"
-    return text
-
-
-def morpheme_split(source):
-    source = source.split(" ")
-    source = [word.split("-") for word in source]
-    return source
-
-
 def convert_line(line):
     if line == "***":
         return " . "
     text = ""
+    for item in ["[i]", "[b]", "[k]", "[/b]", "[/i]", "[/k"]:
+        line = line.replace(item, "")
     line = line.replace("&rdquo", "")
     line = line.replace("&ldquo;", "")
     line = line.replace("&rsquo;", "'")
@@ -83,6 +54,37 @@ def convert_line(line):
     text = text.replace("<", "&lt;")
     text = text.replace(">", "&gt;")
     return text
+
+
+def interlinear(english, transliteration, gloss):
+    italic = False
+    if english == "***":
+        return "***\n"
+    text = "[t]" + english + " | [r]"
+    transliteration = morpheme_split(transliteration)
+    gloss = morpheme_split(gloss)
+    for t_word, g_word in zip(transliteration, gloss):
+        if t_word[0][:3] == "[i]":
+            t_word[0] = t_word[0][3:]
+            italic = True
+        if italic:
+            text += "[t][i]"
+            text += "[/i]- | [i]".join(t_word) + "[/i] | [r]"
+            text += "- | ".join(g_word) + " | [/t] | "
+        else:
+            text += "[t]"
+            text += "- | ".join(t_word) + " | [r]"
+            text += "- | ".join(g_word) + " | [/t] | "
+        if t_word[-1][-4:] == "[/i]":
+            italic = False
+    text += "[/t]\n"
+    return text
+
+
+def morpheme_split(source):
+    source = source.split(" ")
+    source = [word.split("-") for word in source]
+    return source
 
 
 # @return boolean: true if first < second in tinellbian alphabetical order
@@ -178,3 +180,30 @@ def make_word():
                 new_word = new_word[:-2] + unichr(660)
         new_word += random_scaled_pick(vowels, vowel_scale)
     return new_word
+
+
+class Markdown:
+    def __init__(self):
+        self.markup = []
+        self.markdown = []
+        with open("replacements.txt", "r") as replacements:
+            for line in replacements:
+                up, down = line.split(" ")
+                self.markup.append(up)
+                self.markdown.append(down[:-1])
+        self.source = None
+        self.destination = None
+
+    def to_markup(self, text):
+        self.source, self.destination = self.markdown[::-1], self.markup[::-1]
+        return self.convert(text)
+
+    def to_markdown(self, text):
+        self.source, self.destination = self.markup, self.markdown
+        return self.convert(text)
+
+    def convert(self, text):
+        text = text.replace("<span class=\"centre\">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>", "***")
+        for first, second in zip(self.source, self.destination):
+            text = text.replace(first, second)
+        return text

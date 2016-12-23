@@ -5,14 +5,14 @@ permalink: /404.html
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="/TinellbianLanguages/Search.css">
+<link rel="stylesheet" type="text/css" href="Search.css">
 <title>Search Tinellbian Languages</title>
 </head>
 <body>
 <script>
 function search() {
 	document.getElementById("results").innerHTML = "Searching..."
-	var url = "https://ryanoftinellb.github.io/TinellbianLanguages/searching.json"
+	var url = "searching.json"
 	var xmlhttp = new XMLHttpRequest();
 	var andButton = document.getElementById("and")
 	xmlhttp.onreadystatechange = function() {
@@ -30,11 +30,11 @@ function search() {
 // returns array of terms
 // @param String name: id of the textbox into which user has input search terms.
 function getTerms(name) {
-	text = document.getElementById(name).value.toLowerCase();
-	text = text.replace(/\u2019/g, "'");
-	text = text.replace(/\u0294/g, "''");
-	text = text.replace(/\u00ec/g, "e");
-	text = text.replace(/\u00ea/g, "i");
+	var markup = ["\u2019", "'", "\u0294", "''", "\u00ec", "$e", "\u00ea", ")i", "\u0157", ",r"]
+	var text = document.getElementById(name).value.toLowerCase();
+	for (i = 0; i < markup.length; i += 2) {
+		text = text.split(markup[i]).join(markup[i+1])
+	}
 	return text.split(" ").filter(function (i) {return i != "";});
 	
 }
@@ -127,6 +127,7 @@ function capitalise(string) {
 // displays results as list
 // @param Array arr: results array
 function display(arr, id, terms) {
+	var markdown = ["&acirc;", "$a", "&ecirc;", "$e", "&icirc;", "$i", "&ocirc;", "$o", "&ucirc;","$u", "&ecirc;", "$e", "&acirc;", "$a", "&ecirc;", "$e", "&agrave;", ")a", "&egrave;", ")e", "&igrave;", ")i", "&ograve;", ")o", "&ugrave;", ")u", "&#x14d;", "_o", "&#x2b0;", "+h", "&#x255;", ",c", "&#x14b;", ",n", "&rsquo;", "'", "&#x294;", "''", "&#x2b1;", "$h", "&#x268;", "-i", "&#x25f;", "=j", "&#x28e;", "$l", "&#x272;", "$n", "&#x279;", "$r", "&#x157;", ",r", "&#x259;", "!e", "&#x289;", "-u"]
 	if (arr.length == 0) {
 		document.getElementById(id).innerHTML = "Search term(s) not found";
 		return;
@@ -148,15 +149,16 @@ function display(arr, id, terms) {
 		// bold search terms
 		for (var j = 0; j < terms.length; j++) {
 			term = terms[j];
-			term = term.replace(/''/g, "&#x294;");
-			term = term.replace(/'/g, "&rsquo;");
+			for (var k = 0; k < markdown.length; k += 2) {
+				term = term.split(markdown[k+1]).join(markdown[k])
+			}
 			line = line.split(term).join("<b>" + term + "</b>");
 			term = capitalise(term);
 			line = line.split(term).join("<b>" + term + "</b>");
 		}
 		line = line.replace(/b>/g, "strong>");
 		//<li><a href="blah/index.html">Blah</a>: jhfkjsh blah jkfh </li>
-		text += "<li><a href=\"/TinellbianLanguages/" + arr[i].url + "\">" + arr[i].name + "</a>: " + line + "</li>";
+		text += "<li><a href=\"" + arr[i].url + "\">" + arr[i].name + "</a>: " + line + "</li>";
 	}
 	text += "</ol>";
 	document.getElementById(id).innerHTML = text;
