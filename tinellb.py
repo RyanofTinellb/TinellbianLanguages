@@ -67,12 +67,12 @@ def interlinear(english, transliteration, gloss):
             italic = True
         if italic:
             text += "[t][i]"
-            text += "[/i]- | [i]".join(t_word) + "[/i] | [r]"
-            text += "- | ".join(g_word) + " | [/t] | "
+            text += "[/i]\\- | [i]".join(t_word) + "[/i] | [r]"
+            text += "\\- | ".join(g_word) + " | [/t] | "
         else:
             text += "[t]"
-            text += "- | ".join(t_word) + " | [r]"
-            text += "- | ".join(g_word) + " | [/t] | "
+            text += "\\- | ".join(t_word) + " | [r]"
+            text += "\\- | ".join(g_word) + " | [/t] | "
         if t_word[-1][-4:] == "[/i]":
             italic = False
     text += "[/t]\n"
@@ -81,7 +81,7 @@ def interlinear(english, transliteration, gloss):
 
 def morpheme_split(source):
     source = source.split(" ")
-    source = [word.split("-") for word in source]
+    source = [word.split("\\-") for word in source]
     return source
 
 

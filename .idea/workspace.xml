@@ -3,22 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlPage.py" afterPath="$PROJECT_DIR$/HtmlPage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Replacements.txt" afterPath="$PROJECT_DIR$/Replacements.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scratch.py" afterPath="$PROJECT_DIR$/Scratch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/index.html" afterPath="$PROJECT_DIR$/dictionary/c/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/index.html" afterPath="$PROJECT_DIR$/dictionary/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/index.html" afterPath="$PROJECT_DIR$/dictionary/k/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/la.html" afterPath="$PROJECT_DIR$/dictionary/l/la.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_data.txt" afterPath="$PROJECT_DIR$/dictionary_data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_dictionary.py" afterPath="$PROJECT_DIR$/edit_dictionary.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_grammar_story.py" afterPath="$PROJECT_DIR$/edit_grammar_story.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_story.py" afterPath="$PROJECT_DIR$/edit_story.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/highlulani/index.html" afterPath="$PROJECT_DIR$/grammar/highlulani/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar/index.html" afterPath="$PROJECT_DIR$/grammar/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grammar_data.txt" afterPath="$PROJECT_DIR$/grammar_data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/searching.json" afterPath="$PROJECT_DIR$/searching.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" afterPath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_data.txt" afterPath="$PROJECT_DIR$/story_data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tinellb.py" afterPath="$PROJECT_DIR$/tinellb.py" />
@@ -44,8 +31,8 @@
       <file leaf-file-name="edit_story.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/edit_story.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="152" column="84" lean-forward="false" selection-start-line="152" selection-start-column="71" selection-end-line="152" selection-end-column="84" />
+            <state relative-caret-position="17">
+              <caret line="81" column="49" lean-forward="true" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -56,8 +43,8 @@
       <file leaf-file-name="tinellb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tinellb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3451">
-              <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+            <state relative-caret-position="316">
+              <caret line="74" column="23" lean-forward="false" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -76,21 +63,11 @@
       <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HtmlPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6766">
+            <state relative-caret-position="382">
               <caret line="400" column="21" lean-forward="false" selection-start-line="400" selection-start-column="21" selection-end-line="400" selection-end-column="21" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Scratch.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Scratch.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -128,7 +105,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>k]</find>
       <find>bold</find>
       <find>finished</find>
       <find>go</find>
@@ -158,6 +134,7 @@
       <find>print</find>
       <find>***</find>
       <find>tinellbian_st</find>
+      <find>interlinea</find>
     </findStrings>
     <replaceStrings>
       <replace>first</replace>
@@ -235,11 +212,11 @@
         <option value="$PROJECT_DIR$/scratch2.py" />
         <option value="$USER_HOME$/OneDrive/Documents/Story/Random Sentences.py" />
         <option value="$PROJECT_DIR$/Create Pages.py" />
-        <option value="$PROJECT_DIR$/Scratch.py" />
         <option value="$PROJECT_DIR$/edit_grammar_story.py" />
         <option value="$PROJECT_DIR$/edit_dictionary.py" />
-        <option value="$PROJECT_DIR$/tinellb.py" />
         <option value="$PROJECT_DIR$/HtmlPage.py" />
+        <option value="$PROJECT_DIR$/Scratch.py" />
+        <option value="$PROJECT_DIR$/tinellb.py" />
         <option value="$PROJECT_DIR$/edit_story.py" />
       </list>
     </option>
@@ -325,7 +302,7 @@
       <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\coding" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Create Pages">
+  <component name="RunManager" selected="Python.edit_story">
     <configuration default="false" name="Create Pages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -554,11 +531,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Create Pages" />
-        <item index="1" class="java.lang.String" itemvalue="Python.edit_story" />
-        <item index="2" class="java.lang.String" itemvalue="Python.edit_dictionary" />
-        <item index="3" class="java.lang.String" itemvalue="Python.HtmlPage" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Scratch" />
+        <item index="0" class="java.lang.String" itemvalue="Python.edit_story" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Create Pages" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Scratch" />
+        <item index="3" class="java.lang.String" itemvalue="Python.edit_dictionary" />
+        <item index="4" class="java.lang.String" itemvalue="Python.HtmlPage" />
       </list>
     </recent_temporary>
   </component>
@@ -600,7 +577,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3676732" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3676732" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2662957" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -789,14 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tinellb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3451">
-          <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Create Pages.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -807,15 +776,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HtmlPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6766">
+        <state relative-caret-position="382">
           <caret line="400" column="21" lean-forward="false" selection-start-line="400" selection-start-column="21" selection-end-line="400" selection-end-column="21" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
@@ -823,10 +792,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tinellb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="74" column="23" lean-forward="false" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/edit_story.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="152" column="84" lean-forward="false" selection-start-line="152" selection-start-column="71" selection-end-line="152" selection-end-column="84" />
+        <state relative-caret-position="17">
+          <caret line="81" column="49" lean-forward="true" selection-start-line="81" selection-start-column="49" selection-end-line="81" selection-end-column="49" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
