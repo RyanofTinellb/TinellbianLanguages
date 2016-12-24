@@ -51,7 +51,7 @@ class EditStory(tk.Frame):
             window.bind("<Prior>", self.previous_paragraph)
             window.bind("<Control-Next>", self.next_chapter)
             window.bind("<Control-Prior>", self.previous_chapter)
-            window.bind("<Control-minus>", self.insert_hyphen)
+            window.bind("<KeyPress-minus>", self.insert_hyphen)
             window.grid(row=i, column=4, columnspan=5)
 
     @staticmethod

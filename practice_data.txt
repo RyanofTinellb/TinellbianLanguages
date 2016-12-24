@@ -1,0 +1,14 @@
+[1]K&#x14d;la
+[2]Hello
+Hello
+
+[2]li
+[3]High Lulani
+[4]<high-lulani>L</high-lulani>
+[5]<ipa>/l&#x268;/</ipa>
+[6]particle <div class="definition">complementiser; <small-caps>com</small-caps></div>
+[6]stem adjective <div class="definition">not; other</div>
+[7]Derived Terms
+<a href="../g/gusuli.html">gusuli</a> <high-lulani>&lt;zL</high-lulani> <em>person</em>
+<a href="../a/'appuli.html">&rsquo;appuli</a> <high-lulani>a;oL</high-lulani> <em>miscarriage</em>
+<a href="../d/daruli.html">daruli</a> <high-lulani>dwL</high-lulani> <em>wrong way</em>
