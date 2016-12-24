@@ -97,6 +97,7 @@ This and subsequent pages are in Tinellbian script, beginning with the <a href="
 <high-lulani>.&gt;Rl.</high-lulani>
 <high-lulani>.&gt;iti / u;sp;k / MV / A , YS / &gt;Lp;k / er;X . &gt;e / iVsB / L / j;NjwDS / mD / &gt;Rl / vc / lO.</high-lulani>
 <span class="centre"><high-lulani>.</high-lulani>&nbsp;&nbsp;&nbsp;&nbsp;<high-lulani>.</high-lulani>&nbsp;&nbsp;&nbsp;&nbsp;<high-lulani>.</high-lulani></span>
+<high-lulani>.&gt;Rl / NuiLkS / KkcqrWMNs / P , mq / rAr / e;Hs / &lt;P / FhN;Q.</high-lulani>
 [1]Transliteration
 <h2>Dasunikificani Qasaru Sinnanuruqa Ra'aniqa &#x294;ikinnisa</h2>
 This set of pages uses Latin letters to give an idea of the sounds of the Tinellbian languages.
@@ -120,6 +121,7 @@ Saqalaqa &rsquo;allapi fa&#x294;aji&rsquo;a cani &rsquo;ixarunisaqa su&rs
 &ldquo;Kurila.&rdquo;
 Ku&rsquo;ita&rsquo;i &rsquo;ussapakka mihu qu, jusi kulipakka Turaxxi. Kutu &rsquo;ihusabi li jannijarudisi madi Kurila fuca labu.
 <span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>
+Kurila ni&rsquo;u&rsquo;ilikasi kikacaqaraluminisa pi, maqa raqura tuhhisa gupi fihaniqqi.
 [1]Interlinear
 [t]<h2>Ryan Eakins's <em>Coelacanth Quartet</em></h2> | [r][t]<em>Dasuni-</em> | <em>kifi-</em> | <em>cani</em> | [r]Tail- | three- | having | [/t] | [t]<em>Qasa-</em> | <em>ru</em> | [r]Fish- | named | [/t] | [t]<em>Sinna-</em> | <em>nuru-</em> | qa | [r]Story- | four- | <small-caps>gen</small-caps> | [/t] | [t]Ra'ani- | qa | [r]Ryan- | <small-caps>gen</small-caps> | [/t] | [t]&#x294;ikinnisa. | [r]Eakins. | [/t] | [/t]
 And so it begins...
@@ -145,7 +147,7 @@ And so it goes...
 [t]&ldquo;Corla.&rdquo; | [r][t]&ldquo;Kurila.&rdquo; | [r]&ldquo;K&#x14d;la.&rdquo; | [/t] | [/t]
 [t]Piado led the woman over to the wagon and introduced her to Toresh. He motioned to his daughter to move across to allow Corla to ascend. | [r][t]Ku- | &rsquo;ita&rsquo;i | [r]<small-caps>dat</small-caps>- | car | [/t] | [t]&rsquo;ussa- | pakka | [r]follow- | <small-caps>abp</small-caps> | [/t] | [t]mihu | [r]<small-caps>3ani;int</small-caps> | [/t] | [t]qu, | [r]and, | [/t] | [t]jusi | [r]<small-caps>3ani;dat</small-caps> | [/t] | [t]kuli- | pakka | [r]meet- | <small-caps>abp</small-caps> | [/t] | [t]Turaxxi. | [r]T&#x157;sh. | [/t] | [t]Ku- | tu | [r]<small-caps>dat</small-caps>- | daughter | [/t] | [t]&rsquo;i- | husabi | [r]speak- | finger | [/t] | [t]li | [r]<small-caps>com</small-caps> | [/t] | [t]janni- | ja- | ru- | disi | [r]move- | across- | <small-caps>ger</small-caps>- | <small-caps>3ani;gen</small-caps> | [/t] | [t]madi | [r]rise | [/t] | [t]Kurila | [r]K&#x14d;la | [/t] | [t]fuca | [r]allow | [/t] | [t]labu. | [r]<small-caps>fut;dyn</small-caps>. | [/t] | [/t]
 <span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>
-[t]Within only a few hours in this world, Corla had found herself firmly ensconced between the two farmers. The rest of the day was spent travelling. She dozed in her seat, letting their conversation pass through her. | [r][t] | [r]K&#x14d;la | [/t] | [/t]
+[t]Within only a few hours in this world, Corla had found herself firmly ensconced between the two farmers. The rest of the day was spent travelling. She dozed in her seat, letting their conversation pass through her. | [r][t]Kurila | [r]K&#x14d;la | [/t] | [t]ni- | &rsquo;u&rsquo;ili- | kasi | [r]in- | reality- | that | [/t] | [t]kika- | caqara- | lumi- | nisa | [r]over- | hours- | several- | only | [/t] | [t]pi, | [r]<small-caps>pst;sta</small-caps>, | [/t] | [t]ma- | qa | [r]when- | down | [/t] | [t]raqu- | ra | [r]between- | two | [/t] | [t]tuhhi- | sa | [r]farmer | [/t] | [t]gupi | [r]sit | [/t] | [t]fiha- | niqqi. | [r]safety- | <small-caps>adv</small-caps>. | [/t] | [/t]
 [1]Gloss
 <h2>Three-tail-having Fish-called Story-four-<small-caps>gen</small-caps> Ryan-<small-caps>gen</small-caps> Eakins.</h2>
 A &ldquo;threetail-having fish&rdquo; is a coelacanth, referring to the three lobes on the tail of members of this species. A &ldquo;feather-becoming egg&rdquo; is a rough translation of <em>crackled egg</em>, and refers to a hatchling emerging into the world.
@@ -169,4 +171,4 @@ Word-<small-caps>gen</small-caps> familiarity-giving language-not <small-caps>pr
 &ldquo;K&#x14d;la.&rdquo;
 <small-caps>dat</small-caps>-car follow-<small-caps>abp</small-caps> <small-caps>3ani;int</small-caps> and, <small-caps>3ani;dat</small-caps> meet-<small-caps>abp</small-caps> T&#x157;sh. <small-caps>dat</small-caps>-daughter speak-finger <small-caps>com</small-caps> move-across-<small-caps>ger</small-caps>-<small-caps>3ani;gen</small-caps> rise K&#x14d;la allow <small-caps>fut;dyn</small-caps>.
 <span class="centre">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>
-K&#x14d;la 
+K&#x14d;la in-reality-that over-hours-several-only <small-caps>pst;sta</small-caps>, when-down between-two farmer sit safety-<small-caps>adv</small-caps>.
