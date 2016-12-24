@@ -3,14 +3,12 @@ import random
 
 def conversion(source):
     if source == "***":
-        return ". . ."
+        return source
     page = "[hl]." + convert_line(source) + ".[/hl]"
     return page
 
 
 def convert_line(line):
-    if line == "***":
-        return " . "
     text = ""
     for item in ["[i]", "[b]", "[k]", "[/b]", "[/i]", "[/k"]:
         line = line.replace(item, "")
@@ -203,7 +201,6 @@ class Markdown:
         return self.convert(text)
 
     def convert(self, text):
-        text = text.replace("<span class=\"centre\">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>", "***")
         for first, second in zip(self.source, self.destination):
             text = text.replace(first, second)
         return text

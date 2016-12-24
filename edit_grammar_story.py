@@ -119,6 +119,7 @@ class EditPage(tk.Frame):
         level = 0
         last_level = len(entries) - 1
         self.file_name = self.which_var.get()
+        self.edit_text.insert(tk.INSERT, "Hello")
         with open(self.file_name + "_data.txt", "r") as article:
             os.chdir("c:/users/ryan/documents/tinellbianLanguages")
             for line in article:

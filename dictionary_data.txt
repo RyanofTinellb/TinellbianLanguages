@@ -2868,6 +2868,14 @@ gnomic
 [7]Example
 <strong><a href="../i/'ita'i.html">&rsquo;ita&rsquo;icani</a> <a href="../u/'usu.html">&rsquo;usu</a></strong> <high-lulani>iticN / uz</high-lulani> <em>I who have a car</em>
 
+[2]caqara
+[3]High Lulani
+[4]<high-lulani>cqr</high-lulani>
+[5]<ipa>/&#x255;&#x259;.+&rsquo;&#x14b;a&#x279;.&#x259;/</ipa>
+[6]abstract stem noun <div class="definition">hour; minute</div>
+[7]Definition
+Refers to an amount of time greater than a second, but less than a day. The exact comparison to Terran time has not yet been made.
+
 [2]calu
 [3]High Lulani
 [4]<high-lulani>cW</high-lulani>
@@ -3427,6 +3435,11 @@ Not used with possessives.
 <small-caps>1int</small-caps> <em>jump.</em>
 &ldquo;I jumped.&rdquo;
 
+[2]kaba
+[3]High Lulani
+[4]<high-lulani>kb</high-lulani>
+[5]<ipa>//k&#x2b0;ab.&#x259;//</ipa>
+[6]inanimate stem noun <div class="definition">verb</div>
 [2]kata
 [3]High Lulani
 [4]<high-lulani>kt</high-lulani>
@@ -6141,7 +6154,7 @@ A snow-capped mountain or volcano
 [1]L
 [2]la
 [3]High Lulani
-[4]<high-lulani>l
+[4]<high-lulani>l</high-lulani>
 [5]<ipa>/la&#x2d0;/</ipa>
 [6]transitive stem verb <div class="definition">do</div>
 [7]Thematic Roles

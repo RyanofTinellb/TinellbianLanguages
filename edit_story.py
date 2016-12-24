@@ -23,6 +23,10 @@ class EditStory(tk.Frame):
         self.is_bold = False
         self.is_italic = False
         self.is_small_cap = False
+        self.english_stars = "<span class=\\\"centre\\\">*&nbsp;&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;&nbsp;*</span>"
+        self.tinellbian_stars = "<span class=\\\"centre\\\"><high-lulani>.</high-lulani>&nbsp;&nbsp;&nbsp;&nbsp;" \
+                                "<high-lulani>.</high-lulani>&nbsp;&nbsp;&nbsp;&nbsp;<high-lulani>.</high-lulani>" \
+                                "</span>"
         self.page = ""
         self.story = []
         self.markdown = tinellb.Markdown()
@@ -47,7 +51,13 @@ class EditStory(tk.Frame):
             window.bind("<Prior>", self.previous_paragraph)
             window.bind("<Control-Next>", self.next_chapter)
             window.bind("<Control-Prior>", self.previous_chapter)
+            window.bind("<KeyPress-minus>", self.insert_hyphen)
             window.grid(row=i, column=4, columnspan=5)
+
+    @staticmethod
+    def insert_hyphen(event=None):
+        event.widget.insert(tk.INSERT, "\-")
+        return "break"
 
     def bold(self, event=None):
         if self.is_bold:
@@ -94,15 +104,20 @@ class EditStory(tk.Frame):
     def refresh(self):
         try:
             self.story[3][self.chapter][self.paragraph] = \
-                self.story[3][self.chapter][self.paragraph].replace(chr(7), "-")
+                self.story[3][self.chapter][self.paragraph].replace(chr(7), "\-")
         except IndexError:
             pass
-        for textbox, index in self.windows:
-            textbox.delete(1.0, tk.END)
-            try:
-                textbox.insert(1.0, self.story[index][self.chapter][self.paragraph])
-            except IndexError:
-                pass
+        if self.story[1][self.chapter][self.paragraph] == self.english_stars:
+            for textbox, index in self.windows:
+                textbox.delete(1.0, tk.END)
+                textbox.insert(1.0, "***")
+        else:
+            for textbox, index in self.windows:
+                textbox.delete(1.0, tk.END)
+                try:
+                    textbox.insert(1.0, self.story[index][self.chapter][self.paragraph])
+                except IndexError:
+                    pass
         
     def next_paragraph(self, event=None):
         self.paragraph += 1
@@ -132,15 +147,21 @@ class EditStory(tk.Frame):
         for window, i in self.windows:
             self.story[i][self.chapter][self.paragraph] = window.get(1.0, tk.END + "-1c")
         english, transliteration, gloss = [self.story[i][self.chapter][self.paragraph] for i in [1, 3, 5]]
-        self.story[4][self.chapter][self.paragraph] = tinellb.interlinear(english, transliteration, gloss)
-        self.story[3][self.chapter][self.paragraph] = transliteration
-        self.story[2][self.chapter][self.paragraph] = tinellb.conversion(transliteration.replace("-", ""))
+        if english == "***":
+            for i in range(1, 6):
+                if i == 2:
+                    self.story[i][self.chapter][self.paragraph] = self.tinellbian_stars
+                else:
+                    self.story[i][self.chapter][self.paragraph] = self.english_stars
+        else:
+            self.story[4][self.chapter][self.paragraph] = tinellb.interlinear(english, transliteration, gloss)
+            self.story[2][self.chapter][self.paragraph] = tinellb.conversion(transliteration.replace("-", ""))
         for i, section in enumerate(self.story):
             for j, chapter in enumerate(section):
                 self.story[i][j] = "\n".join(chapter)
         for i, section in enumerate(self.story):
             self.story[i] = "[3]".join(section)
-        self.story[3] = self.story[3].replace("-", chr(7))
+        self.story[3] = self.story[3].replace("\-", chr(7))
         self.page = "[1]".join(self.story)
         while True:
             self.page = self.page.replace("\n\n", "\n")

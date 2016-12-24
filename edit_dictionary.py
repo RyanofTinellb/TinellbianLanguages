@@ -121,15 +121,15 @@ class EditDictionary(tk.Frame):
         link = text.lower()
         link = link.replace("[b]", "")
         link = link.replace("[/b]", "")
-        link = link.replace("&rsquo;", "'")
+        link = link.replace("&rsquo;", "\\'")
         if link[:9] == "&glottal;":
-            link = "'" + link[9:]
-        link = link.replace("&glottal;", "''")
-        if link[0] in ["'", "-"]:
+            link = "\\'" + link[9:]
+        link = link.replace("&glottal;", "\\'\\'")
+        if link[0] in ["\\", "-"]:
             letter = link[1]
         else:
             letter = link[0]
-        link = "<a href=\"../" + letter + "/" + link + ".html\">" + text + "</a>"
+        link = "<a href=\\\"../" + letter + "/" + link + ".html\\\">" + text + "</a>"
         self.edit_text.insert(tk.INSERT, link)
         return "break"
 

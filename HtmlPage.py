@@ -355,6 +355,8 @@ def create_search():
             text = remove_tags(text)
             line = line.split(" ")
             for word in line:
+                if word == "laa":
+                    k = 1 / 0
                 if "\\" in word or '"' in word or word in ["", "&rarr", "&larr", "&darr", "&uarr", "&mdash"]:
                     continue
                 extension = "/index.html" if node.generation() < leaf_level else ".html"
@@ -380,7 +382,7 @@ def create_search():
 
         
 def remove_tag_text(text):
-    for item in ["high-lulani", "ipa"]:
+    for item in ["high lulani", "ipa", "high-lulani"]:
         while True:
             place = text.find("<" + item + ">")
             other = text.find("</" + item + ">")

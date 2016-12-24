@@ -20,6 +20,7 @@ $ &dollar;
 - &hyphen;
 _ &under;
 " &doublequote;
+' &quote;
 &#xff5e ~
 &acirc; $a
 &ecirc; $e
@@ -62,3 +63,4 @@ _ &under;
 &hyphen; \-
 &under; \_
 &doublequote; \"
+&quote; \'

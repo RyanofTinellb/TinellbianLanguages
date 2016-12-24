@@ -216,8 +216,8 @@ If there are no geminates, then the final vowel, and every second vowel going ba
 Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (&#x1ce) or a falling tone (&acirc;), placed on the syllable of the appropriate word which has the greatest stress.
 Falling tone can also be used to bring focus to a particular word.
 [2]Orthography
-[3]Alphabet
-The Lulani alphabet was developed as a featural script, with similar sounds having similar symbols.
+[3]Syllabary
+The Lulani syllabary was developed as a featural script, with similar sounds having similar symbols.
 It is written in horizontal rows, right-to-left, and top-to-bottom.
 [t] | stop | voiced | nasal | lateral | central | fricative
 [r]labial | <high-lulani>pPo</high-lulani> | <high-lulani>bBO</high-lulani> | <high-lulani>mMU</high-lulani> |  |  | <high-lulani>fFv</high-lulani>

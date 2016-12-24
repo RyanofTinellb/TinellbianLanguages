@@ -1,3 +1,3 @@
-from HtmlPage import create_search
+import HtmlPage
 
-create_search()
+HtmlPage.create_search()
