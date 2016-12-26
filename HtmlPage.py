@@ -386,7 +386,7 @@ def remove_tag_text(text):
         while True:
             place = text.find("<" + item + ">")
             other = text.find("</" + item + ">")
-            if place == -1 or other == -1:
+            if place == -1 or other == -1 or place > other:
                 break
             text = text[:place] + text[(other + len(item) + 3):]
     return text
@@ -397,7 +397,7 @@ def remove_tags(text):
         while True:
             place = text.find(opener)
             other = text.find(closer)
-            if place == -1 or other == -1:
+            if place == -1 or other == -1 or place > other:
                 break
             text = text[:place] + text[(other + 1):]
     return text

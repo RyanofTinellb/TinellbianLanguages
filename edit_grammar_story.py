@@ -1,5 +1,6 @@
 import Tkinter as tk
 import os
+import thread
 from HtmlPage import *
 
 
@@ -55,7 +56,12 @@ class EditPage(tk.Frame):
         self.edit_text.bind("<Control-i>", self.italic)
         self.edit_text.bind("<Control-b>", self.bold)
         self.edit_text.bind("<Control-t>", self.table)
+        self.edit_text.bind("<KeyPress-|>", self.insert_pipe)
         self.edit_text.grid(column=2, columnspan=150)
+
+    def insert_pipe(self, event=None):
+        self.edit_text.insert(tk.INSERT, " | ")
+        return "break"
 
     def table(self, event=None):
         self.edit_text.insert(tk.INSERT, "[t]\n[/t]")
@@ -155,10 +161,13 @@ class EditPage(tk.Frame):
         page = page.replace(self.old_page, self.new_page)
         with open(self.file_name + "_data.txt", "w") as article:
             article.write(page)
-        HtmlPage(self.file_name, 3)
-        create_search()
+        thread.start_new_thread(self.publish, ())
         self.old_page = self.new_page
         return "break"
+
+    def publish(self):
+        HtmlPage(self.file_name, 3)
+        create_search()
 
 app = EditPage()
 app.master.title('Edit Page')

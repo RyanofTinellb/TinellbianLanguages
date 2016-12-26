@@ -2046,6 +2046,7 @@ something remembered or recalled
 <a href="../b/batu.html">batu</a> <high-lulani>be</high-lulani> <em>multiply</em>
 <a href="../s/saki.html">saki</a> <high-lulani>sK</high-lulani> <em>divide</em>
 
+
 [2]tara
 [3]High Lulani
 [4]<high-lulani>tr</high-lulani>
@@ -2119,6 +2120,12 @@ to rotate on one&rsquo;s own axis
 [7]Example
 <strong><a href="../n/narra.html">tikunarra</a></strong> <high-lulani>T&gt;n;r</high-lulani> <em>around the corner</em>
 <strong><a href="../l/linu.html">tikulinu</a></strong> <high-lulani>T&gt;LI</high-lulani> <em>around the tree</em>
+
+
+
+
+
+
 
 [2]tina
 [3]High Lulani
@@ -2660,6 +2667,14 @@ usually used compounded
 <a href="../f/farra.html">&rarr; farra</a> <high-lulani>f;r</high-lulani> <em>curium</em>
 <a href="../s/siqi.html">&uarr; siqi</a> <high-lulani>SQ</high-lulani> <em>europium</em>
 
+[2]du
+[3]High Lulani
+[4]<high-lulani>E</high-lulani>
+[5]<ipa>/d&#x289;/</ipa>
+[6]stem derivational suffix (verb &rarr; noun) <div class="definition">derives an inanimate noun from a verb</div>
+[7]Examples
+<a href="../m/mala.html">maladu</a> <high-lulani>mlE</high-lulani> <em>reflection</em>
+
 [2]du&rsquo;i
 [3]High Lulani
 [4]<high-lulani>Ei</high-lulani>
@@ -2679,11 +2694,12 @@ tends to mean &lsquo;beyond&rsquo; when the area can be seen, &lsquo;opposite&rs
 [7]Thematic Relations
 <strong>experiencer</strong> <em>dative</em>
 <strong>theme</strong> <em>object</em>
-[7]Example
+[7]Examples
 <strong>Pixi duci &rsquo;ita&rsquo;i.</strong>
 <high-lulani>.PX / EC / iti.</high-lulani>
 <small-caps>1dat</small-caps> <em>have car.</em>
 &ldquo;I own a car.&rdquo;
+
 
 [2]ducinibasa
 [3]High Lulani
@@ -2913,6 +2929,13 @@ One of ten directions in which something can be measured, or one of four ways in
 <a href="../r/raddilla.html">&rarr; raddilla</a> <high-lulani>r;D;l</high-lulani> <em>thulium</em>
 <a href="../t/tika.html">&darr; tika</a> <high-lulani>Tk</high-lulani> <em>fermium</em>
 
+[2]cari
+[3]High Lulani
+[4]<high-lulani>cR</high-lulani>
+[5]<ipa>/&#x2c8;ca&#x279;.&#x268;/</ipa>
+[6]stem adjective <div class="definition">remaining; rest</div>
+[7]Examples
+<a href="../m/musa.html">musacari</a> <high-lulani>UscR</high-lulani> <em>rest of the day</em>
 [2]ci&#x294;a
 [3]High Lulani
 [4]<high-lulani>C;a</high-lulani>

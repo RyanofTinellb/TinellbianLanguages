@@ -57,6 +57,8 @@ _ &under;
 &#x2c8; -'
 &#x289; -u
 &#xe7; $c
+&rarr; -)
+&larr; (-
 &plus; \+
 &dollar; \$
 &lparen; \(

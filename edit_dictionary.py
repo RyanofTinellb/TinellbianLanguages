@@ -1,6 +1,7 @@
 import Tkinter as tk
 import tinellb
 import os
+import threading
 from HtmlPage import *
 
 
@@ -14,6 +15,7 @@ class EditDictionary(tk.Frame):
         self.random_words = None
         self.random_word = tk.StringVar()
         self.old_page = ""
+        self.entry = ""
         self.new_page = ""
         self.is_bold = False
         self.is_italic = False
@@ -29,7 +31,7 @@ class EditDictionary(tk.Frame):
         self.heading.bind("<Return>", self.bring_entry)
         self.go_button = tk.Button(self, text="GO!", command=self.bring_entry)
         self.go_button.grid(row=1, column=1, sticky=tk.NW)
-        self.publish_button = tk.Button(text="Publish", command=self.publish)
+        self.publish_button = tk.Button(text="Publish", command=self.save)
         self.publish_button.grid(row=1, column=2, sticky=tk.NW)
         self.random_words = tk.Label(self, textvariable=self.random_word)
         self.random_words.grid(row=1, column=0)
@@ -41,7 +43,7 @@ class EditDictionary(tk.Frame):
         self.edit_text.bind("<Control-i>", self.italic)
         self.edit_text.bind("<Control-k>", self.small_caps)
         self.edit_text.bind("<Control-h>", self.add_hyperlink)
-        self.edit_text.bind("<Control-s>", self.publish)
+        self.edit_text.bind("<Control-s>", self.save)
         self.edit_text.bind("<Control-z>", self.bring_entry)
         self.edit_text.bind("<Control-q>", self.get_prefix)
         self.edit_text.bind("<Control-w>", self.get_suffix)
@@ -49,12 +51,12 @@ class EditDictionary(tk.Frame):
         self.edit_text.grid(row=1, rowspan=19, column=1)
 
     def new_word(self, event=None):
-        new_template = "[2]\n"
+        new_template = "[2]" + self.entry + "\n"
         new_template += "[3]High Lulani\n"
-        new_template += "[4][hl][/hl]\n"
+        new_template += "[4]" + tinellb.conversion(self.entry).replace(".", "") + "\n"
         new_template += "[5]<ipa>//</ipa>\n"
-        new_template += "[6] <div class=\\\"definition\\\"></div>\n\n"
-        self.edit_text.insert(tk.INSERT, new_template)
+        new_template += "[6] <div class=\\\"definition\\\"></div>\n"
+        self.edit_text.insert(1.0, new_template)
         self.edit_text.mark_set(tk.INSERT, "1.3")
         return "break"
 
@@ -180,8 +182,8 @@ class EditDictionary(tk.Frame):
         self.edit_text.insert(tk.INSERT, text)
 
     def bring_entry(self, event=None):
-        entry = self.heading.get(1.0, tk.END+"-1c")
-        self.old_page = tinellb.find_entry("dictionary_data.txt", entry)
+        self.entry = self.heading.get(1.0, tk.END+"-1c")
+        self.old_page = tinellb.find_entry("dictionary_data.txt", self.entry)
         self.new_page = self.markdown.to_markdown(self.old_page)
         self.edit_text.delete(1.0, tk.END)
         self.edit_text.insert(1.0, self.new_page)
@@ -189,19 +191,26 @@ class EditDictionary(tk.Frame):
         self.edit_text.mark_set(tk.INSERT, "1.0")
         return "break"
 
-    def publish(self, event=None):
-        self.new_page = self.edit_text.get(1.0, tk.END+"-1c")
+    def save(self, event=None):
+        location = self.edit_text.index(tk.INSERT)
+        self.new_page = self.edit_text.get(1.0, tk.END)
         self.new_page = self.markdown.to_markup(self.new_page)
         with open("dictionary_data.txt", "r") as dictionary:
             page = dictionary.read()
         page = page.replace(self.old_page, self.new_page)
         with open("dictionary_data.txt", "w") as dictionary:
             dictionary.write(page)
-        HtmlPage("dictionary", 2)
-        create_search()
         self.bring_entry()
+        self.edit_text.mark_set(tk.INSERT, location)
+        t = threading.Thread(target=self.publish)
+        t.start()
         return "break"
 
+    @staticmethod
+    def publish():
+        HtmlPage("dictionary", 2)
+        create_search()
+        print("Done!")
 
 app = EditDictionary()
 app.master.title('Dictionary Edit')

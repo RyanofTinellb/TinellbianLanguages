@@ -40,42 +40,12 @@ High Lulani is the language created by Loren, queen of the Ptokonoi. It features
 High Lulani phonology has 18 consonant sounds and 3 vowels. Plosives are the only class that have a voicing distinction; fricatives are prototypically voiceless, and resonants are prototypically voiced. Vowels are defined in terms of openness and frontness; there are no oral, length or tone distinctions. All High Lulani words are formed from alternating consonant-vowel pairs. Any word-internal consonant can be geminated.
 [3]Consonants
 Consonants are differentiated by manner and place of articulation, and by word-internal gemination. Plosives also have contrasting voice.
-[t]
-labial
-alveolar
-palatal
-velar
-glottal
-[r]stop
-p b
-t d
-c &#x25f; &lt;j&gt;
-k g
-&#x294; &lt;&rsquo;&gt;
-[r]nasal
-m
-n
-
-&#x14b; &lt;q&gt;
-
-[r]lateral
-
-l
-
-
-
-[r]central
-
-&#x279; &lt;r&gt;
-
-
-
-[r]fricative
-f
-s
-&#x255; &lt;x&gt;
-
-h
+[t] | labial | alveolar | palatal | velar | glottal
+[r]stop | p b | t d | c &#x25f; &lt;j&gt; | k g | &#x294; &lt;&rsquo;&gt;
+[r]nasal | m | n |  | &#x14b; &lt;q&gt;
+[r]lateral |  | l
+[r]central |  | &#x279; &lt;r&gt;
+[r]fricative | f | s | &#x255; &lt;x&gt; |  | h
 [/t]
 This table shows the consonants phonemically, using the International Phonetic Alphabet. Where it differs from IPA, the transliteration is given in &lt;triangular brackets&gt;. Capital or geminate glottal stops are transliterated with &lt;&#x294;&gt;.
 [4]Stops
@@ -172,22 +142,10 @@ The fricative /h/ is a voiceless sound. When geminate, it is pronounced as a pal
 [e]<strong>quhha</strong> <em>river</em>
 [3]Vowels
 There are three phonemic vowels, with three main allophones for each. The vowels are distinguished by closeness and frontness.
-[t]
-front
-central
-back
-[r]close
-i
-(&#x268;) (&#x289;)
-u
-[r]mid
-
-(&#x259;)
-
-[r]open
-a
-
-
+[t] | front | central | back
+[r]close | i | (&#x268;) (&#x289;) | u
+[r]mid |  | (&#x259;)
+[r]open | a
 [/t]
 There are three phonemic vowels: two close vowels and one open. These are given in the above chart, with the variant allophones in (round brackets). The central and mid vowels are considered the lax variants, while the lengthened vowels are long.
 [4]Front
