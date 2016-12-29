@@ -22,6 +22,8 @@ class EditDictionary(tk.Frame):
         self.is_small_caps = False
         self.markdown = tinellb.Markdown()
         self.grid()
+        self.top = self.winfo_toplevel()
+        self.top.state("zoomed")
         self.create_widgets()
         os.chdir("C:/Users/Ryan/Documents/TinellbianLanguages")
 
@@ -58,6 +60,7 @@ class EditDictionary(tk.Frame):
         new_template += "[6] <div class=\\\"definition\\\"></div>\n"
         self.edit_text.insert(1.0, new_template)
         self.edit_text.mark_set(tk.INSERT, "1.3")
+        self.save()
         return "break"
 
     def refresh_random(self, event=None):
@@ -194,6 +197,8 @@ class EditDictionary(tk.Frame):
     def save(self, event=None):
         location = self.edit_text.index(tk.INSERT)
         self.new_page = self.edit_text.get(1.0, tk.END)
+        while self.new_page[-2:] == "\n\n":
+            self.new_page = self.new_page[:-1]
         self.new_page = self.markdown.to_markup(self.new_page)
         with open("dictionary_data.txt", "r") as dictionary:
             page = dictionary.read()

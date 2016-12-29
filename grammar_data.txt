@@ -445,8 +445,8 @@ The class of basic verbs is <strong>semi-closed</strong>. Basic verbs consist of
 [e]<strong>dissu</strong> <em>to feel</em>
 [e]<strong>&rsquo;usa</strong> <em>to see</em>
 [e]<strong>janni</strong> <em>to move</em>
-[e]<strong>kissaji</strong> <em>to fight</em>
-[e]<strong>munniki</strong> <em>to brighten</em>
+[e]<strong>kissa</strong> <em>to fight</em>
+[e]<strong>miku</strong> <em>to make red</em>
 [4]Compound Verbs
 In order to extend or specify the meaning of many verbs, verbs can be compounded much as a noun can. Compound verbs are, however, much more common than compound nouns, to make up for the relative lack of basic verbs.
 [f]<strong>&rsquo;isinna</strong> <em>to tell a story</em> (<strong>&rsquo;i</strong> <em>to speak</em> + <strong>sinna</strong> <em>story</em>)

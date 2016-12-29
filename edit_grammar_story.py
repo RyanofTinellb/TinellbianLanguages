@@ -27,6 +27,8 @@ class EditPage(tk.Frame):
         self.file_name = ""
         self.markdown = tinellb.Markdown()
         self.grid()
+        self.top = self.winfo_toplevel()
+        self.top.state("zoomed")
         self.create_widgets()
 
     def create_widgets(self):

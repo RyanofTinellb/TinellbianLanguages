@@ -355,8 +355,6 @@ def create_search():
             text = remove_tags(text)
             line = line.split(" ")
             for word in line:
-                if word == "laa":
-                    k = 1 / 0
                 if "\\" in word or '"' in word or word in ["", "&rarr", "&larr", "&darr", "&uarr", "&mdash"]:
                     continue
                 extension = "/index.html" if node.generation() < leaf_level else ".html"

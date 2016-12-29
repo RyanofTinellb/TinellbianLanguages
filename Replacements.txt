@@ -44,7 +44,6 @@ _ &under;
 &lsquo; `
 &rdquo; "
 &ldquo; `"
-&#x2b1; $h
 &#x268; -i
 &#x25f; -j
 &#x2d0; ::
@@ -56,7 +55,9 @@ _ &under;
 &#x2cc; _'
 &#x2c8; -'
 &#x289; -u
+&#x16b; _u
 &#xe7; $c
+&#x2b1; ++h
 &rarr; -)
 &larr; (-
 &plus; \+

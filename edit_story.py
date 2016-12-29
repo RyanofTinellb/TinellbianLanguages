@@ -32,6 +32,8 @@ class EditStory(tk.Frame):
         self.markdown = tinellb.Markdown()
         self.grid()
         self.create_window()
+        self.top = self.winfo_toplevel()
+        self.top.state("zoomed")
         self.open_file()
 
     def create_window(self):
