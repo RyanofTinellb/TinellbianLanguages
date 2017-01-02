@@ -478,6 +478,8 @@ a mood of joy or supreme contentment
 [7]Synonyms
 <strong><a href="../s/sa.html">sa</a><a href="../k/ki.html">ki</a> <a href="../r/ra.html">ra</a></strong> <high-lulani>(sK / r)</high-lulani> <em>half</em>
 [6]inanimate stem noun <div class="definition">void; vacuum</div>
+[7]Derived Terms
+<strong><a href="../s/sutti'ima.html">sutti&rsquo;ima</a></strong> <high-lulani>(z;Tim)</high-lulani> <em>hesitation</em>
 [7]See Also
 <a href="../u/'u'a.html">&rsquo;u&rsquo;a</a> <high-lulani>(ua)</high-lulani> <em>wood</em>
 <a href="../d/da.html">da</a> <high-lulani>(d)</high-lulani> <em>water</em>
@@ -1087,8 +1089,10 @@ state
 [4]<high-lulani>(pmn)</high-lulani>
 [5]<ipa>/p&#x2b0;&#x259;.&#x2c8;man.&#x259;/</ipa>
 [6]intransitive derived compound verb <div class="definition">to realise</div>
+[7]Definition
+to have a though slowly rise in one&rsquo;s mind
 [7]Etymology
-<a href="../p/pa.html">pa</a> <high-lulani>(p)</high-lulani> <em>to think</em> + <a href="../m/mana.html">mana</a> <high-lulani>(mn)</high-lulani> <em>bubble</em>
+<a href="../p/pa.html">pa</a> <high-lulani>(p)</high-lulani> <em>to think</em> + <a href="../m/mana.html">mana</a> <high-lulani>(mn)</high-lulani> <em>realisation</em>
 [2]pamasi
 [3]High Lulani
 [4]<high-lulani>(pmS)</high-lulani>
@@ -2640,6 +2644,17 @@ rare
 <a href="../s/saniki.html">&larr; saniki</a> <high-lulani>(sNK)</high-lulani> <em>seaborgium</em>
 <a href="../i/'i'ami.html">&rarr; &rsquo;i&rsquo;ami</a> <high-lulani>(iaM)</high-lulani> <em>hassium</em>
 <a href="../h/hasuki.html">&uarr; hasuki</a> <high-lulani>(hzK)</high-lulani> <em>rhenium</em>
+[2]cadi
+[3]High Lulani
+[4]<high-lulani>cD</high-lulani>
+[5]<ipa>/&#x2c8;cad.&#x268;/</ipa>
+[6]inanimate stem noun <div class="definition">wall; barrier; boundary</div>
+[7]Definition
+an outer wall or boundary
+[7]Derived Terms
+<strong><a href="../g/gupicadi.html">gupicadi</a></strong> <high-lulani>&lt;PcD</high-lulani> <em>to guard</em>
+[7]See Also
+<strong><a href="../l/lukku.html">lukku</a></strong> <high-lulani>(W;&gt;)</high-lulani> <em>wall</em>
 [2]cakassu
 [3]High Lulani
 [4]<high-lulani>(ck;z)</high-lulani>
@@ -2739,6 +2754,11 @@ One of ten directions in which something can be measured, or one of four ways in
 [6]stem adjective <div class="definition">remaining; rest</div>
 [7]Examples
 <a href="../m/musa.html">musacari</a> <high-lulani>(UscR)</high-lulani> <em>rest of the day</em>
+[2]cahuri
+[3]High Lulani
+[4]<high-lulani>cVR</high-lulani>
+[5]<ipa>/c&#x2b0;&#x259;.&#x2c8;hu&#x279;.&#x268;/</ipa>
+[6]inanimate stem noun <div class="definition">market stall</div>
 [2]ci&#x294;a
 [3]High Lulani
 [4]<high-lulani>(C;a)</high-lulani>
@@ -2932,6 +2952,13 @@ poetic
 [6]stem adposition <div class="definition">along; across</div>
 [7]Examples
 <strong><a href="../j/janni.html">jannija</a></strong> <high-lulani>(j;Nj)</high-lulani> <em>to move across</em>
+[2]japu
+[3]High Lulani
+[4]<high-lulani>jo</high-lulani>
+[5]<ipa>/&#x2c8;&#x25f;ap&#x2b0;.&#x289;/</ipa>
+[6]abstract stem noun <div class="definition">sincerity</div>
+[7]Derived Terms
+<strong><a href="../x/xi.html">xijapu</a></strong> <high-lulani>Xjo</high-lulani> <em>to be sincere</em>
 [2]jagaru
 [3]High Lulani
 [4]<high-lulani>(jgw)</high-lulani>
@@ -3241,7 +3268,7 @@ Not used with possessives.
 [2]kaba
 [3]High Lulani
 [4]<high-lulani>(kb)</high-lulani>
-[5]<ipa>//k&#x2b0;ab.&#x259;//</ipa>
+[5]<ipa>/k&#x2b0;ab.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">verb</div>
 [2]kata
 [3]High Lulani
@@ -4122,6 +4149,13 @@ used to give further information
 <strong>&#x294;usu gupi.</strong>
 <small-caps>1int</small-caps> <em>sit.</em>
 &ldquo;I sat down.&rdquo;
+[2]gupicadi
+[3]High Lulani
+[4]<high-lulani>&lt;PcD</high-lulani>
+[5]<ipa>/&#x2cc;gup&#x2b0;.&#x268;.&#x2c8;c&#x2b0;ad.&#x268;/</ipa>
+[6]derived verb <div class="definition">to guard; to stay behind</div>
+[7]Usage Notes
+Means &lsquo;to guard&rsquo; with a causative argument, else &lsquo;to remain&rsquo;
 [2]guqqa
 [3]High Lulani
 [4]<high-lulani>(&lt;;q)</high-lulani>
@@ -4339,6 +4373,7 @@ state
 [4]<high-lulani>(mn)</high-lulani>
 [5]<ipa>/&#x2c8;man.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">bubble</div>
+[6]abstract stem noun <div class="definition">ascent; rising</div>
 [7]Derived Terms
 <a href="../p/pamana.html">pamana</a> <high-lulani>(pmn)</high-lulani> <em>to realise</em>
 [2]manafa
@@ -4874,6 +4909,8 @@ most usually used as a verbal prefix
 [4]<high-lulani>(nTh)</high-lulani>
 [5]<ipa>/n&#x259;.t&#x2b0;ih.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">box</div>
+[7]Derived Terms
+<strong><a href="../s/saqanatiha.html">saqanatiha</a></strong> <high-lulani>(sqnTh)</high-lulani> <em>to book</em>
 [2]natu
 [3]High Lulani
 [4]<high-lulani>(ne)</high-lulani>
@@ -6092,6 +6129,9 @@ state
 [4]<high-lulani>(LI)</high-lulani>
 [5]<ipa>/&#x2c8;lin.&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">tree</div>
+[6]abstract stem noun <div class="definition">realisation</div>
+[7]Derived Terms
+<strong><a href="../p/pa.html">palinu</a></strong> <high-lulani>pLI</high-lulani> <em>to realise</em>
 [2]liqa
 [3]High Lulani
 [4]<high-lulani>(Lq)</high-lulani>
@@ -6195,6 +6235,8 @@ a public speaking session
 [4]<high-lulani>(W;&gt;)</high-lulani>
 [5]<ipa>/&#x2c8;luk.k&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">wall</div>
+[7]Definition
+the wall of a building, especially viewed from inside
 [2]lumi
 [3]High Lulani
 [4]<high-lulani>(WM)</high-lulani>
@@ -6534,6 +6576,11 @@ gnomic
 [6]stem attributive suffix <div class="definition">made of</div>
 [7]Examples
 <strong>&rsquo;u&rsquo;aruku &rsquo;i&rsquo;uja</strong> <high-lulani>(uaw&gt; / iuj)</high-lulani> <em>wooden table</em>
+[2]ruga
+[3]High Lulani
+[4]<high-lulani>wg</high-lulani>
+[5]<ipa>//</ipa>
+[6] <div class="definition"></div>
 [2]rusa
 [3]High Lulani
 [4]<high-lulani>(ws)</high-lulani>
@@ -6571,7 +6618,6 @@ gnomic
 [7]See Also
 <a href="../n/na.html">na</a> <high-lulani>(n)</high-lulani> <em>going to</em>
 <a href="../r/ra'u.html">ra&rsquo;u</a> <high-lulani>(ru)</high-lulani> <em>being in</em>
-
 [1]F
 [2]fa&#x294;a
 [3]High Lulani
@@ -7288,6 +7334,13 @@ state
 <a href="../f/fana.html">fana</a>
 <a href="../f/fana.html">fana</a>
 [/t]
+[2]saqanatiha
+[3]High Lulani
+[4]<high-lulani>sqnTh</high-lulani>
+[5]<ipa>/&#x2cc;sa&#x14b;.&#x259;.n&#x259;.&#x2c8;t&#x2b0;ih.&#x259;/</ipa>
+[6]derived verb <div class="definition">to book; to reserve</div>
+[7]Etymology
+<strong><a href="../s/saqa.html">saqa</a></strong> <high-lulani>sq</high-lulani> <em>ready</em> + <strong><a href="../n/natiha.html">natiha</a></strong> <high-lulani>nTh</high-lulani> <em>box</em>
 [2]saqala
 [3]High Lulani
 [4]<high-lulani>(sql)</high-lulani>
@@ -7626,6 +7679,15 @@ the spiritual body; the emergent property of the heart; the part of a personalit
 <a href="../a/'ahati.html">&rsquo;ahati</a> <high-lulani>(ahT)</high-lulani> <em>happiness</em>
 <a href="../i/'isili.html">&rsquo;isili</a> <high-lulani>(iSL)</high-lulani> <em>sadness</em>
 <a href="../d/dasa.html">dasa</a> <high-lulani>(ds)</high-lulani> <em>passion</em>
+[2]sutti&rsquo;ima
+[3]High Lulani
+[4]<high-lulani>z;Tim</high-lulani>
+[5]<ipa>/&#x2cc;sut.t&#x268;.&#x2c8;&#x294;im.&#x259;/</ipa>
+[6]derived compound noun <div class="definition">hesitation</div>
+[7]Definition
+a fear stemming from lack of knowledge of the future
+[7]Etymology
+<strong><a href="../s/sutti.html">sutti</a></strong> <high-lulani>z;T</high-lulani> <em>fear</em> + <strong><a href="../i/'ima.html">&rsquo;ima</a></strong> <high-lulani>im</high-lulani> <em>void</em>
 [2]suda
 [3]High Lulani
 [4]<high-lulani>(zd)</high-lulani>

@@ -4,701 +4,20 @@
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlPage.py" afterPath="$PROJECT_DIR$/HtmlPage.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Replacements.txt" afterPath="$PROJECT_DIR$/Replacements.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scratch.py" afterPath="$PROJECT_DIR$/Scratch.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Search.html" afterPath="$PROJECT_DIR$/Search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'a'ami.html" afterPath="$PROJECT_DIR$/dictionary/a/'a'ami.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'a'ima.html" afterPath="$PROJECT_DIR$/dictionary/a/'a'ima.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'a.html" afterPath="$PROJECT_DIR$/dictionary/a/'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'aba.html" afterPath="$PROJECT_DIR$/dictionary/a/'aba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'adda.html" afterPath="$PROJECT_DIR$/dictionary/a/'adda.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'adi.html" afterPath="$PROJECT_DIR$/dictionary/a/'adi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'agga.html" afterPath="$PROJECT_DIR$/dictionary/a/'agga.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'aggami.html" afterPath="$PROJECT_DIR$/dictionary/a/'aggami.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'aggini.html" afterPath="$PROJECT_DIR$/dictionary/a/'aggini.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'agusa.html" afterPath="$PROJECT_DIR$/dictionary/a/'agusa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'ahati.html" afterPath="$PROJECT_DIR$/dictionary/a/'ahati.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'aka.html" afterPath="$PROJECT_DIR$/dictionary/a/'aka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'akki.html" afterPath="$PROJECT_DIR$/dictionary/a/'akki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'ala.html" afterPath="$PROJECT_DIR$/dictionary/a/'ala.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'ali.html" afterPath="$PROJECT_DIR$/dictionary/a/'ali.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'alissa.html" afterPath="$PROJECT_DIR$/dictionary/a/'alissa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'alla.html" afterPath="$PROJECT_DIR$/dictionary/a/'alla.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'ama.html" afterPath="$PROJECT_DIR$/dictionary/a/'ama.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'anni.html" afterPath="$PROJECT_DIR$/dictionary/a/'anni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'anu.html" afterPath="$PROJECT_DIR$/dictionary/a/'anu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'appu.html" afterPath="$PROJECT_DIR$/dictionary/a/'appu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'appuli.html" afterPath="$PROJECT_DIR$/dictionary/a/'appuli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'aqqixi.html" afterPath="$PROJECT_DIR$/dictionary/a/'aqqixi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'ara.html" afterPath="$PROJECT_DIR$/dictionary/a/'ara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'aru'u.html" afterPath="$PROJECT_DIR$/dictionary/a/'aru'u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'asila.html" afterPath="$PROJECT_DIR$/dictionary/a/'asila.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'asilari.html" afterPath="$PROJECT_DIR$/dictionary/a/'asilari.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'assa.html" afterPath="$PROJECT_DIR$/dictionary/a/'assa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'axasi.html" afterPath="$PROJECT_DIR$/dictionary/a/'axasi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/'axasiri.html" afterPath="$PROJECT_DIR$/dictionary/a/'axasiri.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/-aku.html" afterPath="$PROJECT_DIR$/dictionary/a/-aku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/a/-atinna.html" afterPath="$PROJECT_DIR$/dictionary/a/-atinna.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/ba'u.html" afterPath="$PROJECT_DIR$/dictionary/b/ba'u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/ba.html" afterPath="$PROJECT_DIR$/dictionary/b/ba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/baca.html" afterPath="$PROJECT_DIR$/dictionary/b/baca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bada.html" afterPath="$PROJECT_DIR$/dictionary/b/bada.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/baju.html" afterPath="$PROJECT_DIR$/dictionary/b/baju.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bajukunubi.html" afterPath="$PROJECT_DIR$/dictionary/b/bajukunubi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/banara.html" afterPath="$PROJECT_DIR$/dictionary/b/banara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/basa.html" afterPath="$PROJECT_DIR$/dictionary/b/basa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/basi.html" afterPath="$PROJECT_DIR$/dictionary/b/basi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bassa.html" afterPath="$PROJECT_DIR$/dictionary/b/bassa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bata.html" afterPath="$PROJECT_DIR$/dictionary/b/bata.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/batu.html" afterPath="$PROJECT_DIR$/dictionary/b/batu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/batuja.html" afterPath="$PROJECT_DIR$/dictionary/b/batuja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bi'u.html" afterPath="$PROJECT_DIR$/dictionary/b/bi'u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bi.html" afterPath="$PROJECT_DIR$/dictionary/b/bi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bibu.html" afterPath="$PROJECT_DIR$/dictionary/b/bibu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bijaju.html" afterPath="$PROJECT_DIR$/dictionary/b/bijaju.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bila.html" afterPath="$PROJECT_DIR$/dictionary/b/bila.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bitta.html" afterPath="$PROJECT_DIR$/dictionary/b/bitta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/buccata.html" afterPath="$PROJECT_DIR$/dictionary/b/buccata.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bufi.html" afterPath="$PROJECT_DIR$/dictionary/b/bufi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bufiqi.html" afterPath="$PROJECT_DIR$/dictionary/b/bufiqi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bufitila.html" afterPath="$PROJECT_DIR$/dictionary/b/bufitila.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/buma.html" afterPath="$PROJECT_DIR$/dictionary/b/buma.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bumaki.html" afterPath="$PROJECT_DIR$/dictionary/b/bumaki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bumissi.html" afterPath="$PROJECT_DIR$/dictionary/b/bumissi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/bunali.html" afterPath="$PROJECT_DIR$/dictionary/b/bunali.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/b/buqqi.html" afterPath="$PROJECT_DIR$/dictionary/b/buqqi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/ca'a.html" afterPath="$PROJECT_DIR$/dictionary/c/ca'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/ca'alla.html" afterPath="$PROJECT_DIR$/dictionary/c/ca'alla.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/ca'i.html" afterPath="$PROJECT_DIR$/dictionary/c/ca'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/ca.html" afterPath="$PROJECT_DIR$/dictionary/c/ca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cabahi.html" afterPath="$PROJECT_DIR$/dictionary/c/cabahi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/caga.html" afterPath="$PROJECT_DIR$/dictionary/c/caga.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cakassu.html" afterPath="$PROJECT_DIR$/dictionary/c/cakassu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cakina.html" afterPath="$PROJECT_DIR$/dictionary/c/cakina.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/calluna.html" afterPath="$PROJECT_DIR$/dictionary/c/calluna.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/calu.html" afterPath="$PROJECT_DIR$/dictionary/c/calu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cani.html" afterPath="$PROJECT_DIR$/dictionary/c/cani.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/caqara.html" afterPath="$PROJECT_DIR$/dictionary/c/caqara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/ci''a.html" afterPath="$PROJECT_DIR$/dictionary/c/ci''a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cica.html" afterPath="$PROJECT_DIR$/dictionary/c/cica.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cijja.html" afterPath="$PROJECT_DIR$/dictionary/c/cijja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cikki.html" afterPath="$PROJECT_DIR$/dictionary/c/cikki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cipu.html" afterPath="$PROJECT_DIR$/dictionary/c/cipu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/ciqu.html" afterPath="$PROJECT_DIR$/dictionary/c/ciqu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cissa.html" afterPath="$PROJECT_DIR$/dictionary/c/cissa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cu'i.html" afterPath="$PROJECT_DIR$/dictionary/c/cu'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cu.html" afterPath="$PROJECT_DIR$/dictionary/c/cu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cula.html" afterPath="$PROJECT_DIR$/dictionary/c/cula.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cura'a.html" afterPath="$PROJECT_DIR$/dictionary/c/cura'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cura.html" afterPath="$PROJECT_DIR$/dictionary/c/cura.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/curri.html" afterPath="$PROJECT_DIR$/dictionary/c/curri.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cussa.html" afterPath="$PROJECT_DIR$/dictionary/c/cussa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/cussi.html" afterPath="$PROJECT_DIR$/dictionary/c/cussi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/da'aru.html" afterPath="$PROJECT_DIR$/dictionary/d/da'aru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/da'u.html" afterPath="$PROJECT_DIR$/dictionary/d/da'u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/da.html" afterPath="$PROJECT_DIR$/dictionary/d/da.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/danagi.html" afterPath="$PROJECT_DIR$/dictionary/d/danagi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dapi.html" afterPath="$PROJECT_DIR$/dictionary/d/dapi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/daru'i.html" afterPath="$PROJECT_DIR$/dictionary/d/daru'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/daruli.html" afterPath="$PROJECT_DIR$/dictionary/d/daruli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dasa.html" afterPath="$PROJECT_DIR$/dictionary/d/dasa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dasi.html" afterPath="$PROJECT_DIR$/dictionary/d/dasi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dasu.html" afterPath="$PROJECT_DIR$/dictionary/d/dasu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dasutila.html" afterPath="$PROJECT_DIR$/dictionary/d/dasutila.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dattu.html" afterPath="$PROJECT_DIR$/dictionary/d/dattu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dattusa.html" afterPath="$PROJECT_DIR$/dictionary/d/dattusa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/daxuni.html" afterPath="$PROJECT_DIR$/dictionary/d/daxuni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/di.html" afterPath="$PROJECT_DIR$/dictionary/d/di.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dihiqa.html" afterPath="$PROJECT_DIR$/dictionary/d/dihiqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dina.html" afterPath="$PROJECT_DIR$/dictionary/d/dina.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/diru.html" afterPath="$PROJECT_DIR$/dictionary/d/diru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/disa.html" afterPath="$PROJECT_DIR$/dictionary/d/disa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/disi.html" afterPath="$PROJECT_DIR$/dictionary/d/disi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/disinnamuka.html" afterPath="$PROJECT_DIR$/dictionary/d/disinnamuka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dissu'ahati.html" afterPath="$PROJECT_DIR$/dictionary/d/dissu'ahati.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dissu.html" afterPath="$PROJECT_DIR$/dictionary/d/dissu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dixxa.html" afterPath="$PROJECT_DIR$/dictionary/d/dixxa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/du'i.html" afterPath="$PROJECT_DIR$/dictionary/d/du'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/du.html" afterPath="$PROJECT_DIR$/dictionary/d/du.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/duci.html" afterPath="$PROJECT_DIR$/dictionary/d/duci.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/ducinibasa.html" afterPath="$PROJECT_DIR$/dictionary/d/ducinibasa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dukku.html" afterPath="$PROJECT_DIR$/dictionary/d/dukku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/duku.html" afterPath="$PROJECT_DIR$/dictionary/d/duku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dumi.html" afterPath="$PROJECT_DIR$/dictionary/d/dumi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dura.html" afterPath="$PROJECT_DIR$/dictionary/d/dura.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dusi.html" afterPath="$PROJECT_DIR$/dictionary/d/dusi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/dusuni.html" afterPath="$PROJECT_DIR$/dictionary/d/dusuni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/index.html" afterPath="$PROJECT_DIR$/dictionary/d/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/-ffi.html" afterPath="$PROJECT_DIR$/dictionary/f/-ffi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/-fi.html" afterPath="$PROJECT_DIR$/dictionary/f/-fi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fa''a.html" afterPath="$PROJECT_DIR$/dictionary/f/fa''a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fa'aka.html" afterPath="$PROJECT_DIR$/dictionary/f/fa'aka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fa'ida.html" afterPath="$PROJECT_DIR$/dictionary/f/fa'ida.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fada.html" afterPath="$PROJECT_DIR$/dictionary/f/fada.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fajuli.html" afterPath="$PROJECT_DIR$/dictionary/f/fajuli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/faluki.html" afterPath="$PROJECT_DIR$/dictionary/f/faluki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/famati.html" afterPath="$PROJECT_DIR$/dictionary/f/famati.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/famu.html" afterPath="$PROJECT_DIR$/dictionary/f/famu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fana.html" afterPath="$PROJECT_DIR$/dictionary/f/fana.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fara.html" afterPath="$PROJECT_DIR$/dictionary/f/fara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/farra.html" afterPath="$PROJECT_DIR$/dictionary/f/farra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fasa.html" afterPath="$PROJECT_DIR$/dictionary/f/fasa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fasami.html" afterPath="$PROJECT_DIR$/dictionary/f/fasami.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/faxi.html" afterPath="$PROJECT_DIR$/dictionary/f/faxi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fi'atu.html" afterPath="$PROJECT_DIR$/dictionary/f/fi'atu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fi.html" afterPath="$PROJECT_DIR$/dictionary/f/fi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fibaku.html" afterPath="$PROJECT_DIR$/dictionary/f/fibaku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fiha.html" afterPath="$PROJECT_DIR$/dictionary/f/fiha.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/filli.html" afterPath="$PROJECT_DIR$/dictionary/f/filli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fiqqala.html" afterPath="$PROJECT_DIR$/dictionary/f/fiqqala.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fiqu.html" afterPath="$PROJECT_DIR$/dictionary/f/fiqu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fu.html" afterPath="$PROJECT_DIR$/dictionary/f/fu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/fula.html" afterPath="$PROJECT_DIR$/dictionary/f/fula.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/f/funi.html" afterPath="$PROJECT_DIR$/dictionary/f/funi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/ga'i.html" afterPath="$PROJECT_DIR$/dictionary/g/ga'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/ga'iniqqi.html" afterPath="$PROJECT_DIR$/dictionary/g/ga'iniqqi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/ga.html" afterPath="$PROJECT_DIR$/dictionary/g/ga.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gaca.html" afterPath="$PROJECT_DIR$/dictionary/g/gaca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gakka.html" afterPath="$PROJECT_DIR$/dictionary/g/gakka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/galaffidu.html" afterPath="$PROJECT_DIR$/dictionary/g/galaffidu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gaxiki.html" afterPath="$PROJECT_DIR$/dictionary/g/gaxiki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gi'a.html" afterPath="$PROJECT_DIR$/dictionary/g/gi'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gi'ika.html" afterPath="$PROJECT_DIR$/dictionary/g/gi'ika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gi.html" afterPath="$PROJECT_DIR$/dictionary/g/gi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gibi.html" afterPath="$PROJECT_DIR$/dictionary/g/gibi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/girammi.html" afterPath="$PROJECT_DIR$/dictionary/g/girammi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gufu'iri.html" afterPath="$PROJECT_DIR$/dictionary/g/gufu'iri.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/guozu.html" afterPath="$PROJECT_DIR$/dictionary/g/guozu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gupi.html" afterPath="$PROJECT_DIR$/dictionary/g/gupi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/guqqa.html" afterPath="$PROJECT_DIR$/dictionary/g/guqqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gurrisu.html" afterPath="$PROJECT_DIR$/dictionary/g/gurrisu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gusu.html" afterPath="$PROJECT_DIR$/dictionary/g/gusu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/gusuli.html" afterPath="$PROJECT_DIR$/dictionary/g/gusuli.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/index.html" afterPath="$PROJECT_DIR$/dictionary/c/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/g/index.html" afterPath="$PROJECT_DIR$/dictionary/g/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hafi.html" afterPath="$PROJECT_DIR$/dictionary/h/hafi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/haki.html" afterPath="$PROJECT_DIR$/dictionary/h/haki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/halu.html" afterPath="$PROJECT_DIR$/dictionary/h/halu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hannaku.html" afterPath="$PROJECT_DIR$/dictionary/h/hannaku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/haru.html" afterPath="$PROJECT_DIR$/dictionary/h/haru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hassifula.html" afterPath="$PROJECT_DIR$/dictionary/h/hassifula.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hasuki.html" afterPath="$PROJECT_DIR$/dictionary/h/hasuki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hatanu.html" afterPath="$PROJECT_DIR$/dictionary/h/hatanu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hibu.html" afterPath="$PROJECT_DIR$/dictionary/h/hibu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hika.html" afterPath="$PROJECT_DIR$/dictionary/h/hika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hila.html" afterPath="$PROJECT_DIR$/dictionary/h/hila.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hiqa.html" afterPath="$PROJECT_DIR$/dictionary/h/hiqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hisu.html" afterPath="$PROJECT_DIR$/dictionary/h/hisu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hisubajana.html" afterPath="$PROJECT_DIR$/dictionary/h/hisubajana.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hu'asa.html" afterPath="$PROJECT_DIR$/dictionary/h/hu'asa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hu.html" afterPath="$PROJECT_DIR$/dictionary/h/hu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/huba.html" afterPath="$PROJECT_DIR$/dictionary/h/huba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hulla.html" afterPath="$PROJECT_DIR$/dictionary/h/hulla.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/hulu.html" afterPath="$PROJECT_DIR$/dictionary/h/hulu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/huri.html" afterPath="$PROJECT_DIR$/dictionary/h/huri.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/husabi.html" afterPath="$PROJECT_DIR$/dictionary/h/husabi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/h/index.html" afterPath="$PROJECT_DIR$/dictionary/h/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'i'ami.html" afterPath="$PROJECT_DIR$/dictionary/i/'i'ami.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'i'isata.html" afterPath="$PROJECT_DIR$/dictionary/i/'i'isata.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'i'uja.html" afterPath="$PROJECT_DIR$/dictionary/i/'i'uja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'i.html" afterPath="$PROJECT_DIR$/dictionary/i/'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'idu.html" afterPath="$PROJECT_DIR$/dictionary/i/'idu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'iffa.html" afterPath="$PROJECT_DIR$/dictionary/i/'iffa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ifuhhanaku.html" afterPath="$PROJECT_DIR$/dictionary/i/'ifuhhanaku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ikka.html" afterPath="$PROJECT_DIR$/dictionary/i/'ikka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'iku.html" afterPath="$PROJECT_DIR$/dictionary/i/'iku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ilasa.html" afterPath="$PROJECT_DIR$/dictionary/i/'ilasa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ili.html" afterPath="$PROJECT_DIR$/dictionary/i/'ili.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ilu.html" afterPath="$PROJECT_DIR$/dictionary/i/'ilu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ima.html" afterPath="$PROJECT_DIR$/dictionary/i/'ima.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'isaki.html" afterPath="$PROJECT_DIR$/dictionary/i/'isaki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'isili.html" afterPath="$PROJECT_DIR$/dictionary/i/'isili.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'issa.html" afterPath="$PROJECT_DIR$/dictionary/i/'issa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'issi.html" afterPath="$PROJECT_DIR$/dictionary/i/'issi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'issu.html" afterPath="$PROJECT_DIR$/dictionary/i/'issu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ita'i'assa.html" afterPath="$PROJECT_DIR$/dictionary/i/'ita'i'assa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ita'i.html" afterPath="$PROJECT_DIR$/dictionary/i/'ita'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'iti.html" afterPath="$PROJECT_DIR$/dictionary/i/'iti.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'itikku.html" afterPath="$PROJECT_DIR$/dictionary/i/'itikku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ittika.html" afterPath="$PROJECT_DIR$/dictionary/i/'ittika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ixxa'i.html" afterPath="$PROJECT_DIR$/dictionary/i/'ixxa'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/'ixxa.html" afterPath="$PROJECT_DIR$/dictionary/i/'ixxa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/-illu.html" afterPath="$PROJECT_DIR$/dictionary/i/-illu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/i/-ini.html" afterPath="$PROJECT_DIR$/dictionary/i/-ini.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/index.html" afterPath="$PROJECT_DIR$/dictionary/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/index.html" afterPath="$PROJECT_DIR$/dictionary/j/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/ja.html" afterPath="$PROJECT_DIR$/dictionary/j/ja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/jagaru.html" afterPath="$PROJECT_DIR$/dictionary/j/jagaru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/jala.html" afterPath="$PROJECT_DIR$/dictionary/j/jala.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/jalla.html" afterPath="$PROJECT_DIR$/dictionary/j/jalla.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/jami.html" afterPath="$PROJECT_DIR$/dictionary/j/jami.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/jana.html" afterPath="$PROJECT_DIR$/dictionary/j/jana.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/janni'u'ili.html" afterPath="$PROJECT_DIR$/dictionary/j/janni'u'ili.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/janni.html" afterPath="$PROJECT_DIR$/dictionary/j/janni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/ji'a.html" afterPath="$PROJECT_DIR$/dictionary/j/ji'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/ji'i.html" afterPath="$PROJECT_DIR$/dictionary/j/ji'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/ji.html" afterPath="$PROJECT_DIR$/dictionary/j/ji.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/jifiru'i.html" afterPath="$PROJECT_DIR$/dictionary/j/jifiru'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/jiqu.html" afterPath="$PROJECT_DIR$/dictionary/j/jiqu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/jisuka.html" afterPath="$PROJECT_DIR$/dictionary/j/jisuka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/ju'i.html" afterPath="$PROJECT_DIR$/dictionary/j/ju'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/ju'iduku.html" afterPath="$PROJECT_DIR$/dictionary/j/ju'iduku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/ju'ipu'a.html" afterPath="$PROJECT_DIR$/dictionary/j/ju'ipu'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/julliga.html" afterPath="$PROJECT_DIR$/dictionary/j/julliga.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/jusi.html" afterPath="$PROJECT_DIR$/dictionary/j/jusi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/-kku.html" afterPath="$PROJECT_DIR$/dictionary/k/-kku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/ka''a.html" afterPath="$PROJECT_DIR$/dictionary/k/ka''a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/ka'i.html" afterPath="$PROJECT_DIR$/dictionary/k/ka'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/ka'u.html" afterPath="$PROJECT_DIR$/dictionary/k/ka'u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/ka.html" afterPath="$PROJECT_DIR$/dictionary/k/ka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kaca.html" afterPath="$PROJECT_DIR$/dictionary/k/kaca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kadu.html" afterPath="$PROJECT_DIR$/dictionary/k/kadu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kadusi.html" afterPath="$PROJECT_DIR$/dictionary/k/kadusi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kahi.html" afterPath="$PROJECT_DIR$/dictionary/k/kahi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kalu.html" afterPath="$PROJECT_DIR$/dictionary/k/kalu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kamiri.html" afterPath="$PROJECT_DIR$/dictionary/k/kamiri.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kanama.html" afterPath="$PROJECT_DIR$/dictionary/k/kanama.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kanu.html" afterPath="$PROJECT_DIR$/dictionary/k/kanu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kaqqa.html" afterPath="$PROJECT_DIR$/dictionary/k/kaqqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/karafi.html" afterPath="$PROJECT_DIR$/dictionary/k/karafi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kari.html" afterPath="$PROJECT_DIR$/dictionary/k/kari.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/karra.html" afterPath="$PROJECT_DIR$/dictionary/k/karra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/karu.html" afterPath="$PROJECT_DIR$/dictionary/k/karu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kasa.html" afterPath="$PROJECT_DIR$/dictionary/k/kasa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kasi.html" afterPath="$PROJECT_DIR$/dictionary/k/kasi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kasika.html" afterPath="$PROJECT_DIR$/dictionary/k/kasika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kassi.html" afterPath="$PROJECT_DIR$/dictionary/k/kassi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kassu.html" afterPath="$PROJECT_DIR$/dictionary/k/kassu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kasuja.html" afterPath="$PROJECT_DIR$/dictionary/k/kasuja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kata.html" afterPath="$PROJECT_DIR$/dictionary/k/kata.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kati.html" afterPath="$PROJECT_DIR$/dictionary/k/kati.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/katiru.html" afterPath="$PROJECT_DIR$/dictionary/k/katiru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/ki''a.html" afterPath="$PROJECT_DIR$/dictionary/k/ki''a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/ki.html" afterPath="$PROJECT_DIR$/dictionary/k/ki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kibba.html" afterPath="$PROJECT_DIR$/dictionary/k/kibba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kica.html" afterPath="$PROJECT_DIR$/dictionary/k/kica.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kicu.html" afterPath="$PROJECT_DIR$/dictionary/k/kicu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kiffaculi.html" afterPath="$PROJECT_DIR$/dictionary/k/kiffaculi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kifi.html" afterPath="$PROJECT_DIR$/dictionary/k/kifi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kika.html" afterPath="$PROJECT_DIR$/dictionary/k/kika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kilatu'i.html" afterPath="$PROJECT_DIR$/dictionary/k/kilatu'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kiluqu.html" afterPath="$PROJECT_DIR$/dictionary/k/kiluqu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kimilli.html" afterPath="$PROJECT_DIR$/dictionary/k/kimilli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kipacca.html" afterPath="$PROJECT_DIR$/dictionary/k/kipacca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kipu.html" afterPath="$PROJECT_DIR$/dictionary/k/kipu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kirallu.html" afterPath="$PROJECT_DIR$/dictionary/k/kirallu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kissa.html" afterPath="$PROJECT_DIR$/dictionary/k/kissa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kitisu.html" afterPath="$PROJECT_DIR$/dictionary/k/kitisu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kixa.html" afterPath="$PROJECT_DIR$/dictionary/k/kixa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kixina.html" afterPath="$PROJECT_DIR$/dictionary/k/kixina.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kixxita.html" afterPath="$PROJECT_DIR$/dictionary/k/kixxita.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/ku.html" afterPath="$PROJECT_DIR$/dictionary/k/ku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kuddu.html" afterPath="$PROJECT_DIR$/dictionary/k/kuddu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kuffa.html" afterPath="$PROJECT_DIR$/dictionary/k/kuffa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kuli'a.html" afterPath="$PROJECT_DIR$/dictionary/k/kuli'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kuli.html" afterPath="$PROJECT_DIR$/dictionary/k/kuli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kulu.html" afterPath="$PROJECT_DIR$/dictionary/k/kulu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kunaqi.html" afterPath="$PROJECT_DIR$/dictionary/k/kunaqi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kunubi.html" afterPath="$PROJECT_DIR$/dictionary/k/kunubi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kupira.html" afterPath="$PROJECT_DIR$/dictionary/k/kupira.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kuppu.html" afterPath="$PROJECT_DIR$/dictionary/k/kuppu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kurila.html" afterPath="$PROJECT_DIR$/dictionary/k/kurila.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kuxalu.html" afterPath="$PROJECT_DIR$/dictionary/k/kuxalu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/la'a.html" afterPath="$PROJECT_DIR$/dictionary/l/la'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/la'i.html" afterPath="$PROJECT_DIR$/dictionary/l/la'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/la.html" afterPath="$PROJECT_DIR$/dictionary/l/la.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/labu.html" afterPath="$PROJECT_DIR$/dictionary/l/labu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/ladi.html" afterPath="$PROJECT_DIR$/dictionary/l/ladi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/laffi.html" afterPath="$PROJECT_DIR$/dictionary/l/laffi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lagi.html" afterPath="$PROJECT_DIR$/dictionary/l/lagi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lahha.html" afterPath="$PROJECT_DIR$/dictionary/l/lahha.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/laji.html" afterPath="$PROJECT_DIR$/dictionary/l/laji.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lajja.html" afterPath="$PROJECT_DIR$/dictionary/l/lajja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lakatti.html" afterPath="$PROJECT_DIR$/dictionary/l/lakatti.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lakka.html" afterPath="$PROJECT_DIR$/dictionary/l/lakka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lalu.html" afterPath="$PROJECT_DIR$/dictionary/l/lalu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lannaga.html" afterPath="$PROJECT_DIR$/dictionary/l/lannaga.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lannuhu.html" afterPath="$PROJECT_DIR$/dictionary/l/lannuhu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/laqa.html" afterPath="$PROJECT_DIR$/dictionary/l/laqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/laqqu.html" afterPath="$PROJECT_DIR$/dictionary/l/laqqu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/laqura.html" afterPath="$PROJECT_DIR$/dictionary/l/laqura.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lara.html" afterPath="$PROJECT_DIR$/dictionary/l/lara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/laru.html" afterPath="$PROJECT_DIR$/dictionary/l/laru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lasakka.html" afterPath="$PROJECT_DIR$/dictionary/l/lasakka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lassi.html" afterPath="$PROJECT_DIR$/dictionary/l/lassi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lasu.html" afterPath="$PROJECT_DIR$/dictionary/l/lasu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lati.html" afterPath="$PROJECT_DIR$/dictionary/l/lati.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/li'a.html" afterPath="$PROJECT_DIR$/dictionary/l/li'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/li.html" afterPath="$PROJECT_DIR$/dictionary/l/li.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lica.html" afterPath="$PROJECT_DIR$/dictionary/l/lica.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lidita.html" afterPath="$PROJECT_DIR$/dictionary/l/lidita.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/liffa.html" afterPath="$PROJECT_DIR$/dictionary/l/liffa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lilu.html" afterPath="$PROJECT_DIR$/dictionary/l/lilu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/limma.html" afterPath="$PROJECT_DIR$/dictionary/l/limma.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/k/kaba.html" afterPath="$PROJECT_DIR$/dictionary/k/kaba.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/linu.html" afterPath="$PROJECT_DIR$/dictionary/l/linu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/liqa.html" afterPath="$PROJECT_DIR$/dictionary/l/liqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lisa.html" afterPath="$PROJECT_DIR$/dictionary/l/lisa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lisanu.html" afterPath="$PROJECT_DIR$/dictionary/l/lisanu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lisina.html" afterPath="$PROJECT_DIR$/dictionary/l/lisina.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lisu.html" afterPath="$PROJECT_DIR$/dictionary/l/lisu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lu'i.html" afterPath="$PROJECT_DIR$/dictionary/l/lu'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lu'iki.html" afterPath="$PROJECT_DIR$/dictionary/l/lu'iki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/luffu.html" afterPath="$PROJECT_DIR$/dictionary/l/luffu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/luffuxita.html" afterPath="$PROJECT_DIR$/dictionary/l/luffuxita.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/luka.html" afterPath="$PROJECT_DIR$/dictionary/l/luka.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lukku.html" afterPath="$PROJECT_DIR$/dictionary/l/lukku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lulani.html" afterPath="$PROJECT_DIR$/dictionary/l/lulani.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lumi.html" afterPath="$PROJECT_DIR$/dictionary/l/lumi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/luna.html" afterPath="$PROJECT_DIR$/dictionary/l/luna.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/l/lupumma.html" afterPath="$PROJECT_DIR$/dictionary/l/lupumma.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/ma''u.html" afterPath="$PROJECT_DIR$/dictionary/m/ma''u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/ma'iki.html" afterPath="$PROJECT_DIR$/dictionary/m/ma'iki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/ma.html" afterPath="$PROJECT_DIR$/dictionary/m/ma.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mabarri.html" afterPath="$PROJECT_DIR$/dictionary/m/mabarri.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/madi.html" afterPath="$PROJECT_DIR$/dictionary/m/madi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/madusi.html" afterPath="$PROJECT_DIR$/dictionary/m/madusi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/majja.html" afterPath="$PROJECT_DIR$/dictionary/m/majja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/maku.html" afterPath="$PROJECT_DIR$/dictionary/m/maku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mala.html" afterPath="$PROJECT_DIR$/dictionary/m/mala.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/malaki.html" afterPath="$PROJECT_DIR$/dictionary/m/malaki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mali.html" afterPath="$PROJECT_DIR$/dictionary/m/mali.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/malliju.html" afterPath="$PROJECT_DIR$/dictionary/m/malliju.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mallu.html" afterPath="$PROJECT_DIR$/dictionary/m/mallu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/malu.html" afterPath="$PROJECT_DIR$/dictionary/m/malu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mana.html" afterPath="$PROJECT_DIR$/dictionary/m/mana.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/manafa.html" afterPath="$PROJECT_DIR$/dictionary/m/manafa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mari.html" afterPath="$PROJECT_DIR$/dictionary/m/mari.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/marika.html" afterPath="$PROJECT_DIR$/dictionary/m/marika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/masi.html" afterPath="$PROJECT_DIR$/dictionary/m/masi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/masula.html" afterPath="$PROJECT_DIR$/dictionary/m/masula.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/matirra.html" afterPath="$PROJECT_DIR$/dictionary/m/matirra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mi'ula.html" afterPath="$PROJECT_DIR$/dictionary/m/mi'ula.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mi'ulla.html" afterPath="$PROJECT_DIR$/dictionary/m/mi'ulla.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mi.html" afterPath="$PROJECT_DIR$/dictionary/m/mi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mica.html" afterPath="$PROJECT_DIR$/dictionary/m/mica.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mifasu.html" afterPath="$PROJECT_DIR$/dictionary/m/mifasu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mihu.html" afterPath="$PROJECT_DIR$/dictionary/m/mihu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mika.html" afterPath="$PROJECT_DIR$/dictionary/m/mika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mikkuddu.html" afterPath="$PROJECT_DIR$/dictionary/m/mikkuddu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/miku.html" afterPath="$PROJECT_DIR$/dictionary/m/miku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/milami.html" afterPath="$PROJECT_DIR$/dictionary/m/milami.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/millu.html" afterPath="$PROJECT_DIR$/dictionary/m/millu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mina''i.html" afterPath="$PROJECT_DIR$/dictionary/m/mina''i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/miru.html" afterPath="$PROJECT_DIR$/dictionary/m/miru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/missu.html" afterPath="$PROJECT_DIR$/dictionary/m/missu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mituja.html" afterPath="$PROJECT_DIR$/dictionary/m/mituja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/muka.html" afterPath="$PROJECT_DIR$/dictionary/m/muka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/muli.html" afterPath="$PROJECT_DIR$/dictionary/m/muli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mulikki.html" afterPath="$PROJECT_DIR$/dictionary/m/mulikki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mulisa.html" afterPath="$PROJECT_DIR$/dictionary/m/mulisa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mullu.html" afterPath="$PROJECT_DIR$/dictionary/m/mullu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mulu.html" afterPath="$PROJECT_DIR$/dictionary/m/mulu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/munika.html" afterPath="$PROJECT_DIR$/dictionary/m/munika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/muru.html" afterPath="$PROJECT_DIR$/dictionary/m/muru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/musa.html" afterPath="$PROJECT_DIR$/dictionary/m/musa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/mussa.html" afterPath="$PROJECT_DIR$/dictionary/m/mussa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/index.html" afterPath="$PROJECT_DIR$/dictionary/n/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/na'a.html" afterPath="$PROJECT_DIR$/dictionary/n/na'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/na'ipa.html" afterPath="$PROJECT_DIR$/dictionary/n/na'ipa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/na.html" afterPath="$PROJECT_DIR$/dictionary/n/na.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nacca.html" afterPath="$PROJECT_DIR$/dictionary/n/nacca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/naci.html" afterPath="$PROJECT_DIR$/dictionary/n/naci.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nada.html" afterPath="$PROJECT_DIR$/dictionary/n/nada.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/naengi.html" afterPath="$PROJECT_DIR$/dictionary/n/naengi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nagi.html" afterPath="$PROJECT_DIR$/dictionary/n/nagi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nakaku.html" afterPath="$PROJECT_DIR$/dictionary/n/nakaku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/naku.html" afterPath="$PROJECT_DIR$/dictionary/n/naku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nali.html" afterPath="$PROJECT_DIR$/dictionary/n/nali.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nallimi.html" afterPath="$PROJECT_DIR$/dictionary/n/nallimi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/naludu.html" afterPath="$PROJECT_DIR$/dictionary/n/naludu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nama.html" afterPath="$PROJECT_DIR$/dictionary/n/nama.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/napuxi.html" afterPath="$PROJECT_DIR$/dictionary/n/napuxi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/naqa.html" afterPath="$PROJECT_DIR$/dictionary/n/naqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/naqi.html" afterPath="$PROJECT_DIR$/dictionary/n/naqi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nara.html" afterPath="$PROJECT_DIR$/dictionary/n/nara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/narra.html" afterPath="$PROJECT_DIR$/dictionary/n/narra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/naru.html" afterPath="$PROJECT_DIR$/dictionary/n/naru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nasi''u.html" afterPath="$PROJECT_DIR$/dictionary/n/nasi''u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nassa.html" afterPath="$PROJECT_DIR$/dictionary/n/nassa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nasufi.html" afterPath="$PROJECT_DIR$/dictionary/n/nasufi.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/natiha.html" afterPath="$PROJECT_DIR$/dictionary/n/natiha.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/natu.html" afterPath="$PROJECT_DIR$/dictionary/n/natu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/ni.html" afterPath="$PROJECT_DIR$/dictionary/n/ni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/niddi.html" afterPath="$PROJECT_DIR$/dictionary/n/niddi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nidu.html" afterPath="$PROJECT_DIR$/dictionary/n/nidu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/niga.html" afterPath="$PROJECT_DIR$/dictionary/n/niga.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nika.html" afterPath="$PROJECT_DIR$/dictionary/n/nika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nikili.html" afterPath="$PROJECT_DIR$/dictionary/n/nikili.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nimalu.html" afterPath="$PROJECT_DIR$/dictionary/n/nimalu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nina.html" afterPath="$PROJECT_DIR$/dictionary/n/nina.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/niqqi.html" afterPath="$PROJECT_DIR$/dictionary/n/niqqi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nisanna.html" afterPath="$PROJECT_DIR$/dictionary/n/nisanna.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nittu.html" afterPath="$PROJECT_DIR$/dictionary/n/nittu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nu'ifi.html" afterPath="$PROJECT_DIR$/dictionary/n/nu'ifi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nu.html" afterPath="$PROJECT_DIR$/dictionary/n/nu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nubi.html" afterPath="$PROJECT_DIR$/dictionary/n/nubi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nudda.html" afterPath="$PROJECT_DIR$/dictionary/n/nudda.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nufira.html" afterPath="$PROJECT_DIR$/dictionary/n/nufira.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nufirahi.html" afterPath="$PROJECT_DIR$/dictionary/n/nufirahi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nuhu.html" afterPath="$PROJECT_DIR$/dictionary/n/nuhu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nuki.html" afterPath="$PROJECT_DIR$/dictionary/n/nuki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nukki.html" afterPath="$PROJECT_DIR$/dictionary/n/nukki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nuku.html" afterPath="$PROJECT_DIR$/dictionary/n/nuku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nulina.html" afterPath="$PROJECT_DIR$/dictionary/n/nulina.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nullasu.html" afterPath="$PROJECT_DIR$/dictionary/n/nullasu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nulli.html" afterPath="$PROJECT_DIR$/dictionary/n/nulli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nuobi.html" afterPath="$PROJECT_DIR$/dictionary/n/nuobi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nura.html" afterPath="$PROJECT_DIR$/dictionary/n/nura.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nuru.html" afterPath="$PROJECT_DIR$/dictionary/n/nuru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/nussa.html" afterPath="$PROJECT_DIR$/dictionary/n/nussa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pa'aka.html" afterPath="$PROJECT_DIR$/dictionary/p/pa'aka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pa'usa.html" afterPath="$PROJECT_DIR$/dictionary/p/pa'usa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pa.html" afterPath="$PROJECT_DIR$/dictionary/p/pa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pacca.html" afterPath="$PROJECT_DIR$/dictionary/p/pacca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/paccafuni.html" afterPath="$PROJECT_DIR$/dictionary/p/paccafuni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pada.html" afterPath="$PROJECT_DIR$/dictionary/p/pada.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pagi.html" afterPath="$PROJECT_DIR$/dictionary/p/pagi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pagu.html" afterPath="$PROJECT_DIR$/dictionary/p/pagu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/paguqa.html" afterPath="$PROJECT_DIR$/dictionary/p/paguqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/paji.html" afterPath="$PROJECT_DIR$/dictionary/p/paji.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pajiga.html" afterPath="$PROJECT_DIR$/dictionary/p/pajiga.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pakicu.html" afterPath="$PROJECT_DIR$/dictionary/p/pakicu.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pamana.html" afterPath="$PROJECT_DIR$/dictionary/p/pamana.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pamasi.html" afterPath="$PROJECT_DIR$/dictionary/p/pamasi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pamilami.html" afterPath="$PROJECT_DIR$/dictionary/p/pamilami.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pana'ifu.html" afterPath="$PROJECT_DIR$/dictionary/p/pana'ifu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pani.html" afterPath="$PROJECT_DIR$/dictionary/p/pani.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pannaxa.html" afterPath="$PROJECT_DIR$/dictionary/p/pannaxa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/panu.html" afterPath="$PROJECT_DIR$/dictionary/p/panu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/papa.html" afterPath="$PROJECT_DIR$/dictionary/p/papa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/paraba.html" afterPath="$PROJECT_DIR$/dictionary/p/paraba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pi.html" afterPath="$PROJECT_DIR$/dictionary/p/pi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/piba.html" afterPath="$PROJECT_DIR$/dictionary/p/piba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pibi.html" afterPath="$PROJECT_DIR$/dictionary/p/pibi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pifa.html" afterPath="$PROJECT_DIR$/dictionary/p/pifa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/piha.html" afterPath="$PROJECT_DIR$/dictionary/p/piha.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/piku.html" afterPath="$PROJECT_DIR$/dictionary/p/piku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pini.html" afterPath="$PROJECT_DIR$/dictionary/p/pini.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pu'a.html" afterPath="$PROJECT_DIR$/dictionary/p/pu'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pu'iba.html" afterPath="$PROJECT_DIR$/dictionary/p/pu'iba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/puca.html" afterPath="$PROJECT_DIR$/dictionary/p/puca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pura.html" afterPath="$PROJECT_DIR$/dictionary/p/pura.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/purakassu.html" afterPath="$PROJECT_DIR$/dictionary/p/purakassu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/purillu.html" afterPath="$PROJECT_DIR$/dictionary/p/purillu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/purissiji.html" afterPath="$PROJECT_DIR$/dictionary/p/purissiji.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/pusu.html" afterPath="$PROJECT_DIR$/dictionary/p/pusu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/puttu.html" afterPath="$PROJECT_DIR$/dictionary/p/puttu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/index.html" afterPath="$PROJECT_DIR$/dictionary/q/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qa''iku.html" afterPath="$PROJECT_DIR$/dictionary/q/qa''iku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qa'i.html" afterPath="$PROJECT_DIR$/dictionary/q/qa'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qa.html" afterPath="$PROJECT_DIR$/dictionary/q/qa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qacca'a.html" afterPath="$PROJECT_DIR$/dictionary/q/qacca'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qacca.html" afterPath="$PROJECT_DIR$/dictionary/q/qacca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qala.html" afterPath="$PROJECT_DIR$/dictionary/q/qala.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qapi.html" afterPath="$PROJECT_DIR$/dictionary/q/qapi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qarri.html" afterPath="$PROJECT_DIR$/dictionary/q/qarri.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qaxa.html" afterPath="$PROJECT_DIR$/dictionary/q/qaxa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qi.html" afterPath="$PROJECT_DIR$/dictionary/q/qi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qikanni.html" afterPath="$PROJECT_DIR$/dictionary/q/qikanni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qikka.html" afterPath="$PROJECT_DIR$/dictionary/q/qikka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qilu.html" afterPath="$PROJECT_DIR$/dictionary/q/qilu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qira.html" afterPath="$PROJECT_DIR$/dictionary/q/qira.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qixa.html" afterPath="$PROJECT_DIR$/dictionary/q/qixa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qu'u.html" afterPath="$PROJECT_DIR$/dictionary/q/qu'u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qu.html" afterPath="$PROJECT_DIR$/dictionary/q/qu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/quffi.html" afterPath="$PROJECT_DIR$/dictionary/q/quffi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/quhha.html" afterPath="$PROJECT_DIR$/dictionary/q/quhha.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/quliru.html" afterPath="$PROJECT_DIR$/dictionary/q/quliru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qumalli.html" afterPath="$PROJECT_DIR$/dictionary/q/qumalli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/qumu.html" afterPath="$PROJECT_DIR$/dictionary/q/qumu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/q/quxi.html" afterPath="$PROJECT_DIR$/dictionary/q/quxi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ra''asa.html" afterPath="$PROJECT_DIR$/dictionary/r/ra''asa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ra'u.html" afterPath="$PROJECT_DIR$/dictionary/r/ra'u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ra.html" afterPath="$PROJECT_DIR$/dictionary/r/ra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/rabaci.html" afterPath="$PROJECT_DIR$/dictionary/r/rabaci.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/raca.html" afterPath="$PROJECT_DIR$/dictionary/r/raca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/raddilla.html" afterPath="$PROJECT_DIR$/dictionary/r/raddilla.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/rali.html" afterPath="$PROJECT_DIR$/dictionary/r/rali.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/rana.html" afterPath="$PROJECT_DIR$/dictionary/r/rana.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ranira.html" afterPath="$PROJECT_DIR$/dictionary/r/ranira.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ranna.html" afterPath="$PROJECT_DIR$/dictionary/r/ranna.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/raqu.html" afterPath="$PROJECT_DIR$/dictionary/r/raqu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/rasi.html" afterPath="$PROJECT_DIR$/dictionary/r/rasi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ri'i.html" afterPath="$PROJECT_DIR$/dictionary/r/ri'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ri.html" afterPath="$PROJECT_DIR$/dictionary/r/ri.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/rica.html" afterPath="$PROJECT_DIR$/dictionary/r/rica.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/riccu.html" afterPath="$PROJECT_DIR$/dictionary/r/riccu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/rika.html" afterPath="$PROJECT_DIR$/dictionary/r/rika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/rila.html" afterPath="$PROJECT_DIR$/dictionary/r/rila.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/rili.html" afterPath="$PROJECT_DIR$/dictionary/r/rili.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/risu.html" afterPath="$PROJECT_DIR$/dictionary/r/risu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ru'iha.html" afterPath="$PROJECT_DIR$/dictionary/r/ru'iha.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ru.html" afterPath="$PROJECT_DIR$/dictionary/r/ru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ruba.html" afterPath="$PROJECT_DIR$/dictionary/r/ruba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ruci.html" afterPath="$PROJECT_DIR$/dictionary/r/ruci.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/r/ruku.html" afterPath="$PROJECT_DIR$/dictionary/r/ruku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/-ssasu.html" afterPath="$PROJECT_DIR$/dictionary/s/-ssasu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/-ssiji.html" afterPath="$PROJECT_DIR$/dictionary/s/-ssiji.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sa'i.html" afterPath="$PROJECT_DIR$/dictionary/s/sa'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sa'imi.html" afterPath="$PROJECT_DIR$/dictionary/s/sa'imi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sa.html" afterPath="$PROJECT_DIR$/dictionary/s/sa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sabba.html" afterPath="$PROJECT_DIR$/dictionary/s/sabba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sabi.html" afterPath="$PROJECT_DIR$/dictionary/s/sabi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sabilla.html" afterPath="$PROJECT_DIR$/dictionary/s/sabilla.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sabufi.html" afterPath="$PROJECT_DIR$/dictionary/s/sabufi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sacu.html" afterPath="$PROJECT_DIR$/dictionary/s/sacu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sadadu.html" afterPath="$PROJECT_DIR$/dictionary/s/sadadu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/saggi.html" afterPath="$PROJECT_DIR$/dictionary/s/saggi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sahha.html" afterPath="$PROJECT_DIR$/dictionary/s/sahha.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/saja.html" afterPath="$PROJECT_DIR$/dictionary/s/saja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sajimu.html" afterPath="$PROJECT_DIR$/dictionary/s/sajimu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sajja.html" afterPath="$PROJECT_DIR$/dictionary/s/sajja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/saki.html" afterPath="$PROJECT_DIR$/dictionary/s/saki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sala.html" afterPath="$PROJECT_DIR$/dictionary/s/sala.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/salari.html" afterPath="$PROJECT_DIR$/dictionary/s/salari.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/salilu.html" afterPath="$PROJECT_DIR$/dictionary/s/salilu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/salumi.html" afterPath="$PROJECT_DIR$/dictionary/s/salumi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/salura.html" afterPath="$PROJECT_DIR$/dictionary/s/salura.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sama.html" afterPath="$PROJECT_DIR$/dictionary/s/sama.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/samma.html" afterPath="$PROJECT_DIR$/dictionary/s/samma.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sani.html" afterPath="$PROJECT_DIR$/dictionary/s/sani.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/saniki.html" afterPath="$PROJECT_DIR$/dictionary/s/saniki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sanna.html" afterPath="$PROJECT_DIR$/dictionary/s/sanna.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sannaca'i.html" afterPath="$PROJECT_DIR$/dictionary/s/sannaca'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/saqa.html" afterPath="$PROJECT_DIR$/dictionary/s/saqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/saqala.html" afterPath="$PROJECT_DIR$/dictionary/s/saqala.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/saqqa.html" afterPath="$PROJECT_DIR$/dictionary/s/saqqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sara.html" afterPath="$PROJECT_DIR$/dictionary/s/sara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sarru.html" afterPath="$PROJECT_DIR$/dictionary/s/sarru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sata.html" afterPath="$PROJECT_DIR$/dictionary/s/sata.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/satadu.html" afterPath="$PROJECT_DIR$/dictionary/s/satadu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/satta.html" afterPath="$PROJECT_DIR$/dictionary/s/satta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/saxitalara.html" afterPath="$PROJECT_DIR$/dictionary/s/saxitalara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/saxxuru.html" afterPath="$PROJECT_DIR$/dictionary/s/saxxuru.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/si'a.html" afterPath="$PROJECT_DIR$/dictionary/s/si'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/si'apa.html" afterPath="$PROJECT_DIR$/dictionary/s/si'apa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/si.html" afterPath="$PROJECT_DIR$/dictionary/s/si.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sicu.html" afterPath="$PROJECT_DIR$/dictionary/s/sicu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sida.html" afterPath="$PROJECT_DIR$/dictionary/s/sida.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sija.html" afterPath="$PROJECT_DIR$/dictionary/s/sija.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sika.html" afterPath="$PROJECT_DIR$/dictionary/s/sika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sikka.html" afterPath="$PROJECT_DIR$/dictionary/s/sikka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/siku.html" afterPath="$PROJECT_DIR$/dictionary/s/siku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sikuffi.html" afterPath="$PROJECT_DIR$/dictionary/s/sikuffi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/silla.html" afterPath="$PROJECT_DIR$/dictionary/s/silla.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/silu.html" afterPath="$PROJECT_DIR$/dictionary/s/silu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sina.html" afterPath="$PROJECT_DIR$/dictionary/s/sina.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sinna.html" afterPath="$PROJECT_DIR$/dictionary/s/sinna.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sippa.html" afterPath="$PROJECT_DIR$/dictionary/s/sippa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/siqi.html" afterPath="$PROJECT_DIR$/dictionary/s/siqi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sisa.html" afterPath="$PROJECT_DIR$/dictionary/s/sisa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/soul.html" afterPath="$PROJECT_DIR$/dictionary/s/soul.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/su'a.html" afterPath="$PROJECT_DIR$/dictionary/s/su'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/su'usi.html" afterPath="$PROJECT_DIR$/dictionary/s/su'usi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/su.html" afterPath="$PROJECT_DIR$/dictionary/s/su.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/subtle.html" afterPath="$PROJECT_DIR$/dictionary/s/subtle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/suda.html" afterPath="$PROJECT_DIR$/dictionary/s/suda.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sufi.html" afterPath="$PROJECT_DIR$/dictionary/s/sufi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/suki.html" afterPath="$PROJECT_DIR$/dictionary/s/suki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sukki.html" afterPath="$PROJECT_DIR$/dictionary/s/sukki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sula.html" afterPath="$PROJECT_DIR$/dictionary/s/sula.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/suma.html" afterPath="$PROJECT_DIR$/dictionary/s/suma.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sumika.html" afterPath="$PROJECT_DIR$/dictionary/s/sumika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sunu.html" afterPath="$PROJECT_DIR$/dictionary/s/sunu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/supu.html" afterPath="$PROJECT_DIR$/dictionary/s/supu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/suqa.html" afterPath="$PROJECT_DIR$/dictionary/s/suqa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/surra.html" afterPath="$PROJECT_DIR$/dictionary/s/surra.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sutta.html" afterPath="$PROJECT_DIR$/dictionary/s/sutta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/sutti.html" afterPath="$PROJECT_DIR$/dictionary/s/sutti.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/index.html" afterPath="$PROJECT_DIR$/dictionary/t/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/ta'i.html" afterPath="$PROJECT_DIR$/dictionary/t/ta'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/ta.html" afterPath="$PROJECT_DIR$/dictionary/t/ta.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tacala.html" afterPath="$PROJECT_DIR$/dictionary/t/tacala.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tacuca.html" afterPath="$PROJECT_DIR$/dictionary/t/tacuca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/taka.html" afterPath="$PROJECT_DIR$/dictionary/t/taka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/takki.html" afterPath="$PROJECT_DIR$/dictionary/t/takki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/takkulu.html" afterPath="$PROJECT_DIR$/dictionary/t/takkulu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/taku.html" afterPath="$PROJECT_DIR$/dictionary/t/taku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tali.html" afterPath="$PROJECT_DIR$/dictionary/t/tali.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tana.html" afterPath="$PROJECT_DIR$/dictionary/t/tana.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tanna.html" afterPath="$PROJECT_DIR$/dictionary/t/tanna.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tara.html" afterPath="$PROJECT_DIR$/dictionary/t/tara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tasa.html" afterPath="$PROJECT_DIR$/dictionary/t/tasa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tasi.html" afterPath="$PROJECT_DIR$/dictionary/t/tasi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tiba.html" afterPath="$PROJECT_DIR$/dictionary/t/tiba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tibara.html" afterPath="$PROJECT_DIR$/dictionary/t/tibara.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tiha.html" afterPath="$PROJECT_DIR$/dictionary/t/tiha.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tihu.html" afterPath="$PROJECT_DIR$/dictionary/t/tihu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tika.html" afterPath="$PROJECT_DIR$/dictionary/t/tika.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tiku.html" afterPath="$PROJECT_DIR$/dictionary/t/tiku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tila.html" afterPath="$PROJECT_DIR$/dictionary/t/tila.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tina.html" afterPath="$PROJECT_DIR$/dictionary/t/tina.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tinalli.html" afterPath="$PROJECT_DIR$/dictionary/t/tinalli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tirusi.html" afterPath="$PROJECT_DIR$/dictionary/t/tirusi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tisaka.html" afterPath="$PROJECT_DIR$/dictionary/t/tisaka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tissa.html" afterPath="$PROJECT_DIR$/dictionary/t/tissa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tissini.html" afterPath="$PROJECT_DIR$/dictionary/t/tissini.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tu'afu.html" afterPath="$PROJECT_DIR$/dictionary/t/tu'afu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tu'i.html" afterPath="$PROJECT_DIR$/dictionary/t/tu'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tu'uci.html" afterPath="$PROJECT_DIR$/dictionary/t/tu'uci.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tu.html" afterPath="$PROJECT_DIR$/dictionary/t/tu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tuci.html" afterPath="$PROJECT_DIR$/dictionary/t/tuci.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tucinaci.html" afterPath="$PROJECT_DIR$/dictionary/t/tucinaci.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tuhhi.html" afterPath="$PROJECT_DIR$/dictionary/t/tuhhi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tuhi.html" afterPath="$PROJECT_DIR$/dictionary/t/tuhi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tuja.html" afterPath="$PROJECT_DIR$/dictionary/t/tuja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tujatihu.html" afterPath="$PROJECT_DIR$/dictionary/t/tujatihu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tukaga.html" afterPath="$PROJECT_DIR$/dictionary/t/tukaga.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tukkuni.html" afterPath="$PROJECT_DIR$/dictionary/t/tukkuni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tuni.html" afterPath="$PROJECT_DIR$/dictionary/t/tuni.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tupa.html" afterPath="$PROJECT_DIR$/dictionary/t/tupa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/turassi.html" afterPath="$PROJECT_DIR$/dictionary/t/turassi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/turu.html" afterPath="$PROJECT_DIR$/dictionary/t/turu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/turulu.html" afterPath="$PROJECT_DIR$/dictionary/t/turulu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/t/tuxa.html" afterPath="$PROJECT_DIR$/dictionary/t/tuxa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'u'a.html" afterPath="$PROJECT_DIR$/dictionary/u/'u'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'uccadama.html" afterPath="$PROJECT_DIR$/dictionary/u/'uccadama.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'udi.html" afterPath="$PROJECT_DIR$/dictionary/u/'udi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'ulanu.html" afterPath="$PROJECT_DIR$/dictionary/u/'ulanu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'umi.html" afterPath="$PROJECT_DIR$/dictionary/u/'umi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'usa.html" afterPath="$PROJECT_DIR$/dictionary/u/'usa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'usaju'i.html" afterPath="$PROJECT_DIR$/dictionary/u/'usaju'i.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'usapacca.html" afterPath="$PROJECT_DIR$/dictionary/u/'usapacca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'usi.html" afterPath="$PROJECT_DIR$/dictionary/u/'usi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'ussa.html" afterPath="$PROJECT_DIR$/dictionary/u/'ussa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'ussaba.html" afterPath="$PROJECT_DIR$/dictionary/u/'ussaba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'ussi.html" afterPath="$PROJECT_DIR$/dictionary/u/'ussi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'usu.html" afterPath="$PROJECT_DIR$/dictionary/u/'usu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/'uxxi.html" afterPath="$PROJECT_DIR$/dictionary/u/'uxxi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/-uju.html" afterPath="$PROJECT_DIR$/dictionary/u/-uju.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/u/-ulu.html" afterPath="$PROJECT_DIR$/dictionary/u/-ulu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xa''a.html" afterPath="$PROJECT_DIR$/dictionary/x/xa''a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xa''u.html" afterPath="$PROJECT_DIR$/dictionary/x/xa''u.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xa'a.html" afterPath="$PROJECT_DIR$/dictionary/x/xa'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xa.html" afterPath="$PROJECT_DIR$/dictionary/x/xa.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xaba.html" afterPath="$PROJECT_DIR$/dictionary/x/xaba.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xaha.html" afterPath="$PROJECT_DIR$/dictionary/x/xaha.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xaki.html" afterPath="$PROJECT_DIR$/dictionary/x/xaki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xakila.html" afterPath="$PROJECT_DIR$/dictionary/x/xakila.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xalli.html" afterPath="$PROJECT_DIR$/dictionary/x/xalli.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xanaki.html" afterPath="$PROJECT_DIR$/dictionary/x/xanaki.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xasagi.html" afterPath="$PROJECT_DIR$/dictionary/x/xasagi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xati.html" afterPath="$PROJECT_DIR$/dictionary/x/xati.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xi.html" afterPath="$PROJECT_DIR$/dictionary/x/xi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xibbuti.html" afterPath="$PROJECT_DIR$/dictionary/x/xibbuti.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xidu.html" afterPath="$PROJECT_DIR$/dictionary/x/xidu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xiku.html" afterPath="$PROJECT_DIR$/dictionary/x/xiku.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xissata.html" afterPath="$PROJECT_DIR$/dictionary/x/xissata.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xita.html" afterPath="$PROJECT_DIR$/dictionary/x/xita.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xu''a.html" afterPath="$PROJECT_DIR$/dictionary/x/xu''a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xu'a.html" afterPath="$PROJECT_DIR$/dictionary/x/xu'a.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xu.html" afterPath="$PROJECT_DIR$/dictionary/x/xu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xuci.html" afterPath="$PROJECT_DIR$/dictionary/x/xuci.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xudi.html" afterPath="$PROJECT_DIR$/dictionary/x/xudi.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/x/xuga.html" afterPath="$PROJECT_DIR$/dictionary/x/xuga.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/index.html" afterPath="$PROJECT_DIR$/dictionary/s/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_data.txt" afterPath="$PROJECT_DIR$/dictionary_data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_dictionary.py" afterPath="$PROJECT_DIR$/edit_dictionary.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_grammar_story.py" afterPath="$PROJECT_DIR$/edit_grammar_story.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_story.py" afterPath="$PROJECT_DIR$/edit_story.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/searching.json" afterPath="$PROJECT_DIR$/searching.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" afterPath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/interlinear/story/prologue.html" afterPath="$PROJECT_DIR$/story/interlinear/story/prologue.html" />
@@ -724,10 +43,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="edit_dictionary.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="edit_dictionary.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
+            <state relative-caret-position="3162">
               <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
@@ -736,11 +55,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="edit_story.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/edit_story.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="178" column="33" lean-forward="false" selection-start-line="178" selection-start-column="33" selection-end-line="178" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HtmlPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="634">
+              <caret line="357" column="20" lean-forward="false" selection-start-line="357" selection-start-column="20" selection-end-line="357" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Scratch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scratch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+            <state relative-caret-position="34">
+              <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -749,7 +88,7 @@
       <file leaf-file-name="Create Pages.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Create Pages.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="85">
               <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
               <folding />
             </state>
@@ -767,9 +106,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>markup</find>
-      <find>finish</find>
-      <find>finis</find>
       <find>make_</find>
       <find>make_repl</find>
       <find>replac</find>
@@ -797,6 +133,9 @@
       <find>publish</find>
       <find>*</find>
       <find>time</find>
+      <find>initial</find>
+      <find>write</find>
+      <find>refresh</find>
     </findStrings>
     <replaceStrings>
       <replace>first</replace>
@@ -875,19 +214,19 @@
         <option value="$USER_HOME$/OneDrive/Documents/Story/Random Sentences.py" />
         <option value="$PROJECT_DIR$/Create Pages.py" />
         <option value="$PROJECT_DIR$/tinellb.py" />
-        <option value="$PROJECT_DIR$/edit_story.py" />
         <option value="$PROJECT_DIR$/edit_grammar_story.py" />
-        <option value="$PROJECT_DIR$/HtmlPage.py" />
-        <option value="$PROJECT_DIR$/Scratch.py" />
         <option value="$PROJECT_DIR$/edit_dictionary.py" />
+        <option value="$PROJECT_DIR$/Scratch.py" />
+        <option value="$PROJECT_DIR$/HtmlPage.py" />
+        <option value="$PROJECT_DIR$/edit_story.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1042" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -930,7 +269,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/Story/Random Sentences.py" />
     <property name="settings.editor.selected.configurable" value="Errors" />
-    <property name="SearchEverywhereHistoryKey" value="creat&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Create Pages.py&#10;scratch&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;scrat&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;remove_tags&#9;null&#9;null&#10;create&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Create Pages.py&#10;pub&#9;null&#9;null&#10;hyper&#9;null&#9;null&#10;edit_s&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_story.py&#10;markup&#9;null&#9;null&#10;scr&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;text_c&#9;null&#9;null&#10;create_sear&#9;null&#9;null&#10;edit_st&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_story.py&#10;create_se&#9;null&#9;null&#10;edit_di&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_dictionary.py&#10;nav_header_di&#9;null&#9;null&#10;nav_h&#9;null&#9;null&#10;edit&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_dictionary.py&#10;scra&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;:&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="create&#9;null&#9;null&#10;ed&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_story.py&#10;creat&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Create Pages.py&#10;scratch&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;scrat&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;remove_tags&#9;null&#9;null&#10;pub&#9;null&#9;null&#10;hyper&#9;null&#9;null&#10;edit_s&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_story.py&#10;markup&#9;null&#9;null&#10;scr&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;text_c&#9;null&#9;null&#10;create_sear&#9;null&#9;null&#10;edit_st&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_story.py&#10;create_se&#9;null&#9;null&#10;edit_di&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_dictionary.py&#10;nav_header_di&#9;null&#9;null&#10;nav_h&#9;null&#9;null&#10;edit&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/edit_dictionary.py&#10;scra&#9;FILE&#9;file://C:/Users/Ryan/Documents/TinellbianLanguages/Scratch.py&#10;:&#9;null&#9;null" />
     <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
@@ -947,7 +286,7 @@
       <recent name="C:\Users\Ryan\Documents\TinellbianLanguages\coding" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.edit_dictionary">
+  <component name="RunManager" selected="Python.edit_story">
     <configuration default="false" name="Create Pages" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1176,10 +515,10 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.edit_dictionary" />
+        <item index="0" class="java.lang.String" itemvalue="Python.edit_story" />
         <item index="1" class="java.lang.String" itemvalue="Python.Scratch" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Create Pages" />
-        <item index="3" class="java.lang.String" itemvalue="Python.edit_story" />
+        <item index="2" class="java.lang.String" itemvalue="Python.edit_dictionary" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Create Pages" />
         <item index="4" class="java.lang.String" itemvalue="Python.edit_grammar_story" />
       </list>
     </recent_temporary>
@@ -1214,26 +553,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21513514" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8263971" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82996434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2662957" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63852555" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82996434" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24892008" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63852555" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1254,6 +594,24 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4530321" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1400,13 +758,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HtmlPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="339" column="24" lean-forward="false" selection-start-line="339" selection-start-column="24" selection-end-line="339" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tinellb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="754">
@@ -1414,16 +765,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edit_story.py">
+    <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="32" />
+        <state relative-caret-position="3162">
+          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Create Pages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="85">
           <caret line="5" column="15" lean-forward="false" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
           <folding />
         </state>
@@ -1431,19 +785,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Scratch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="34">
+          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
+    <entry file="file://$PROJECT_DIR$/edit_story.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="190" column="0" lean-forward="false" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="362">
+          <caret line="178" column="33" lean-forward="false" selection-start-line="178" selection-start-column="33" selection-end-line="178" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HtmlPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="357" column="20" lean-forward="false" selection-start-line="357" selection-start-column="20" selection-end-line="357" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>

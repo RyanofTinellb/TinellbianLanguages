@@ -1,3 +1,3 @@
-k = 'abcdef'
-l = k[-2:]
-print(l)
+from HtmlPage import *
+
+create_search()

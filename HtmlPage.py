@@ -351,6 +351,11 @@ def create_search():
                         node = node.next_node()
                 except ValueError:
                     pass
+            try:
+                if "Interlinear" in (node.name, node.parent.name, node.parent.parent.name):
+                    continue
+            except AttributeError:
+                pass
             line = remove_tags(line)
             text = remove_tags(text)
             line = line.split(" ")
