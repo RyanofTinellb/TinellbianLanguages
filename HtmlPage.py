@@ -376,10 +376,10 @@ def create_search():
     for word, links in word_list.items():
         links = list(links)
         links.sort()
-        entry = "{\"term\": \"" + word + "\", \"results\": [" + ", ".join(links) + "]\n}"
+        entry = "{\"term\": \"" + word + "\", \"results\": [" + ", ".join(links) + "]}"
         dictionary_list.append(entry)
     dictionary_list.sort()
-    text = str("[" + ",\n".join(dictionary_list) + "]\n")
+    text = str("[" + ",".join(dictionary_list) + "]")
     with open("searching.json", "w") as g:
         g.write(text)
 
