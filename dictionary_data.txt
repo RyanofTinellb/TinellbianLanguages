@@ -578,6 +578,13 @@ a mood of joy or supreme contentment
 [6]derived compound verb <div class="definition">to agree</div>
 [7]Etymology
 <a href="../&#x2018;i.html">&rsquo;i</a> <high-lulani>(i)</high-lulani> <em>speak</em> + <a href="../f/fuhha.html">fuhha</a> <high-lulani>(v;h)</high-lulani> <em>decision</em> + <a href="../n/naku.html">naku</a> <high-lulani>(n&gt;)</high-lulani> <em>together</em>
+[2]&rsquo;isa
+[3]High Lulani
+[4]<high-lulani>is</high-lulani>
+[5]<ipa>/&#x2c8;&#x294;is.&#x259;/</ipa>
+[6]abstract stem noun <div class="definition">point; place</div>
+[7]Definition
+a point in space-time-reality-gingla
 [2]&rsquo;issa
 [3]High Lulani
 [4]<high-lulani>(i;s)</high-lulani>
@@ -3114,6 +3121,11 @@ gnomic
 [4]<high-lulani>(Jzk)</high-lulani>
 [5]<ipa>/&#x25f;&#x268;.&#x2c8;suk&#x2b0;.&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">ideology; philosophy; thoughts</div>
+[2]jixu
+[3]High Lulani
+[4]<high-lulani>JZ</high-lulani>
+[5]<ipa>/&#x2c8;&#x25f;i,x.&#x289;/</ipa>
+[6]inanimate stem noun <div class="definition">dictionary; lexicon</div>
 [2]ju&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(Yi)</high-lulani>
@@ -7012,6 +7024,10 @@ gnomic
 <a href="../p/piha.html">piha</a> <high-lulani>(Ph)</high-lulani> <em>mother</em>
 <a href="../k/kica.html">kica</a> <high-lulani>(Kc)</high-lulani> <em>sister</em>
 <a href="../k/kaqqa.html">kaqqa</a> <high-lulani>(k;q)</high-lulani> <em>brother</em>
+[5]<ipa>/&#x2cc;sab&#x2b1;.&#x2c8;b&#x2b1;a/</ipa>
+[6]derived possessed noun <div class="definition">your father</div>
+[7]Etymology
+<strong>sabba</strong> <high-lulani>s;b</high-lulani> <em>father</em> + <strong><a href="../b/ba.html">ba</a></strong> <high-lulani>b</high-lulani> <em>your</em>
 [2]sabi
 [3]High Lulani
 [4]<high-lulani>(sB)</high-lulani>
@@ -8065,7 +8081,8 @@ Denotes a beneficiary
 [6]stem mathematics ordinal <div class="definition">-7; <overline>7</overline>; reven; minus seven</div>
 [7]See Also
 <a href="../j/jusiti.html">&rarr; jusiti</a> <high-lulani>(YST)</high-lulani> <em>rix</em>
-<a href="../s/salumi.html">&mdash; salumi</a> <high-lulani>(sWM)</high-lulani> <em>seven</em>[2]hannaku
+<a href="../s/salumi.html">&mdash; salumi</a> <high-lulani>(sWM)</high-lulani> <em>seven</em>
+[2]hannaku
 [3]High Lulani
 [4]<high-lulani>(h;n&gt;)</high-lulani>
 [5]<ipa>/&#x2c8;ha&#x272;.&#x272;&#x259;.k&#x289;/</ipa>

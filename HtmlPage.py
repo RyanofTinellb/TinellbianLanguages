@@ -363,9 +363,9 @@ def create_search():
                 if "\\" in word or '"' in word or word in ["", "&rarr", "&larr", "&darr", "&uarr", "&mdash"]:
                     continue
                 extension = "/index.html" if node.generation() < leaf_level else ".html"
-                link = "{\"url\": \"" + "/".join([i.url() for i in node.ancestors()]) + "/"
-                link += node.url() + extension + "\", \"name\": \"" + node.name + "\", \"line\": \"" + text
-                link += "\", \"num\": " + str(num) + "}"
+                link = "{\"u\":\"" + "/".join([i.url() for i in node.ancestors()]) + "/"
+                link += node.url() + extension + "\",\"a\":\"" + node.name + "\",\"l\":\"" + text
+                link += "\",\"n\":" + str(num) + "}"
                 if word[:2] == "''":
                     word = word[1:]
                 if word in word_list:
@@ -376,7 +376,7 @@ def create_search():
     for word, links in word_list.items():
         links = list(links)
         links.sort()
-        entry = "{\"term\": \"" + word + "\", \"results\": [" + ", ".join(links) + "]}"
+        entry = "{\"t\":\"" + word + "\",\"r\":[" + ",".join(links) + "]}"
         dictionary_list.append(entry)
     dictionary_list.sort()
     text = str("[" + ",".join(dictionary_list) + "]")
