@@ -320,6 +320,7 @@ class HtmlPage:
 
 def create_search():
     word_list = {}
+    line_list = set([])
     markdown = tinellb.Markdown()
     for name, leaf_level in [["dictionary", 2], ["grammar", 3], ["story", 3]]:
         level = 0
@@ -363,23 +364,30 @@ def create_search():
                 if "\\" in word or '"' in word or word in ["", "&rarr", "&larr", "&darr", "&uarr", "&mdash"]:
                     continue
                 extension = "/index.html" if node.generation() < leaf_level else ".html"
-                link = "{\"u\":\"" + "/".join([i.url() for i in node.ancestors()]) + "/"
-                link += node.url() + extension + "\",\"a\":\"" + node.name + "\",\"l\":\"" + text
-                link += "\",\"n\":" + str(num) + "}"
+                link = "{\"u\": \"" + "/".join([i.url() for i in node.ancestors()]) + "/"
+                link += node.url() + extension + "\",\"a\": \"" + node.name + "\",\"l\": \"" + text
+                link += "\", \"n\": " + str(num) + "}\n"
                 if word[:2] == "''":
                     word = word[1:]
                 if word in word_list:
                     word_list[word].add(link)
                 else:
                     word_list[word] = {link}
+                line_list.add(text)
+    line_list = list(line_list)
     dictionary_list = []
     for word, links in word_list.items():
+        print(word)
         links = list(links)
         links.sort()
-        entry = "{\"t\":\"" + word + "\",\"r\":[" + ",".join(links) + "]}"
+        entry = "{\"t\": \"" + word + "\",\"r\": [" + ",".join(links) + "]}"
         dictionary_list.append(entry)
     dictionary_list.sort()
-    text = str("[" + ",".join(dictionary_list) + "]")
+    text = str("[[" + ",\n".join(dictionary_list) + "], ")
+    for i, line in enumerate(line_list):
+        print(str(i))  #    "l":
+        text = text.replace("\"l\": \"" + line + "\"", "\"l\": " + str(i))
+    text += str("[\"" + "\",\n\"".join(line_list) + "\"]]")
     with open("searching.json", "w") as g:
         g.write(text)
 
