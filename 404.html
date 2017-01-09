@@ -5,7 +5,7 @@ permalink: /404.html
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="/Search.css">
+<link rel="stylesheet" type="text/css" href="/TinellbianLanguages/Search.css">
 <title>Search Tinellbian Languages</title>
 </head>
 <body>
@@ -24,7 +24,7 @@ if (window.location.href.indexOf("?") != -1) {
 }
 function search() {
 	document.getElementById("results").innerHTML = "Searching...";
-	var url = "/searching.json";
+	var url = "/TinellbianLanguages/searching.json";
 	var xmlhttp = new XMLHttpRequest();
 	var andButton = document.getElementById("and")
 	xmlhttp.onreadystatechange = function() {
