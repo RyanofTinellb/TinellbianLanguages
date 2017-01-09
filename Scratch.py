@@ -1,3 +1,4 @@
-from HtmlPage import *
+from tinellb import Markdown
 
-create_search()
+k = Markdown()
+print(k.to_markdown("This is a <a href=\", {ma''a}oh yes it is."))

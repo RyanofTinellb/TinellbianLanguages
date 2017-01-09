@@ -44,20 +44,24 @@ class EditDictionary(tk.Frame):
         self.edit_text.bind("<Control-r>", self.refresh_random)
         self.edit_text.bind("<Control-i>", self.italic)
         self.edit_text.bind("<Control-k>", self.small_caps)
-        self.edit_text.bind("<Control-h>", self.add_hyperlink)
         self.edit_text.bind("<Control-s>", self.save)
         self.edit_text.bind("<Control-z>", self.bring_entry)
-        self.edit_text.bind("<Control-q>", self.get_prefix)
-        self.edit_text.bind("<Control-w>", self.get_suffix)
         self.edit_text.bind("<Control-n>", self.new_word)
+        self.edit_text.bind("<Alt-d>", self.go_to_heading)
         self.edit_text.grid(row=1, rowspan=19, column=1)
+        self.heading.focus_set()
+
+    def go_to_heading(self, event=None):
+        self.heading.focus_set()
+        self.heading.select_range(0, tk.END)
+        return "break"
 
     def new_word(self, event=None):
         new_template = "[2]" + self.entry + "\n"
         new_template += "[3]High Lulani\n"
         new_template += "[4]" + tinellb.conversion(self.entry).replace(".", "") + "\n"
         new_template += "[5]<ipa>//</ipa>\n"
-        new_template += "[6] <div class=\\\"definition\\\"></div>\n"
+        new_template += "[6] <div ==></div>\n"
         self.edit_text.insert(1.0, new_template)
         self.edit_text.mark_set(tk.INSERT, "1.3")
         self.save()
@@ -66,29 +70,6 @@ class EditDictionary(tk.Frame):
     def refresh_random(self, event=None):
         text = "\n".join([tinellb.make_word() for i in range(10)])
         self.random_word.set(text)
-
-    def get_prefix(self, event):
-        try:
-            text = self.edit_text.get(tk.SEL_FIRST, tk.SEL_LAST)
-            self.edit_text.delete(tk.SEL_FIRST, tk.SEL_LAST)
-        except tk.TclError:
-            return "break"
-        start = text.find("<")
-        end = text.find(">")
-        link = text[start:end+1]
-        text = link + text.replace(link, "")
-        self.edit_text.insert(tk.INSERT, text)
-        return "break"
-
-    def get_suffix(self, event):
-        try:
-            text = self.edit_text.get(tk.SEL_FIRST, tk.SEL_LAST)
-            self.edit_text.delete(tk.SEL_FIRST, tk.SEL_LAST)
-        except tk.TclError:
-            return "break"
-        text = text.replace("</a>", "") + "</a>"
-        self.edit_text.insert(tk.INSERT, text)
-        return "break"
 
     def bold(self, event):
         if not self.is_bold:
@@ -115,27 +96,6 @@ class EditDictionary(tk.Frame):
         else:
             self.edit_text.insert(tk.INSERT, "[/k]")
             self.is_small_caps = False
-        return "break"
-
-    def add_hyperlink(self, event):
-        try:
-            text = self.edit_text.get(tk.SEL_FIRST, tk.SEL_LAST)
-            self.edit_text.delete(tk.SEL_FIRST, tk.SEL_LAST)
-        except tk.TclError:
-            return "break"
-        link = text.lower()
-        link = link.replace("[b]", "")
-        link = link.replace("[/b]", "")
-        link = link.replace("&rsquo;", "\\'")
-        if link[:9] == "&glottal;":
-            link = "\\'" + link[9:]
-        link = link.replace("&glottal;", "\\'\\'")
-        if link[0] in ["\\", "-"]:
-            letter = link[1]
-        else:
-            letter = link[0]
-        link = "<a href=\\\"../" + letter + "/" + link + ".html\\\">" + text + "</a>"
-        self.edit_text.insert(tk.INSERT, link)
         return "break"
 
     def add_high_lulani(self, event):

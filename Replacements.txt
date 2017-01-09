@@ -1,3 +1,4 @@
+class="definition" ==
 <em> [i]
 </em> [/i]
 <strong> [b]
@@ -43,7 +44,7 @@ _ &under;
 &#x294; ''
 &lsquo; `
 &rdquo; "
-&ldquo; `"
+&ldquo; '"
 &#x268; -i
 &#x25f; -j
 &#x2d0; ::
@@ -58,6 +59,7 @@ _ &under;
 &#x16b; _u
 &#xe7; $c
 &#x2b1; ++h
+&#x2248; ~=
 &rarr; -)
 &larr; (-
 &plus; \+

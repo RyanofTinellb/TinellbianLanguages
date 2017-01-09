@@ -2,6 +2,7 @@ import Tkinter as tk
 import sys
 import os
 import tinellb
+import threading
 from HtmlPage import HtmlPage
 from HtmlPage import create_search
 
@@ -100,7 +101,7 @@ class EditStory(tk.Frame):
                 count = self.story[i][j].count("\n") - self.story[1][j].count("\n")
                 self.story[i][j] = (chapter + count * "\n").split('\n')
         self.chapter = len(self.story[1]) - 1
-        self.paragraph = self.story[3][self.chapter].index("") - 1
+        self.paragraph = self.story[5][self.chapter].index("") - 1
         self.refresh()
 
     def refresh(self):
@@ -169,14 +170,16 @@ class EditStory(tk.Frame):
             self.page = self.page.replace("\n\n", "\n")
             if self.page.count("\n\n") == 0:
                 break
-        self.write_file()
-        self.initialise()
-        return "break"
-
-    def write_file(self):
         self.page = self.markdown.to_markup(self.page)
         with open("story_data.txt", "w") as story:
             story.write(self.page)
+        t = threading.Thread(target=self.write_file)
+        t.start()
+        self.initialise()
+        return "break"
+
+    @staticmethod
+    def write_file():
         HtmlPage("story", 3)
         create_search()
 

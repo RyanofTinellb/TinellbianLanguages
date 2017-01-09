@@ -10,19 +10,12 @@ def conversion(source):
 
 def convert_line(line):
     text = ""
+    print(line)
     for item in ["[i]", "[b]", "[k]", "[/b]", "[/i]", "[/k"]:
         line = line.replace(item, "")
-    line = line.replace("&rdquo", "")
-    line = line.replace("&ldquo;", "")
-    line = line.replace("&rsquo;", "'")
-    line = line.replace(" &glottal;", " '")
-    line = line.replace(" &#x294;", " '")
-    line = line.replace("&#x2019;", "'")
-    line = line.replace("&#x294;", "''")
-    line = line.replace("&glottal;", "''")
+    for item in "\" ":
+        line = line.replace(item + "''", item + "'")
     line = line.lower()
-    if line[:2] == "''":
-        line = line[1:]
     for last, this in zip(line, line[1:]):
         if this == last:
             text += ";"
@@ -193,10 +186,36 @@ class Markdown:
         self.destination = None
 
     def to_markup(self, text):
+        while True:
+            try:
+                open_brace = text.index("{") + 1
+                close_brace = text.index("}")
+                if close_brace <= open_brace:
+                    raise ValueError
+            except ValueError:
+                break
+            link = text[open_brace:close_brace].lower()
+            if link[:1] == "''":
+                link = link[1:]
+            if link[0] in "'-":
+                cat = link[1]
+            else:
+                cat = link[0]
+            link = link.replace("'", "\\'")
+            link = "<a href=\\\"../" + cat + "/" + link + ".html\\\">"
+            text = text[:open_brace-1] + link + text[open_brace:close_brace] + "</a>" + text[close_brace+1:]
         self.source, self.destination = self.markdown[::-1], self.markup[::-1]
         return self.convert(text)
 
     def to_markdown(self, text):
+        while True:
+            try:
+                open_a = text.index("<a")
+                close_a = text.index(">", open_a) + 1
+            except ValueError:
+                break
+            text = text.replace("</a>", "}")
+            text = text[:open_a] + "{" + text[close_a:]
         self.source, self.destination = self.markup, self.markdown
         return self.convert(text)
 
