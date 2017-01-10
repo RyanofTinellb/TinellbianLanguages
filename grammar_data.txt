@@ -756,15 +756,15 @@ The word <strong>ma</strong> <em>where</em> is often used as a prefix for adposi
 [e]&ldquo;I loved you before your ball turned red.&rdquo;
 [4]Content Clauses
 A <strong>content clause</strong> is one that takes the place of a noun. They begin with the complementiser <strong>li</strong> and are separated from the matrix clause by commas. The auxiliary is not optional, and is given a low tone. Quote marks are used around reported speech, replacing the complementiser. 
-[f]<strong>Li &rsquo;usu kissajijisuka kugibi&rsquo;asi&rsquo;a rusa, qixa puttu pillu</strong>.
-[e]<small-caps>1int</small-caps> <em>fight-ideology</em> <small-caps>dat</small-caps><em>-east-&lsquo;asia&rsquo;</em> <small-caps>pst;gno</small-caps><em>,</em> <small-caps>pst;dyn</small-caps> <small-caps>1abl</small-caps> <em>think-</em><small-caps>psv</small-caps>
+[f]<strong>Li &rsquo;usu kissajijisuka kugibi&rsquo;Asi&rsquo;a rusa, qixa puttu pillu</strong>.
+[e]<small-caps>1int</small-caps> <em>fight-ideology</em> <small-caps>dat</small-caps><em>-east-Asia</em> <small-caps>pst;gno</small-caps><em>,</em> <small-caps>pst;dyn</small-caps> <small-caps>1abl</small-caps> <em>think-</em><small-caps>psv</small-caps>
 [e]&ldquo;That we&rsquo;ve always been at war with Eastasia, is what I think.&rdquo;
 [f]<strong>Suma qixa kululani icipu, li quhu pixi kuffa dissudanagi qixa</strong>.
 [e]<small-caps>1tra</small-caps> <small-caps>pst;dyn</small-caps> <small-caps>dat</small-caps><em>-queen speak-question,</em> <small-caps>com</small-caps> <small-caps>3ani;tra</small-caps> <small-caps>1dat</small-caps> <em>give new-decree</em> <small-caps>pst;dyn</small-caps>
 [e]&ldquo;I asked the queen if she had pardoned me.&rdquo;
 [f]<strong>Mihu qixa &rsquo;i, &ldquo;Filli mulisa ra&rsquo;u?&rdquo;</strong>
 [e]<small-caps>3ani.int</small-caps> <small-caps>pst;dyn</small-caps> <em>speak &ldquo;</em><small-caps>2int</small-caps> <em>fool</em> <small-caps>prs;sta</small-caps><em>?&rdquo;</em>
-[e]&ldquo;He said, &lsquo;Are you a fool?&rsquo;&rdquo;
+[e]&ldquo;He said, &lsquo;Are you a fool?&ldquo;
 [4]Relative Clauses
 <strong>Relative clauses</strong> specify the noun by describing it. They are placed before the modified noun, beginning with the relativiser <strong>xiku</strong>. The auxiliary is not optional, and is given a rising tone. Only subjects can be relativised. Other cases must be promoted to subject.
 [f]<strong>Xiku lu&rsquo;i kimilli pi lulani</strong>.

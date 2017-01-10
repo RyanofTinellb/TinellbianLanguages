@@ -331,7 +331,9 @@ def create_search():
         page = page.replace(chr(7), "")
         unaltered_page = page
         page = page.lower()
-        for character in '*?!.,:()^=-':
+        for character in '*?!.,:`()^=-/':
+            page = page.replace(character, " ")
+        for character in ["&ldquo;", "&rdquo;", "&lsquo;"]:
             page = page.replace(character, " ")
         page = remove_tag_text(page)
         unaltered_page = remove_tag_text(unaltered_page)
