@@ -17,6 +17,7 @@ class HtmlPage:
         self.create_main_page()
         with open(source_file, 'r') as source:
             for line in source:
+                line = line.replace(chr(7), "")
                 if line[0] == "[":
                     try:
                         self.level = int(line[1])
@@ -331,14 +332,14 @@ def create_search():
         page = page.replace(chr(7), "")
         unaltered_page = page
         page = page.lower()
-        for character in '*?!.,:`()^=-/':
+        for character in '*?!.,:`()^=-':
             page = page.replace(character, " ")
         for character in ["&ldquo;", "&rdquo;", "&lsquo;"]:
             page = page.replace(character, " ")
         page = remove_tag_text(page)
         unaltered_page = remove_tag_text(unaltered_page)
         page = markdown.to_markdown(page)
-        for item in "&;":
+        for item in "&;/":
             page = page.replace(item, " ")
         page = page.split("\n")
         unaltered_page = unaltered_page.split("\n")

@@ -391,6 +391,13 @@ a mood of joy or supreme contentment
 <a href="../u/'uccadama.html">&larr; &rsquo;uccadama</a> <high-lulani>(u;cdm)</high-lulani> <em>promethium</em>
 <a href="../s/siqi.html">&rarr; siqi</a> <high-lulani>(SQ)</high-lulani> <em>europium</em>
 <a href="../s/sussi.html">&darr; sussi</a> <high-lulani>(z;S)</high-lulani> <em>plutonium</em>
+[2]&rsquo;i&rsquo;issi
+[3]High Lulani
+[4]<high-lulani>ii;S</high-lulani>
+[5]<ipa>/&#x294;&#x268;.&#x2c8;&#x294;is.s&#x268;/</ipa>
+[6]derived compound verb <div class="definition">to sing</div>
+[7]Etymology
+<strong><a href="../i/'i.html">&rsquo;i</a></strong> <high-lulani>i</high-lulani> <em>to speak</em> + <strong><a href="../i/'issi.html">&rsquo;issi</a></strong> <high-lulani>i;S</high-lulani> <em>song</em>
 [2]&rsquo;i&rsquo;uja
 [3]High Lulani
 [4]<high-lulani>(iuj)</high-lulani>
@@ -601,7 +608,7 @@ a point in space-time-reality-gingla
 [5]<ipa>/&#x2c8;&#x294;is.s&#x268;/</ipa>
 [6]inanimate stem noun <div class="definition">song</div>
 [7]Derived Terms
-<strong><a href="../i/'i.html">&rsquo;i&rsquo;issi</a></strong> <high-lulani>(ii;S)</high-lulani> <em>to sing</em>
+<strong><a href="../i/'i'issi.html">&rsquo;i&rsquo;issi</a></strong> <high-lulani>(ii;S)</high-lulani> <em>to sing</em>
 [2]&rsquo;isili
 [3]High Lulani
 [4]<high-lulani>(iSL)</high-lulani>
@@ -1023,6 +1030,13 @@ state
 [6]derived attributive <div class="definition">lacking; sparse</div>
 [7]Etymology
 <a href="../p/pacca.html">pacca</a> <high-lulani>(p;c)</high-lulani> <em>number</em> + <a href="../f/funi.html">funi</a> <high-lulani>(vN)</high-lulani> <em>without</em>
+[2]pajagaru
+[3]High Lulani
+[4]<high-lulani>pjgw</high-lulani>
+[5]<ipa>/&#x2cc;p&#x2b0;a&#x25f;.&#x259;.&#x2c8;ga&#x279;.&#x289;/</ipa>
+[6]derived compound verb <div class="definition">to assess a situation</div>
+[7]Etymology
+<strong><a href="../p/pa.html">pa</a></strong> <high-lulani>p</high-lulani> <em>to think</em> + <strong><a href="../j/jagaru.html">jagaru</a></strong> <high-lulani>jgw</high-lulani> <em>absorption</em>
 [2]paji
 [3]High Lulani
 [4]<high-lulani>(pJ)</high-lulani>
@@ -2787,6 +2801,12 @@ One of ten directions in which something can be measured, or one of four ways in
 [4]<high-lulani>(C;a)</high-lulani>
 [5]<ipa>/&#x2c8;c&#x2b0;i&#x294;.j&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">life processes</div>
+
+[2]cipati
+[3]High Lulani
+[4]<high-lulani>CpT</high-lulani>
+[5]<ipa>/c&#x2b0;&#x268;.&#x2c8;p&#x2b0;at&#x2b0;.&#x268;/</ipa>
+[6]adverb <div class="definition">to that extent; even</div>
 [2]cipu
 [3]High Lulani
 [4]<high-lulani>(Co)</high-lulani>
@@ -2984,10 +3004,14 @@ poetic
 [2]ja
 [3]High Lulani
 [4]<high-lulani>(j)</high-lulani>
+[5]<ipa>/&#x25f;&#x259;/</ipa>
+[6]stem derivational suffix (noun: inanimate &rarr; abstract) <div class="definition">derives an abstract noun from an inanimate noun</div>
+[7]Example
+<strong><a href="../r/ru'ihaja.html">ru&rsquo;ihaja</a></strong> <high-lulani>wihj</high-lulani> <em>history</em>
 [5]<ipa>/&#x25f;a/</ipa>
 [6]stem adposition <div class="definition">along; across</div>
 [7]Examples
-<strong><a href="../j/janni.html">jannija</a></strong> <high-lulani>(j;Nj)</high-lulani> <em>to move across</em>
+<strong><a href="../j/jannija.html">jannija</a></strong> <high-lulani>(j;Nj)</high-lulani> <em>to move across</em>
 [2]japu
 [3]High Lulani
 [4]<high-lulani>jo</high-lulani>
@@ -2995,11 +3019,21 @@ poetic
 [6]abstract stem noun <div class="definition">sincerity</div>
 [7]Derived Terms
 <strong><a href="../x/xi.html">xijapu</a></strong> <high-lulani>Xjo</high-lulani> <em>to be sincere</em>
+[2]jakki
+[3]High Lulani
+[4]<high-lulani>j;K</high-lulani>
+[5]<ipa>/&#x2c8;&#x25f;ak.k&#x268;/</ipa>
+[6]inanimate stem noun <div class="definition">candle</div>
+[7]Derived Terms
+<strong><a href="../s/sa'ijakki.html">sa&rsquo;ijakki</a></strong> <high-lulani>sij;K</high-lulani> <em>candlelight</em>
 [2]jagaru
 [3]High Lulani
 [4]<high-lulani>(jgw)</high-lulani>
 [5]<ipa>/&#x25f;&#x259;.&#x2c8;ga&#x279;.&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">sand</div>
+[6]abstract stem noun <div class="definition">absorption</div>
+[7]Derived Terms
+<strong><a href="../p/pajagaru.html">pajagaru</a></strong> <high-lulani>pjgw</high-lulani> <em>to assess a situation</em>
 [2]jami
 [3]High Lulani
 [4]<high-lulani>(jM)</high-lulani>
@@ -4792,6 +4826,11 @@ informal
 <a href="../d/disi.html">disi</a>
 <a href="../q/qa.html">qa</a>
 [/t]
+[2]mu
+[3]High Lulani
+[4]<high-lulani>U</high-lulani>
+[5]<ipa>/mu&#x2d0;/</ipa>
+[6]intransitive stem verb <div class="definition">to be good</div>
 [2]muka
 [3]High Lulani
 [4]<high-lulani>(Uk)</high-lulani>
@@ -6594,6 +6633,13 @@ gnomic
 [4]<high-lulani>(wih)</high-lulani>
 [5]<ipa>/&#x279;&#x289;.&#x2c8;&#x294;ih.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">history book</div>
+[2]ru&rsquo;ihaja
+[3]High Lulani
+[4]<high-lulani>wihj</high-lulani>
+[5]<ipa>/&#x2cc;&#x279;u&#x294;.&#x268;.&#x2c8;ha&#x25f;.&#x259;/</ipa>
+[6]derived noun <div class="definition">history</div>
+[7]Etymology
+<strong><a href="../r/ru'iha.html">ru&rsquo;iha</a></strong> <high-lulani>wih</high-lulani> <em>history book</em> + <strong><a href="../j/ja.html">ja</a></strong> <high-lulani>j</high-lulani> <em><small-caps>nmn</small-caps></em>
 [2]ruba
 [3]High Lulani
 [4]<high-lulani>(wb)</high-lulani>
@@ -6694,7 +6740,7 @@ gnomic
 [3]High Lulani
 [4]<high-lulani>f</high-lulani>
 [5]<ipa>/fa&#x2d0;/</ipa>
-[6]modal adverb <div class="definition">maybe; possibly; probability &#x2248; 0.75</div>
+[6]modal adverb <div class="definition">maybe; possibly; probability &#x2248; 0.50</div>
 [2]fa&#x294;a
 [3]High Lulani
 [4]<high-lulani>(f;a)</high-lulani>
@@ -7074,6 +7120,13 @@ gnomic
 [4]<high-lulani>(si)</high-lulani>
 [5]<ipa>/&#x2c8;sa&#x294;.&#x268;/</ipa>
 [6]inanimate stem noun <div class="definition">light</div>
+[2]sa&rsquo;ijakki
+[3]High Lulani
+[4]<high-lulani>sij;K</high-lulani>
+[5]<ipa>/&#x2cc;sa&#x294;.&#x268;.&#x25f;ak.k&#x268;/</ipa>
+[6]derived compound noun <div class="definition">candlelight</div>
+[7]Etymology
+<strong><a href="../s/sa'i.html">sa&rsquo;i</a></strong> <high-lulani>si</high-lulani> <em>light</em> + <strong><a href="../j/jakki.html">jakki</a></strong> <high-lulani>j;K</high-lulani> <em>candle</em>
 [2]sa&rsquo;imi
 [3]High Lulani
 [4]<high-lulani>(siM)</high-lulani>
@@ -8051,6 +8104,7 @@ used for subtle themes. Cf: <a href="../x/xu.html">xu</a> <high-lulani>(Z)</high
 [4]<high-lulani>(Xm)</high-lulani>
 [5]<ipa>/&#x2c8;&#x255;im.&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">morning</div>
+
 [2]xissata
 [3]High Lulani
 [4]<high-lulani>(X;st)</high-lulani>

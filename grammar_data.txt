@@ -170,6 +170,8 @@ Phonemically, all syllables are CV, that is, one consonant followed by one vowel
 [4]Syllabication
 Syllable breaks are placed between two geminate consonants.
 If there are no geminates, then the final vowel, and every second vowel going backwards are their own syllables. 
+[4]Stress
+In a stem word, primary stress falls on the last closed syllable, and secondary stress on the penultimate closed syllable.
 [4]Prosody
 Interrogative and imperative sentences (questions and orders) are denoted by tone. This tone is either a rising tone (&#x1ce) or a falling tone (&acirc;), placed on the syllable of the appropriate word which has the greatest stress.
 Falling tone can also be used to bring focus to a particular word.
@@ -224,7 +226,7 @@ Common nouns can refer to abstract or concrete items.
 [5]Gender
 There are very few words with specific gender, mostly those dealing with family, as well as <strong>lulani</strong> <em>queen</em> and <strong>kimilli</strong> <em>king.</em> In these cases, the feminine form is the default, for people of undefined, unknown or non-binary gender.
 [5]Compound Nouns
-The first part of a compound noun must be a noun, and the subsequent parts specify the meaning of that noun. These parts can be nouns or verbs. The whole noun is usually written without spaces. As discussed above, the syllabification and stress of nonce words are determined on a stem-by-stem basis. However, a compound in common use will start being treated whole.
+The first part of a compound noun must be a noun, and the subsequent parts specify the meaning of that noun. These parts can be nouns or verbs. The whole noun is usually written without spaces. The syllabification and stress of nonce words are determined on a stem-by-stem basis. However, a compound in common use will start being treated whole.
 [f]<strong>jifiru&rsquo;inulli</strong> <em>mountain lake</em> ( <strong>jifiru&rsquo;i</strong> <em>lake</em> + <strong>nulli</strong> <em>mountain</em> ) 
 [e]<strong>xu&rsquo;abaju</strong> <em>bluebird</em> (  <strong>xu&rsquo;a</strong> <em>bird</em> + <strong>baju</strong> <em>blue</em> )
 [4]Pronouns

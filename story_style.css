@@ -180,6 +180,20 @@ div.toc p a high-lulani {
 	direction: ltr;
 }
 
+div.hidden {
+	display: none;
+}
+
+div.literal {
+	font-style: italic;
+	font-weight: normal;
+	font-family: sans-serif;
+}
+
+div.literal em {
+	font-style: normal;
+}
+
 @media screen and (max-width: 900px) {
 	div.nav-header {
 		float: none;

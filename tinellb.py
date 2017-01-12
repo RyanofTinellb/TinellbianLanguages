@@ -10,7 +10,6 @@ def conversion(source):
 
 def convert_line(line):
     text = ""
-    print(line)
     for item in ["[i]", "[b]", "[k]", "[/b]", "[/i]", "[/k"]:
         line = line.replace(item, "")
     for item in "\" ":
@@ -51,7 +50,8 @@ def interlinear(english, transliteration, gloss):
     italic = False
     if english == "***":
         return "***\n"
-    text = "[t]" + english + " | [r]"
+    literal = gloss[gloss.find(" | [r]"):].replace("===", "class=\\\"literal\\\"")
+    text = "[t]" + english + literal + " | [r]"
     transliteration = morpheme_split(transliteration)
     gloss = morpheme_split(gloss)
     for t_word, g_word in zip(transliteration, gloss):

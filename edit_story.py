@@ -10,8 +10,8 @@ from HtmlPage import create_search
 class EditStory(tk.Frame):
     def __init__(self, master=None):
         tk.Frame.__init__(self, master)
-        self.chapter = 1
-        self.paragraph = 1
+        self.chapter = None
+        self.paragraph = None
         self.english = tk.Text(self)
         self.transliteration = tk.Text(self)
         self.gloss = tk.Text(self)
@@ -50,12 +50,19 @@ class EditStory(tk.Frame):
             window.bind("<Control-i>", self.italic)
             window.bind("<Control-k>", self.small_cap)
             window.bind("<Control-s>", self.publish)
+            window.bind("<Control-r>", self.literal)
             window.bind("<Next>", self.next_paragraph)
             window.bind("<Prior>", self.previous_paragraph)
             window.bind("<Control-Next>", self.next_chapter)
             window.bind("<Control-Prior>", self.previous_chapter)
             window.bind("<KeyPress-minus>", self.insert_hyphen)
             window.grid(row=i, column=4, columnspan=5)
+
+    @staticmethod
+    def literal(event=None):
+        event.widget.insert(tk.INSERT, " | [r]<div ===></div>")
+        event.widget.mark_set(tk.INSERT, tk.INSERT + "-6c")
+        return "break"
 
     @staticmethod
     def insert_hyphen(event=None):
@@ -100,8 +107,9 @@ class EditStory(tk.Frame):
             for j, chapter in enumerate(self.story[i]):
                 count = self.story[i][j].count("\n") - self.story[1][j].count("\n")
                 self.story[i][j] = (chapter + count * "\n").split('\n')
-        self.chapter = len(self.story[1]) - 1
-        self.paragraph = self.story[5][self.chapter].index("") - 1
+        if self.chapter is None:
+            self.chapter = len(self.story[1]) - 1
+            self.paragraph = self.story[5][self.chapter].index("") - 1
         self.refresh()
 
     def refresh(self):
@@ -175,7 +183,12 @@ class EditStory(tk.Frame):
             story.write(self.page)
         t = threading.Thread(target=self.write_file)
         t.start()
+        box = event.widget
+        cursor = box.index(tk.INSERT)
         self.initialise()
+        box.focus_set()
+        box.mark_set(tk.INSERT, cursor)
+        box.see(tk.INSERT)
         return "break"
 
     @staticmethod
