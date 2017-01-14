@@ -59,7 +59,7 @@ class EditDictionary(tk.Frame):
     def new_word(self, event=None):
         new_template = "[2]" + self.entry + "\n"
         new_template += "[3]High Lulani\n"
-        new_template += "[4]" + tinellb.conversion(self.entry).replace(".", "") + "\n"
+        new_template += "[4]" + tinellb.convert_word(self.entry) + "\n"
         new_template += "[5]<ipa>//</ipa>\n"
         new_template += "[6] <div ==></div>\n"
         self.edit_text.insert(1.0, new_template)
@@ -126,7 +126,7 @@ class EditDictionary(tk.Frame):
         text = tinellb.convert_line(text)
         if period:
             text = "." + text + "."
-        text = "[hl]" + text + "[/hl]"
+        text = "[hl]\\(" + text + "\\)[/hl]"
         text += "\n" if enter else " "
         self.edit_text.insert(tk.SEL_LAST+"+1c", text)
         self.edit_text.mark_set(tk.INSERT, tk.INSERT + "+" + str(len(text) + 1) + "c")

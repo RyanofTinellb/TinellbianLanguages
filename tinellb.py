@@ -1,11 +1,16 @@
 import random
 
 
-def conversion(source):
+def convert_sentence(source):
     if source == "***":
         return source
     page = "[hl]." + convert_line(source) + ".[/hl]"
     return page
+
+
+def convert_word(source):
+    text = "[hl]\\(" + convert_line(source) + "\\)[/hl]"
+    return text
 
 
 def convert_line(line):

@@ -1011,8 +1011,9 @@ The basis colour terms are all verbs:
 [f]<strong>millu</strong> <em>brown</em>
 [f]<strong>ki&#x294;a</strong> <em>white</em>
 [e]<strong>ga</strong> <em>black</em>
+<img src="../../../images/colourwheel.png">
 <strong>Baju</strong> <em>blue</em> covers both light and dark blue, the darkest violets, and all but the lightest shades of green. <strong>Sa</strong> <em>yellow</em> covers the lightest shades of orange and green, as well as standard yellow. <strong>Miku</strong> <em>red</em> refers to all of red and pink, light purples and most of the orange spectrum, however, dark orange is subsumed under <strong>millu</strong> <em>brown</em>.
-Figure 2 shows which shades are referred to by which term. <strong>Ki&#x294;a</strong> <em>white</em> is used to refer to very light greys, as well as the usual white. <strong>Ga</strong> <em>black</em> is used to refer to the darker greys, tending towards the black.
+The figure above shows which shades are referred to by which term. <strong>Ki&#x294;a</strong> <em>white</em> is used to refer to very light greys, as well as the usual white. <strong>Ga</strong> <em>black</em> is used to refer to the darker greys, tending towards the black.
 In continuous aspects, these denote the colour of an object. With discrete aspects, these refer to a change in colour.
 [f]<strong>Pu&rsquo;iba ru miku</strong>.
 [e]<em>ball</em> <small-caps>prs;gno</small-caps> <em>red</em>.

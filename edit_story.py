@@ -166,7 +166,7 @@ class EditStory(tk.Frame):
                     self.story[i][self.chapter][self.paragraph] = self.english_stars
         else:
             self.story[4][self.chapter][self.paragraph] = tinellb.interlinear(english, transliteration, gloss)
-            self.story[2][self.chapter][self.paragraph] = tinellb.conversion(transliteration.replace("\-", ""))
+            self.story[2][self.chapter][self.paragraph] = tinellb.convert_sentence(transliteration.replace("\-", ""))
         for i, section in enumerate(self.story):
             for j, chapter in enumerate(section):
                 self.story[i][j] = "\n".join(chapter)
