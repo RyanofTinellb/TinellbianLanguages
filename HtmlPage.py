@@ -379,7 +379,7 @@ def create_search():
     for word, links in word_list.items():
         links = list(links)
         links.sort()
-        entry = "{\"t\":\"" + word + "\",\"r\":[" + ",".join(links) + "]}"
+        entry = "{\"t\":\"" + word + "\",\"r\":[" + ",".join(links) + "]}\n"
         dictionary_list.append(entry)
     dictionary_list.sort()
     text = str("[" + ",".join(dictionary_list) + "]")
