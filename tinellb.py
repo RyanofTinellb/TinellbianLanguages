@@ -182,11 +182,12 @@ class Markdown:
     def __init__(self):
         self.markup = []
         self.markdown = []
-        with open("replacements.txt", "r") as replacements:
+        with open("replacements.html", "r") as replacements:
             for line in replacements:
-                up, down = line.split(" ")
+                line = line.split(" ")
+                down, up = line[0], line[1]
                 self.markup.append(up)
-                self.markdown.append(down[:-1])
+                self.markdown.append(down)
         self.source = None
         self.destination = None
 

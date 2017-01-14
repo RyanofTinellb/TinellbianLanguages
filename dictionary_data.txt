@@ -8236,6 +8236,7 @@ Denotes a beneficiary
 [4]<high-lulani>(kw)</high-lulani>
 [5]<ipa>/&#x2c8;ha&#x279;.&#x289;/</ipa>
 [6]stem adposition <div class="definition">with; consisting of</div>
+[6]stem subordinating conjunction <div class="definition">at the same time; alongside; while; as</div>
 [2]hafi
 [3]High Lulani
 [4]<high-lulani>(hF)</high-lulani>

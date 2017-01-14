@@ -183,7 +183,10 @@ class EditStory(tk.Frame):
             story.write(self.page)
         t = threading.Thread(target=self.write_file)
         t.start()
-        box = event.widget
+        if event:
+            box = event.widget
+        else:
+            box = self.english
         cursor = box.index(tk.INSERT)
         self.initialise()
         box.focus_set()
