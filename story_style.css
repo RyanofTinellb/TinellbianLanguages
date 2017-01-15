@@ -181,7 +181,9 @@ div.toc p a high-lulani {
 }
 
 div.hidden {
-	display: none;
+	font-style: italic;
+	font-weight: normal;
+	font-family: serif;
 }
 
 div.literal {

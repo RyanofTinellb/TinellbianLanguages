@@ -56,6 +56,7 @@ class EditStory(tk.Frame):
             window.bind("<Control-Next>", self.next_chapter)
             window.bind("<Control-Prior>", self.previous_chapter)
             window.bind("<KeyPress-minus>", self.insert_hyphen)
+            window.bind("<Control-minus>", self.insert_ordinary_hyphen)
             window.grid(row=i, column=4, columnspan=5)
 
     @staticmethod
@@ -67,6 +68,11 @@ class EditStory(tk.Frame):
     @staticmethod
     def insert_hyphen(event=None):
         event.widget.insert(tk.INSERT, "\-")
+        return "break"
+
+    @staticmethod
+    def insert_ordinary_hyphen(event=None):
+        event.widget.insert(tk.INSERT, "-")
         return "break"
 
     def bold(self, event=None):

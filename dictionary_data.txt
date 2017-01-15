@@ -10,18 +10,18 @@
 [5]<ipa>/&#x294;a/</ipa>
 [6]inanimate stem noun element <div class="definition">iron</div>
 [7]See Also
-<a href="../q/qumalli.html">&larr; qumalli</a> <high-lulani>(Am;L)</high-lulani> <em>manganese</em>
-<a href="../g/gaxiki.html">&rarr; gaxiki</a> <high-lulani>(gXK)</high-lulani> <em>cobalt</em>
-<a href="../n/nasufi.html">&darr; nasufi</a> <high-lulani>(nzF)</high-lulani> <em>ruthenium</em>
+&larr; <a href="../q/qumalli.html">qumalli</a> <high-lulani>(Am;L)</high-lulani> <em>manganese</em>
+&rarr; <a href="../g/gaxiki.html">gaxiki</a> <high-lulani>(gXK)</high-lulani> <em>cobalt</em>
+&darr; <a href="../n/nasufi.html">nasufi</a> <high-lulani>(nzF)</high-lulani> <em>ruthenium</em>
 [2]&rsquo;a&rsquo;ami
 [3]High Lulani
 [4]<high-lulani>(aaM)</high-lulani>
 [5]<ipa>/&#x294;&#x259;.&#x2c8;&#x294;am.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">cerium</div>
 [7]See Also
-<a href="../x/xanaki.html">&larr; xanaki</a> <high-lulani>(xnK)</high-lulani> <em>lanthanum</em>
-<a href="../r/ra''asa.html">&rarr; ra&#x294;asa</a> <high-lulani>(r;as)</high-lulani> <em>praseodymium</em>
-<a href="../p/paraba.html">&darr; paraba</a> <high-lulani>(prb)</high-lulani> <em>thorium</em>
+&larr; <a href="../x/xanaki.html">xanaki</a> <high-lulani>(xnK)</high-lulani> <em>lanthanum</em>
+&rarr; <a href="../r/ra''asa.html">ra&#x294;asa</a> <high-lulani>(r;as)</high-lulani> <em>praseodymium</em>
+&darr; <a href="../p/paraba.html">paraba</a> <high-lulani>(prb)</high-lulani> <em>thorium</em>
 [2]&rsquo;a&rsquo;ima
 [3]High Lulani
 [4]<high-lulani>(aim)</high-lulani>
@@ -51,7 +51,7 @@ only used with possessives or in compounds
 [5]<ipa>/&#x2c8;&#x294;ab.&#x259;/</ipa>
 [6]stem indefinite pronoun <div class="definition">all; every; everything; universal object</div>
 [7]Example
-<a href="../q/qikanni.html">qikanni</a><a href="../a/'aba">&rsquo;aba</a> <high-lulani>(Qk;Nab)</high-lulani> <em>all the dogs</em>
+<a href="../q/qikanni.html">qikanni</a><a href="../a/'aba.html">&rsquo;aba</a> <high-lulani>(Qk;Nab)</high-lulani> <em>all the dogs</em>
 [7]See Also
 [t]
 object
@@ -95,9 +95,9 @@ state
 [5]<ipa>/&#x259;.&#x2cc;t&#x2b0;i&#x272;.&#x272;&#x259;/</ipa>
 [6]derivational suffix (verb &rarr; adverb) <div class="definition"> derives an adverb from a verb</div>
 [7]Derived Terms
-<strong><a href="../u/'usa.html">&rsquo;usatinna</a></strong> <high-lulani>(usT;n)</high-lulani> <em>visibly</em>
-<strong><a href="../k/ki.html">katinna</a></strong> <high-lulani>(kT;n)</high-lulani> <em>increasingly</em>
-<strong><a href="../l/lu'i.html">lu&rsquo;atinna</a></strong> <high-lulani>(WaT;n)</high-lulani> <em>lovingly</em>
+<strong><a href="../u/'usatinna.html">&rsquo;usatinna</a></strong> <high-lulani>(usT;n)</high-lulani> <em>visibly</em>
+<strong><a href="../k/katinna.html">katinna</a></strong> <high-lulani>(kT;n)</high-lulani> <em>increasingly</em>
+<strong><a href="../l/lu'atinna.html">lu&rsquo;atinna</a></strong> <high-lulani>(WaT;n)</high-lulani> <em>lovingly</em>
 [2]&rsquo;adda
 [3]High Lulani
 [4]<high-lulani>(a;d)</high-lulani>
@@ -138,8 +138,8 @@ state
 [5]<ipa>/&#x259;.k&#x2b0;&#x289;/</ipa>
 [6]derivational suffix (noun &rarr; noun) <div class="definition">augmentative</div>
 [7]Examples
-<a href="../t/tissa.hmtl">tissaku</a> <high-lulani>(T;s&gt;)</high-lulani> <em>gale</em>
-<a href="../i/'isili.html">&rsquo;isilaku</a> <high-lulani>(iSl&gt;)</high-lulani> <em>depression</em>
+<a href="../t/tissaku.html">tissaku</a> <high-lulani>(T;s&gt;)</high-lulani> <em>gale</em>
+<a href="../i/'isilaku.html">&rsquo;isilaku</a> <high-lulani>(iSl&gt;)</high-lulani> <em>depression</em>
 [2]&rsquo;agga
 [3]High Lulani
 [4]<high-lulani>(a;g)</high-lulani>
@@ -162,10 +162,10 @@ a collection of rules for a society
 [5]<ipa>/&#x2c8;&#x294;ag&#x2b1;.g&#x2b1;&#x268;.n&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">bismuth</div>
 [7]See Also
-<a href="../m/musaqu.html">&larr; musaqu</a> <high-lulani>(UsA)</high-lulani> <em>lead</em>
-<a href="../c/cakassu.html">&rarr; cakassu</a> <high-lulani>(ck;z)</high-lulani> <em>polonium</em>
-<a href="../s/salari.html">&uarr; salari</a> <high-lulani>(slR)</high-lulani> <em>antimony</em>
-<a href="../r/rili.html">&darr; rili</a> <high-lulani>(RL)</high-lulani> <em>moscovium</em>
+&larr; <a href="../m/musaqu.html">musaqu</a> <high-lulani>(UsA)</high-lulani> <em>lead</em>
+&rarr; <a href="../c/cakassu.html">cakassu</a> <high-lulani>(ck;z)</high-lulani> <em>polonium</em>
+&uarr; <a href="../s/salari.html">salari</a> <high-lulani>(slR)</high-lulani> <em>antimony</em>
+&darr; <a href="../r/rili.html">rili</a> <high-lulani>(RL)</high-lulani> <em>moscovium</em>
 [2]&rsquo;agusa
 [3]High Lulani
 [4]<high-lulani>(a&lt;s)</high-lulani>
@@ -177,10 +177,10 @@ a collection of rules for a society
 [5]<ipa>/&#x2c8;&#x294;am.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">silicon</div>
 [7]See Also
-<a href="../d/disa.html">&larr; disa</a> <high-lulani>(Ds)</high-lulani> <em>aluminium</em>
-<a href="../p/pibi.html">&rarr; pibi</a> <high-lulani>(PB)</high-lulani> <em>phosphorus</em>
-<a href="../x/xu.html">&uarr; xu</a> <high-lulani>(Z)</high-lulani> <em>carbon</em>
-<a href="../x/xuhhi.html">&darr; xuhhi</a> <high-lulani>(Z;H)</high-lulani> <em>germanium</em>
+&larr; <a href="../d/disa.html">disa</a> <high-lulani>(Ds)</high-lulani> <em>aluminium</em>
+&rarr; <a href="../p/pibi.html">pibi</a> <high-lulani>(PB)</high-lulani> <em>phosphorus</em>
+&uarr; <a href="../x/xu.html">xu</a> <high-lulani>(Z)</high-lulani> <em>carbon</em>
+&darr; <a href="../x/xuhhi.html">xuhhi</a> <high-lulani>(Z;H)</high-lulani> <em>germanium</em>
 [2]&rsquo;anni
 [3]High Lulani
 [4]<high-lulani>(a;N)</high-lulani>
@@ -227,22 +227,22 @@ Three plus four is seven.
 [5]<ipa>/&#x2c8;&#x294;a&#x14b;.&#x14b;&#x268;.&#x255;&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">yttrium</div>
 [7]See Also
-<a href="../a/'aru'u.html">&larr; &rsquo;aru&rsquo;u</a> <high-lulani>(awu)</high-lulani> <em>strontium</em>
-<a href="../p/pusu.html">&rarr; pusu</a> <high-lulani>(oz)</high-lulani> <em>zirconium</em>
-<a href="../c/cakina.html">&uarr; cakina</a> <high-lulani>(cKn)</high-lulani> <em>scandium</em>
-<a href="../n/nulina.html">&darr; nulina</a> <high-lulani>(ILn)</high-lulani> <em>lutetium</em>
+&larr; <a href="../a/'aru'u.html">&rsquo;aru&rsquo;u</a> <high-lulani>(awu)</high-lulani> <em>strontium</em>
+&rarr; <a href="../p/pusu.html">pusu</a> <high-lulani>(oz)</high-lulani> <em>zirconium</em>
+&uarr; <a href="../c/cakina.html">cakina</a> <high-lulani>(cKn)</high-lulani> <em>scandium</em>
+&darr; <a href="../n/nulina.html">nulina</a> <high-lulani>(ILn)</high-lulani> <em>lutetium</em>
 [2]&rsquo;ala
 [3]High Lulani
 [4]<high-lulani>(al)</high-lulani>
 [5]<ipa>/&#x2c8;&#x294;al.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">heat</div>
 [7]Derived Terms
-<a href="../m/musa.html">&rsquo;alamusa</a> <high-lulani>(alUs)</high-lulani> <em>sun&rsquo;s heat</em>
-<a href="../l/lupumma.html">&rsquo;alalupumma</a> <high-lulani>(alWo;m)</high-lulani> <em>heat of the fire</em>
+<a href="../a/'alamusa.html">&rsquo;alamusa</a> <high-lulani>(alUs)</high-lulani> <em>sun&rsquo;s heat</em>
+<a href="../a/'alalupumma.html">&rsquo;alalupumma</a> <high-lulani>(alWo;m)</high-lulani> <em>heat of the fire</em>
 [7]Usage Notes
 these are just about the only terms of this type. Anything else uses the genitive.
 [7]Examples
-<strong><a href="../d/da.html">daqa</a> &rsquo;ala</strong>
+<strong><a href="../d/daqa.html">daqa</a> &rsquo;ala</strong>
 <high-lulani>(dq / al)</high-lulani>
 <em>water-<small-caps>gen</small-caps> heat</em>
 &ldquo;the heat of the water&rdquo;
@@ -259,10 +259,10 @@ a feeling of recognition
 [5]<ipa>/&#x2c8;&#x294;al.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">gallium</div>
 [7]See Also
-<a href="../h/hika.html">&larr; hika</a> <high-lulani>(Hk)</high-lulani> <em>zinc</em>
-<a href="../x/xuhhi.html">&rarr; xuhhi</a> <high-lulani>(Z;H)</high-lulani> <em>germanium</em>
-<a href="../d/disa.html">&uarr; disa</a> <high-lulani>(Ds)</high-lulani> <em>aluminium</em>
-<a href="../l/luka.html">&darr; luka</a> <high-lulani>(Wk)</high-lulani> <em>indium</em>
+&larr; <a href="../h/hika.html">hika</a> <high-lulani>(Hk)</high-lulani> <em>zinc</em>
+&rarr; <a href="../x/xuhhi.html">xuhhi</a> <high-lulani>(Z;H)</high-lulani> <em>germanium</em>
+&uarr; <a href="../d/disa.html">disa</a> <high-lulani>(Ds)</high-lulani> <em>aluminium</em>
+&darr; <a href="../l/luka.html">luka</a> <high-lulani>(Wk)</high-lulani> <em>indium</em>
 [2]&rsquo;alissa
 [3]High Lulani
 [4]<high-lulani>(aL;s)</high-lulani>
@@ -283,10 +283,10 @@ a subtle requirement. Note that the object of requirement may be physical or sub
 [5]<ipa>/&#x294;&#x259;.&#x2c8;&#x279;u&#x294;.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">strontium</div>
 [7]See Also
-<a href="../s/sadadu.html">&larr; sadadu</a> <high-lulani>(sdE)</high-lulani> <em>rubidium</em>
-<a href="../a/'aqqixi.html">&rarr; &rsquo;aqqixi</a> <high-lulani>(a;QX)</high-lulani> <em>yttrium</em>
-<a href="../q/qaxa.html">&uarr; qaxa</a> <high-lulani>(qx)</high-lulani> <em>calcium</em>
-<a href="../b/baca.html">&darr; baca</a> <high-lulani>(bc)</high-lulani> <em>barium</em>
+&larr; <a href="../s/sadadu.html">sadadu</a> <high-lulani>(sdE)</high-lulani> <em>rubidium</em>
+&rarr; <a href="../a/'aqqixi.html">&rsquo;aqqixi</a> <high-lulani>(a;QX)</high-lulani> <em>yttrium</em>
+&uarr; <a href="../q/qaxa.html">qaxa</a> <high-lulani>(qx)</high-lulani> <em>calcium</em>
+&darr; <a href="../b/baca.html">baca</a> <high-lulani>(bc)</high-lulani> <em>barium</em>
 [2]&rsquo;assa
 [3]High Lulani
 [4]<high-lulani>(a;s)</high-lulani>
@@ -316,8 +316,8 @@ a subtle requirement. Note that the object of requirement may be physical or sub
 [7]Definition
 the act of being or seeming physically or subtly mature
 [7]Derived Terms
-<a href="../x/xi">xi&rsquo;axasi</a> <high-lulani>(XaxS)</high-lulani> <em>to be mature</em>
-<a href="../q/qi">qi&rsquo;axasi</a> <high-lulani>(QaxS)</high-lulani> <em>to be mature</em>
+<a href="../x/xi'axasi.html">xi&rsquo;axasi</a> <high-lulani>(XaxS)</high-lulani> <em>to be mature</em>
+<a href="../q/qi'axasi.html">qi&rsquo;axasi</a> <high-lulani>(QaxS)</high-lulani> <em>to be mature</em>
 [2]&rsquo;axasiri
 [3]High Lulani
 [4]<high-lulani>(axSR)</high-lulani>
@@ -352,8 +352,8 @@ a mood of joy or supreme contentment
 [5]<ipa>/&#x294;i/</ipa>
 [6]transitive stem verb <div class="definition">to say; to speak; to tell</div>
 [7]Derived Terms
-<strong><a href="../s/sinna.html">&rsquo;isinna</a></strong> <high-lulani>(iS;n)</high-lulani> <em>to tell a story</em>
-<strong><a href="../c/cipu.html">&rsquo;icipu</a></strong> <high-lulani>(iCo)</high-lulani> <em>to ask</em>
+<strong><a href="../i/'isinna.html">&rsquo;isinna</a></strong> <high-lulani>(iS;n)</high-lulani> <em>to tell a story</em>
+<strong><a href="../i/'icipu.html">&rsquo;icipu</a></strong> <high-lulani>(iCo)</high-lulani> <em>to ask</em>
 [7]Thematic Relations
 <strong>agent</strong> <em>subject</em>
 <strong>experiencer</strong> <em>dative, object</em>
@@ -379,18 +379,18 @@ a mood of joy or supreme contentment
 [5]<ipa>/&#x294;&#x268;.&#x2c8;&#x294;am.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">hassium</div>
 [7]See Also
-<a href="../c/cabahi.html">&larr; cabahi</a> <high-lulani>(cbH)</high-lulani> <em>bohrium</em>
-<a href="../n/nakaku.html">&rarr; nakaku</a> <high-lulani>(nk&gt;)</high-lulani> <em>meitnerium</em>
-<a href="../s/supu.html">&uarr; supu</a> <high-lulani>(zo)</high-lulani> <em>osmium</em>
+&larr; <a href="../c/cabahi.html">cabahi</a> <high-lulani>(cbH)</high-lulani> <em>bohrium</em>
+&rarr; <a href="../n/nakaku.html">nakaku</a> <high-lulani>(nk&gt;)</high-lulani> <em>meitnerium</em>
+&uarr; <a href="../s/supu.html">supu</a> <high-lulani>(zo)</high-lulani> <em>osmium</em>
 [2]&rsquo;i&rsquo;isata
 [3]High Lulani
 [4]<high-lulani>(iist)</high-lulani>
 [5]<ipa>/&#x2cc;&#x294;i&#x294;.&#x268;.&#x2c8;sat&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">samarium</div>
 [7]See Also
-<a href="../u/'uccadama.html">&larr; &rsquo;uccadama</a> <high-lulani>(u;cdm)</high-lulani> <em>promethium</em>
-<a href="../s/siqi.html">&rarr; siqi</a> <high-lulani>(SQ)</high-lulani> <em>europium</em>
-<a href="../s/sussi.html">&darr; sussi</a> <high-lulani>(z;S)</high-lulani> <em>plutonium</em>
+&larr; <a href="../u/'uccadama.html">&rsquo;uccadama</a> <high-lulani>(u;cdm)</high-lulani> <em>promethium</em>
+&rarr; <a href="../s/siqi.html">siqi</a> <high-lulani>(SQ)</high-lulani> <em>europium</em>
+&darr; <a href="../s/sussi.html">sussi</a> <high-lulani>(z;S)</high-lulani> <em>plutonium</em>
 [2]&rsquo;i&rsquo;issi
 [3]High Lulani
 [4]<high-lulani>(ii;S)</high-lulani>
@@ -430,15 +430,15 @@ a mood of joy or supreme contentment
 [5]<ipa>/&#x2c8;&#x294;it.t&#x268;.k&#x2b0;&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">oganesson</div>
 [7]See Also
-<a href="../b/buccata.html">&larr; buccata</a> <high-lulani>(O;ct)</high-lulani> <em>tennessine</em>
-<a href="../f/fasami.html">&uarr; fasami</a> <high-lulani>(fsM)</high-lulani> <em>radon</em>
+&larr; <a href="../b/buccata.html">buccata</a> <high-lulani>(O;ct)</high-lulani> <em>tennessine</em>
+&uarr; <a href="../f/fasami.html">fasami</a> <high-lulani>(fsM)</high-lulani> <em>radon</em>
 [2]&rsquo;itikku
 [3]High Lulani
 [4]<high-lulani>(iT;&gt;)</high-lulani>
 [5]<ipa>/&#x294;&#x268;.&#x2c8;t&#x2b0;ik.k&#x289;/</ipa>
 [6]derived inanimate noun <div class="definition">breast</div>
 [7]Etymology
-<a href="../i/'iti.html">&rsquo;iti</a> <high-lulani>(iT)</high-lulani> <em>milk</em> + <a href="../-kku.html">-kku</a> <high-lulani>(;&gt;)</high-lulani> <em>body part</em>
+<a href="../i/'iti.html">&rsquo;iti</a> <high-lulani>(iT)</high-lulani> <em>milk</em> + <a href="../\/-kku.html">-kku</a> <high-lulani>(;&gt;)</high-lulani> <em>body part</em>
 [2]&rsquo;idu
 [3]High Lulani
 [4]<high-lulani>(iE)</high-lulani>
@@ -465,18 +465,25 @@ a mood of joy or supreme contentment
 [5]<ipa>/&#x2c8;&#x294;ik.k&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">californium</div>
 [7]See Also
-<a href="../s/saxxuru.html">&larr; saxxuru</a> <high-lulani>(s;Zw)</high-lulani> <em>berkelium</em>
-<a href="../b/banara.html">&rarr; banara</a> <high-lulani>(bnr)</high-lulani> <em>einsteinium</em>
-<a href="../b/bumissi.html">&uarr; bumissi</a> <high-lulani>(OM;S)</high-lulani> <em>dysprosium</em>
+&larr; <a href="../s/saxxuru.html">saxxuru</a> <high-lulani>(s;Zw)</high-lulani> <em>berkelium</em>
+&rarr; <a href="../b/banara.html">banara</a> <high-lulani>(bnr)</high-lulani> <em>einsteinium</em>
+&uarr; <a href="../b/bumissi.html">bumissi</a> <high-lulani>(OM;S)</high-lulani> <em>dysprosium</em>
+[2]&rsquo;ikahu
+[3]High Lulani
+[4]<high-lulani>(ikV)</high-lulani>
+[5]<ipa>/&#x294;&#x268;.&#x2c8;k&#x2b0;ah.&#x289;/</ipa>
+[6]derived compound verb <div class="definition">to grunt</div>
+[7]Etymology
+<strong><a href="../i/'i.html">&rsquo;i</a></strong> <high-lulani>(i)</high-lulani> <em>to speak</em> + <strong><a href="../k/kahu.html">kahu</a></strong> <high-lulani>(kV)</high-lulani> <em>grunt</em>
 [2]&rsquo;iku
 [3]High Lulani
 [4]<high-lulani>(i&gt;)</high-lulani>
 [5]<ipa>/&#x2c8;&#x294;ik&#x2b0;.&#x289;/</ipa>
 [6]abstract stem noun <div class="definition">hunger</div>
 [7]Derived Terms
-<strong><a href="../q/qi.html">qi&rsquo;iku</a></strong> <high-lulani>(Qi&gt;)</high-lulani> <em>to be hungry</em>
-<strong><a href="../b/bi'u.html">bi&rsquo;u&rsquo;iku</a></strong> <high-lulani>(Bui&gt;)</high-lulani> <em>to be starving</em>
-<strong><a href="../s/siku.html">siku&rsquo;iku</a></strong> <high-lulani>(S&gt;i&gt;)</high-lulani> <em>to starve</em>
+<strong><a href="../q/qi'iku.html">qi&rsquo;iku</a></strong> <high-lulani>(Qi&gt;)</high-lulani> <em>to be hungry</em>
+<strong><a href="../b/bi'u'iku.html">bi&rsquo;u&rsquo;iku</a></strong> <high-lulani>(Bui&gt;)</high-lulani> <em>to be starving</em>
+<strong><a href="../s/siku'iku.html">siku&rsquo;iku</a></strong> <high-lulani>(S&gt;i&gt;)</high-lulani> <em>to starve</em>
 [2]&rsquo;ima
 [3]High Lulani
 [4]<high-lulani>(im)</high-lulani>
@@ -501,17 +508,17 @@ a mood of joy or supreme contentment
 [6]derivational suffix (noun) <div class="definition">diminutive; derives a noun of lesser intensity or size from another noun</div>
 [7]Example
 <a href="../t/tissini.html">tissini</a> <high-lulani>(T;SN)</high-lulani> <em>breeze</em>
-<strong><a href="../q/qikanni.html">qikannini</a></strong> <high-lulani>(Qk;NN)</high-lulani> <em>puppy</em>
-<strong><a href="../a/'ahati.html">&rsquo;ahatini</a></strong> <high-lulani>(ahTN)</high-lulani> <em>contentment</em>
+<strong><a href="../q/qikannini.html">qikannini</a></strong> <high-lulani>(Qk;NN)</high-lulani> <em>puppy</em>
+<strong><a href="../a/'ahatini.html">&rsquo;ahatini</a></strong> <high-lulani>(ahTN)</high-lulani> <em>contentment</em>
 [2]&rsquo;ilasa
 [3]High Lulani
 [4]<high-lulani>(ils)</high-lulani>
 [5]<ipa>/&#x294;&#x268;.&#x2c8;las.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">radium</div>
 [7]See Also
-<a href="../g/guqqa.html">&larr; guqqa</a> <high-lulani>(&lt;;q)</high-lulani> <em>francium</em>
-<a href="../n/na'a.html">&rarr; na&rsquo;a</a> <high-lulani>(na)</high-lulani> <em>actinium</em>
-<a href="../b/baca.html">&uarr; baca</a> <high-lulani>(bc)</high-lulani> <em>barium</em>
+&larr; <a href="../g/guqqa.html">guqqa</a> <high-lulani>(&lt;;q)</high-lulani> <em>francium</em>
+&rarr; <a href="../n/na'a.html">na&rsquo;a</a> <high-lulani>(na)</high-lulani> <em>actinium</em>
+&uarr; <a href="../b/baca.html">baca</a> <high-lulani>(bc)</high-lulani> <em>barium</em>
 [2]&rsquo;ili
 [3]High Lulani
 [4]<high-lulani>(iL)</high-lulani>
@@ -584,7 +591,7 @@ a mood of joy or supreme contentment
 [5]<ipa>/&#x294;&#x268;.&#x2cc;fu&ccedil;.&ccedil;&#x259;.&#x2c8;nak&#x2b0;.&#x289;/</ipa>
 [6]derived compound verb <div class="definition">to agree</div>
 [7]Etymology
-<a href="../&#x2018;i.html">&rsquo;i</a> <high-lulani>(i)</high-lulani> <em>speak</em> + <a href="../f/fuhha.html">fuhha</a> <high-lulani>(v;h)</high-lulani> <em>decision</em> + <a href="../n/naku.html">naku</a> <high-lulani>(n&gt;)</high-lulani> <em>together</em>
+<a href="../i/'i.html">&rsquo;i</a> <high-lulani>(i)</high-lulani> <em>speak</em> + <a href="../f/fuhha.html">fuhha</a> <high-lulani>(v;h)</high-lulani> <em>decision</em> + <a href="../n/naku.html">naku</a> <high-lulani>(n&gt;)</high-lulani> <em>together</em>
 [2]&rsquo;isa
 [3]High Lulani
 [4]<high-lulani>(is)</high-lulani>
@@ -615,10 +622,10 @@ a point in space-time-reality-gingla
 [5]<ipa>/&#x294;&#x268;.sil.&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">sadness</div>
 [7]Derived Terms
-<strong><a href="../d/dissu.html">dissu&rsquo;isili</a></strong> <high-lulani>(D;ziSL)</high-lulani> <em>to be sad</em>
-<strong><a href="../aku.html">&rsquo;isilaku</a></strong> <high-lulani>(iSl&gt;)</high-lulani> <em>depression</em>
-<strong><a href="../d/da.html">&rsquo;isilida</a></strong> <high-lulani>(iSLd)</high-lulani> <em>misery</em>
-<strong><a href="../t/tu'i.html">&rsquo;isilitu&rsquo;i</a></strong> <high-lulani>(iSLei)</high-lulani> <em>pensiveness</em>
+<strong><a href="../d/dissu'isili.html">dissu&rsquo;isili</a></strong> <high-lulani>(D;ziSL)</high-lulani> <em>to be sad</em>
+<strong><a href="../i/'isilaku.html">&rsquo;isilaku</a></strong> <high-lulani>(iSl&gt;)</high-lulani> <em>depression</em>
+<strong><a href="../i/'isilida.html">&rsquo;isilida</a></strong> <high-lulani>(iSLd)</high-lulani> <em>misery</em>
+<strong><a href="../i/'isilitu'i.html">&rsquo;isilitu&rsquo;i</a></strong> <high-lulani>(iSLei)</high-lulani> <em>pensiveness</em>
 [7]See Also
 <a href="../a/'ahati.html">&rsquo;ahati</a> <high-lulani>(ahT)</high-lulani> <em>happiness</em>
 <a href="../s/sutti.html">sutti</a> <high-lulani>(z;T)</high-lulani> <em>fear</em>
@@ -692,23 +699,23 @@ one point on this axis, <em>i.e.:</em> a world, a reality
 [5]<ipa>/&#x2c8;&#x294;ud.&#x268;/</ipa>
 [6]inanimate stem noun <div class="definition">teeth</div>
 [7]Derived Terms
-<strong><a href="../x/xita.html">&rsquo;udixita</a></strong> <high-lulani>(uDXt)</high-lulani> <em>tooth</em>
+<strong><a href="../u/'udixita.html">&rsquo;udixita</a></strong> <high-lulani>(uDXt)</high-lulani> <em>tooth</em>
 [2]&rsquo;uccadama
 [3]High Lulani
 [4]<high-lulani>(u;cdm)</high-lulani>
 [5]<ipa>/&#x2cc;&#x294;uc.c&#x259;.&#x2c8;dam.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">promethium</div>
 [7]See Also
-<a href="../f/fibaku.html">&larr; fibaku</a> <high-lulani>(Fb&gt;)</high-lulani> <em>neodymium</em>
-<a href="../i/'i'isata.html">&rarr; &rsquo;i&rsquo;isata</a> <high-lulani>(iist)</high-lulani> <em>samarium</em>
-<a href="../x/xasagi.html">&darr; xasagi</a> <high-lulani>(xsG)</high-lulani> <em>neptunium</em>
+&larr; <a href="../f/fibaku.html">fibaku</a> <high-lulani>(Fb&gt;)</high-lulani> <em>neodymium</em>
+&rarr; <a href="../i/'i'isata.html">&rsquo;i&rsquo;isata</a> <high-lulani>(iist)</high-lulani> <em>samarium</em>
+&darr; <a href="../x/xasagi.html">xasagi</a> <high-lulani>(xsG)</high-lulani> <em>neptunium</em>
 [2]-uju
 [3]High Lulani
 [4]<high-lulani>(/uY)</high-lulani>
 [5]<ipa>/&#x289;.&#x25f;&#x289;/</ipa>
 [6]mathematics suffix <div class="definition">ordinal</div>
 [7]Example
-<strong><a href="../k/kifi.html">kifuju</a></strong> <high-lulani>(KvY)</high-lulani> <em>third</em>
+<strong><a href="../k/kifuju.html">kifuju</a></strong> <high-lulani>(KvY)</high-lulani> <em>third</em>
 [7]See Also
 <a href="../b/bijaju.html">bijaju</a> <high-lulani>(BjY)</high-lulani> <em>first</em>
 <a href="../m/matta.html">matta</a> <high-lulani>(m;t)</high-lulani> <em>second</em>
@@ -760,16 +767,16 @@ state
 [5]<ipa>/&#x294;&#x289;.&#x2c8;lan.&#x289;/</ipa>
 [6]abstract stem noun <div class="definition">horniness; arousal</div>
 [7]Derived Terms
-<strong><a href="../d/dissu.html">dissu&rsquo;ulanu</a></strong> <high-lulani>(D;zulI)</high-lulani> <em>to be horny</em>
+<strong><a href="../d/dissu'ulanu.html">dissu&rsquo;ulanu</a></strong> <high-lulani>(D;zulI)</high-lulani> <em>to be horny</em>
 [2]-ulu
 [3]High Lulani
 [4]<high-lulani>(/uW)</high-lulani>
 [5]<ipa>/&#x289;.l&#x289;/</ipa>
 [6]derivational suffix (verb) <div class="definition">undo</div>
 [7]Examples
-<strong><a href="../l/la.html">lulu</a></strong> <high-lulani>(WW)</high-lulani> <em>to undo</em>
-<strong ><a href="../j/ju'i.html">ju&rsquo;ulu</a></strong> <high-lulani>(YuW)</high-lulani> <em>to undress</em>
-<strong ><a href="../s/si'a.html">si&rsquo;ulu</a></strong> <high-lulani>(SuW)</high-lulani> <em>to break</em>
+<strong><a href="../l/lulu.html">lulu</a></strong> <high-lulani>(WW)</high-lulani> <em>to undo</em>
+<strong ><a href="../j/ju'ulu.html">ju&rsquo;ulu</a></strong> <high-lulani>(YuW)</high-lulani> <em>to undress</em>
+<strong ><a href="../s/si'ulu.html">si&rsquo;ulu</a></strong> <high-lulani>(SuW)</high-lulani> <em>to break</em>
 [2]&rsquo;usa
 [3]High Lulani
 [4]<high-lulani>(us)</high-lulani>
@@ -800,10 +807,10 @@ state
 <strong>gnomic</strong> <em>to be able to see</em>
 [6]inanimate stem noun element <div class="definition">mercury</div>
 [7]See Also
-<a href="../f/fi.html">&larr; fi</a> <high-lulani>(F)</high-lulani> <em>gold</em>
-<a href="../s/silla.html">&rarr; silla</a> <high-lulani>(S;l)</high-lulani> <em>thallium</em>
-<a href="../k/kaca.html">&uarr; kaca</a> <high-lulani>(kc)</high-lulani> <em>cadmium</em>
-<a href="../h/hatanu.html">&darr; hatanu</a> <high-lulani>(htI)</high-lulani> <em>copernicium</em>
+&larr; <a href="../f/fi.html">fi</a> <high-lulani>(F)</high-lulani> <em>gold</em>
+&rarr; <a href="../s/silla.html">silla</a> <high-lulani>(S;l)</high-lulani> <em>thallium</em>
+&uarr; <a href="../k/kaca.html">kaca</a> <high-lulani>(kc)</high-lulani> <em>cadmium</em>
+&darr; <a href="../h/hatanu.html">hatanu</a> <high-lulani>(htI)</high-lulani> <em>copernicium</em>
 [2]&rsquo;ussa
 [3]High Lulani
 [4]<high-lulani>(u;s)</high-lulani>
@@ -857,9 +864,9 @@ state
 [5]<ipa>/&#x2c8;&#x294;us.&#x268;/</ipa>
 [6]stem mathematics numeral <div class="definition">6; six</div>
 [7]See Also
-<a href="../g/guhi.html">&larr; guhi</a> <high-lulani>(&lt;H)</high-lulani> <em>five</em>
-<a href="../s/salumi.html">&rarr; salumi</a> <high-lulani>(sWM)</high-lulani> <em>seven</em>
-<a href="../j/jusiti.html">&mdash; jusiti</a> <high-lulani>(YST)</high-lulani> <em>rix</em>
+&larr; <a href="../g/guhi.html">guhi</a> <high-lulani>(&lt;H)</high-lulani> <em>five</em>
+&rarr; <a href="../s/salumi.html">salumi</a> <high-lulani>(sWM)</high-lulani> <em>seven</em>
+&mdash; <a href="../j/jusiti.html">jusiti</a> <high-lulani>(YST)</high-lulani> <em>rix</em>
 [2]&rsquo;ussi
 [3]High Lulani
 [4]<high-lulani>(u;S)</high-lulani>
@@ -1000,10 +1007,10 @@ state
 [5]<ipa>/&#x2c8;p&#x2b0;ap&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">iodine</div>
 [7]See Also
-<a href="../l/lasu.html">&larr; lasu</a> <high-lulani>(lz)</high-lulani> <em>tellurium</em>
-<a href="../s/sahha.html">&rarr; sahha</a> <high-lulani>(s;h)</high-lulani> <em>xenon</em>
-<a href="../b/bi.html">&uarr; bi</a> <high-lulani>(B)</high-lulani> <em>bromine</em>
-<a href="../s/sicu.html">&darr; sicu</a> <high-lulani>(Sy)</high-lulani> <em>astatine</em>
+&larr; <a href="../l/lasu.html">lasu</a> <high-lulani>(lz)</high-lulani> <em>tellurium</em>
+&rarr; <a href="../s/sahha.html">sahha</a> <high-lulani>(s;h)</high-lulani> <em>xenon</em>
+&uarr; <a href="../b/bi.html">bi</a> <high-lulani>(B)</high-lulani> <em>bromine</em>
+&darr; <a href="../s/sicu.html">sicu</a> <high-lulani>(Sy)</high-lulani> <em>astatine</em>
 [2]pada
 [3]High Lulani
 [4]<high-lulani>(pd)</high-lulani>
@@ -1110,8 +1117,8 @@ state
 [7]Etymology
 <a href="../p/pagu.html">pagu</a> <high-lulani>(p&lt;)</high-lulani> <em>my</em> + <a href="../q/qa.html">qa</a> <high-lulani>(q)</high-lulani> <em>nominaliser</em>
 [7]Related Terms
-<strong><a href="../b/ba.html">baqa</a></strong> <high-lulani>(bq)</high-lulani> <em>yours</em>
-<strong><a href="../d/disi.html">disiqa</a></strong> <high-lulani>(DSq)</high-lulani> <em>hers</em>
+<strong><a href="../b/baqa.html">baqa</a></strong> <high-lulani>(bq)</high-lulani> <em>yours</em>
+<strong><a href="../d/disiqa.html">disiqa</a></strong> <high-lulani>(DSq)</high-lulani> <em>hers</em>
 [2]pamana
 [3]High Lulani
 [4]<high-lulani>(pmn)</high-lulani>
@@ -1170,9 +1177,9 @@ to have a though slowly rise in one&rsquo;s mind
 [5]<ipa>/p&#x2b0;&#x259;.&#x2c8;&#x279;ab.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">thorium</div>
 [7]See Also
-<a href="../n/na'a.html">&larr; na&rsquo;a</a> <high-lulani>(na)</high-lulani> <em>actinium</em>
-<a href="../l/lakatti.html">&rarr; lakatti</a> <high-lulani>(lk;T)</high-lulani> <em>protactinium</em>
-<a href="../a/'a'ami.html">&uarr; &rsquo;a&rsquo;ami</a> <high-lulani>(aaM)</high-lulani> <em>cerium</em>
+&larr; <a href="../n/na'a.html">na&rsquo;a</a> <high-lulani>(na)</high-lulani> <em>actinium</em>
+&rarr; <a href="../l/lakatti.html">lakatti</a> <high-lulani>(lk;T)</high-lulani> <em>protactinium</em>
+&uarr; <a href="../a/'a'ami.html">&rsquo;a&rsquo;ami</a> <high-lulani>(aaM)</high-lulani> <em>cerium</em>
 [2]pi
 [3]High Lulani
 [4]<high-lulani>(P)</high-lulani>
@@ -1222,10 +1229,10 @@ gnomic
 [5]<ipa>/&#x2c8;p&#x2b0;ib.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">phosphorus</div>
 [7]See Also
-<a href="../a/'ama.html">&larr; &rsquo;ama</a> <high-lulani>(am)</high-lulani> <em>silicon</em>
-<a href="../t/ta.html">&rarr; ta</a> <high-lulani>(t)</high-lulani> <em>sulphur</em>
-<a href="../s/sutta.html">&uarr; sutta</a> <high-lulani>(z;t)</high-lulani> <em>nitrogen</em>
-<a href="../d/da'u.html">&darr; da&rsquo;u</a> <high-lulani>(du)</high-lulani> <em>arsenic</em>
+&larr; <a href="../a/'ama.html">&rsquo;ama</a> <high-lulani>(am)</high-lulani> <em>silicon</em>
+&rarr; <a href="../t/ta.html">ta</a> <high-lulani>(t)</high-lulani> <em>sulphur</em>
+&uarr; <a href="../s/sutta.html">sutta</a> <high-lulani>(z;t)</high-lulani> <em>nitrogen</em>
+&darr; <a href="../d/da'u.html">da&rsquo;u</a> <high-lulani>(du)</high-lulani> <em>arsenic</em>
 [2]piki
 [3]High Lulani
 [4]<high-lulani>(PK)</high-lulani>
@@ -1244,9 +1251,9 @@ gnomic
 [5]<ipa>/&#x2c8;p&#x2b0;in.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">lithium</div>
 [7]See Also
-<a href="../l/li'a.html">&larr; li&rsquo;a</a> <high-lulani>(La)</high-lulani> <em>helium</em>
-<a href="../f/fiqqala.html">&rarr; fiqqala</a> <high-lulani>(F;ql)</high-lulani> <em>beryllium</em>
-<a href="../l/lisu.html">&darr; lisu</a> <high-lulani>(Lz)</high-lulani> <em>sodium</em>
+&larr; <a href="../l/li'a.html">li&rsquo;a</a> <high-lulani>(La)</high-lulani> <em>helium</em>
+&rarr; <a href="../f/fiqqala.html">fiqqala</a> <high-lulani>(F;ql)</high-lulani> <em>beryllium</em>
+&darr; <a href="../l/lisu.html">lisu</a> <high-lulani>(Lz)</high-lulani> <em>sodium</em>
 [2]pifa
 [3]High Lulani
 [4]<high-lulani>(Pf)</high-lulani>
@@ -1400,17 +1407,17 @@ gnomic
 [5]<ipa>/p&#x2b0;&#x289;.&#x2c8;&#x279;is.s&#x268;.&#x25f;&#x268;/</ipa>
 [6]inanimate stem noun <div class="definition">circle</div>
 [7]See Also
-<a href="../-ssiji.html">-ssiji</a> <high-lulani>(;SJ)</high-lulani> <em>shape</em>
+<a href="../\/-ssiji.html">-ssiji</a> <high-lulani>(;SJ)</high-lulani> <em>shape</em>
 [2]pusu
 [3]High Lulani
 [4]<high-lulani>(oz)</high-lulani>
 [5]<ipa>/&#x2c8;p&#x2b0;us.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">zirconium</div>
 [7]See Also
-<a href="../a/'aqqixi.html">&larr; &rsquo;aqqixi</a> <high-lulani>(a;QX)</high-lulani> <em>yttrium</em>
-<a href="../l/lakka.html">&rarr; lakka</a> <high-lulani>(l;k)</high-lulani> <em>niobium</em>
-<a href="../k/ka'i.html">&uarr; ka&rsquo;i</a> <high-lulani>(ki)</high-lulani> <em>titanium</em>
-<a href="../t/tacuca.html">&darr; tacuca</a> <high-lulani>(tyc)</high-lulani> <em>hafnium</em>
+&larr; <a href="../a/'aqqixi.html">&rsquo;aqqixi</a> <high-lulani>(a;QX)</high-lulani> <em>yttrium</em>
+&rarr; <a href="../l/lakka.html">lakka</a> <high-lulani>(l;k)</high-lulani> <em>niobium</em>
+&uarr; <a href="../k/ka'i.html">ka&rsquo;i</a> <high-lulani>(ki)</high-lulani> <em>titanium</em>
+&darr; <a href="../t/tacuca.html">tacuca</a> <high-lulani>(tyc)</high-lulani> <em>hafnium</em>
 [2]puxila
 [3]High Lulani
 [4]<high-lulani>(oXl)</high-lulani>
@@ -1424,8 +1431,8 @@ gnomic
 [5]<ipa>/b&#x259;/</ipa>
 [6]derivational suffix (verb &rarr; noun) <div class="definition">derives an animate agentive noun from a verb</div>
 [7]Example
-<strong><a href="../h/hisu.html">hisuba</a></strong> <high-lulani>(Hzb)</high-lulani> <em>administrator</em>
-<strong><a href="../b/bibu.html">bibuba</a></strong> <high-lulani>(BOb)</high-lulani> <em>whiner</em>
+<strong><a href="../h/hisuba.html">hisuba</a></strong> <high-lulani>(Hzb)</high-lulani> <em>administrator</em>
+<strong><a href="../b/bibuba.html">bibuba</a></strong> <high-lulani>(BOb)</high-lulani> <em>whiner</em>
 <a href="../u/'ussaba.html">&rsquo;ussaba</a> <high-lulani>(u;sb)</high-lulani> <em>follower</em>
 [5]<ipa>/ba/</ipa>
 [6]stem personal pronoun <div class="definition">second person genitive; <small-caps>2gen</small-caps>; your; yours</div>
@@ -1504,7 +1511,7 @@ gnomic
 [5]<ipa>/&#x2c8;bat&#x2b0;.&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">caution; care</div>
 [7]Derived Terms
-<strong><a href="../n/niqqi.html">bataniqqi</a></strong> <high-lulani>(btN;Q)</high-lulani> <em>carefully</em>
+<strong><a href="../b/bataniqqi.html">bataniqqi</a></strong> <high-lulani>(btN;Q)</high-lulani> <em>carefully</em>
 [2]batari
 [3]High Lulani
 [4]<high-lulani>(btR)</high-lulani>
@@ -1589,10 +1596,10 @@ state
 [5]<ipa>/&#x2c8;bac&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">barium</div>
 [7]See Also
-<a href="../n/nudda.html">&larr; nudda</a> <high-lulani>(I;d)</high-lulani> <em>caesium</em>
-<a href="../x/xanaki.html">&rarr; xanaki</a> <high-lulani>(xnK)</high-lulani> <em>lanthanum</em>
-<a href="../a/'aru'u.html">&uarr; &rsquo;aru&rsquo;u</a> <high-lulani>(awu)</high-lulani> <em>strontium</em>
-<a href="../i/'ilasa.html">&darr; &rsquo;ilasa</a> <high-lulani>(ils)</high-lulani> <em>radium</em>
+&larr; <a href="../n/nudda.html">nudda</a> <high-lulani>(I;d)</high-lulani> <em>caesium</em>
+&rarr; <a href="../x/xanaki.html">xanaki</a> <high-lulani>(xnK)</high-lulani> <em>lanthanum</em>
+&uarr; <a href="../a/'aru'u.html">&rsquo;aru&rsquo;u</a> <high-lulani>(awu)</high-lulani> <em>strontium</em>
+&darr; <a href="../i/'ilasa.html">&rsquo;ilasa</a> <high-lulani>(ils)</high-lulani> <em>radium</em>
 [2]baju
 [3]High Lulani
 [4]<high-lulani>(bY)</high-lulani>
@@ -1615,9 +1622,9 @@ state
 [5]<ipa>/b&#x259;.&#x2c8;na&#x279;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">einsteinium</div>
 [7]See Also
-<a href="../i/'ikka.html">&larr; &rsquo;ikka</a> <high-lulani>(i;k)</high-lulani> <em>californium</em>
-<a href="../t/tika.html">&rarr; tika</a> <high-lulani>(Tk)</high-lulani> <em>fermium</em>
-<a href="../k/katiru.html">&uarr; katiru</a> <high-lulani>(kTw)</high-lulani> <em>holmium</em>
+&larr; <a href="../i/'ikka.html">&rsquo;ikka</a> <high-lulani>(i;k)</high-lulani> <em>californium</em>
+&rarr; <a href="../t/tika.html">tika</a> <high-lulani>(Tk)</high-lulani> <em>fermium</em>
+&uarr; <a href="../k/katiru.html">katiru</a> <high-lulani>(kTw)</high-lulani> <em>holmium</em>
 [2]basa
 [3]High Lulani
 [4]<high-lulani>(bs)</high-lulani>
@@ -1629,7 +1636,7 @@ state
 [5]<ipa>/&#x2c8;bas.s&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">situation</div>
 [7]Derived Terms
-<strong><a href="../s/si'a.html">si&rsquo;abassa</a></strong> <high-lulani>(Sab;s)</high-lulani> <em>solve</em>
+<strong><a href="../s/si'abassa.html">si&rsquo;abassa</a></strong> <high-lulani>(Sab;s)</high-lulani> <em>solve</em>
 [2]basi
 [3]High Lulani
 [4]<high-lulani>(bS)</high-lulani>
@@ -1642,10 +1649,10 @@ state
 [6]stem adposition <div class="definition">out, out of, from</div>
 [6]inanimate stem noun element <div class="definition">bromine</div>
 [7]See Also
-<a href="../m/matirra.html">&larr; matirra</a> <high-lulani>(mT;r)</high-lulani> <em>selenium</em>
-<a href="../q/quffi.html">&rarr; quffi</a> <high-lulani>(A;F)</high-lulani> <em>krypton</em>
-<a href="../l/limma.html">&uarr; limma</a> <high-lulani>(L;m)</high-lulani> <em>chlorine</em>
-<a href="../p/papa.html">&darr; papa</a> <high-lulani>(pp)</high-lulani> <em>iodine</em>
+&larr; <a href="../m/matirra.html">matirra</a> <high-lulani>(mT;r)</high-lulani> <em>selenium</em>
+&rarr; <a href="../q/quffi.html">quffi</a> <high-lulani>(A;F)</high-lulani> <em>krypton</em>
+&uarr; <a href="../l/limma.html">limma</a> <high-lulani>(L;m)</high-lulani> <em>chlorine</em>
+&darr; <a href="../p/papa.html">papa</a> <high-lulani>(pp)</high-lulani> <em>iodine</em>
 [2]bi&rsquo;u
 [3]High Lulani
 [4]<high-lulani>(Bu)</high-lulani>
@@ -1660,14 +1667,14 @@ state
 <em><small-caps>1dat</small-caps> head hurt.</em>
 &ldquo;I have a headache.&rdquo;
 [7]Derived Terms
-<strong><a href="../-ini.html">bi&rsquo;ini</a></strong> <high-lulani>(BiN)</high-lulani> <em>itch</em>
+<strong><a href="../b/bi'ini.html">bi&rsquo;ini</a></strong> <high-lulani>(BiN)</high-lulani> <em>itch</em>
 [2]bibu
 [3]High Lulani
 [4]<high-lulani>(BO)</high-lulani>
 [5]<ipa>/&#x2c8;bib.&#x289;/</ipa>
 [6]abstract stem noun <div class="definition">complaint; whine</div>
 [7]Derived Term
-<strong><a href="../i/'i.html">&rsquo;ibibu</a></strong> <high-lulani>(iBO)</high-lulani> <em>to complain</em>
+<strong><a href="../i/'ibibu.html">&rsquo;ibibu</a></strong> <high-lulani>(iBO)</high-lulani> <em>to complain</em>
 [2]bitta
 [3]High Lulani
 [4]<high-lulani>(B;t)</high-lulani>
@@ -1679,7 +1686,7 @@ the two temporal dimensions
 The first dimension of time is subjective: a person's birth is <em>before</em> their death.
 The second dimension is objective: if one time-travels into the past, then one's death may well be <em>upstream</em> of one's birth.
 [7]Derived Terms
-<strong><a href="../j/janni.html">jannibitta</a></strong> <high-lulani>(j;NB;t)</high-lulani> <em>to time travel</em>
+<strong><a href="../j/jannibitta.html">jannibitta</a></strong> <high-lulani>(j;NB;t)</high-lulani> <em>to time travel</em>
 [7]See Also
 <a href="../u/'u'ili.html">&rsquo;u&rsquo;ili</a> <high-lulani>(uiL)</high-lulani> <em>reality</em>
 <a href="../s/sufi.html">sufi</a> <high-lulani>(zF)</high-lulani> <em>space</em>
@@ -1691,16 +1698,16 @@ The second dimension is objective: if one time-travels into the past, then one's
 [6]stem mathematics ordinal  <div class="definition">first; 1st</div>
 [7]See Also
 <a href="../m/matta.html">matta</a> <high-lulani>(m;t)</high-lulani> <em>second</em>
-<a href="../-uju.html">-uju</a> <high-lulani>(uY)</high-lulani> <em>ordinal</em>
+<a href="../\/-uju.html">-uju</a> <high-lulani>(uY)</high-lulani> <em>ordinal</em>
 [2]bila
 [3]High Lulani
 [4]<high-lulani>(Bl)</high-lulani>
 [5]<ipa>/&#x2c8;bil.&#x259;/</ipa>
 [6]stem mathematics numeral <div class="definition">-3; <overline>3</overline>; ree; negative three</div>
 [7]See Also
-<a href="../m/missu.html">&larr; missu</a> <high-lulani>(M;z)</high-lulani> <em>rour</em>
-<a href="../k/kirallu.html">&rarr; kirallu</a> <high-lulani>(Kr;W)</high-lulani> <em>ru</em>
-<a href="../k/kifi.html">&mdash; kifi</a> <high-lulani>(KF)</high-lulani> <em>three</em>
+&larr; <a href="../m/missu.html">missu</a> <high-lulani>(M;z)</high-lulani> <em>rour</em>
+&rarr; <a href="../k/kirallu.html">kirallu</a> <high-lulani>(Kr;W)</high-lulani> <em>ru</em>
+&mdash; <a href="../k/kifi.html">kifi</a> <high-lulani>(KF)</high-lulani> <em>three</em>
 <a href="../s/sabilla.html">sabilla</a> <high-lulani>(sB;l)</high-lulani> <em>rirteen</em>
 [2]biru
 [3]High Lulani
@@ -1713,9 +1720,9 @@ The second dimension is objective: if one time-travels into the past, then one's
 [5]<ipa>/&#x2c8;buc.c&#x259;.t&#x2b0;&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">tennessine</div>
 [7]See Also
-<a href="../(/&larr; suda.html">&larr; suda</a> <high-lulani>(zd)</high-lulani> <em>livermorium</em>
-<a href="../)/&rarr; 'ittika.html">&rarr; &rsquo;ittika</a> <high-lulani>(i;Tk)</high-lulani> <em>oganesson</em>
-<a href="../&/&uarr; sicu.html">&uarr; sicu</a> <high-lulani>(Sy)</high-lulani> <em>astatine</em>
+&larr; <a href="../s/suda.html">suda</a> <high-lulani>(zd)</high-lulani> <em>livermorium</em>
+&rarr; <a href="../i/'ittika.html">&rsquo;ittika</a> <high-lulani>(i;Tk)</high-lulani> <em>oganesson</em>
+&uarr; <a href="../s/sicu.html">sicu</a> <high-lulani>(Sy)</high-lulani> <em>astatine</em>
 [2]buma
 [3]High Lulani
 [4]<high-lulani>(Om)</high-lulani>
@@ -1744,9 +1751,9 @@ The second dimension is objective: if one time-travels into the past, then one's
 [5]<ipa>/b&#x289;.&#x2c8;mis.s&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">dysprosium</div>
 [7]See Also
-<a href="../r/rila.html">&larr; rila</a> <high-lulani>(Rl)</high-lulani> <em>terbium</em>
-<a href="../k/katiru.html">&rarr; katiru</a> <high-lulani>(kTw)</high-lulani> <em>holmium</em>
-<a href="../i/'ikka.html">&darr; &rsquo;ikka</a> <high-lulani>(i;k)</high-lulani> <em>californium</em>
+&larr; <a href="../r/rila.html">rila</a> <high-lulani>(Rl)</high-lulani> <em>terbium</em>
+&rarr; <a href="../k/katiru.html">katiru</a> <high-lulani>(kTw)</high-lulani> <em>holmium</em>
+&darr; <a href="../i/'ikka.html">&rsquo;ikka</a> <high-lulani>(i;k)</high-lulani> <em>californium</em>
 [2]bunali
 [3]High Lulani
 [4]<high-lulani>(OnL)</high-lulani>
@@ -1806,44 +1813,49 @@ to have the same vowels and placement of geminates
 [5]<ipa>/t&#x2b0;&#x259;/</ipa>
 [6]stem conjunction enclitic <div class="definition">and</div>
 [7]Example
-<strong><a href="../l/lulani.html">lulani</a> <a href="../k/kimilli.html">kimillita</a></strong>
+<strong><a href="../l/lulani.html">lulani</a> <a href="../k/kimillita.html">kimillita</a></strong>
 <high-lulani>(WlN / KM;Lt)</high-lulani>
 <em>queen king-and</em>
 &ldquo;The queen and the king&rdquo;
 [5]<ipa>/t&#x2b0;a/</ipa>
 [6]inanimate stem noun element <div class="definition">sulphur</div>
 [7]See Also
-<a href="../p/pibi.html">&larr; pibi</a> <high-lulani>(PB)</high-lulani> <em>phosphorus</em>
-<a href="../l/limma.html">&rarr; limma</a> <high-lulani>(L;m)</high-lulani> <em>chlorine</em>
-<a href="../s/sa.html">&uarr; sa</a> <high-lulani>(s)</high-lulani> <em>oxygen</em>
-<a href="../m/matirra.html">&darr; matirra</a> <high-lulani>(mT;r)</high-lulani> <em>selenium</em>
+&larr; <a href="../p/pibi.html">pibi</a> <high-lulani>(PB)</high-lulani> <em>phosphorus</em>
+&rarr; <a href="../l/limma.html">limma</a> <high-lulani>(L;m)</high-lulani> <em>chlorine</em>
+&uarr; <a href="../s/sa.html">sa</a> <high-lulani>(s)</high-lulani> <em>oxygen</em>
+&darr; <a href="../m/matirra.html">matirra</a> <high-lulani>(mT;r)</high-lulani> <em>selenium</em>
 [2]ta&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(ti)</high-lulani>
 [5]<ipa>/&#x2c8;t&#x2b0;a&#x294;.&#x268;/</ipa>
 [6]inanimate stem noun <div class="definition">scent; smell; aroma</div>
 [7]Derived Terms
-<strong><a href="../t/tu'i.html">ta&rsquo;itu&rsquo;i</a></strong> <high-lulani>(tiei)</high-lulani> <em>fragrance</em>
-<strong><a href="../d/da.html">ta&rsquo;ida</a></strong> <high-lulani>(tid)</high-lulani> <em>stink</em>
+<strong><a href="../t/ta'itu'i.html">ta&rsquo;itu&rsquo;i</a></strong> <high-lulani>(tiei)</high-lulani> <em>fragrance</em>
+<strong><a href="../t/ta'ida.html">ta&rsquo;ida</a></strong> <high-lulani>(tid)</high-lulani> <em>stink</em>
 [2]tacala
 [3]High Lulani
 [4]<high-lulani>(tcl)</high-lulani>
 [5]<ipa>/t&#x2b0;&#x259;.&#x2c8;c&#x2b0;al.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">gadolinium</div>
 [7]See Also
-<a href="../s/siqi.html">&larr; siqi</a> <high-lulani>(SQ)</high-lulani> <em>europium</em>
-<a href="../r/rila.html">&rarr; rila</a> <high-lulani>(Rl)</high-lulani> <em>terbium</em>
-<a href="../f/farra.html">&darr; farra</a> <high-lulani>(f;r)</high-lulani> <em>curium</em>
+&larr; <a href="../s/siqi.html">siqi</a> <high-lulani>(SQ)</high-lulani> <em>europium</em>
+&rarr; <a href="../r/rila.html">rila</a> <high-lulani>(Rl)</high-lulani> <em>terbium</em>
+&darr; <a href="../f/farra.html">farra</a> <high-lulani>(f;r)</high-lulani> <em>curium</em>
 [2]tacuca
 [3]High Lulani
 [4]<high-lulani>(tyc)</high-lulani>
 [5]<ipa>/t&#x2b0;&#x259;.&#x2c8;cuc.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">hafnium</div>
 [7]See Also
-<a href="../k/kixa.html">&larr; kixa</a> <high-lulani>(Kx)</high-lulani> <em>lutetium</em>
-<a href="../h/hila.html">&rarr; hila</a> <high-lulani>(Hl)</high-lulani> <em>tantalum</em>
-<a href="../p/pusu.html">&uarr; pusu</a> <high-lulani>(oz)</high-lulani> <em>zirconium</em>
-<a href="../f/famati.html">&darr; famati</a> <high-lulani>(fmT)</high-lulani> <em>rutherfordium</em>
+&larr; <a href="../k/kixa.html">kixa</a> <high-lulani>(Kx)</high-lulani> <em>lutetium</em>
+&rarr; <a href="../h/hila.html">hila</a> <high-lulani>(Hl)</high-lulani> <em>tantalum</em>
+&uarr; <a href="../p/pusu.html">pusu</a> <high-lulani>(oz)</high-lulani> <em>zirconium</em>
+&darr; <a href="../f/famati.html">famati</a> <high-lulani>(fmT)</high-lulani> <em>rutherfordium</em>
+[2]tajihu
+[3]High Lulani
+[4]<high-lulani>(tJV)</high-lulani>
+[5]<ipa>/t&#x2b0;!a.&#x2c8;&#x25f;ih.&#x289;/</ipa>
+[6]inanimate stem noun <div class="definition">ability; magic power</div>
 [2]taka
 [3]High Lulani
 [4]<high-lulani>(tk)</high-lulani>
@@ -1892,7 +1904,7 @@ gnomic
 [/t]
 [6]stem attributive adjective <div class="definition">for; as a</div>
 [7]Examples
-<strong><a href="../n/nagi.html">nagitaku</a> <a href="../k/kibba.html">kibba</a></strong> <high-lulani>(nGt&gt; / K;b)</high-lulani> <em>cane</em>
+<strong><a href="../n/nagitaku.html">nagitaku</a> <a href="../k/kibba.html">kibba</a></strong> <high-lulani>(nGt&gt; / K;b)</high-lulani> <em>cane</em>
 [2]takkulu
 [3]High Lulani
 [4]<high-lulani>(t;&gt;W)</high-lulani>
@@ -1901,6 +1913,13 @@ gnomic
 [7]See Also
 <a href="../i/'itikku.html">&rsquo;itikku</a> <high-lulani>(iT;&gt;)</high-lulani> <em>breast</em>
 <a href="../r/rali.html">rali</a> <high-lulani>(rL)</high-lulani> <em>back</em>
+[2]tamu
+[3]High Lulani
+[4]<high-lulani>(tU)</high-lulani>
+[5]<ipa>/&#x2c8;t&#x2b0;am.&#x289;/</ipa>
+[6]abstract stem noun <div class="definition">answer; reply</div>
+[7]Definition
+a communicated reply to a question
 [2]tana
 [3]High Lulani
 [4]<high-lulani>(tn)</high-lulani>
@@ -1922,6 +1941,13 @@ while this is not a noun in the strict sense of the word, it does act like one w
 something remembered or recalled
 [7]See Also
 <a href="../t/tirusi.html">tirusi</a> <high-lulani>(TwS)</high-lulani> <em>memory</em>
+[2]tanni
+[3]High Lulani
+[4]<high-lulani>(t;N)</high-lulani>
+[5]<ipa>/&#x2c8;t&#x2b0;a&#x272;.&#x272;&#x268;/</ipa>
+[6]abstract stem noun <div class="definition">belief; trust</div>
+[7]Definition
+a belief in something someone else is saying
 [2]tali
 [3]High Lulani
 [4]<high-lulani>(tL)</high-lulani>
@@ -1947,7 +1973,6 @@ something remembered or recalled
 <a href="../j/ju'i.html">ju&rsquo;i</a> <high-lulani>(Yi)</high-lulani> <em>plus</em>
 <a href="../b/batu.html">batu</a> <high-lulani>(be)</high-lulani> <em>multiply</em>
 <a href="../s/saki.html">saki</a> <high-lulani>(sK)</high-lulani> <em>divide</em>
-
 [2]tara
 [3]High Lulani
 [4]<high-lulani>(tr)</high-lulani>
@@ -1969,14 +1994,19 @@ something remembered or recalled
 [5]<ipa>/&#x2c8;t&#x2b0;as.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">nickel</div>
 [7]See Also
-<a href="../g/gaxiki.html">&larr; gaxiki</a> <high-lulani>(gXK)</high-lulani> <em>cobalt</em>
-<a href="../s/suki.html">&rarr; suki</a> <high-lulani>(zK)</high-lulani> <em>copper</em>
-<a href="../q/qala.html">&darr; qala</a> <high-lulani>(ql)</high-lulani> <em>palladium</em>
+&larr; <a href="../g/gaxiki.html">gaxiki</a> <high-lulani>(gXK)</high-lulani> <em>cobalt</em>
+&rarr; <a href="../s/suki.html">suki</a> <high-lulani>(zK)</high-lulani> <em>copper</em>
+&darr; <a href="../q/qala.html">qala</a> <high-lulani>(ql)</high-lulani> <em>palladium</em>
 [2]tasi
 [3]High Lulani
 [4]<high-lulani>(tS)</high-lulani>
 [5]<ipa>/&#x2c8;t&#x2b0;as.&#x268;/</ipa>
 [6]modal adverb <div class="definition">probability &#x2248; 0.75; probably</div>
+[2]ti&rsquo;ici
+[3]High Lulani
+[4]<high-lulani>(TiC)</high-lulani>
+[5]<ipa>/t&#x2b0;&#x268;.&#x2c8;&#x294;ic&#x2b0;.&#x268;/</ipa>
+[6]stem adverb <div class="definition">to a certain extent</div>
 [2]tiba
 [3]High Lulani
 [4]<high-lulani>(Tb)</high-lulani>
@@ -2006,9 +2036,9 @@ refers to each of the legs of a pair.
 [5]<ipa>/&#x2c8;t&#x2b0;ik&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">fermium</div>
 [7]See Also
-<a href="../b/banara.html">&larr; banara</a> <high-lulani>(bnr)</high-lulani> <em>einsteinium</em>
-<a href="../l/laqura.html">&rarr; laqura</a> <high-lulani>(lAr)</high-lulani> <em>mendelevium</em>
-<a href="../c/calluna.html">&uarr; calluna</a> <high-lulani>(c;Wn)</high-lulani> <em>erbium</em>
+&larr; <a href="../b/banara.html">banara</a> <high-lulani>(bnr)</high-lulani> <em>einsteinium</em>
+&rarr; <a href="../l/laqura.html">laqura</a> <high-lulani>(lAr)</high-lulani> <em>mendelevium</em>
+&uarr; <a href="../c/calluna.html">calluna</a> <high-lulani>(c;Wn)</high-lulani> <em>erbium</em>
 [2]tiku
 [3]High Lulani
 [4]<high-lulani>(T&gt;)</high-lulani>
@@ -2018,8 +2048,8 @@ refers to each of the legs of a pair.
 to rotate on one&rsquo;s own axis
 [6]adposition <div class="definition">around</div>
 [7]Example
-<strong><a href="../n/narra.html">tikunarra</a></strong> <high-lulani>(T&gt;n;r)</high-lulani> <em>around the corner</em>
-<strong><a href="../l/linu.html">tikulinu</a></strong> <high-lulani>(T&gt;LI)</high-lulani> <em>around the tree</em>
+<strong><a href="../t/tikunarra.html">tikunarra</a></strong> <high-lulani>(T&gt;n;r)</high-lulani> <em>around the corner</em>
+<strong><a href="../t/tikulinu.html">tikulinu</a></strong> <high-lulani>(T&gt;LI)</high-lulani> <em>around the tree</em>
 
 
 
@@ -2049,6 +2079,13 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/t&#x268;.&#x2c8;na&#x28e;.&#x28e;&#x268;/</ipa>
 [6]inanimate stem noun <div class="definition">universe; multiverse</div>
 [6]stem proper noun (capitalised) <div class="definition">Tinellb</div>
+[2]tiqaxi
+[3]High Lulani
+[4]<high-lulani>(TqX)</high-lulani>
+[5]<ipa>/t&#x2b0;&#x268;.&#x2c8;&#x14b;a&#x255;.&#x268;/</ipa>
+[6]inanimate stem noun <div class="definition">tilt; rotation</div>
+[7]Derived Terms
+<strong><a href="../j/jannitiqaxi.html">jannitiqaxi</a></strong> <high-lulani>(j;NTqX)</high-lulani> <em>to tilt</em>
 [2]tila
 [3]High Lulani
 [4]<high-lulani>(Tl)</high-lulani>
@@ -2063,7 +2100,7 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/t&#x2b0;&#x268;.&#x279;us.&#x268;/</ipa>
 [6]stem noun <div class="definition">faculty of memory</div>
 [7]Derived Terms
-<strong><a href="../p/pa.html">patirusi</a></strong> <high-lulani>(pTwS)</high-lulani> <em>to remember</em>
+<strong><a href="../p/patirusi.html">patirusi</a></strong> <high-lulani>(pTwS)</high-lulani> <em>to remember</em>
 [7]See Also
 <a href="../t/tanna.html">tanna</a> <high-lulani>(t;n)</high-lulani> <em>memory</em>
 [2]tissa
@@ -2084,7 +2121,7 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/&#x2c8;t&#x2b0;is.s&#x268;.n&#x268;/</ipa>
 [6]inanimate derived noun <div class="definition">breeze</div>
 [7]Etymology
-<a href="../t/tissa.html">tissa</a> <high-lulani>(T;s)</high-lulani> <em>wind</em> + <a href="../-ini.html">-ini</a> <high-lulani>(iN)</high-lulani> <em>diminutive</em>
+<a href="../t/tissa.html">tissa</a> <high-lulani>(T;s)</high-lulani> <em>wind</em> + <a href="../\/-ini.html">-ini</a> <high-lulani>(iN)</high-lulani> <em>diminutive</em>
 [2]tiha
 [3]High Lulani
 [4]<high-lulani>(Th)</high-lulani>
@@ -2118,15 +2155,15 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/t&#x2b0;&#x289;.&#x294;af.&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">plain; flatland; savanna</div>
 [7]Derived Terms
-<strong><a href="../k/kunubi.html">kunubitu&rsquo;afu</a></strong> <high-lulani>(&gt;IBeav)</high-lulani> <em>flatlands</em>
+<strong><a href="../k/kunubitu'afu.html">kunubitu&rsquo;afu</a></strong> <high-lulani>(&gt;IBeav)</high-lulani> <em>flatlands</em>
 [2]tu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(ei)</high-lulani>
 [5]<ipa>/&#x2cc;tu&#x294;.&#x268;/</ipa>
 [6]derivational suffix (noun) <div class="definition">positive aspect</div>
 [7]Derived Terms
-<strong><a href="../d/dasa.html">dasatu&rsquo;i</a></strong> <high-lulani>(dsei)</high-lulani> <em>passion</em>
-<strong><a href="../i/'isili.html">&rsquo;isilitu&rsquo;i</a></strong> <high-lulani>(iSLei)</high-lulani> <em>pensiveness</em>
+<strong><a href="../d/dasatu'i.html">dasatu&rsquo;i</a></strong> <high-lulani>(dsei)</high-lulani> <em>passion</em>
+<strong><a href="../i/'isilitu'i.html">&rsquo;isilitu&rsquo;i</a></strong> <high-lulani>(iSLei)</high-lulani> <em>pensiveness</em>
 [2]tu&rsquo;uci
 [3]High Lulani
 [4]<high-lulani>(euC)</high-lulani>
@@ -2167,9 +2204,9 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/t&#x2b0;&#x289;.&#x2c8;k&#x2b0;ag.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">ytterbium</div>
 [7]See Also
-<a href="../r/raddilla.html">&larr; raddilla</a> <high-lulani>(r;D;l)</high-lulani> <em>thulium</em>
-<a href="../k/kixa.html">&rarr; kixa</a> <high-lulani>(Kx)</high-lulani> <em>lutetium</em>
-<a href="../q/qa''iku.html">&darr; qa&#x294;iku</a> <high-lulani>(q;i&gt;)</high-lulani> <em>nobelium</em>
+&larr; <a href="../r/raddilla.html">raddilla</a> <high-lulani>(r;D;l)</high-lulani> <em>thulium</em>
+&rarr; <a href="../k/kixa.html">kixa</a> <high-lulani>(Kx)</high-lulani> <em>lutetium</em>
+&darr; <a href="../q/qa''iku.html">qa&#x294;iku</a> <high-lulani>(q;i&gt;)</high-lulani> <em>nobelium</em>
 [2]tukkuni
 [3]High Lulani
 [4]<high-lulani>(e;&gt;N)</high-lulani>
@@ -2190,7 +2227,7 @@ to rotate on one&rsquo;s own axis
 &ldquo;I sang the song again.&rdquo;
 [6]derivational suffix (verb) <div class="definition">redo</div>
 [7]Examples
-<strong><a href="../l/la.html">latuni</a></strong> <high-lulani>(leN)</high-lulani> <em>to do again</em>
+<strong><a href="../l/latuni.html">latuni</a></strong> <high-lulani>(leN)</high-lulani> <em>to do again</em>
 [6]stem mathematics <div class="definition">denotes a repeating infinite digit string</div>
 [2]turassi
 [3]High Lulani
@@ -2221,7 +2258,7 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/t&#x289;.&#x2c8;&#x279;ul.&#x289;/</ipa>
 [6]transitive derived verb <div class="definition">to open up</div>
 [7]Etymology
-<a href="../t/turu.html">turu</a> <high-lulani>(ew)</high-lulani> <em>to close</em> + <a href="../-ulu.html">-ulu</a> <high-lulani>(uW)</high-lulani> <em>undo</em>
+<a href="../t/turu.html">turu</a> <high-lulani>(ew)</high-lulani> <em>to close</em> + <a href="../\/-ulu.html">-ulu</a> <high-lulani>(uW)</high-lulani> <em>undo</em>
 [2]tuxa
 [3]High Lulani
 [4]<high-lulani>(yx)</high-lulani>
@@ -2247,7 +2284,7 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/&#x2c8;t&#x2b0;u&#xe7;.&#xe7;&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">farming; agriculture</div>
 [7]Derived Terms
-<a href="../s/sa.html">tuhhisa</a> <high-lulani>(e;Hs)</high-lulani> <em>farmer</em>
+<a href="../t/tuhhisa.html">tuhhisa</a> <high-lulani>(e;Hs)</high-lulani> <em>farmer</em>
 [2]tuhinuhu
 [3]High Lulani
 [4]<high-lulani>(eHIV)</high-lulani>
@@ -2263,13 +2300,13 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/d&#x259;/</ipa>
 [6]derivational suffix (noun) <div class="definition">negative aspect</div>
 [7]Derived Terms
-<strong><a href="../d/dasa.html">dasada</a></strong> <high-lulani>(dsd)</high-lulani> <em>anger</em>
+<strong><a href="../d/dasada.html">dasada</a></strong> <high-lulani>(dsd)</high-lulani> <em>anger</em>
 [7]See Also
 <a href="../t/tu'i.html">tu&rsquo;i</a> <high-lulani>(ei)</high-lulani> <em>positive</em>
 [5]<ipa>/da/</ipa>
 [6]inanimate stem noun <div class="definition">water</div>
 [7]See Also
-<a href="../s/saxitalara.html">saxita lara</a> <high-lulani>(sXt / lr)</high-lulani> <em>water</em>
+<a href="../s/saxita lara.html">saxita lara</a> <high-lulani>(sXt / lr)</high-lulani> <em>water</em>
 <a href="../u/'u'a.html">&rsquo;u&rsquo;a</a> <high-lulani>(ua)</high-lulani> <em>wood</em>
 <a href="../l/lupumma.html">lupumma</a> <high-lulani>(Wo;m)</high-lulani> <em>fire</em>
 <a href="../c/cissa.html">cissa</a> <high-lulani>(C;s)</high-lulani> <em>air</em>
@@ -2296,10 +2333,10 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/&#x2c8;da&#x294;.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">arsenic</div>
 [7]See Also
-<a href="../x/xuhhi.html">&larr; xuhhi</a> <high-lulani>(Z;H)</high-lulani> <em>germanium</em>
-<a href="../m/matirra.html">&rarr; matirra</a> <high-lulani>(mT;r)</high-lulani> <em>selenium</em>
-<a href="../p/pibi.html">&uarr; pibi</a> <high-lulani>(PB)</high-lulani> <em>phosphorus</em>
-<a href="../s/salari.html">&darr; salari</a> <high-lulani>(slR)</high-lulani> <em>antimony</em>
+&larr; <a href="../x/xuhhi.html">xuhhi</a> <high-lulani>(Z;H)</high-lulani> <em>germanium</em>
+&rarr; <a href="../m/matirra.html">matirra</a> <high-lulani>(mT;r)</high-lulani> <em>selenium</em>
+&uarr; <a href="../p/pibi.html">pibi</a> <high-lulani>(PB)</high-lulani> <em>phosphorus</em>
+&darr; <a href="../s/salari.html">salari</a> <high-lulani>(slR)</high-lulani> <em>antimony</em>
 [2]dapi
 [3]High Lulani
 [4]<high-lulani>(dP)</high-lulani>
@@ -2317,6 +2354,11 @@ to rotate on one&rsquo;s own axis
 [6]animate derived noun <div class="definition">god; deity</div>
 [7]Etymology
 <a href="../d/dattu.html">dattu</a> <high-lulani>(d;e)</high-lulani> <em>divinity</em> + <a href="../s/sa.html">sa</a> <high-lulani>(s)</high-lulani> <em>person</em>
+[2]daca
+[3]High Lulani
+[4]<high-lulani>(dc)</high-lulani>
+[5]<ipa>/&#x2c8;dac&#x2b0;.&#x259;/</ipa>
+[6]inanimate stem noun <div class="definition">chair; seat; lounge</div>
 [2]dajju
 [3]High Lulani
 [4]<high-lulani>(d;Y)</high-lulani>
@@ -2369,8 +2411,8 @@ to rotate on one&rsquo;s own axis
 <a href="../a/'ahati.html">&rsquo;ahati</a> <high-lulani>(ahT)</high-lulani> <em>happiness</em>
 <a href="../i/'isili.html">&rsquo;isili</a> <high-lulani>(iSL)</high-lulani> <em>sadness</em>
 <a href="../s/sutti.html">sutti</a> <high-lulani>(z;T)</high-lulani> <em>fear</em>
-<a href="../t/tu'i.html">dasatu&rsquo;i</a></strong> <high-lulani>(dsei)</high-lulani> <em>passion</em>
-<a href="../d/da.html">dasada</a></strong> <high-lulani>(dsd)</high-lulani> <em>anger</em>
+<a href="../d/dasatu'i.html">dasatu&rsquo;i</a></strong> <high-lulani>(dsei)</high-lulani> <em>passion</em>
+<a href="../d/dasada.html">dasada</a></strong> <high-lulani>(dsd)</high-lulani> <em>anger</em>
 [2]dasi
 [3]High Lulani
 [4]<high-lulani>(dS)</high-lulani>
@@ -2408,7 +2450,7 @@ to rotate on one&rsquo;s own axis
 [6]derivational suffix (noun: abstract &rarr; inanimate) <div class="definition">derives a patientive inanimate noun from an abstract noun</div>
 [7]Examples
 <a href="../l/ladi.html">ladi</a> <high-lulani>(lD)</high-lulani> <em>activity</em>
-<strong><a href="../s/sinna.html">sinnadi</a></strong> <high-lulani>(S;nD)</high-lulani> <em>story</em>
+<strong><a href="../s/sinnadi.html">sinnadi</a></strong> <high-lulani>(S;nD)</high-lulani> <em>story</em>
 [5]<ipa>/di/</ipa>
 [6]stem adposition <div class="definition">up; above; atop; before</div>
 [7]Antonym
@@ -2419,17 +2461,17 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/&#x2c8;dic.c&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">cold</div>
 [7]Derived Terms
-<strong><a href="../c/cussi.html">cussidicci</a></strong> <high-lulani>(y;SD;C)</high-lulani> <em>to be/feel cold
+<strong><a href="../c/cussidicci.html">cussidicci</a></strong> <high-lulani>(y;SD;C)</high-lulani> <em>to be/feel cold
 [2]dina
 [3]High Lulani
 [4]<high-lulani>(Dn)</high-lulani>
 [5]<ipa>/&#x2c8;din.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">potassium</div>
 [7]See Also
-<a href="../l/laqa.html">&larr; laqa</a> <high-lulani>(lq)</high-lulani> <em>argon</em>
-<a href="../q/qaxa.html">&rarr; qaxa</a> <high-lulani>(qx)</high-lulani> <em>calcium</em>
-<a href="../l/lisu.html">&uarr; lisu</a> <high-lulani>(Lz)</high-lulani> <em>sodium</em>
-<a href="../s/sadadu.html">&darr; sadadu</a> <high-lulani>(sdE)</high-lulani> <em>rubidium</em>
+&larr; <a href="../l/laqa.html">laqa</a> <high-lulani>(lq)</high-lulani> <em>argon</em>
+&rarr; <a href="../q/qaxa.html">qaxa</a> <high-lulani>(qx)</high-lulani> <em>calcium</em>
+&uarr; <a href="../l/lisu.html">lisu</a> <high-lulani>(Lz)</high-lulani> <em>sodium</em>
+&darr; <a href="../s/sadadu.html">sadadu</a> <high-lulani>(sdE)</high-lulani> <em>rubidium</em>
 [2]diru
 [3]High Lulani
 [4]<high-lulani>(Dw)</high-lulani>
@@ -2437,7 +2479,7 @@ to rotate on one&rsquo;s own axis
 [6]inanimate stem noun <div class="definition">money; dollar</div>
 [7]Example
 <strong><a href="../k/kifi.html">kifi</a> diru</strong> <high-lulani>(KF / Dw)</high-lulani> <em>three dollars</em>
-<strong><a href="../k/kifi.html">dirukifi</a></strong> <high-lulani>(DwKF)</high-lulani> <em>a three dollar coin</em>
+<strong><a href="../d/dirukifi.html">dirukifi</a></strong> <high-lulani>(DwKF)</high-lulani> <em>a three dollar coin</em>
 [7]See Also
 <a href="../l/laqqu.html">laqqu</a> <high-lulani>(l;A)</high-lulani> <em>wealth</em>
 [2]disa
@@ -2446,10 +2488,10 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/&#x2c8;dis.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">aluminium</div>
 [7]See Also
-<a href="../x/xaki.html">&larr; xaki</a> <high-lulani>(xK)</high-lulani> <em>magnesium</em>
-<a href="../a/'ama.html">&rarr; &rsquo;ama</a> <high-lulani>(am)</high-lulani> <em>silicon</em>
-<a href="../k/kuxxu.html">&uarr; kuxxu</a> <high-lulani>(&gt;;Z)</high-lulani> <em>boron</em>
-<a href="../a/'ali.html">&darr; &rsquo;ali</a> <high-lulani>(aL)</high-lulani> <em>gallium</em>
+&larr; <a href="../x/xaki.html">xaki</a> <high-lulani>(xK)</high-lulani> <em>magnesium</em>
+&rarr; <a href="../a/'ama.html">&rsquo;ama</a> <high-lulani>(am)</high-lulani> <em>silicon</em>
+&uarr; <a href="../k/kuxxu.html">kuxxu</a> <high-lulani>(&gt;;Z)</high-lulani> <em>boron</em>
+&darr; <a href="../a/'ali.html">&rsquo;ali</a> <high-lulani>(aL)</high-lulani> <em>gallium</em>
 [2]disi
 [3]High Lulani
 [4]<high-lulani>(DS)</high-lulani>
@@ -2513,11 +2555,11 @@ usually used compounded
 &ldquo;You make me happy.&rdquo;
 [7]Derived Terms
 <a href="../d/dissu'ahati.html">dissu&rsquo;ahati</a> <high-lulani>(D;zahT)</high-lulani> <em>to be happy</em>
-<strong><a href="../s/samma.html">dissusamma</strong></a> <high-lulani>(D;zs;m)</high-lulani> <em>to romantically love</em>
+<strong><a href="../d/dissusama.html">dissusama</a></strong> <high-lulani>(D;zs;m)</high-lulani> <em>to romantically love</em>
 [6]abstract stem noun <div class="definition">youth; newness</div>
 [7]Derived Terms
-<a href="../r/ri.html">dissuri</a> <high-lulani>(D;zR)</high-lulani> <em>stranger</em>
-<a href="../s/sa.html">dissusa</a> <high-lulani>(D;zs)</high-lulani> <em>young person</em>
+<a href="../d/dissuri.html">dissuri</a> <high-lulani>(D;zR)</high-lulani> <em>stranger</em>
+<a href="../d/dissusa.html">dissusa</a> <high-lulani>(D;zs)</high-lulani> <em>young person</em>
 [2]dissu&rsquo;ahati
 [3]High Lulani
 [4]<high-lulani>(D;zahT)</high-lulani>
@@ -2534,16 +2576,16 @@ usually used compounded
 [5]<ipa>/d&#x268;.&#x2c8;hi&#x14b;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">americium</div>
 [7]See Also
-<a href="../s/sussi.html">&larr; sussi</a> <high-lulani>(z;S)</high-lulani> <em>plutonium</em>
-<a href="../f/farra.html">&rarr; farra</a> <high-lulani>(f;r)</high-lulani> <em>curium</em>
-<a href="../s/siqi.html">&uarr; siqi</a> <high-lulani>(SQ)</high-lulani> <em>europium</em>
+&larr; <a href="../s/sussi.html">sussi</a> <high-lulani>(z;S)</high-lulani> <em>plutonium</em>
+&rarr; <a href="../f/farra.html">farra</a> <high-lulani>(f;r)</high-lulani> <em>curium</em>
+&uarr; <a href="../s/siqi.html">siqi</a> <high-lulani>(SQ)</high-lulani> <em>europium</em>
 [2]du
 [3]High Lulani
 [4]<high-lulani>(E)</high-lulani>
 [5]<ipa>/d&#x289;/</ipa>
 [6]stem derivational suffix (verb &rarr; noun) <div class="definition">derives an inanimate noun from a verb</div>
 [7]Examples
-<a href="../m/mala.html">maladu</a> <high-lulani>(mlE)</high-lulani> <em>reflection</em>
+<a href="../m/maladu.html">maladu</a> <high-lulani>(mlE)</high-lulani> <em>reflection</em>
 [2]du&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(Ei)</high-lulani>
@@ -2552,8 +2594,8 @@ usually used compounded
 [7]Usage Notes
 tends to mean &lsquo;beyond&rsquo; when the area can be seen, &lsquo;opposite&rsquo; otherwise.
 [7]Examples
-<strong><a href="../m/musa.html">du&rsquo;imusa</a></strong> <high-lulani>(EiUs)</high-lulani> <em>away from the sun</em>
-<strong><a href="../c/cica.html">du&rsquo;icica</a></strong> <high-lulani>(EiCc)</high-lulani> <em>on the other side of the fence</em>
+<strong><a href="../d/du'imusa.html">du&rsquo;imusa</a></strong> <high-lulani>(EiUs)</high-lulani> <em>away from the sun</em>
+<strong><a href="../d/du'icica.html">du&rsquo;icica</a></strong> <high-lulani>(EiCc)</high-lulani> <em>on the other side of the fence</em>
 [2]duci
 [3]High Lulani
 [4]<high-lulani>(EC)</high-lulani>
@@ -2661,9 +2703,9 @@ rare
 [5]<ipa>/&#x2c8;ca&#x294;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">fluorine</div>
 [7]See Also
-<a href="../s/sa.html">&larr; sa</a> <high-lulani>(s)</high-lulani> <em>oxygen</em>
-<a href="../k/kuxalu.html">&rarr; kuxalu</a> <high-lulani>(&gt;xW)</high-lulani> <em>neon</em>
-<a href="../l/limma.html">&darr; limma</a> <high-lulani>(L;m)</high-lulani> <em>chlorine</em>
+&larr; <a href="../s/sa.html">sa</a> <high-lulani>(s)</high-lulani> <em>oxygen</em>
+&rarr; <a href="../k/kuxalu.html">kuxalu</a> <high-lulani>(&gt;xW)</high-lulani> <em>neon</em>
+&darr; <a href="../l/limma.html">limma</a> <high-lulani>(L;m)</high-lulani> <em>chlorine</em>
 [2]ca&rsquo;alla
 [3]High Lulani
 [4]<high-lulani>(ca;l)</high-lulani>
@@ -2675,7 +2717,7 @@ rare
 [5]<ipa>/&#x2c8;ca&#x294;.&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">romance</div>
 [7]Derived Terms
-<strong><a href="../l/lu'.html">lu&rsquo;ica&rsquo;i</a></strong> <high-lulani>(Wici)</high-lulani> <em>to love</em>
+<strong><a href="../l/lu'ica'i.html">lu&rsquo;ica&rsquo;i</a></strong> <high-lulani>(Wici)</high-lulani> <em>to love</em>
 <a href="../s/sannaca'i.html">sannaca&rsquo;i</a> <high-lulani>(s;nci)</high-lulani> <em>jealousy</em>
 [2]cabahi
 [3]High Lulani
@@ -2683,9 +2725,9 @@ rare
 [5]<ipa>/c&#x259;.&#x2c8;bah.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">bohrium</div>
 [7]See Also
-<a href="../s/saniki.html">&larr; saniki</a> <high-lulani>(sNK)</high-lulani> <em>seaborgium</em>
-<a href="../i/'i'ami.html">&rarr; &rsquo;i&rsquo;ami</a> <high-lulani>(iaM)</high-lulani> <em>hassium</em>
-<a href="../h/hasuki.html">&uarr; hasuki</a> <high-lulani>(hzK)</high-lulani> <em>rhenium</em>
+&larr; <a href="../s/saniki.html">saniki</a> <high-lulani>(sNK)</high-lulani> <em>seaborgium</em>
+&rarr; <a href="../i/'i'ami.html">&rsquo;i&rsquo;ami</a> <high-lulani>(iaM)</high-lulani> <em>hassium</em>
+&uarr; <a href="../h/hasuki.html">hasuki</a> <high-lulani>(hzK)</high-lulani> <em>rhenium</em>
 [2]cadi
 [3]High Lulani
 [4]<high-lulani>(cD)</high-lulani>
@@ -2703,19 +2745,19 @@ an outer wall or boundary
 [5]<ipa>/c&#x259;.&#x2c8;k&#x2b0;as.s&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">polonium</div>
 [7]See Also
-<a href="../a/'aggini.html">&larr; &rsquo;aggini</a> <high-lulani>(a;GN)</high-lulani> <em>bismuth</em>
-<a href="../s/sicu.html">&rarr; sicu</a> <high-lulani>(Sy)</high-lulani> <em>astatine</em>
-<a href="../l/lasu.html">&uarr; lasu</a> <high-lulani>(lz)</high-lulani> <em>tellurium</em>
-<a href="../s/suda.html">&darr; suda</a> <high-lulani>(zd)</high-lulani> <em>livermorium</em>
+&larr; <a href="../a/'aggini.html">&rsquo;aggini</a> <high-lulani>(a;GN)</high-lulani> <em>bismuth</em>
+&rarr; <a href="../s/sicu.html">sicu</a> <high-lulani>(Sy)</high-lulani> <em>astatine</em>
+&uarr; <a href="../l/lasu.html">lasu</a> <high-lulani>(lz)</high-lulani> <em>tellurium</em>
+&darr; <a href="../s/suda.html">suda</a> <high-lulani>(zd)</high-lulani> <em>livermorium</em>
 [2]cakina
 [3]High Lulani
 [4]<high-lulani>(cKn)</high-lulani>
 [5]<ipa>/c&#x2b0;&#x259;.&#x2c8;k&#x2b0;in.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">scandium</div>
 [7]See Also
-<a href="../q/qaxa.html">&larr; qaxa</a> <high-lulani>(qx)</high-lulani> <em>calcium</em>
-<a href="../k/ka'i.html">&rarr; ka&rsquo;i</a> <high-lulani>(ki)</high-lulani> <em>titanium</em>
-<a href="../a/'aqqixi.html">&darr; &rsquo;aqqixi</a> <high-lulani>(a;QX)</high-lulani> <em>yttrium</em>
+&larr; <a href="../q/qaxa.html">qaxa</a> <high-lulani>(qx)</high-lulani> <em>calcium</em>
+&rarr; <a href="../k/ka'i.html">ka&rsquo;i</a> <high-lulani>(ki)</high-lulani> <em>titanium</em>
+&darr; <a href="../a/'aqqixi.html">&rsquo;aqqixi</a> <high-lulani>(a;QX)</high-lulani> <em>yttrium</em>
 [2]caga
 [3]High Lulani
 [4]<high-lulani>(cg)</high-lulani>
@@ -2754,7 +2796,7 @@ gnomic
 [/t]
 [6]stem attributive suffix <div class="definition">to have</div>
 [7]Example
-<strong><a href="../i/'ita'i.html">&rsquo;ita&rsquo;icani</a> <a href="../u/'usu.html">&rsquo;usu</a></strong> <high-lulani>(iticN / uz)</high-lulani> <em>I who have a car</em>
+<strong><a href="../i/'ita'icani.html">&rsquo;ita&rsquo;icani</a> <a href="../u/'usu.html">&rsquo;usu</a></strong> <high-lulani>(iticN / uz)</high-lulani> <em>I who have a car</em>
 [2]caqara
 [3]High Lulani
 [4]<high-lulani>(cqr)</high-lulani>
@@ -2786,16 +2828,16 @@ One of ten directions in which something can be measured, or one of four ways in
 [5]<ipa>/&#x2c8;ca&#x28e;.&#x28e;&#x289;.n&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">erbium</div>
 [7]See Also
-<a href="../k/katiru.html">&larr; katiru</a> <high-lulani>(kTw)</high-lulani> <em>holmium</em>
-<a href="../r/raddilla.html">&rarr; raddilla</a> <high-lulani>(r;D;l)</high-lulani> <em>thulium</em>
-<a href="../t/tika.html">&darr; tika</a> <high-lulani>(Tk)</high-lulani> <em>fermium</em>
+&larr; <a href="../k/katiru.html">katiru</a> <high-lulani>(kTw)</high-lulani> <em>holmium</em>
+&rarr; <a href="../r/raddilla.html">raddilla</a> <high-lulani>(r;D;l)</high-lulani> <em>thulium</em>
+&darr; <a href="../t/tika.html">tika</a> <high-lulani>(Tk)</high-lulani> <em>fermium</em>
 [2]cari
 [3]High Lulani
 [4]<high-lulani>(cR)</high-lulani>
 [5]<ipa>/&#x2c8;ca&#x279;.&#x268;/</ipa>
 [6]stem adjective <div class="definition">remaining; rest</div>
 [7]Examples
-<a href="../m/musa.html">musacari</a> <high-lulani>(UscR)</high-lulani> <em>rest of the day</em>
+<a href="../m/musacari.html">musacari</a> <high-lulani>(UscR)</high-lulani> <em>rest of the day</em>
 [2]cahuri
 [3]High Lulani
 [4]<high-lulani>(cVR)</high-lulani>
@@ -2823,7 +2865,7 @@ One of ten directions in which something can be measured, or one of four ways in
 [5]<ipa>/&#x2c8;c&#x2b0;ic&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">fence; gate</div>
 [7]Derived Terms
-<strong><a href="../g/gurrisu.html">gurrisucica</a></strong> <high-lulani>(&lt;;RzCc)</high-lulani> <em>gate</em>
+<strong><a href="../g/gurrisucica.html">gurrisucica</a></strong> <high-lulani>(&lt;;RzCc)</high-lulani> <em>gate</em>
 [2]cijja
 [3]High Lulani
 [4]<high-lulani>(C;j)</high-lulani>
@@ -2936,7 +2978,7 @@ state
 [5]<ipa>/&#x2c8;c&#x2b0;ul.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">egg</div>
 [7]Derived Terms
-<strong><a href="../m/millu.html">millucula</a></strong> <high-lulani>(M;Wyl)</high-lulani> <em>eggshell brown</em>
+<strong><a href="../m/millucula.html">millucula</a></strong> <high-lulani>(M;Wyl)</high-lulani> <em>eggshell brown</em>
 <strong><a href="../x/xuci.html">xuci</a><a href="../n/nagi.html">nagi</a> cula</strong> <high-lulani>(ZCnG / yl)</high-lulani> <em>hatching egg</em>
 [2]cura
 [3]High Lulani
@@ -3023,7 +3065,14 @@ poetic
 [5]<ipa>/&#x2c8;&#x25f;ap&#x2b0;.&#x289;/</ipa>
 [6]abstract stem noun <div class="definition">sincerity</div>
 [7]Derived Terms
-<strong><a href="../x/xi.html">xijapu</a></strong> <high-lulani>(Xjo)</high-lulani> <em>to be sincere</em>
+<strong><a href="../x/xijapu.html">xijapu</a></strong> <high-lulani>(Xjo)</high-lulani> <em>to be sincere</em>
+[2]jati
+[3]High Lulani
+[4]<high-lulani>(jT)</high-lulani>
+[5]<ipa>/&#x2c8;&#x25f;at&#x2b0;.&#x268;/</ipa>
+[6]modal evidential adverb <div class="definition">known through experience; apparently</div>
+[7]Definition
+used when the experience was somewhat surprising
 [2]jakki
 [3]High Lulani
 [4]<high-lulani>(j;K)</high-lulani>
@@ -3077,16 +3126,32 @@ poetic
 [6]derived compound verb <div class="definition">to slide; to move through parallel worlds</div>
 [7]Etymology
 <strong><a href="../j/janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>move</em> + <strong><a href="../u/'u'ili.html">&rsquo;u&rsquo;ili</a></strong> <high-lulani>(uiL)</high-lulani> <em>reality</em>
+[2]jannitiqaxi
+[3]High Lulani
+[4]<high-lulani>(j;NTqX)</high-lulani>
+[5]<ipa>/&#x2cc;&#x25f;a&#x272;.&#x272;&#x268;.t&#x2b0;&#x268;.&#x2c8;&#x14b;a&#x255;.&#x268;/</ipa>
+[6]derived compound verb <div class="definition">to tilt</div>
+[7]Etymology
+<strong><a href="../j/janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>move</em> + <strong>tiqaxi</strong> <high-lulani>(TqX)</high-lulani> <em>tilt</em>
+[7]Usage notes
+movement of one&rsquo;s head in this way can denote disbelief or exasperation
+[2]jannigata
+[3]High Lulani
+[4]<high-lulani>(j;Ngt)</high-lulani>
+[5]<ipa>/&#x2cc;&#x25f;a&#x272;.&#x272;&#x268;.&#x2c8;gat&#x2b0;.&#x259;/</ipa>
+[6]derived compound verb <div class="definition">to swing</div>
+[7]Etymology
+<strong><a href="../j/janni.html">janni</a></strong> <high-lulani>(j;N)</high-lulani> <em>move</em> + <strong><a href="../g/gata.html">gata</a></strong> <high-lulani>(gt)</high-lulani> <em>swing</em>
 [2]jala
 [3]High Lulani
 [4]<high-lulani>(jl)</high-lulani>
 [5]<ipa>/&#x2c8;&#x25f;al.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">platinum</div>
 [7]See Also
-<a href="../n/natu.html">&larr; natu</a> <high-lulani>(ne)</high-lulani> <em>iridium</em>
-<a href="../f/fi.html">&rarr; fi</a> <high-lulani>(F)</high-lulani> <em>gold</em>
-<a href="../q/qala.html">&uarr; qala</a> <high-lulani>(ql)</high-lulani> <em>palladium</em>
-<a href="../n/na'ipa.html">&darr; na&rsquo;ipa</a> <high-lulani>(nip)</high-lulani> <em>darmstadtium</em>
+&larr; <a href="../n/natu.html">natu</a> <high-lulani>(ne)</high-lulani> <em>iridium</em>
+&rarr; <a href="../f/fi.html">fi</a> <high-lulani>(F)</high-lulani> <em>gold</em>
+&uarr; <a href="../q/qala.html">qala</a> <high-lulani>(ql)</high-lulani> <em>palladium</em>
+&darr; <a href="../n/na'ipa.html">na&rsquo;ipa</a> <high-lulani>(nip)</high-lulani> <em>darmstadtium</em>
 [2]jalla
 [3]High Lulani
 [4]<high-lulani>(j;l)</high-lulani>
@@ -3098,7 +3163,7 @@ poetic
 [5]<ipa>/&#x2c8;&#x25f;af.f&#x259;.&#x279;&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">spice</div>
 [7]Derived Terms
-<strong><a href="../c/cani.html">jaffaracani</a></strong> <high-lulani>(j;frcN)</high-lulani> <em>spicy</em>
+<strong><a href="../j/jaffaracani.html">jaffaracani</a></strong> <high-lulani>(j;frcN)</high-lulani> <em>spicy</em>
 [2]jaha
 [3]High Lulani
 [4]<high-lulani>(jh)</high-lulani>
@@ -3149,8 +3214,8 @@ gnomic
 [5]<ipa>/&#x2cc;&#x25f;i&#x294;.&#x259;/</ipa>
 [6]stem adjective <div class="definition">not; not a</div>
 [7]Example
-<strong><a href="../t/taka.html">takaji&rsquo;a</a></strong> <high-lulani>(tkJa)</high-lulani> <em>not a sound</em>
-<strong><a href="../a/'alla.html">&rsquo;alla</a><a href="../p/pi.html">pi</a> <a href="../t/taka.html">takaji&rsquo;a</a></strong> <high-lulani>(a;lP / tkJa)</high-lulani> <em>unfamiliar sound</em>
+<strong><a href="../t/takaji'a.html">takaji&rsquo;a</a></strong> <high-lulani>(tkJa)</high-lulani> <em>not a sound</em>
+<strong><a href="../a/'alla.html">&rsquo;alla</a><a href="../p/pi.html">pi</a> <a href="../t/takaji'a.html">takaji&rsquo;a</a></strong> <high-lulani>(a;lP / tkJa)</high-lulani> <em>unfamiliar sound</em>
 [2]ji&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(Ji)</high-lulani>
@@ -3295,9 +3360,9 @@ Not used with possessives.
 [5]<ipa>/&#x25f;&#x289;.&#x2c8;sit.&#x268;/</ipa>
 [6]stem mathematics numeral <div class="definition">-6; <overline>6</overline>; rix; minus six; negative six</div>
 [7]See Also
-<a href="../h/haki.html">&larr; haki</a> <high-lulani>(hK)</high-lulani> <em>reven</em>
-<a href="../l/laffi.html">&rarr; laffi</a> <high-lulani>(l;F)</high-lulani> <em>rive</em>
-<a href="../u/'usi.html">&mdash; &rsquo;usi</a> <high-lulani>(uS)</high-lulani> <em>six</em>
+&larr; <a href="../h/haki.html">haki</a> <high-lulani>(hK)</high-lulani> <em>reven</em>
+&rarr; <a href="../l/laffi.html">laffi</a> <high-lulani>(l;F)</high-lulani> <em>rive</em>
+&mdash; <a href="../u/'usi.html">&rsquo;usi</a> <high-lulani>(uS)</high-lulani> <em>six</em>
 
 [1]K
 [2]ka
@@ -3307,7 +3372,7 @@ Not used with possessives.
 [6]stem adposition <div class="definition">south; southwards</div>
 [7]See Also
 <a href="../g/gibi.html">gibi</a> <high-lulani>(GB)</high-lulani> <em>east</em>
-<strong><a href="../s/sani.html">sani</strong></a> <high-lulani>(sN)</high-lulani> <em>north</em>
+<strong><a href="../s/sani.html">sani</a></strong> <high-lulani>(sN)</high-lulani> <em>north</em>
 <a href="../s/sumika.html">sumika</a> <high-lulani>(zMk)</high-lulani> <em>west</em>
 [6]stem adposition <div class="definition">as, equalative</div>
 [7]Examples
@@ -3330,9 +3395,9 @@ Not used with possessives.
 [5]<ipa>/&#x2c8;k&#x2b0;a&#x294;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">titanium</div>
 [7]See Also
-<a href="../c/cakina.html">&larr; cakina</a> <high-lulani>(cKn)</high-lulani> <em>scandium</em>
-<a href="../n/nussa.html">&rarr; nussa</a> <high-lulani>(I;s)</high-lulani> <em>vanadium</em>
-<a href="../p/pusu.html">&darr; pusu</a> <high-lulani>(oz)</high-lulani> <em>zirconium</em>
+&larr; <a href="../c/cakina.html">cakina</a> <high-lulani>(cKn)</high-lulani> <em>scandium</em>
+&rarr; <a href="../n/nussa.html">nussa</a> <high-lulani>(I;s)</high-lulani> <em>vanadium</em>
+&darr; <a href="../p/pusu.html">pusu</a> <high-lulani>(oz)</high-lulani> <em>zirconium</em>
 [2]ka&rsquo;u
 [3]High Lulani
 [4]<high-lulani>(ku)</high-lulani>
@@ -3369,9 +3434,9 @@ Not used with possessives.
 [5]<ipa>/k&#x2b0;&#x259;.&#x2c8;t&#x2b0;i&#x279;.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">holmium</div>
 [7]See Also
-<a href="../b/bumissi.html">&larr; bumissi</a> <high-lulani>(OM;S)</high-lulani> <em>dysprosium</em>
-<a href="../c/calluna.html">&rarr; calluna</a> <high-lulani>(c;Wn)</high-lulani> <em>erbium</em>
-<a href="../b/banara.html">&darr; banara</a> <high-lulani>(bnr)</high-lulani> <em>einsteinium</em>
+&larr; <a href="../b/bumissi.html">bumissi</a> <high-lulani>(OM;S)</high-lulani> <em>dysprosium</em>
+&rarr; <a href="../c/calluna.html">calluna</a> <high-lulani>(c;Wn)</high-lulani> <em>erbium</em>
+&darr; <a href="../b/banara.html">banara</a> <high-lulani>(bnr)</high-lulani> <em>einsteinium</em>
 [2]kadu
 [3]High Lulani
 [4]<high-lulani>(kE)</high-lulani>
@@ -3427,10 +3492,10 @@ state
 [5]<ipa>/&#x2c8;k&#x2b0;ac&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">cadmium</div>
 [7]See Also
-<a href="../n/ni.html">&larr; ni</a> <high-lulani>(N)</high-lulani> <em>silver</em>
-<a href="../l/luka.html">&rarr; luka</a><high-lulani>(Wk/)</high-lulani>  <em>indium</em>
-<a href="../h/hika.html">&uarr; hika</a> <high-lulani>(Hk)</high-lulani> <em>zinc</em>
-<a href="../u/'usa.html">&darr; &rsquo;usa</a> <high-lulani>(us)</high-lulani> <em>mercury</em>
+&larr; <a href="../n/ni.html">ni</a> <high-lulani>(N)</high-lulani> <em>silver</em>
+&rarr; <a href="../l/luka.html">luka</a><high-lulani>(Wk/)</high-lulani>  <em>indium</em>
+&uarr; <a href="../h/hika.html">hika</a> <high-lulani>(Hk)</high-lulani> <em>zinc</em>
+&darr; <a href="../u/'usa.html">&rsquo;usa</a> <high-lulani>(us)</high-lulani> <em>mercury</em>
 [2]kamiri
 [3]High Lulani
 [4]<high-lulani>(kMR)</high-lulani>
@@ -3524,9 +3589,9 @@ refers to an individual leg, or each leg individually
 [5]<ipa>/&#x2c8;k&#x2b0;a&#x279;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">uranium</div>
 [7]See Also
-<a href="../l/lakatti.html">&larr; lakatti</a> <high-lulani>(lk;T)</high-lulani> <em>protactinium</em>
-<a href="../x/xasagi.html">&rarr; xasagi</a> <high-lulani>(xsG)</high-lulani> <em>neptunium</em>
-<a href="../f/fibaku.html">&uarr; fibaku</a> <high-lulani>(Fb&gt;)</high-lulani> <em>neodymium</em>
+&larr; <a href="../l/lakatti.html">lakatti</a> <high-lulani>(lk;T)</high-lulani> <em>protactinium</em>
+&rarr; <a href="../x/xasagi.html">xasagi</a> <high-lulani>(xsG)</high-lulani> <em>neptunium</em>
+&uarr; <a href="../f/fibaku.html">fibaku</a> <high-lulani>(Fb&gt;)</high-lulani> <em>neodymium</em>
 [2]karu
 [3]High Lulani
 [4]<high-lulani>(kw)</high-lulani>
@@ -3542,23 +3607,23 @@ negative
 iterative
 gnomic
 [r]past
-<a href="../q/qixa.html">qikaru</a>
-<a href="../p/pi.html">pikaru</a>
-<a href="../q/qilu.html">qikaru</a>
-<a href="../t/taku.html">takaru</a>
-<a href="../r/rusa.html">rukaru</a>
+<a href="../q/qikaru.html">qikaru</a>
+<a href="../p/pikaru.html">pikaru</a>
+<a href="../q/qikaru.html">qikaru</a>
+<a href="../t/takaru.html">takaru</a>
+<a href="../r/rukaru.html">rukaru</a>
 [r]present
-<a href="../c/cani.html">cakaru</a>
-<a href="../r/ra'u.html">rakaru</a>
-<a href="../j/ji.html">jikaru</a>
-<a href="../n/na.html">nakaru</a>
-<a href="../r/ru.html">rukaru</a>
+<a href="../c/cakaru.html">cakaru</a>
+<a href="../r/rakaru.html">rakaru</a>
+<a href="../j/jikaru.html">jikaru</a>
+<a href="../n/nakaru.html">nakaru</a>
+<a href="../r/rukaru.html">rukaru</a>
 [r]future
-<a href="../l/labu.html">lakaru</a>
-<a href="../n/nagi.html">nakaru</a>
-<a href="../f/funi.html">fukaru</a>
-<a href="../h/hu.html">hukaru</a>
-<a href="../r/ruku.html">rukaru</a>
+<a href="../l/lakaru.html">lakaru</a>
+<a href="../n/nakaru.html">nakaru</a>
+<a href="../f/fukaru.html">fukaru</a>
+<a href="../h/hukaru.html">hukaru</a>
+<a href="../r/rukaru.html">rukaru</a>
 [/t]
 [2]kasa
 [3]High Lulani
@@ -3754,13 +3819,20 @@ state
 [7]See Also
 <a href="../k/kanu.html">kanu</a> <high-lulani>(kI)</high-lulani> <em>leg</em>
 <a href="../t/tiba.html">tiba</a> <high-lulani>(Tb)</high-lulani> <em>legs</em>
+[2]kahu
+[3]High Lulani
+[4]<high-lulani>(kV)</high-lulani>
+[5]<ipa>/&#x2c8;k&#x2b0;ah.&#x289;/</ipa>
+[6]inanimate stem noun <div class="definition">grunt</div>
+[7]Derived Terms
+<strong><a href="../i/'ikahu.html">&rsquo;ikahu</a></strong> <high-lulani>(ikV)</high-lulani> <em>to grunt</em>
 [2]ki
 [3]High Lulani
 [4]<high-lulani>(K)</high-lulani>
 [5]<ipa>/k&#x2b0;&#x268;/</ipa>
 [6]mathematics derivational suffix (numeral &rarr; fraction) <div class="definition">forms fractions</div>
 [7]Example
-<strong><a href="../k/kifi.html">kifiki</a> <a href="../s/salumi.html">salumi</a></strong> <high-lulani>(KFK / sWM)</high-lulani> <em>three sevenths</em>
+<strong><a href="../k/kifiki.html">kifiki</a> <a href="../s/salumi.html">salumi</a></strong> <high-lulani>(KFK / sWM)</high-lulani> <em>three sevenths</em>
 [6]derivational suffix (verb &rarr; noun) <div class="definition">forms an inanimate agentive noun</div>
 [7]Examples
 <a href="../b/bumaki.html">bumaki</a> <high-lulani>(OmK)</high-lulani> <em>screen</em>
@@ -3775,7 +3847,7 @@ state
 <small-caps>1int pst;dyn</small-caps> <em>grow.</em>
 &ldquo;I grew.&rdquo;
 [7]Derived Terms
-<strong><a href="../a/-atinna.html">katinna</a></strong> <high-lulani>(kT;n)</high-lulani> <em>increasingly</em>
+<strong><a href="../k/katinna.html">katinna</a></strong> <high-lulani>(kT;n)</high-lulani> <em>increasingly</em>
 [2]ki&#x294;a
 [3]High Lulani
 [4]<high-lulani>(K;a)</high-lulani>
@@ -3879,9 +3951,9 @@ state
 [5]<ipa>/k&#x2b0;&#x268;.&#x2c8;&#x279;a&#x28e;.&#x28e;&#x289;/</ipa>
 [6]stem mathematics numeral <div class="definition">-2; <overline>2</overline>, ru, minus two</div>
 [7]See Also
-<a href="../b/bila.html">&larr; bila</a> <high-lulani>(Bl)</high-lulani> <em>ree</em>
-<a href="../m/mullu.html">&rarr; mullu</a> <high-lulani>(U;W)</high-lulani> <em>ron</em>
-<a href="../r/ra.html">&mdash; ra</a> <high-lulani>(r)</high-lulani> <em>two</em>
+&larr; <a href="../b/bila.html">bila</a> <high-lulani>(Bl)</high-lulani> <em>ree</em>
+&rarr; <a href="../m/mullu.html">mullu</a> <high-lulani>(U;W)</high-lulani> <em>ron</em>
+&mdash; <a href="../r/ra.html">ra</a> <high-lulani>(r)</high-lulani> <em>two</em>
 [2]kiffaculi
 [3]High Lulani
 [4]<high-lulani>(K;fyL)</high-lulani>
@@ -3893,9 +3965,9 @@ state
 [5]<ipa>/&#x2c8;k&#x2b0;if.&#x268;/</ipa>
 [6]stem mathematics numeral <div class="definition">3; three</div>
 [7]See Also
-<a href="../r/ra.html">&larr; ra</a> <high-lulani>(r)</high-lulani> <em>two</em>
-<a href="../n/nuru.html">&rarr; nuru</a> <high-lulani>(Iw)</high-lulani> <em>four</em>
-<a href="../b/bila.html">&mdash; bila</a> <high-lulani>(Bl)</high-lulani> <em>ree</em>
+<strong>&larr; <a href="../r/ra.html">ra</a></strong> <high-lulani>(r)</high-lulani> <em>two</em>
+<strong>&rarr; <a href="../n/nuru.html">nuru</a></strong> <high-lulani>(Iw)</high-lulani> <em>four</em>
+<strong>&mdash; <a href="../b/bila.html">bila</a></strong> <high-lulani>(Bl)</high-lulani> <em>ree</em>
 [2]kissa
 [3]High Lulani
 [4]<high-lulani>(K;s)</high-lulani>
@@ -3916,10 +3988,10 @@ state
 [5]<ipa>/k&#x2b0;i&#x255;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">lutetium</div>
 [7]See Also
-<a href="../t/tukaga.html">&larr; tukaga</a> <high-lulani>(ekg)</high-lulani> <em>ytterbium</em>
-<a href="../t/tacuca.html">&rarr; tacuca</a> <high-lulani>(tyc)</high-lulani> <em>hafnium</em>
-<a href="../a/'aqqixi.html">&uarr; &rsquo;aqqixi</a> <high-lulani>(a;QX)</high-lulani> <em>yttrium</em>
-<a href="../n/nulina.html">&darr; nulina</a> <high-lulani>(ILn)</high-lulani> <em>lawrencium</em>
+&larr; <a href="../t/tukaga.html">tukaga</a> <high-lulani>(ekg)</high-lulani> <em>ytterbium</em>
+&rarr; <a href="../t/tacuca.html">tacuca</a> <high-lulani>(tyc)</high-lulani> <em>hafnium</em>
+&uarr; <a href="../a/'aqqixi.html">&rsquo;aqqixi</a> <high-lulani>(a;QX)</high-lulani> <em>yttrium</em>
+&darr; <a href="../n/nulina.html">nulina</a> <high-lulani>(ILn)</high-lulani> <em>lawrencium</em>
 [2]kixxita
 [3]High Lulani
 [4]<high-lulani>(K;Xt)</high-lulani>
@@ -3979,7 +4051,7 @@ state
 [7]Derived Terms
 <a href="../i/'itikku.html">&rsquo;itikku</a> <high-lulani>(iT;&gt;)</high-lulani> <em>breast</em>
 <a href="../m/mulukku.html">mulukku</a> <high-lulani>(UW;&gt;)</high-lulani> <em>heart</em>
-<strong><a href="../d/dasi.html">dasikku</a></strong><high-lulani>(dS;&gt;)</high-lulani>  <em>digestive system</em>
+<strong><a href="../d/dasikku.html">dasikku</a></strong><high-lulani>(dS;&gt;)</high-lulani>  <em>digestive system</em>
 [2]kupira
 [3]High Lulani
 [4]<high-lulani>(&gt;Pr)</high-lulani>
@@ -4014,7 +4086,7 @@ with discrete aspects: in many different ways
 [5]<ipa>/k&#x2b0;&#x289;.&#x2c8;na&#x14b;.&#x268;/</ipa>
 [6]derived noun <div class="definition">soil; land; earth; dirt</div>
 [7]Etymology
-<a href="../k/ku.html">ku</a> <high-lulani>(&gt;)</high-lulani> <small-caps>dat</small-caps> + <a href="../naqi.html">Naqi</a> <high-lulani>(nQ)</high-lulani> <em>Naengi</em>
+<a href="../k/ku.html">ku</a> <high-lulani>(&gt;)</high-lulani> <small-caps>dat</small-caps> + <a href="../n/naqi.html">Naqi</a> <high-lulani>(nQ)</high-lulani> <em>Naengi</em>
 [7]See Also
 <a href="../u/'u'a.html">&rsquo;u&rsquo;a</a> <high-lulani>(ua)</high-lulani> <em>wood</em>
 <a href="../d/da.html">da</a> <high-lulani>(d)</high-lulani> <em>water</em>
@@ -4096,19 +4168,19 @@ Corla
 [5]<ipa>/k&#x2b0;&#x289;.&#x2c8;&#x255;al.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">neon</div>
 [7]See Also
-<a href="../c/ca'a.html">&larr; ca&rsquo;a</a> <high-lulani>(ca)</high-lulani> <em>fluorine</em>
-<a href="../l/lisu.html">&rarr; lisu</a> <high-lulani>(Lz)</high-lulani> <em>sodium</em>
-<a href="../l/li'a.html">&uarr; li&rsquo;a</a> <high-lulani>(La)</high-lulani> <em>helium</em>
-<a href="../l/laqa.html">&darr; laqa</a> <high-lulani>(lq)</high-lulani> <em>argon</em>
+&larr; <a href="../c/ca'a.html">ca&rsquo;a</a> <high-lulani>(ca)</high-lulani> <em>fluorine</em>
+&rarr; <a href="../l/lisu.html">lisu</a> <high-lulani>(Lz)</high-lulani> <em>sodium</em>
+&uarr; <a href="../l/li'a.html">li&rsquo;a</a> <high-lulani>(La)</high-lulani> <em>helium</em>
+&darr; <a href="../l/laqa.html">laqa</a> <high-lulani>(lq)</high-lulani> <em>argon</em>
 [2]kuxxu
 [3]High Lulani
 [4]<high-lulani>(&gt;;Z)</high-lulani>
 [5]<ipa>/&#x2c8;k&#x2b0;u&#x255;.&#x255;&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">boron</div>
 [7]See Also
-<a href="../f/fiqqala.html">&larr; fiqqala</a> <high-lulani>(F;ql)</high-lulani> <em>beryllium</em>
-<a href="../x/xu.html">&rarr; xu</a> <high-lulani>(Z)</high-lulani> <em>carbon</em>
-<a href="../d/disa.html">&darr; disa</a> <high-lulani>(Ds)</high-lulani> <em>aluminium</em>
+&larr; <a href="../f/fiqqala.html">fiqqala</a> <high-lulani>(F;ql)</high-lulani> <em>beryllium</em>
+&rarr; <a href="../x/xu.html">xu</a> <high-lulani>(Z)</high-lulani> <em>carbon</em>
+&darr; <a href="../d/disa.html">disa</a> <high-lulani>(Ds)</high-lulani> <em>aluminium</em>
 
 [1]G
 [2]ga
@@ -4150,6 +4222,13 @@ Corla
 [4]<high-lulani>(gP)</high-lulani>
 [5]<ipa>/&#x2c8;gap&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun <div class="definition">soup; stew</div>
+[2]gata
+[3]High Lulani
+[4]<high-lulani>(gt)</high-lulani>
+[5]<ipa>/&#x2c8;gat&#x2b0;.&#x259;/</ipa>
+[6]inanimate stem noun <div class="definition">pendulum; swing</div>
+[7]Derived Terms
+<strong><a href="../j/jannigata.html">jannigata</a></strong> <high-lulani>(j;Ngt)</high-lulani> <em>to swing</em>
 [2]gaca
 [3]High Lulani
 [4]<high-lulani>(gc)</high-lulani>
@@ -4171,9 +4250,9 @@ Corla
 [5]<ipa>/g&#x259;.&#x2c8;&#x255;ik&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">cobalt</div>
 [7]See Also
-<a href="../a/'a.html">&larr; &rsquo;a</a> <high-lulani>(a)</high-lulani> <em>iron</em>
-<a href="../t/tasa.html">&rarr; tasa</a> <high-lulani>(ts)</high-lulani> <em>nickel</em>
-<a href="../f/fula.html">&darr; fula</a> <high-lulani>(vl)</high-lulani> <em>rhodium</em>
+&larr; <a href="../a/'a.html">&rsquo;a</a> <high-lulani>(a)</high-lulani> <em>iron</em>
+&rarr; <a href="../t/tasa.html">tasa</a> <high-lulani>(ts)</high-lulani> <em>nickel</em>
+&darr; <a href="../f/fula.html">fula</a> <high-lulani>(vl)</high-lulani> <em>rhodium</em>
 [2]gi
 [3]High Lulani
 [4]<high-lulani>(G)</high-lulani>
@@ -4256,9 +4335,9 @@ Means &lsquo;to guard&rsquo; with a causative argument, else &lsquo;to remain&rs
 [5]<ipa>/&#x2c8;gu&#x14b;.&#x14b;&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">francium</div>
 [7]See Also
-<a href="../f/fasami.html">&larr; fasami</a> <high-lulani>(fsM)</high-lulani> <em>radon</em>
-<a href="../i/'ilasa.html">&rarr; &rsquo;ilasa</a> <high-lulani>(ils)</high-lulani> <em>radium</em>
-<a href="../n/nudda.html">&uarr; nudda</a> <high-lulani>(I;d)</high-lulani> <em>caesium</em>
+&larr; <a href="../f/fasami.html">fasami</a> <high-lulani>(fsM)</high-lulani> <em>radon</em>
+&rarr; <a href="../i/'ilasa.html">&rsquo;ilasa</a> <high-lulani>(ils)</high-lulani> <em>radium</em>
+&uarr; <a href="../n/nudda.html">nudda</a> <high-lulani>(I;d)</high-lulani> <em>caesium</em>
 [2]gurrisu
 [3]High Lulani
 [4]<high-lulani>(&lt;;Rz)</high-lulani>
@@ -4289,9 +4368,9 @@ only used when alive
 [5]<ipa>/&#x2c8;guh.&#x268;/</ipa>
 [6]stem mathematics ordinal <div class="definition">5; five</div>
 [7]See Also
-<a href="../n/nuru.html">&larr; nuru</a> <high-lulani>(Iw)</high-lulani> <em>four</em>
-<a href="../u/'usi.html">&rarr; &rsquo;usi</a> <high-lulani>(uS)</high-lulani> <em>six</em>
-<a href="../l/laffi.html">&mdash; laffi</a> <high-lulani>(l;F)</high-lulani> <em>rive</em>
+&larr; <a href="../n/nuru.html">nuru</a> <high-lulani>(Iw)</high-lulani> <em>four</em>
+&rarr; <a href="../u/'usi.html">&rsquo;usi</a> <high-lulani>(uS)</high-lulani> <em>six</em>
+&mdash; <a href="../l/laffi.html">laffi</a> <high-lulani>(l;F)</high-lulani> <em>rive</em>
 
 [1]M
 [2]ma
@@ -4307,6 +4386,10 @@ most often used as a prefix for adverbial location clauses
 <small-caps>1int</small-caps> <em>eat where-near, sleep.</em>
 I eat near where I sleep.
 [6]derivational suffix (adverb) <div class="definition">terminative, used for adverbs.</div>
+[5]<ipa>/ma/</ipa>
+[6]transitive stem verb <div class="definition">think with the <a href="../s/soul.html">soul</a></div>
+[7]Definition
+the &ldquo;soul&rdquo; is the part of a person that has beliefs, faith, trust, morals, etc.
 [2]ma&rsquo;iki
 [3]High Lulani
 [4]<high-lulani>(miK)</high-lulani>
@@ -4342,17 +4425,17 @@ the four ginglaic dimensions.
 [6]stem mathematics ordinal <div class="definition">second</div>
 [7]See Also
 <a href="../b/bijaju.html">bijaju</a> <high-lulani>(BjY)</high-lulani> <em>first</em>
-<a href="../-uju.html">-uju</a> <high-lulani>(uY)</high-lulani> <em>ordinal</em>
+<a href="../\/-uju.html">-uju</a> <high-lulani>(uY)</high-lulani> <em>ordinal</em>
 [2]matirra
 [3]High Lulani
 [4]<high-lulani>(mT;r)</high-lulani>
 [5]<ipa>/m&#x259;.&#x2c8;t&#x2b0;ir.r&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">selenium</div>
 [7]See Also
-<a href="../d/da'u.html">&larr; da&rsquo;u</a> <high-lulani>(du)</high-lulani> <em>arsenic</em>
-<a href="../b/bi.html">&rarr; bi</a><high-lulani>(B/)</high-lulani>  <em>bromine</em>
-<a href="../t/ta.html">&uarr; ta</a> <high-lulani>(t)</high-lulani> <em>sulphur</em>
-<a href="../l/lasu.html">&darr; lasu</a> <high-lulani>(lz)</high-lulani> <em>tellurium</em>
+&larr; <a href="../d/da'u.html">da&rsquo;u</a> <high-lulani>(du)</high-lulani> <em>arsenic</em>
+&rarr; <a href="../b/bi.html">bi</a><high-lulani>(B/)</high-lulani>  <em>bromine</em>
+&uarr; <a href="../t/ta.html">ta</a> <high-lulani>(t)</high-lulani> <em>sulphur</em>
+&darr; <a href="../l/lasu.html">lasu</a> <high-lulani>(lz)</high-lulani> <em>tellurium</em>
 [2]madi
 [3]High Lulani
 [4]<high-lulani>(mD)</high-lulani>
@@ -4513,8 +4596,8 @@ being happy in the moment
 [7]See Also
 <a href="../a/'ahati.html">&rsquo;ahati</a> <high-lulani>(ahT)</high-lulani> <em>happiness</em>
 [7]Derived Terms
-<strong><a href="../d/dissu.html">dissumalliju</a></strong> <high-lulani>(D;zm;LY)</high-lulani> <em>to be happy</em>
-<strong><a href="../x/xi.html">ximalliju</a></strong> <high-lulani>(Xm;LY)</high-lulani> <em>to orgasm</em>
+<strong><a href="../d/dissumalliju.html">dissumalliju</a></strong> <high-lulani>(D;zm;LY)</high-lulani> <em>to be happy</em>
+<strong><a href="../x/ximalliju.html">ximalliju</a></strong> <high-lulani>(Xm;LY)</high-lulani> <em>to orgasm</em>
 [2]malu
 [3]High Lulani
 [4]<high-lulani>(mW)</high-lulani>
@@ -4637,7 +4720,7 @@ state
 [6]derivational suffix (noun: inanimate &rarr; animate) <div class="definition">giver</div>
 [7]Examples
 <a href="../a/'aggami.html">&rsquo;aggami</a> <high-lulani>(a;gM)</high-lulani> <em>police officer</em>
-<a href="../Sa'imi.html">Sa&rsquo;imi</a> <high-lulani>(siM)</high-lulani> <em>Caemi</em>
+<a href="../s/sa'imi.html">Sa&rsquo;imi</a> <high-lulani>(siM)</high-lulani> <em>Caemi</em>
 [6]stem adjective <div class="definition">any; some</div>
 [7]See Also
 <a href="../u/'umi.html">&rsquo;umi</a> <high-lulani>(uM)</high-lulani> <em>something</em>
@@ -4705,7 +4788,7 @@ state
 [5]<ipa>/&#x2c8;mic.&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">internal peace</div>
 [7]Derived Terms
-<strong><a href="../d/dissu.html">dissumici</a></strong> <em>be content</em>
+<strong><a href="../d/dissumici.html">dissumici</a></strong> <em>be content</em>
 [2]mika
 [3]High Lulani
 [4]<high-lulani>(Mk)</high-lulani>
@@ -4744,10 +4827,10 @@ state
 [5]<ipa>/m&#x268;.&#x2c8;na&#x294;.j&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">tungsten</div>
 [7]See Also
-<a href="../h/hila.html">&larr; hila</a> <high-lulani>(Hl)</high-lulani> <em>tantalum</em>
-<a href="../h/hasuki.html">&rarr; hasuki</a> <high-lulani>(hzK)</high-lulani> <em>rhenium</em>
-<a href="../s/sula.html">&uarr; sula</a> <high-lulani>(zl)</high-lulani> <em>molybdenum</em>
-<a href="../s/saniki.html">&darr; saniki</a> <high-lulani>(sNK)</high-lulani> <em>seaborgium</em>
+&larr; <a href="../h/hila.html">hila</a> <high-lulani>(Hl)</high-lulani> <em>tantalum</em>
+&rarr; <a href="../h/hasuki.html">hasuki</a> <high-lulani>(hzK)</high-lulani> <em>rhenium</em>
+&uarr; <a href="../s/sula.html">sula</a> <high-lulani>(zl)</high-lulani> <em>molybdenum</em>
+&darr; <a href="../s/saniki.html">saniki</a> <high-lulani>(sNK)</high-lulani> <em>seaborgium</em>
 [2]milami
 [3]High Lulani
 [4]<high-lulani>(MlM)</high-lulani>
@@ -4791,9 +4874,9 @@ informal
 [5]<ipa>/&#x2c8;mis.s&#x289;/</ipa>
 [6]stem mathematics ordinal <div class="definition">-4; <overline>4</overline>;rour; minus four</div>
 [7]See Also
-<a href="../l/laffi.html">&larr; laffi</a> <high-lulani>(l;F)</high-lulani> <em>rive</em><weak>
-<a href="../b/bila.html">&rarr; bila</a> <high-lulani>(Bl)</high-lulani> <em>ree</em>
-<a href="../n/nuru.html">&mdash; nuru</a> <high-lulani>(Iw)</high-lulani> <em>four</em>
+&larr; <a href="../l/laffi.html">laffi</a> <high-lulani>(l;F)</high-lulani> <em>rive</em><weak>
+&rarr; <a href="../b/bila.html">bila</a> <high-lulani>(Bl)</high-lulani> <em>ree</em>
+&mdash; <a href="../n/nuru.html">nuru</a> <high-lulani>(Iw)</high-lulani> <em>four</em>
 [2]mihu
 [3]High Lulani
 [4]<high-lulani>(MV)</high-lulani>
@@ -4873,7 +4956,7 @@ informal
 [5]<ipa>/&#x2c8;mul.&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">blood</div>
 [7]Derived Terms
-<strong><a href="../m/miku.html">mikumulu</a></strong> <high-lulani>(M&gt;UW)</high-lulani> <em>crimson</em>
+<strong><a href="../m/mikumulu.html">mikumulu</a></strong> <high-lulani>(M&gt;UW)</high-lulani> <em>crimson</em>
 <a href="../m/mulukku.html">mulukku</a> <high-lulani>(UW;&gt;)</high-lulani> <em>heart</em>
 [2]mullu
 [3]High Lulani
@@ -4881,16 +4964,16 @@ informal
 [5]<ipa>/&#x2c8;mu&#x28e;.&#x28e;&#x289;/</ipa>
 [6]stem mathematics cardinal <div class="definition">-1; <overline>1</overline>; ron, minus one</div>
 [7]See Also
-<a href="../k/kirallu.html">&larr; kirallu</a> <high-lulani>(Kr;W)</high-lulani> <em>ru</em>
-<a href="../q/qikka.html">&rarr; qikka</a> <high-lulani>(Q;k)</high-lulani> <em>zero</em>
-<a href="../x/xita.html">&mdash; xita</a> <high-lulani>(Xt)</high-lulani> <em>one</em>
+&larr; <a href="../k/kirallu.html">kirallu</a> <high-lulani>(Kr;W)</high-lulani> <em>ru</em>
+&rarr; <a href="../q/qikka.html">qikka</a> <high-lulani>(Q;k)</high-lulani> <em>zero</em>
+&mdash; <a href="../x/xita.html">xita</a> <high-lulani>(Xt)</high-lulani> <em>one</em>
 [2]mulukku
 [3]High Lulani
 [4]<high-lulani>(UW;&gt;)</high-lulani>
 [5]<ipa>/m&#x289;.&#x2c8;luk.k&#x289;/</ipa>
 [6]inanimate derived noun <div class="definition">heart</div>
 [7]Etymology
-<a href="../m/mulu.html">mulu</a> <high-lulani>(UW)</high-lulani> <em>blood</em> + <a href="../-kku.html">-kku</a> <high-lulani>(;&gt;)</high-lulani> <em>body part</em>
+<a href="../m/mulu.html">mulu</a> <high-lulani>(UW)</high-lulani> <em>blood</em> + <a href="../\/-kku.html">-kku</a> <high-lulani>(;&gt;)</high-lulani> <em>body part</em>
 [7]Usage Notes
 refers to the physical organ. Cf: <a href="../s/sida.html">sida</a> <high-lulani>(Sd)</high-lulani> <em>heart</em>
 [2]muru
@@ -4912,7 +4995,7 @@ refers to the physical organ. Cf: <a href="../s/sida.html">sida</a> <high-lulani
 [5]<ipa>/&#x2c8;mus.s&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">exoticism</div>
 [7]Derived Terms
-<strong><a href="../x/xi.html">ximussa</a></strong> <high-lulani>(XU;s)</high-lulani> <em>to be exotic</em>
+<strong><a href="../x/ximussa.html">ximussa</a></strong> <high-lulani>(XU;s)</high-lulani> <em>to be exotic</em>
 [2]musaqu
 [3]High Lulani
 [4]<high-lulani>(UsA)</high-lulani>
@@ -4921,10 +5004,10 @@ refers to the physical organ. Cf: <a href="../s/sida.html">sida</a> <high-lulani
 [7]Definition
 a dense, heavy metal. Element 82
 [7]See Also
-<a href="../s/silla.html">&larr; silla</a> <high-lulani>(S;l)</high-lulani> <em>thallium</em>
-<a href="../a/'aggini.html">&rarr; &rsquo;aggini</a> <high-lulani>(a;GN)</high-lulani> <em>bismuth</em>
-<a href="../l/laji.html">&uarr; laji</a> <high-lulani>(lJ)</high-lulani> <em>tin</em>
-<a href="../x/xa'a.html">&darr; xa&rsquo;a</a> <high-lulani>(xa)</high-lulani> <em>flerovium</em>
+&larr; <a href="../s/silla.html">silla</a> <high-lulani>(S;l)</high-lulani> <em>thallium</em>
+&rarr; <a href="../a/'aggini.html">&rsquo;aggini</a> <high-lulani>(a;GN)</high-lulani> <em>bismuth</em>
+&uarr; <a href="../l/laji.html">laji</a> <high-lulani>(lJ)</high-lulani> <em>tin</em>
+&darr; <a href="../x/xa'a.html">xa&rsquo;a</a> <high-lulani>(xa)</high-lulani> <em>flerovium</em>
 
 [1]N
 [2]na
@@ -4971,8 +5054,8 @@ gnomic
 <strong>patient</strong> <em>subject</em>
 <strong>direction</strong> <em>object,</em> <small-caps>pa</small-caps>
 [7]Derived Terms
-<strong><a href="../k/kalu.html">nakalu</a></strong> <high-lulani>(nkW)</high-lulani> <em>to face in a particular direction</em>
-<strong><a href="../h/husabi.html">nahusabi</a></strong> <high-lulani>(nVsB)</high-lulani> <em>to point out</em>
+<strong><a href="../n/nakalu.html">nakalu</a></strong> <high-lulani>(nkW)</high-lulani> <em>to face in a particular direction</em>
+<strong><a href="../n/nahusabi.html">nahusabi</a></strong> <high-lulani>(nVsB)</high-lulani> <em>to point out</em>
 [7]Usage Notes
 most usually used as a verbal prefix
 [2]naengi
@@ -4986,18 +5069,18 @@ most usually used as a verbal prefix
 [5]<ipa>/&#x2c8;na&#x294;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">actinium</div>
 [7]See Also
-<a href="../i/'ilasa.html">&larr; &rsquo;ilasa</a> <high-lulani>(ils)</high-lulani> <em>radium</em>
-<a href="../p/paraba.html">&rarr; paraba</a> <high-lulani>(prb)</high-lulani> <em>thorium</em>
-<a href="../x/xanaki.html">&uarr; xanaki</a> <high-lulani>(xnK)</high-lulani> <em>lanthanum</em>
+&larr; <a href="../i/'ilasa.html">&rsquo;ilasa</a> <high-lulani>(ils)</high-lulani> <em>radium</em>
+&rarr; <a href="../p/paraba.html">paraba</a> <high-lulani>(prb)</high-lulani> <em>thorium</em>
+&uarr; <a href="../x/xanaki.html">xanaki</a> <high-lulani>(xnK)</high-lulani> <em>lanthanum</em>
 [2]na&rsquo;ipa
 [3]High Lulani
 [4]<high-lulani>(nip)</high-lulani>
 [5]<ipa>/n&#x259;.&#x2c8;&#x294;ip&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">darmstadtium</div>
 [7]See Also
-<a href="../n/nakaku.html">&larr; nakaku</a> <high-lulani>(nk&gt;)</high-lulani> <em>meitnerium</em>
-<a href="../s/su'usi.html">&rarr; su&rsquo;usi</a> <high-lulani>(zuS)</high-lulani> <em>roentgenium</em>
-<a href="../j/jala.html">&uarr; jala</a> <high-lulani>(jl)</high-lulani> <em>platinum</em>
+&larr; <a href="../n/nakaku.html">nakaku</a> <high-lulani>(nk&gt;)</high-lulani> <em>meitnerium</em>
+&rarr; <a href="../s/su'usi.html">su&rsquo;usi</a> <high-lulani>(zuS)</high-lulani> <em>roentgenium</em>
+&uarr; <a href="../j/jala.html">jala</a> <high-lulani>(jl)</high-lulani> <em>platinum</em>
 [2]napuxi
 [3]High Lulani
 [4]<high-lulani>(noX)</high-lulani>
@@ -5016,10 +5099,10 @@ most usually used as a verbal prefix
 [5]<ipa>/&#x2c8;nat&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">iridium</div>
 [7]See Also
-<a href="../s/supu.html">&larr; supu</a> <high-lulani>(zo)</high-lulani> <em>osmium</em>
-<a href="../j/jala.html">&rarr; jala</a> <high-lulani>(jl)</high-lulani> <em>platinum</em>
-<a href="../f/fula.html">&uarr; fula</a> <high-lulani>(vl)</high-lulani> <em>rhodium</em>
-<a href="../n/nakaku.html">&darr; nakaku</a> <high-lulani>(nk&gt;)</high-lulani> <em>meitnerium</em>
+&larr; <a href="../s/supu.html">supu</a> <high-lulani>(zo)</high-lulani> <em>osmium</em>
+&rarr; <a href="../j/jala.html">jala</a> <high-lulani>(jl)</high-lulani> <em>platinum</em>
+&uarr; <a href="../f/fula.html">fula</a> <high-lulani>(vl)</high-lulani> <em>rhodium</em>
+&darr; <a href="../n/nakaku.html">nakaku</a> <high-lulani>(nk&gt;)</high-lulani> <em>meitnerium</em>
 [2]nada
 [3]High Lulani
 [4]<high-lulani>(nd)</high-lulani>
@@ -5045,7 +5128,7 @@ most usually used as a verbal prefix
 [5]<ipa>/&#x2c8;nac&#x2b0;.&#x268;/</ipa>
 [6]stem adjective <div class="definition">somewhat</div>
 [7]Examples
-<strong><a href="../k/kuli'a.html">kuli&rsquo;anaci</a></strong> <high-lulani>(&gt;LanC)</high-lulani> <em>acquaintance</em>
+<strong><a href="../k/kuli'anaci.html">kuli&rsquo;anaci</a></strong> <high-lulani>(&gt;LanC)</high-lulani> <em>acquaintance</em>
 [7]Derived Terms
 <a href="../t/tucinaci.html">tucinaci</a> <high-lulani>(eCnC)</high-lulani> <em>somewhat</em>
 [2]nakaku
@@ -5054,9 +5137,9 @@ most usually used as a verbal prefix
 [5]<ipa>/&#x2c8;n&#x259;.&#x2c8;k&#x2b0;ak&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">meitnerium</div>
 [7]See Also
-<a href="../i/'i'ami.html">&larr; &rsquo;i&rsquo;ami</a> <high-lulani>(iaM)</high-lulani> <em>hassium</em>
-<a href="../n/na'ipa.html">&rarr; na&rsquo;ipa</a> <high-lulani>(nip)</high-lulani> <em>darmstadtium</em>
-<a href="../n/natu.html">&uarr; natu</a> <high-lulani>(ne)</high-lulani> <em>iridium</em>
+&larr; <a href="../i/'i'ami.html">&rsquo;i&rsquo;ami</a> <high-lulani>(iaM)</high-lulani> <em>hassium</em>
+&rarr; <a href="../n/na'ipa.html">na&rsquo;ipa</a> <high-lulani>(nip)</high-lulani> <em>darmstadtium</em>
+&uarr; <a href="../n/natu.html">natu</a> <high-lulani>(ne)</high-lulani> <em>iridium</em>
 [2]naku
 [3]High Lulani
 [4]<high-lulani>(n&gt;)</high-lulani>
@@ -5140,7 +5223,7 @@ gnomic
 <small-caps>1int</small-caps> <em>need</em> <small-caps>2tra.</small-caps>
 &ldquo;I need you.&rdquo;
 [7]Derived Terms
-<strong><a href="../n/naludu.html">naqanaludu</a></strong> <high-lulani>(nqnWE)</high-lulani> <em>physically need</em>
+<strong><a href="../n/naqanaludu.html">naqanaludu</a></strong> <high-lulani>(nqnWE)</high-lulani> <em>physically need</em>
 [2]naqi
 [3]High Lulani
 [4]<high-lulani>(nQ)</high-lulani>
@@ -5221,10 +5304,10 @@ a heightened emotional state, especially as induced by tiredness or drunkenness.
 [5]<ipa>/n&#x259;.&#x2c8;suf.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">ruthenium</div>
 [7]See Also
-<a href="../n/nikili.html">&larr; nikili</a> <high-lulani>(NKL)</high-lulani> <em>technetium</em>
-<a href="../f/fula.html">&rarr; fula</a> <high-lulani>(vl)</high-lulani> <em>rhodium</em>
-<a href="../a/'a.html">&uarr; &rsquo;a</a><high-lulani>(a/)</high-lulani>  <em>iron</em>
-<a href="../s/supu.html">&darr; supu</a> <high-lulani>(zo)</high-lulani> <em>osmium</em>
+&larr; <a href="../n/nikili.html">nikili</a> <high-lulani>(NKL)</high-lulani> <em>technetium</em>
+&rarr; <a href="../f/fula.html">fula</a> <high-lulani>(vl)</high-lulani> <em>rhodium</em>
+&uarr; <a href="../a/'a.html">&rsquo;a</a><high-lulani>(a/)</high-lulani>  <em>iron</em>
+&darr; <a href="../s/supu.html">supu</a> <high-lulani>(zo)</high-lulani> <em>osmium</em>
 [2]ni
 [3]High Lulani
 [4]<high-lulani>(N)</high-lulani>
@@ -5234,10 +5317,10 @@ a heightened emotional state, especially as induced by tiredness or drunkenness.
 [6]stem adposition <div class="definition">at; in</div>
 [6]inanimate stem noun element <div class="definition">silver</div>
 [7]See Also
-<a href="../q/qala.html">&larr; qala</a><high-lulani>(ql/)</high-lulani>  <em>palladium</em>
-<a href="../k/kaca.html">&rarr; kaca</a> <high-lulani>(kc)</high-lulani> <em>cadmium</em>
-<a href="../s/suki.html">&uarr; suki</a> <high-lulani>(zK)</high-lulani> <em>copper</em>
-<a href="../f/fi.html">&darr; fi</a> <high-lulani>(F)</high-lulani> <em>gold</em>
+&larr; <a href="../q/qala.html">qala</a><high-lulani>(ql/)</high-lulani>  <em>palladium</em>
+&rarr; <a href="../k/kaca.html">kaca</a> <high-lulani>(kc)</high-lulani> <em>cadmium</em>
+&uarr; <a href="../s/suki.html">suki</a> <high-lulani>(zK)</high-lulani> <em>copper</em>
+&darr; <a href="../f/fi.html">fi</a> <high-lulani>(F)</high-lulani> <em>gold</em>
 [2]nittu
 [3]High Lulani
 [4]<high-lulani>(N;e)</high-lulani>
@@ -5273,7 +5356,7 @@ a heightened emotional state, especially as induced by tiredness or drunkenness.
 [5]<ipa>/&#x2c8;nik&#x2b0;.&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">journey; travel</div>
 [7]Derived Terms
-<strong><a href="../j/janni.html">janninika</a></strong> <high-lulani>(j;NNk)</high-lulani> <em>to travel</em>
+<strong><a href="../j/janninika.html">janninika</a></strong> <high-lulani>(j;NNk)</high-lulani> <em>to travel</em>
 [7]See Also
 <a href="../a/'a'ima.html">&rsquo;a&rsquo;ima</a> <high-lulani>(aim)</high-lulani> <em>traveller</em>
 [2]nikili
@@ -5282,17 +5365,17 @@ a heightened emotional state, especially as induced by tiredness or drunkenness.
 [5]<ipa>/n&#x268;.&#x2c8;k&#x2b0;il.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">technetium</div>
 [7]See Also
-<a href="../s/sula.html">&larr; sula</a> <high-lulani>(zl)</high-lulani> <em>molybdenum</em>
-<a href="../n/nasufi.html">&rarr; nasufi</a> <high-lulani>(nzF)</high-lulani> <em>ruthenium</em>
-<a href="../q/qumalli.html">&uarr; qumalli</a> <high-lulani>(Am;L)</high-lulani> <em>manganese</em>
-<a href="../h/hasuki.html">&darr; hasuki</a> <high-lulani>(hzK)</high-lulani> <em>rhenium</em>
+&larr; <a href="../s/sula.html">sula</a> <high-lulani>(zl)</high-lulani> <em>molybdenum</em>
+&rarr; <a href="../n/nasufi.html">nasufi</a> <high-lulani>(nzF)</high-lulani> <em>ruthenium</em>
+&uarr; <a href="../q/qumalli.html">qumalli</a> <high-lulani>(Am;L)</high-lulani> <em>manganese</em>
+&darr; <a href="../h/hasuki.html">hasuki</a> <high-lulani>(hzK)</high-lulani> <em>rhenium</em>
 [2]niga
 [3]High Lulani
 [4]<high-lulani>(Ng)</high-lulani>
 [5]<ipa>/&#x2c8;nig.&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">guide; protection</div>
 [7]Derived Phrase
-<strong><a href="../t/taku.html">nigataku</a> <a href="../k/kibba.html">kibba</a></strong> <high-lulani>(Ngt&gt; / K;b)</high-lulani> <em>cane</em>
+<strong><a href="../n/nigataku.html">nigataku</a> <a href="../k/kibba.html">kibba</a></strong> <high-lulani>(Ngt&gt; / K;b)</high-lulani> <em>cane</em>
 [2]nimalu
 [3]High Lulani
 [4]<high-lulani>(NmW)</high-lulani>
@@ -5306,22 +5389,21 @@ a wild forest animal
 [5]<ipa>/&#x2c8;nin.&#x259;/</ipa>
 [6]stem adposition <div class="definition">used for the purpose of</div>
 [7]Examples
-<strong><a href="../d/dasi.html">ninadasi</a><a href="../r/ru.html">ru</a></strong> <high-lulani>(NndSw)</high-lulani> <em>for eating</em>
+<strong><a href="../n/ninadasi.html">ninadasi</a><a href="../r/ru.html">ru</a></strong> <high-lulani>(NndSw)</high-lulani> <em>for eating</em>
 [2]niqqi
 [3]High Lulani
 [4]<high-lulani>(N;Q)</high-lulani>
 [5]<ipa>/n&#x268;&#x14b;.&#x14b;&#x268;/</ipa>
 [6]derivational suffix (noun &rarr; adverb) <div class="definition">derives an adverb from a noun</div>
 [7]Example
-<strong><a href="../b/bufi.html">bufiniqqi</a></strong> <high-lulani>(OFN;Q)</high-lulani> <em>stonily</em>
-<strong><a href="../a/'ahati.html">&rsquo;ahatiniqqi</a></strong> <high-lulani>(ahTN;Q)</high-lulani> <em>happily</em>
-<strong><a href="../i/'isili.html">&rsquo;isil<a href="../-aku.html">akuniqqi</a></strong> <high-lulani>(iSl&gt;N;Q)</high-lulani> <em>depressingly</em>
+<strong><a href="../b/bufiniqqi.html">bufiniqqi</a></strong> <high-lulani>(OFN;Q)</high-lulani> <em>stonily</em>
+<strong><a href="../a/'ahatiniqqi.html">&rsquo;ahatiniqqi</a></strong> <high-lulani>(ahTN;Q)</high-lulani> <em>happily</em>
+<strong><a href="../i/'isil{akuniqqi.html">&rsquo;isil{akuniqqi</a></strong> <high-lulani>(iSl&gt;N;Q)</high-lulani> <em>depressingly</em>
 [2]nifi
 [3]High Lulani
 [4]<high-lulani>(NF)</high-lulani>
 [5]<ipa>/&#x2c8;nif.&#x268;/</ipa>
 [6]stem adposition <div class="definition">next to; beside; besides</div>
-
 [2]nisa
 [3]High Lulani
 [4]<high-lulani>(Ns)</high-lulani>
@@ -5381,10 +5463,10 @@ a wild forest animal
 [5]<ipa>/&#x2c8;nud&#x2b1;.d&#x2b1;&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">caesium</div>
 [7]See Also
-<a href="../s/sahha.html">&larr; sahha</a> <high-lulani>(s;h)</high-lulani> <em>xenon</em>
-<a href="../b/baca.html">&rarr; baca</a> <high-lulani>(bc)</high-lulani> <em>barium</em>
-<a href="../s/sadadu.html">&uarr; sadadu</a> <high-lulani>(sdE)</high-lulani> <em>rubidium</em>
-<a href="../g/guqqa.html">&darr; guqqa</a> <high-lulani>(&lt;;q)</high-lulani> <em>francium</em>
+&larr; <a href="../s/sahha.html">sahha</a> <high-lulani>(s;h)</high-lulani> <em>xenon</em>
+&rarr; <a href="../b/baca.html">baca</a> <high-lulani>(bc)</high-lulani> <em>barium</em>
+&uarr; <a href="../s/sadadu.html">sadadu</a> <high-lulani>(sdE)</high-lulani> <em>rubidium</em>
+&darr; <a href="../g/guqqa.html">guqqa</a> <high-lulani>(&lt;;q)</high-lulani> <em>francium</em>
 [2]nuki
 [3]High Lulani
 [4]<high-lulani>(IK)</high-lulani>
@@ -5409,9 +5491,9 @@ a wild forest animal
 [5]<ipa>/&#x2c8;nu&#x28e;.&#x28e;&#x259;.s&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">dubnium</div>
 [7]See Also
-<a href="../f/famati.html">&larr; famati</a> <high-lulani>(fmT)</high-lulani> <em>rutherfordium</em>
-<a href="../s/saniki.html">&rarr; saniki</a> <high-lulani>(sNK)</high-lulani> <em>seaborgium</em>
-<a href="../h/hila.html">&uarr; hila</a> <high-lulani>(Hl)</high-lulani> <em>tantalum</em>
+&larr; <a href="../f/famati.html">famati</a> <high-lulani>(fmT)</high-lulani> <em>rutherfordium</em>
+&rarr; <a href="../s/saniki.html">saniki</a> <high-lulani>(sNK)</high-lulani> <em>seaborgium</em>
+&uarr; <a href="../h/hila.html">hila</a> <high-lulani>(Hl)</high-lulani> <em>tantalum</em>
 [2]nulli
 [3]High Lulani
 [4]<high-lulani>(I;L)</high-lulani>
@@ -5427,9 +5509,9 @@ a hill or mountain that does not have year-round snow upon it
 [5]<ipa>/n&#x289;.&#x2c8;lin.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">lawrencium</div>
 [7]See Also
-<a href="../q/qa''iku.html">&larr; qa&#x294;iku</a> <high-lulani>(q;i&gt;)</high-lulani> <em>nobelium</em>
-<a href="../f/famati.html">&rarr; famati</a> <high-lulani>(fmT)</high-lulani> <em>rutherfordium</em>
-<a href="../k/kixa.html">&uarr; kixa</a> <high-lulani>(Kx)</high-lulani> <em>lutetium</em>
+&larr; <a href="../q/qa''iku.html">qa&#x294;iku</a> <high-lulani>(q;i&gt;)</high-lulani> <em>nobelium</em>
+&rarr; <a href="../f/famati.html">famati</a> <high-lulani>(fmT)</high-lulani> <em>rutherfordium</em>
+&uarr; <a href="../k/kixa.html">kixa</a> <high-lulani>(Kx)</high-lulani> <em>lutetium</em>
 [2]nura
 [3]High Lulani
 [4]<high-lulani>(Ir)</high-lulani>
@@ -5456,9 +5538,9 @@ This is a dative verb for volitional separation, ablative for non-volitional sep
 [5]<ipa>/&#x2c8;nu&#x279;.&#x289;/</ipa>
 [6]stem mathematics cardinal <div class="definition">4; four</div>
 [7]See Also
-<a href="../k/kifi.html">&larr; kifi</a> <high-lulani>(KF)</high-lulani> <em>three</em>
-<a href="../g/guhi.html">&rarr; guhi</a><high-lulani>(&lt;H/)</high-lulani>  <em>five</em>
-<a href="../m/missu.html">&mdash; missu</a> <high-lulani>(M;z)</high-lulani> <em>rour</em>
+&larr; <a href="../k/kifi.html">kifi</a> <high-lulani>(KF)</high-lulani> <em>three</em>
+&rarr; <a href="../g/guhi.html">guhi</a><high-lulani>(&lt;H/)</high-lulani>  <em>five</em>
+&mdash; <a href="../m/missu.html">missu</a> <high-lulani>(M;z)</high-lulani> <em>rour</em>
 [2]nufira
 [3]High Lulani
 [4]<high-lulani>(IFr)</high-lulani>
@@ -5477,7 +5559,7 @@ Only used in first person
 [5]<ipa>/&#x2cc;nuf.&#x268;.&#x2c8;&#x279;ah.&#x268;/</ipa>
 [6]abstract derived noun <div class="definition">expectation</div>
 [7]Etymology
-<a href="../n/nufira.html">nufira</a> <high-lulani>(IFr)</high-lulani> <em>optative</em> + <a href="../-ahi.html">-ahi</a> <high-lulani>(aH)</high-lulani> </small-caps>nmn<small-caps>
+<a href="../n/nufira.html">nufira</a> <high-lulani>(IFr)</high-lulani> <em>optative</em> + <a href="../\/-ahi.html">-ahi</a> <high-lulani>(aH)</high-lulani> </small-caps>nmn<small-caps>
 [7]Notes
 refers to unreasonable expectations
 [2]nussa
@@ -5486,9 +5568,9 @@ refers to unreasonable expectations
 [5]<ipa>/&#x2c8;nus.s&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">vanadium</div>
 [7]See Also
-<a href="../k/ka'i.html">&larr; ka&rsquo;i</a> <high-lulani>(ki)</high-lulani> <em>titanium</em>
-<a href="../f/fada.html">&rarr; fada</a> <high-lulani>(fd)</high-lulani> <em>chromium</em>
-<a href="../l/lakka.html">&darr; lakka</a> <high-lulani>(l;k)</high-lulani> <em>niobium</em>
+&larr; <a href="../k/ka'i.html">ka&rsquo;i</a> <high-lulani>(ki)</high-lulani> <em>titanium</em>
+&rarr; <a href="../f/fada.html">fada</a> <high-lulani>(fd)</high-lulani> <em>chromium</em>
+&darr; <a href="../l/lakka.html">lakka</a> <high-lulani>(l;k)</high-lulani> <em>niobium</em>
 [2]nuhu
 [3]High Lulani
 [4]<high-lulani>(IV)</high-lulani>
@@ -5597,16 +5679,16 @@ state
 [5]<ipa>/&#x2c8;&#x14b;a&#x294;.j&#x268;.k&#x2b0;&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">nobelium</div>
 [7]See Also
-<a href="../l/laqura.html">&larr; laqura</a> <high-lulani>(lAr)</high-lulani> <em>mendelevium</em>
-<a href="../n/nulina.html">&rarr; nulina</a> <high-lulani>(ILn)</high-lulani> <em>lawrencium</em>
-<a href="../t/tukaga.html">&uarr; tukaga</a> <high-lulani>(ekg)</high-lulani> <em>ytterbium</em>
+&larr; <a href="../l/laqura.html">laqura</a> <high-lulani>(lAr)</high-lulani> <em>mendelevium</em>
+&rarr; <a href="../n/nulina.html">nulina</a> <high-lulani>(ILn)</high-lulani> <em>lawrencium</em>
+&uarr; <a href="../t/tukaga.html">tukaga</a> <high-lulani>(ekg)</high-lulani> <em>ytterbium</em>
 [2]qapi
 [3]High Lulani
 [4]<high-lulani>(qP)</high-lulani>
 [5]<ipa>/&#x2c8;&#x14b;ap&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun <div class="definition">chain; rope; string; collection</div>
 [7]Derived Terms
-<strong><a href="../m/musa.html">musaqapi</a></strong> <high-lulani>(UsqP)</high-lulani> <em>week</em>
+<strong><a href="../m/musaqapi.html">musaqapi</a></strong> <high-lulani>(UsqP)</high-lulani> <em>week</em>
 [7]Derived Phrases
 <strong>&#x294;umi ru xiku racaxa laru ru qapi.</strong>
 <high-lulani>(.uM / w / X&gt; / rcx / lw / w / qP.)</high-lulani>
@@ -5645,10 +5727,10 @@ Activity is the surest path to doing something.
 [5]<ipa>/&#x2c8;&#x14b;al.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">palladium</div>
 [7]See Also
-<a href="../f/fula.html">&larr; fula</a> <high-lulani>(vl)</high-lulani> <em>rhodium</em>
-<a href="../n/ni.html">&rarr; ni</a> <high-lulani>(N)</high-lulani> <em>silver</em>
-<a href="../t/tasa.html">&uarr; tasa</a> <high-lulani>(ts)</high-lulani> <em>nickel</em>
-<a href="../j/jala.html">&darr; jala</a> <high-lulani>(jl)</high-lulani> <em>platinum</em>
+&larr; <a href="../f/fula.html">fula</a> <high-lulani>(vl)</high-lulani> <em>rhodium</em>
+&rarr; <a href="../n/ni.html">ni</a> <high-lulani>(N)</high-lulani> <em>silver</em>
+&uarr; <a href="../t/tasa.html">tasa</a> <high-lulani>(ts)</high-lulani> <em>nickel</em>
+&darr; <a href="../j/jala.html">jala</a> <high-lulani>(jl)</high-lulani> <em>platinum</em>
 [2]qarri
 [3]High Lulani
 [4]<high-lulani>(q;R)</high-lulani>
@@ -5658,7 +5740,7 @@ Activity is the surest path to doing something.
 <strong>patient</strong> <em>subject</em>
 <strong>agent</strong> <em>ablative</em>
 [7]Examples
-<strong><a href="../l/labu.html">Qarrilabu</a></strong> <high-lulani>(q;RlO)</high-lulani> <em>Open!</em>
+<strong><a href="../q/qarrilabu.html">Qarrilabu</a></strong> <high-lulani>(q;RlO)</high-lulani> <em>Open!</em>
 [f]<strong>Suma qarripakka gorrisu.</strong>
 <high-lulani>(.zm / q;Rp;k / ;Rz.)</high-lulani>
 <small-caps>1tra</small-caps> <em>open-</em><small-caps>abp</small-caps> <em>door.</em>
@@ -5691,10 +5773,10 @@ Activity is the surest path to doing something.
 [5]<ipa>/&#x2c8;&#x14b;a&#x255;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">calcium</div>
 [7]See Also
-<a href="../d/dina.html">&larr; dina</a> <high-lulani>(Dn)</high-lulani> <em>potassium</em>
-<a href="../c/cakina.html">&rarr; cakina</a> <high-lulani>(cKn)</high-lulani> <em>scandium</em>
-<a href="../x/xaki.html">&uarr; xaki</a> <high-lulani>(xK)</high-lulani> <em>magnesium</em>
-<a href="../a/'aru'u.html">&darr; &rsquo;aru&rsquo;u</a> <high-lulani>(awu)</high-lulani> <em>strontium</em>
+&larr; <a href="../d/dina.html">dina</a> <high-lulani>(Dn)</high-lulani> <em>potassium</em>
+&rarr; <a href="../c/cakina.html">cakina</a> <high-lulani>(cKn)</high-lulani> <em>scandium</em>
+&uarr; <a href="../x/xaki.html">xaki</a> <high-lulani>(xK)</high-lulani> <em>magnesium</em>
+&darr; <a href="../a/'aru'u.html">&rsquo;aru&rsquo;u</a> <high-lulani>(awu)</high-lulani> <em>strontium</em>
 [2]qi
 [3]High Lulani
 [4]<high-lulani>(Q)</high-lulani>
@@ -5720,8 +5802,8 @@ Activity is the surest path to doing something.
 [5]<ipa>/&#x2c8;&#x14b;ik.k&#x259;/</ipa>
 [6]mathematics cardinal <div class="definition">0; zero</div>
 [7]See Also
-<a href="../m/mullu.html">&larr; mullu</a> <high-lulani>(U;W)</high-lulani> <em>ron</em>
-<a href="../x/xita.html">&rarr; xita</a> <high-lulani>(Xt)</high-lulani> <em>one</em>
+&larr; <a href="../m/mullu.html">mullu</a> <high-lulani>(U;W)</high-lulani> <em>ron</em>
+&rarr; <a href="../x/xita.html">xita</a> <high-lulani>(Xt)</high-lulani> <em>one</em>
 [2]qikanni
 [3]High Lulani
 [4]<high-lulani>(Qk;N)</high-lulani>
@@ -5841,9 +5923,9 @@ gnomic
 [5]<ipa>/&#x14b;&#x289;.&#x2c8;ma&#x28e;.&#x28e;&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">manganese</div>
 [7]See Also
-<a href="../f/fada.html">&larr; fada</a> <high-lulani>(fd)</high-lulani> <em>chromium</em>
-<a href="../a/'a.html">&rarr; &rsquo;a</a> <high-lulani>(a)</high-lulani> <em>iron</em>
-<a href="../n/nikili.html">&darr; nikili</a> <high-lulani>(NKL)</high-lulani> <em>technetium</em>
+&larr; <a href="../f/fada.html">fada</a> <high-lulani>(fd)</high-lulani> <em>chromium</em>
+&rarr; <a href="../a/'a.html">&rsquo;a</a> <high-lulani>(a)</high-lulani> <em>iron</em>
+&darr; <a href="../n/nikili.html">nikili</a> <high-lulani>(NKL)</high-lulani> <em>technetium</em>
 [2]qumini
 [3]High Lulani
 [4]<high-lulani>(AMN)</high-lulani>
@@ -5854,7 +5936,7 @@ woman
 [7]Usage Notes
 obscene
 [7]Etymology
-<strong><a href="../q/qumu.html">qumu</a></strong> <high-lulani>(AU)</high-lulani> <em>woman</em> + <strong><a href="../i/-ini.html">-ini</a></strong> <high-lulani>(iN)</high-lulani> <small-caps>dim</small-caps>
+<strong><a href="../q/qumu.html">qumu</a></strong> <high-lulani>(AU)</high-lulani> <em>woman</em> + <strong><a href="../\/-ini.html">-ini</a></strong> <high-lulani>(iN)</high-lulani> <small-caps>dim</small-caps>
 [2]qumu
 [3]High Lulani
 [4]<high-lulani>(AU)</high-lulani>
@@ -5874,10 +5956,10 @@ obscene
 [5]<ipa>/&#x2c8;&#x14b;uf.f&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">krypton</div>
 [7]See Also
-<a href="../b/bi.html">&larr; bi</a> <high-lulani>(B)</high-lulani> <em>bromine</em>
-<a href="../s/sadadu.html">&rarr; sadadu</a> <high-lulani>(sdE)</high-lulani> <em>rubidium</em>
-<a href="../l/laqa.html">&uarr; laqa</a> <high-lulani>(lq)</high-lulani> <em>argon</em>
-<a href="../s/sahha.html">&darr; sahha</a> <high-lulani>(s;h)</high-lulani> <em>xenon</em>
+&larr; <a href="../b/bi.html">bi</a> <high-lulani>(B)</high-lulani> <em>bromine</em>
+&rarr; <a href="../s/sadadu.html">sadadu</a> <high-lulani>(sdE)</high-lulani> <em>rubidium</em>
+&uarr; <a href="../l/laqa.html">laqa</a> <high-lulani>(lq)</high-lulani> <em>argon</em>
+&darr; <a href="../s/sahha.html">sahha</a> <high-lulani>(s;h)</high-lulani> <em>xenon</em>
 [2]quxi
 [3]High Lulani
 [4]<high-lulani>(AX)</high-lulani>
@@ -5944,8 +6026,8 @@ A snow-capped mountain or volcano
 &ldquo;I&rsquo;m telling the story.&rdquo;
 [6]inanimate stem noun element <div class="definition">hydrogen</div>
 [7]See Also
-<a href="../l/li'a.html">&rarr; li&rsquo;a</a> <high-lulani>(La)</high-lulani> <em>helium</em>
-<a href="../s/saxitalaru.html">saxita laru</a> <high-lulani>(sXt / lw)</high-lulani> <em>dihydrogen monoxide</em>
+&rarr; <a href="../l/li'a.html">li&rsquo;a</a> <high-lulani>(La)</high-lulani> <em>helium</em>
+<a href="../s/saxita laru.html">saxita laru</a> <high-lulani>(sXt / lw)</high-lulani> <em>dihydrogen monoxide</em>
 [2]la&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(la)</high-lulani>
@@ -5959,7 +6041,7 @@ A snow-capped mountain or volcano
 [5]<ipa>/&#x2c8;la&#x294;.&#x268;/</ipa>
 [6]derivational suffix (verb &rarr; noun) <div class="definition">derives an animate noun from an intransitive verb</div>
 [7]Examples
-<strong><a href="../n/nara.html">narala&rsquo;i</a></strong> <high-lulani>(nrli)</high-lulani> <em>sleeper</em>
+<strong><a href="../n/narala'i.html">narala&rsquo;i</a></strong> <high-lulani>(nrli)</high-lulani> <em>sleeper</em>
 [2]labu
 [3]High Lulani
 [4]<high-lulani>(lO)</high-lulani>
@@ -6021,10 +6103,10 @@ gnomic
 [5]<ipa>/&#x2c8;la&#x25f;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">tin</div>
 [7]See Also
-<a href="../l/luka.html">&larr; luka</a> <high-lulani>(Wk)</high-lulani> <em>indium</em>
-<a href="../s/salari.html">&rarr; salari</a> <high-lulani>(slR)</high-lulani> <em>antimony</em>
-<a href="../x/xuhhi.html">&uarr; xuhhi</a> <high-lulani>(Z;H)</high-lulani> <em>germanium</em>
-<a href="../m/musaqu.html">&darr; musaqu</a> <high-lulani>(UsA)</high-lulani> <em>lead</em>
+&larr; <a href="../l/luka.html">luka</a> <high-lulani>(Wk)</high-lulani> <em>indium</em>
+&rarr; <a href="../s/salari.html">salari</a> <high-lulani>(slR)</high-lulani> <em>antimony</em>
+&uarr; <a href="../x/xuhhi.html">xuhhi</a> <high-lulani>(Z;H)</high-lulani> <em>germanium</em>
+&darr; <a href="../m/musaqu.html">musaqu</a> <high-lulani>(UsA)</high-lulani> <em>lead</em>
 [2]lakka
 [3]High Lulani
 [4]<high-lulani>(l;k)</high-lulani>
@@ -6039,27 +6121,27 @@ gnomic
 &ldquo;It broke.&rdquo;
 [6]inanimate stem noun element <div class="definition">niobium</div>
 [7]See Also
-<a href="../p/pusu.html">&larr; pusu</a> <high-lulani>(oz)</high-lulani> <em>zirconium</em>
-<a href="../s/sula.html">&rarr; sula</a> <high-lulani>(zl)</high-lulani> <em>molybdenum</em>
-<a href="../n/nussa.html">&uarr; nussa</a> <high-lulani>(I;s)</high-lulani> <em>vanadium</em>
-<a href="../h/hila.html">&darr; hila</a> <high-lulani>(Hl)</high-lulani> <em>tantalum</em>
+&larr; <a href="../p/pusu.html">pusu</a> <high-lulani>(oz)</high-lulani> <em>zirconium</em>
+&rarr; <a href="../s/sula.html">sula</a> <high-lulani>(zl)</high-lulani> <em>molybdenum</em>
+&uarr; <a href="../n/nussa.html">nussa</a> <high-lulani>(I;s)</high-lulani> <em>vanadium</em>
+&darr; <a href="../h/hila.html">hila</a> <high-lulani>(Hl)</high-lulani> <em>tantalum</em>
 [2]lakatti
 [3]High Lulani
 [4]<high-lulani>(lk;T)</high-lulani>
 [5]<ipa>/l&#x259;.&#x2c8;k&#x2b0;at.t&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">protactinium</div>
 [7]See Also
-<a href="../p/paraba.html">&larr; paraba</a> <high-lulani>(prb)</high-lulani> <em>thorium</em>
-<a href="../k/kari.html">&rarr; kari</a> <high-lulani>(kR)</high-lulani> <em>uranium</em>
-<a href="../r/ra''asa.html">&uarr; ra&#x294;asa</a> <high-lulani>(r;as)</high-lulani> <em>praseodymium</em>
+&larr; <a href="../p/paraba.html">paraba</a> <high-lulani>(prb)</high-lulani> <em>thorium</em>
+&rarr; <a href="../k/kari.html">kari</a> <high-lulani>(kR)</high-lulani> <em>uranium</em>
+&uarr; <a href="../r/ra''asa.html">ra&#x294;asa</a> <high-lulani>(r;as)</high-lulani> <em>praseodymium</em>
 [2]lagi
 [3]High Lulani
 [4]<high-lulani>(lG)</high-lulani>
 [5]<ipa>/&#x2c8;lag.&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">scream; yell</div>
 [7]Derived Terms
-<strong><a href="../i/'i.html">&rsquo;ilagi</a></strong> <high-lulani>(ilG)</high-lulani> <em>to yell (words)</em>
-<strong><a href="../x/xu.html">xulagi</a></strong> <high-lulani>(ZlG)</high-lulani> <em>to scream (non-vocally)</em>
+<strong><a href="../i/'ilagi.html">&rsquo;ilagi</a></strong> <high-lulani>(ilG)</high-lulani> <em>to yell (words)</em>
+<strong><a href="../x/xulagi.html">xulagi</a></strong> <high-lulani>(ZlG)</high-lulani> <em>to scream (non-vocally)</em>
 [2]lannaga
 [3]High Lulani
 [4]<high-lulani>(l;ng)</high-lulani>
@@ -6074,17 +6156,17 @@ gnomic
 organ for digestion, located inside the body
 [7]See Also
 <a href="../i/'ixxa.html">&rsquo;ixxa</a> <high-lulani>(i;x)</high-lulani> <em>belly</em>
-<strong><a href="../d/dasi.html">dasikku</a></strong> <high-lulani>(dS;&gt;)</high-lulani> <em>digestive system</em>
+<strong><a href="../d/dasikku.html">dasikku</a></strong> <high-lulani>(dS;&gt;)</high-lulani> <em>digestive system</em>
 [2]laqa
 [3]High Lulani
 [4]<high-lulani>(lq)</high-lulani>
 [5]<ipa>/&#x2c8;la&#x14b;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">argon</div>
 [7]See Also
-<a href="../l/limma.html">&larr; limma</a> <high-lulani>(L;m)</high-lulani> <em>chlorine</em>
-<a href="../d/dina.html">&rarr; dina</a> <high-lulani>(Dn)</high-lulani> <em>potassium</em>
-<a href="../k/kuxalu.html">&uarr; kuxalu</a><high-lulani>(&gt;xW/)</high-lulani>  <em>neon</em>
-<a href="../q/quffi.html">&darr; quffi</a> <high-lulani>(A;F)</high-lulani> <em>krypton</em>
+&larr; <a href="../l/limma.html">limma</a> <high-lulani>(L;m)</high-lulani> <em>chlorine</em>
+&rarr; <a href="../d/dina.html">dina</a> <high-lulani>(Dn)</high-lulani> <em>potassium</em>
+&uarr; <a href="../k/kuxalu.html">kuxalu</a><high-lulani>(&gt;xW/)</high-lulani>  <em>neon</em>
+&darr; <a href="../q/quffi.html">quffi</a> <high-lulani>(A;F)</high-lulani> <em>krypton</em>
 [2]laqqu
 [3]High Lulani
 [4]<high-lulani>(l;A)</high-lulani>
@@ -6098,9 +6180,9 @@ organ for digestion, located inside the body
 [5]<ipa>/l&#x259;.&#x2c8;&#x14b;u&#x279;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">mendelevium</div>
 [7]See Also
-<a href="../t/tika.html">&larr; tika</a> <high-lulani>(Tk)</high-lulani> <em>fermium</em>
-<a href="../q/qa''iku.html">&rarr; qa&#x294;iku</a> <high-lulani>(q;i&gt;)</high-lulani> <em>nobelium</em>
-<a href="../r/raddilla.html">&uarr; raddilla</a> <high-lulani>(r;D;l)</high-lulani> <em>thulium</em>
+&larr; <a href="../t/tika.html">tika</a> <high-lulani>(Tk)</high-lulani> <em>fermium</em>
+&rarr; <a href="../q/qa''iku.html">qa&#x294;iku</a> <high-lulani>(q;i&gt;)</high-lulani> <em>nobelium</em>
+&uarr; <a href="../r/raddilla.html">raddilla</a> <high-lulani>(r;D;l)</high-lulani> <em>thulium</em>
 [2]lalu
 [3]High Lulani
 [4]<high-lulani>(lW)</high-lulani>
@@ -6159,9 +6241,9 @@ state
 [5]<ipa>/&#x2c8;laf.f&#x268;/</ipa>
 [6]mathematics <div class="definition">-5; <overline>5</overline>; rive; minus five</div>
 [7]See Also
-<a href="../j/jusiti.html">&uarr; jusiti</a> <high-lulani>(YST)</high-lulani> <em>rix</em>
-<a href="../m/missu.html">&rarr; missu</a> <high-lulani>(M;z)</high-lulani> <em>rour</em>
-<a href="../g/guhi.html">&mdash; guhi</a> <high-lulani>(&lt;H)</high-lulani> <em>five</em>
+&uarr; <a href="../j/jusiti.html">jusiti</a> <high-lulani>(YST)</high-lulani> <em>rix</em>
+&rarr; <a href="../m/missu.html">missu</a> <high-lulani>(M;z)</high-lulani> <em>rour</em>
+&mdash; <a href="../g/guhi.html">guhi</a> <high-lulani>(&lt;H)</high-lulani> <em>five</em>
 [2]lasakka
 [3]High Lulani
 [4]<high-lulani>(ls;k)</high-lulani>
@@ -6180,10 +6262,10 @@ state
 [5]<ipa>/&#x2c8;las.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">tellurium</div>
 [7]See Also
-<a href="../s/salari.html">&larr; salari</a> <high-lulani>(slR)</high-lulani> <em>antimony</em>
-<a href="../p/papa.html">&rarr; papa</a> <high-lulani>(pp)</high-lulani> <em>iodine</em>
-<a href="../m/matirra.html">&uarr; matirra</a> <high-lulani>(mT;r)</high-lulani> <em>selenium</em>
-<a href="../c/cakassu.html">&darr; cakassu</a> <high-lulani>(ck;z)</high-lulani> <em>polonium</em>
+&larr; <a href="../s/salari.html">salari</a> <high-lulani>(slR)</high-lulani> <em>antimony</em>
+&rarr; <a href="../p/papa.html">papa</a> <high-lulani>(pp)</high-lulani> <em>iodine</em>
+&uarr; <a href="../m/matirra.html">matirra</a> <high-lulani>(mT;r)</high-lulani> <em>selenium</em>
+&darr; <a href="../c/cakassu.html">cakassu</a> <high-lulani>(ck;z)</high-lulani> <em>polonium</em>
 [2]lahha
 [3]High Lulani
 [4]<high-lulani>(l;h)</high-lulani>
@@ -6212,9 +6294,9 @@ state
 [5]<ipa>/&#x2c8;li&#x294;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">helium</div>
 [7]See Also
-<a href="../l/la.html">&larr; la</a> <high-lulani>(l)</high-lulani> <em>hydrogen</em>
-<a href="../p/pini.html">&rarr; pini</a> <high-lulani>(PN)</high-lulani> <em>lithium</em>
-<a href="../k/kuxalu.html">&darr; kuxalu</a> <high-lulani>(&gt;xW)</high-lulani> <em>neon</em>
+&larr; <a href="../l/la.html">la</a> <high-lulani>(l)</high-lulani> <em>hydrogen</em>
+&rarr; <a href="../p/pini.html">pini</a> <high-lulani>(PN)</high-lulani> <em>lithium</em>
+&darr; <a href="../k/kuxalu.html">kuxalu</a> <high-lulani>(&gt;xW)</high-lulani> <em>neon</em>
 [2]lidita
 [3]High Lulani
 [4]<high-lulani>(LDt)</high-lulani>
@@ -6231,10 +6313,15 @@ state
 [5]<ipa>/&#x2c8;lim.m&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">chlorine</div>
 [7]See Also
-<a href="../t/ta.html">&larr; ta</a> <high-lulani>(t)</high-lulani> <em>sulphur</em>
-<a href="../l/laqa.html">&rarr; laqa</a> <high-lulani>(lq)</high-lulani> <em>argon</em>
-<a href="../c/ca'a.html">&uarr; ca&rsquo;a</a> <high-lulani>(ca)</high-lulani> <em>fluorine</em>
-<a href="../b/bi.html">&darr; bi</a> <high-lulani>(B)</high-lulani> <em>bromine</em>
+&larr; <a href="../t/ta.html">ta</a> <high-lulani>(t)</high-lulani> <em>sulphur</em>
+&rarr; <a href="../l/laqa.html">laqa</a> <high-lulani>(lq)</high-lulani> <em>argon</em>
+&uarr; <a href="../c/ca'a.html">ca&rsquo;a</a> <high-lulani>(ca)</high-lulani> <em>fluorine</em>
+&darr; <a href="../b/bi.html">bi</a> <high-lulani>(B)</high-lulani> <em>bromine</em>
+[2]linata
+[3]High Lulani
+[4]<high-lulani>(Lnt)</high-lulani>
+[5]<ipa>/l&#x268;.&#x2c8;nat&#x2b0;.!a/</ipa>
+[6]abstract stem noun <div class="definition">population; number of people</div>
 [2]linu
 [3]High Lulani
 [4]<high-lulani>(LI)</high-lulani>
@@ -6242,7 +6329,7 @@ state
 [6]inanimate stem noun <div class="definition">tree</div>
 [6]abstract stem noun <div class="definition">realisation</div>
 [7]Derived Terms
-<strong><a href="../p/pa.html">palinu</a></strong> <high-lulani>(pLI)</high-lulani> <em>to realise</em>
+<strong><a href="../p/palinu.html">palinu</a></strong> <high-lulani>(pLI)</high-lulani> <em>to realise</em>
 [2]liqa
 [3]High Lulani
 [4]<high-lulani>(Lq)</high-lulani>
@@ -6254,7 +6341,7 @@ state
 [5]<ipa>/&#x2c8;lil.&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">stairs</div>
 [7]Derived Terms
-<strong><a href="../l/lilu.html">liluxita</a></strong> <high-lulani>(LWXt)</high-lulani> <em>stair</em>
+<strong><a href="../l/liluxita.html">liluxita</a></strong> <high-lulani>(LWXt)</high-lulani> <em>stair</em>
 [2]liffa
 [3]High Lulani
 [4]<high-lulani>(L;f)</high-lulani>
@@ -6280,17 +6367,17 @@ a public speaking session
 [5]<ipa>/l&#x268;.&#x2c8;sin.&#x259;/</ipa>
 [6]stem adverb <div class="definition">by assumption</div>
 [7]Examples
-<strong><a href="../p/pa.html">palisina</a></strong> <high-lulani>(pLSn)</high-lulani> <em>to assume</em>
+<strong><a href="../p/palisina.html">palisina</a></strong> <high-lulani>(pLSn)</high-lulani> <em>to assume</em>
 [2]lisu
 [3]High Lulani
 [4]<high-lulani>(Lz)</high-lulani>
 [5]<ipa>/&#x2c8;lis.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">sodium</div>
 [7]See Also
-<a href="../k/kuxalu.html">&larr; kuxalu</a> <high-lulani>(&gt;xW)</high-lulani> <em>neon</em>
-<a href="../x/xaki.html">&rarr; xaki</a> <high-lulani>(xK)</high-lulani> <em>magnesium</em>
-<a href="../p/pini.html">&uarr; pini</a> <high-lulani>(PN)</high-lulani> <em>lithium</em>
-<a href="../d/dina.html">&darr; dina</a> <high-lulani>(Dn)</high-lulani> <em>potassium</em>
+&larr; <a href="../k/kuxalu.html">kuxalu</a> <high-lulani>(&gt;xW)</high-lulani> <em>neon</em>
+&rarr; <a href="../x/xaki.html">xaki</a> <high-lulani>(xK)</high-lulani> <em>magnesium</em>
+&uarr; <a href="../p/pini.html">pini</a> <high-lulani>(PN)</high-lulani> <em>lithium</em>
+&darr; <a href="../d/dina.html">dina</a> <high-lulani>(Dn)</high-lulani> <em>potassium</em>
 [2]lu&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(Wi)</high-lulani>
@@ -6337,10 +6424,10 @@ a public speaking session
 [5]<ipa>/&#x2c8;luk&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">indium</div>
 [7]See Also
-<a href="../k/kaca.html">&larr; kaca</a> <high-lulani>(kc)</high-lulani> <em>cadmium</em>
-<a href="../l/laji.html">&rarr; laji</a><high-lulani>(lJ/)</high-lulani>  <em>tin</em>
-<a href="../a/'ali.html">&uarr; &rsquo;ali</a><high-lulani>(aL/)</high-lulani>  <em>gallium</em>
-<a href="../s/silla.html">&darr; silla</a> <high-lulani>(S;l)</high-lulani> <em>thallium</em>
+&larr; <a href="../k/kaca.html">kaca</a> <high-lulani>(kc)</high-lulani> <em>cadmium</em>
+&rarr; <a href="../l/laji.html">laji</a><high-lulani>(lJ/)</high-lulani>  <em>tin</em>
+&uarr; <a href="../a/'ali.html">&rsquo;ali</a><high-lulani>(aL/)</high-lulani>  <em>gallium</em>
+&darr; <a href="../s/silla.html">silla</a> <high-lulani>(S;l)</high-lulani> <em>thallium</em>
 [2]lukku
 [3]High Lulani
 [4]<high-lulani>(W;&gt;)</high-lulani>
@@ -6398,14 +6485,14 @@ Words dealing with twins are usually dictionary words, anything with greater are
 [5]<ipa>/&#x279;&#x259;/</ipa>
 [6]derivational mathematics suffix (noun) <div class="definition">denotes a pair of something</div>
 [7]Examples
-<strong><a href="../l/luffu.html">luffura</a></strong> <em>eyes</em>
-<strong><a href="../i/'itikku.html">&rsquo;itikkura</a></strong> <em>breasts</em>
+<strong><a href="../l/luffura.html">luffura</a></strong> <em>eyes</em>
+<strong><a href="../i/'itikkura.html">&rsquo;itikkura</a></strong> <em>breasts</em>
 [5]<ipa>/&#x279;a&#x2d0;/</ipa>
 [6]stem mathematics cardinal <div class="definition">2; two</div>
 [7]See Also
-<a href="../x/xita.html">&larr; xita</a> <high-lulani>(Xt)</high-lulani> <em>one</em>
-<a href="../k/kifi.html">&rarr; kifi</a> <high-lulani>(KF)</high-lulani> <em>three</em>
-<a href="../k/kirallu.html">&mdash; kirallu</a> <high-lulani>(Kr;W)</high-lulani> <em>rwo</em>
+&larr; <a href="../x/xita.html">xita</a> <high-lulani>(Xt)</high-lulani> <em>one</em>
+&rarr; <a href="../k/kifi.html">kifi</a> <high-lulani>(KF)</high-lulani> <em>three</em>
+&mdash; <a href="../k/kirallu.html">kirallu</a> <high-lulani>(Kr;W)</high-lulani> <em>rwo</em>
 [6]inanimate stem noun <div class="definition">metal</div>
 [2]ra&#x294;asa
 [3]High Lulani
@@ -6413,9 +6500,9 @@ Words dealing with twins are usually dictionary words, anything with greater are
 [5]<ipa>/&#x2c8;&#x279;a&#x294;.j&#x259;.sa/</ipa>
 [6]inanimate stem noun element <div class="definition">praseodymium</div>
 [7]See Also
-<strong><a href="../a/'a'ami.html">&larr; &rsquo;a&rsquo;ami</a></strong> <high-lulani>(aaM)</high-lulani> <em>cerium</em>
-<a href="../f/fibaku.html">&rarr; fibaku</a> <high-lulani>(Fb&gt;)</high-lulani> <em>neodymium</em>
-<a href="../l/lakatti.html">&darr; lakatti</a> <high-lulani>(lk;T)</high-lulani> <em>protactinium</em>
+<strong>&larr; <a href="../a/'a'ami.html">&rsquo;a&rsquo;ami</a></strong> <high-lulani>(aaM)</high-lulani> <em>cerium</em>
+&rarr; <a href="../f/fibaku.html">fibaku</a> <high-lulani>(Fb&gt;)</high-lulani> <em>neodymium</em>
+&darr; <a href="../l/lakatti.html">lakatti</a> <high-lulani>(lk;T)</high-lulani> <em>protactinium</em>
 [2]ra&rsquo;u
 [3]High Lulani
 [4]<high-lulani>(ru)</high-lulani>
@@ -6456,18 +6543,18 @@ gnomic
 [5]<ipa>/&#x279;&#x259;.&#x2c8;bac.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">nihonium</div>
 [7]See Also
-<a href="../h/hatanu.html">&larr; hatanu</a> <high-lulani>(htI)</high-lulani> <em>copernicium</em>
-<a href="../x/xa'a.html">&rarr; xa&rsquo;a</a> <high-lulani>(xa)</high-lulani> <em>flerovium</em>
-<a href="../s/silla.html">&uarr; silla</a> <high-lulani>(S;l)</high-lulani> <em>thallium</em>
+&larr; <a href="../h/hatanu.html">hatanu</a> <high-lulani>(htI)</high-lulani> <em>copernicium</em>
+&rarr; <a href="../x/xa'a.html">xa&rsquo;a</a> <high-lulani>(xa)</high-lulani> <em>flerovium</em>
+&uarr; <a href="../s/silla.html">silla</a> <high-lulani>(S;l)</high-lulani> <em>thallium</em>
 [2]raddilla
 [3]High Lulani
 [4]<high-lulani>(r;D;l)</high-lulani>
 [5]<ipa>/&#x279;&#x259;d&#x2b1;.&#x2c8;d&#x2b1;i&#x28e;.&#x28e;&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">thulium</div>
 [7]See Also
-<a href="../c/calluna.html">&larr; calluna</a> <high-lulani>(c;Wn)</high-lulani> <em>erbium</em>
-<a href="../t/tukaga.html">&rarr; tukaga</a> <high-lulani>(ekg)</high-lulani> <em>ytterbium</em>
-<a href="../l/laqura.html">&darr; laqura</a> <high-lulani>(lAr)</high-lulani> <em>mendelevium</em>
+&larr; <a href="../c/calluna.html">calluna</a> <high-lulani>(c;Wn)</high-lulani> <em>erbium</em>
+&rarr; <a href="../t/tukaga.html">tukaga</a> <high-lulani>(ekg)</high-lulani> <em>ytterbium</em>
+&darr; <a href="../l/laqura.html">laqura</a> <high-lulani>(lAr)</high-lulani> <em>mendelevium</em>
 [2]raca
 [3]High Lulani
 [4]<high-lulani>(rc)</high-lulani>
@@ -6488,14 +6575,14 @@ gnomic
 [5]<ipa>/&#x2c8;&#x279;an.&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">potato</div>
 [7]Derived Terms
-<strong><a href="../r/rana.html">ranini</a></strong> <high-lulani>(rNN)</high-lulani> <em>chips</em>
+<strong><a href="../r/ranini.html">ranini</a></strong> <high-lulani>(rNN)</high-lulani> <em>chips</em>
 [2]ranna
 [3]High Lulani
 [4]<high-lulani>(r;n)</high-lulani>
 [5]<ipa>/&#x2c8;&#x279;a&#x272;.&#x272;&#x259;/</ipa>
 [6]stem noun <div class="definition">specialness; exaltedness; glory</div>
 [7]Derived Terms
-<strong><a href="../x/xu.html">xuranna</a></strong> <high-lulani>(Zr;n)</high-lulani> <em>to be exalted</em>
+<strong><a href="../x/xuranna.html">xuranna</a></strong> <high-lulani>(Zr;n)</high-lulani> <em>to be exalted</em>
 [2]ranira
 [3]High Lulani
 [4]<high-lulani>(rNr)</high-lulani>
@@ -6578,18 +6665,18 @@ the posterior side of the body
 [5]<ipa>/&#x2c8;ril.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">terbium</div>
 [7]See Also
-<a href="../t/tacala.html">&larr; tacala</a> <high-lulani>(tcl)</high-lulani> <em>gadolinium</em>
-<a href="../b/bumissi.html">&rarr; bumissi</a> <high-lulani>(OM;S)</high-lulani> <em>dysprosium</em>
-<a href="../s/saxxuru.html">&darr; saxxuru</a> <high-lulani>(s;Zw)</high-lulani> <em>berkelium</em>
+&larr; <a href="../t/tacala.html">tacala</a> <high-lulani>(tcl)</high-lulani> <em>gadolinium</em>
+&rarr; <a href="../b/bumissi.html">bumissi</a> <high-lulani>(OM;S)</high-lulani> <em>dysprosium</em>
+&darr; <a href="../s/saxxuru.html">saxxuru</a> <high-lulani>(s;Zw)</high-lulani> <em>berkelium</em>
 [2]rili
 [3]High Lulani
 [4]<high-lulani>(RL)</high-lulani>
 [5]<ipa>/&#x2c8;&#x279;il.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">moscovium</div>
 [7]See Also
-<a href="../x/xa'a.html">&larr; xa&rsquo;a</a> <high-lulani>(xa)</high-lulani> <em>flerovium</em>
-<a href="../s/suda.html">&rarr; suda</a> <high-lulani>(zd)</high-lulani> <em>livermorium</em>
-<a href="../a/'aggini.html">&uarr; &rsquo;aggini</a> <high-lulani>(a;GN)</high-lulani> <em>bismuth</em>
+&larr; <a href="../x/xa'a.html">xa&rsquo;a</a> <high-lulani>(xa)</high-lulani> <em>flerovium</em>
+&rarr; <a href="../s/suda.html">suda</a> <high-lulani>(zd)</high-lulani> <em>livermorium</em>
+&uarr; <a href="../a/'aggini.html">&rsquo;aggini</a> <high-lulani>(a;GN)</high-lulani> <em>bismuth</em>
 [2]risu
 [3]High Lulani
 [4]<high-lulani>(Rz)</high-lulani>
@@ -6604,7 +6691,7 @@ the posterior side of the body
 <strong>Sa&rsquo;imiru dattusa</strong> <em>goddess named Caemi</em>
 [6]derivational suffix (verb &rarr; noun) <div class="definition">derives a gerund from a verb</div>
 [7]Example
-<strong><a href="../d/dasi.html">dasiru</a></strong> <high-lulani>(dSw)</high-lulani> <em>eating</em>
+<strong><a href="../d/dasiru.html">dasiru</a></strong> <high-lulani>(dSw)</high-lulani> <em>eating</em>
 <strong>&rsquo;itiqa dasiru</strong> <high-lulani>(iTq / dSw)</high-lulani> <em>drinking milk</em>
 [5]<ipa>/&#x279;u/</ipa>
 [6]stem auxiliary <div class="definition">present gnomic</div>
@@ -6771,9 +6858,9 @@ gnomic
 [5]<ipa>/&#x2c8;fad.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">chromium</div>
 [7]See Also
-<a href="../n/nussa.html">&larr; nussa</a> <high-lulani>(I;s)</high-lulani> <em>vanadium</em>
-<a href="../q/qumalli.html">&rarr; qumalli</a><high-lulani>(Am;L/)</high-lulani>  <em>manganese</em>
-<a href="../s/sula.html">&darr; sula</a> <high-lulani>(zl)</high-lulani> <em>molybdenum</em>
+&larr; <a href="../n/nussa.html">nussa</a> <high-lulani>(I;s)</high-lulani> <em>vanadium</em>
+&rarr; <a href="../q/qumalli.html">qumalli</a><high-lulani>(Am;L/)</high-lulani>  <em>manganese</em>
+&darr; <a href="../s/sula.html">sula</a> <high-lulani>(zl)</high-lulani> <em>molybdenum</em>
 [2]fajuli
 [3]High Lulani
 [4]<high-lulani>(fYL)</high-lulani>
@@ -6785,9 +6872,9 @@ gnomic
 [5]<ipa>/f&#x259;.&#x2c8;mat&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">rutherfordium</div>
 [7]See Also
-<a href="../n/nulina.html">&larr; nulina</a> <high-lulani>(ILn)</high-lulani> <em>lawrencium</em>
-<a href="../n/nullasu.html">&rarr; nullasu</a> <high-lulani>(I;lz)</high-lulani> <em>dubnium</em>
-<a href="../t/tacuca.html">&uarr; tacuca</a> <high-lulani>(tyc)</high-lulani> <em>hafnium</em>
+&larr; <a href="../n/nulina.html">nulina</a> <high-lulani>(ILn)</high-lulani> <em>lawrencium</em>
+&rarr; <a href="../n/nullasu.html">nullasu</a> <high-lulani>(I;lz)</high-lulani> <em>dubnium</em>
+&uarr; <a href="../t/tacuca.html">tacuca</a> <high-lulani>(tyc)</high-lulani> <em>hafnium</em>
 [2]famu
 [3]High Lulani
 [4]<high-lulani>(fU)</high-lulani>
@@ -6860,9 +6947,9 @@ state
 [5]<ipa>/&#x2c8;far.r&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">curium</div>
 [7]See Also
-<a href="../d/dihiqa.html">&larr; dihiqa</a> <high-lulani>(DHq)</high-lulani> <em>americium</em>
-<a href="../s/saxxuru.html">&rarr; saxxuru</a> <high-lulani>(s;Zw)</high-lulani> <em>berkelium</em>
-<a href="../t/tacala.html">&uarr; tacala</a> <high-lulani>(tcl)</high-lulani> <em>gadolinium</em>
+&larr; <a href="../d/dihiqa.html">dihiqa</a> <high-lulani>(DHq)</high-lulani> <em>americium</em>
+&rarr; <a href="../s/saxxuru.html">saxxuru</a> <high-lulani>(s;Zw)</high-lulani> <em>berkelium</em>
+&uarr; <a href="../t/tacala.html">tacala</a> <high-lulani>(tcl)</high-lulani> <em>gadolinium</em>
 [2]fasa
 [3]High Lulani
 [4]<high-lulani>(fs)</high-lulani>
@@ -6874,10 +6961,10 @@ state
 [5]<ipa>/f&#x259;.&#x2c8;sam.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">radon</div>
 [7]See Also
-<a href="../s/sicu.html">&larr; sicu</a> <high-lulani>(Sy)</high-lulani> <em>astatine</em>
-<a href="../g/guqqa.html">&rarr; guqqa</a> <high-lulani>(&lt;;q)</high-lulani> <em>francium</em>
-<a href="../s/sahha.html">&uarr; sahha</a> <high-lulani>(s;h)</high-lulani> <em>xenon</em>
-<a href="../i/'ittika.html">&darr; &rsquo;ittika</a> <high-lulani>(i;Tk)</high-lulani> <em>oganesson</em>
+&larr; <a href="../s/sicu.html">sicu</a> <high-lulani>(Sy)</high-lulani> <em>astatine</em>
+&rarr; <a href="../g/guqqa.html">guqqa</a> <high-lulani>(&lt;;q)</high-lulani> <em>francium</em>
+&uarr; <a href="../s/sahha.html">sahha</a> <high-lulani>(s;h)</high-lulani> <em>xenon</em>
+&darr; <a href="../i/'ittika.html">&rsquo;ittika</a> <high-lulani>(i;Tk)</high-lulani> <em>oganesson</em>
 [2]faxi
 [3]High Lulani
 [4]<high-lulani>(fX)</high-lulani>
@@ -6897,10 +6984,10 @@ state
 [5]<ipa>/fi&#x2d0;/</ipa>
 [6]inanimate stem noun element <div class="definition">gold</div>
 [7]See Also
-<a href="../j/jala.html">&larr; jala</a> <high-lulani>(jl)</high-lulani> <em>platinum</em>
-<a href="../u/'usa.html">&rarr; &rsquo;usa</a> <high-lulani>(us)</high-lulani> <em>mercury</em>
-<a href="../n/ni.html">&uarr; ni</a> <high-lulani>(N)</high-lulani> <em>silver</em>
-<a href="../s/su'usi.html">&darr; su&rsquo;usi</a> <high-lulani>(zuS)</high-lulani> <em>roentgenium</em>
+&larr; <a href="../j/jala.html">jala</a> <high-lulani>(jl)</high-lulani> <em>platinum</em>
+&rarr; <a href="../u/'usa.html">&rsquo;usa</a> <high-lulani>(us)</high-lulani> <em>mercury</em>
+&uarr; <a href="../n/ni.html">ni</a> <high-lulani>(N)</high-lulani> <em>silver</em>
+&darr; <a href="../s/su'usi.html">su&rsquo;usi</a> <high-lulani>(zuS)</high-lulani> <em>roentgenium</em>
 [2]-fi
 [3]High Lulani
 [4]<high-lulani>(F)</high-lulani>
@@ -6908,8 +6995,8 @@ state
 [6]stem suffix (noun &rarr; noun) <div class="definition">honoured; exalted; sacred</div>
 [7]Examples
 <a href="../k/karafi.html">karafi</a> <high-lulani>(krF)</high-lulani> <em>enlightenment</em>
-<strong><a href="../l/lulani.html">lulanifi</a></strong> <high-lulani>(WlNF)</high-lulani> <em>honoured queen</em>
-<strong><a href="../f/fa''a.html">fa&#x294;afi</a></strong> <high-lulani>(f;aF)</high-lulani> <em>sacred language</em>
+<strong><a href="../l/lulanifi.html">lulanifi</a></strong> <high-lulani>(WlNF)</high-lulani> <em>honoured queen</em>
+<strong><a href="../f/fa''afi.html">fa&#x294;afi</a></strong> <high-lulani>(f;aF)</high-lulani> <em>sacred language</em>
 [2]-ffi
 [3]High Lulani
 [4]<high-lulani>(;F)</high-lulani>
@@ -6917,7 +7004,7 @@ state
 [6]stem derivational suffix (verb &rarr; noun) <div class="definition">instrument; tool</div>
 [7]Example
 <a href="../s/sikuffi.html">sikuffi</a> <high-lulani>(S&gt;;F)</high-lulani> <em>spear</em>
-<a href="../d/dasi.html">dasiffi</a> <high-lulani>(dS;F)</high-lulani> <em>cutlery</em>
+<a href="../d/dasiffi.html">dasiffi</a> <high-lulani>(dS;F)</high-lulani> <em>cutlery</em>
 [2]fi&rsquo;atu
 [3]High Lulani
 [4]<high-lulani>(Fae)</high-lulani>
@@ -6929,18 +7016,18 @@ state
 [5]<ipa>/f&#x268;.&#x2c8;bak&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">neodymium</div>
 [7]See Also
-<a href="../r/ra''asa.html">&larr; ra&#x294;asa</a> <high-lulani>(r;as)</high-lulani> <em>praseodymium</em>
-<a href="../u/'uccadama.html">&rarr; &rsquo;uccadama</a> <high-lulani>(u;cdm)</high-lulani> <em>promethium</em>
-<a href="../k/kari.html">&darr; kari</a> <high-lulani>(kR)</high-lulani> <em>uranium</em>
+&larr; <a href="../r/ra''asa.html">ra&#x294;asa</a> <high-lulani>(r;as)</high-lulani> <em>praseodymium</em>
+&rarr; <a href="../u/'uccadama.html">&rsquo;uccadama</a> <high-lulani>(u;cdm)</high-lulani> <em>promethium</em>
+&darr; <a href="../k/kari.html">kari</a> <high-lulani>(kR)</high-lulani> <em>uranium</em>
 [2]fiqqala
 [3]High Lulani
 [4]<high-lulani>(F;ql)</high-lulani>
 [5]<ipa>/&#x2c8;fi&#x14b;.&#x14b;&#x259;.l&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">beryllium</div>
 [7]See Also
-<a href="../p/pini.html">&larr; pini</a> <high-lulani>(PN)</high-lulani> <em>lithium</em>
-<a href="../k/kuxxu.html">&rarr; kuxxu</a> <high-lulani>(&gt;;Z)</high-lulani> <em>boron</em>
-<a href="../x/xaki.html">&darr; xaki</a> <high-lulani>(xK)</high-lulani> <em>magnesium</em>
+&larr; <a href="../p/pini.html">pini</a> <high-lulani>(PN)</high-lulani> <em>lithium</em>
+&rarr; <a href="../k/kuxxu.html">kuxxu</a> <high-lulani>(&gt;;Z)</high-lulani> <em>boron</em>
+&darr; <a href="../x/xaki.html">xaki</a> <high-lulani>(xK)</high-lulani> <em>magnesium</em>
 [2]fiqu
 [3]High Lulani
 [4]<high-lulani>(FA)</high-lulani>
@@ -6955,7 +7042,7 @@ state
 <small-caps>1int</small-caps> <em>on-river float.</em>
 &ldquo;I floated on the river.&rdquo;
 [7]Derived Terms
-<a href="../n/nara.html">narafiqu</a> <high-lulani>(nrFA)</high-lulani> <em>drift to sleep</em>
+<a href="../n/narafiqu.html">narafiqu</a> <high-lulani>(nrFA)</high-lulani> <em>drift to sleep</em>
 [2]filli
 [3]High Lulani
 [4]<high-lulani>(F;L)</high-lulani>
@@ -7082,16 +7169,25 @@ gnomic
 [5]<ipa>/&#x2c8;ful.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">rhodium</div>
 [7]See Also
-<a href="../n/nasufi.html">&larr; nasufi</a> <high-lulani>(nzF)</high-lulani> <em>ruthenium</em>
-<a href="../q/qala.html">&rarr; qala</a> <high-lulani>(ql)</high-lulani> <em>palladium</em>
-<a href="../g/gaxiki.html">&uarr; gaxiki</a> <high-lulani>(gXK)</high-lulani> <em>cobalt</em>
-<a href="../n/natu.html">&darr; natu</a> <high-lulani>(ne)</high-lulani> <em>iridium</em>
+&larr; <a href="../n/nasufi.html">nasufi</a> <high-lulani>(nzF)</high-lulani> <em>ruthenium</em>
+&rarr; <a href="../q/qala.html">qala</a> <high-lulani>(ql)</high-lulani> <em>palladium</em>
+&uarr; <a href="../g/gaxiki.html">gaxiki</a> <high-lulani>(gXK)</high-lulani> <em>cobalt</em>
+&darr; <a href="../n/natu.html">natu</a> <high-lulani>(ne)</high-lulani> <em>iridium</em>
 [2]fuhha
 [3]High Lulani
 [4]<high-lulani>(v;h)</high-lulani>
 [5]<ipa>/&#x2c8;fu&ccedil;.&ccedil;&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">decision</div>
 [1]S
+[2]soul
+[3]English
+[4]
+[5]<ipa>/s&#x254;&#x28a;l/</ipa>
+[6]inanimate stem noun <div class="definition">heart</div>
+[7]Definition
+the spiritual body; the emergent property of the heart; the part of a personality that loves
+[7]Translation
+<a href="../l/lu'iki.html">lu&rsquo;iki</a> <high-lulani>(WiK)</high-lulani> <em>soul</em>
 [2]sa
 [3]High Lulani
 [4]<high-lulani>(s)</high-lulani>
@@ -7099,17 +7195,17 @@ gnomic
 [6]mathematics stem cardinal prefix <div class="definition">one</div>
 [6]derivational suffix (noun: abstract &rarr; animate) <div class="definition">derives an animate noun from an abstract noun</div>
 [7]Examples
-<strong><a href="../p/puca.html">pucasa</a></strong> <em>optimist</em>
-<strong><a href="../s/sa.html">sasa</a></strong> <em>introvert</em>
+<strong><a href="../p/pucasa.html">pucasa</a></strong> <em>optimist</em>
+<strong><a href="../s/sasa.html">sasa</a></strong> <em>introvert</em>
 [5]<ipa>/sa&#x2d0;/</ipa>
 [6]abstract stem noun <div class="definition">being alone; aloneness</div>
 [6]inanimate stem noun element <div class="definition">oxygen</div>
 [7]Derived Terms
-<strong><a href="../x/xita.html">saxita</a> <a href="../l/lara.html">lara</a></strong> <high-lulani>(sXt / lr)</high-lulani> <em>water</em>
+<strong><a href="../s/saxita.html">saxita</a> <a href="../l/lara.html">lara</a></strong> <high-lulani>(sXt / lr)</high-lulani> <em>water</em>
 [7]See Also
-<a href="../x/xu.html">&larr; xu</a> <high-lulani>(Z)</high-lulani> <em>carbon</em>
-<a href="../c/ca'a.html">&rarr; ca&rsquo;a</a> <high-lulani>(ca)</high-lulani> <em>fluorine</em>
-<a href="../t/ta.html">&darr; ta</a> <high-lulani>(t)</high-lulani> <em>sulphur</em>
+&larr; <a href="../x/xu.html">xu</a> <high-lulani>(Z)</high-lulani> <em>carbon</em>
+&rarr; <a href="../c/ca'a.html">ca&rsquo;a</a> <high-lulani>(ca)</high-lulani> <em>fluorine</em>
+&darr; <a href="../t/ta.html">ta</a> <high-lulani>(t)</high-lulani> <em>sulphur</em>
 [6]intransitive stem verb <div class="definition">to be yellow; to turn yellow</div>
 [7]Thematic Relations
 <strong>patient</strong> <em>subject</em>
@@ -7184,7 +7280,7 @@ in order to obtain or acquire
 <small-caps>1int pst;dyn</small-caps> <em>for-three money buy paper-collection.</em>
 &ldquo;I bought a book for $3.&rdquo;
 [7]Derived Terms
-<strong><a href="../s/sama.html">satasama</a></strong> <high-lulani>(stsm)</high-lulani> <em>how much</em>
+<strong><a href="../s/satasama.html">satasama</a></strong> <high-lulani>(stsm)</high-lulani> <em>how much</em>
 [2]satta
 [3]High Lulani
 [4]<high-lulani>(s;t)</high-lulani>
@@ -7233,17 +7329,17 @@ state
 [5]<ipa>/s&#x259;.&#x2c8;t&#x2b0;ad.&#x289;/</ipa>
 [6]abstract stem noun <div class="definition">conversation</div>
 [7]Derived Terms
-<strong><a href="../j/ju'i.html">ju&rsquo;isatadu</a></strong> <high-lulani>(YistE)</high-lulani> <em>meet</em>
+<strong><a href="../j/ju'isatadu.html">ju&rsquo;isatadu</a></strong> <high-lulani>(YistE)</high-lulani> <em>meet</em>
 [2]sadadu
 [3]High Lulani
 [4]<high-lulani>(sdE)</high-lulani>
 [5]<ipa>/s&#x259;.&#x2c8;dad.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">rubidium</div>
 [7]See Also
-<a href="../q/quffi.html">&larr; quffi</a> <high-lulani>(A;F)</high-lulani> <em>krypton</em>
-<a href="../a/'aru'u.html">&rarr; &rsquo;aru&rsquo;u</a> <high-lulani>(awu)</high-lulani> <em>strontium</em>
-<a href="../d/dina.html">&uarr; dina</a> <high-lulani>(Dn)</high-lulani> <em>potassium</em>
-<a href="../n/nudda.html">&darr; nudda</a> <high-lulani>(I;d)</high-lulani> <em>caesium</em>
+&larr; <a href="../q/quffi.html">quffi</a> <high-lulani>(A;F)</high-lulani> <em>krypton</em>
+&rarr; <a href="../a/'aru'u.html">&rsquo;aru&rsquo;u</a> <high-lulani>(awu)</high-lulani> <em>strontium</em>
+&uarr; <a href="../d/dina.html">dina</a> <high-lulani>(Dn)</high-lulani> <em>potassium</em>
+&darr; <a href="../n/nudda.html">nudda</a> <high-lulani>(I;d)</high-lulani> <em>caesium</em>
 [2]sacu
 [3]High Lulani
 [4]<high-lulani>(sy)</high-lulani>
@@ -7318,7 +7414,7 @@ state
 <small-caps>1tra</small-caps> <em>from-</em><small-caps>3ina;int</small-caps> <em>share</em> <small-caps>2int.</small-caps>
 &ldquo;I shared it with you.&rdquo;
 [7]Derived Terms
-<strong><a href="../m/mica.html">sakimica</a></strong> <high-lulani>(sKMc)</high-lulani> <em>to give permission</em>
+<strong><a href="../s/sakimica.html">sakimica</a></strong> <high-lulani>(sKMc)</high-lulani> <em>to give permission</em>
 [6]stem mathematics <div class="definition">1. divided by</div>
 [7]Example
 <strong>Saqikka saki kifi &rsquo;anu guhi.</strong>
@@ -7390,8 +7486,8 @@ state
 [5]<ipa>/&#x2c8;sam.m&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">unconditional love</div>
 [7]Derived Terms
-<strong><a href="../l/lu'i.html">lu&rsquo;isamma</a></strong> <high-lulani>(Wis;m)</high-lulani> <em>to love unconditionally</em>
-<strong><a href="../d/dissu.html">dissusamma</a></strong> <high-lulani>(D;zs;m)</high-lulani> <em>to feel unconditional love</em>
+<strong><a href="../l/lu'isamma.html">lu&rsquo;isamma</a></strong> <high-lulani>(Wis;m)</high-lulani> <em>to love unconditionally</em>
+<strong><a href="../d/dissusamma.html">dissusamma</a></strong> <high-lulani>(D;zs;m)</high-lulani> <em>to feel unconditional love</em>
 [2]sanna
 [3]High Lulani
 [4]<high-lulani>(s;n)</high-lulani>
@@ -7421,9 +7517,9 @@ jealousy one feels when one&rsquo;s lover loves another
 [5]<ipa>/s&#x259;.&#x2c8;nik&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">seaborgium</div>
 [7]See Also
-<a href="../n/nullasu.html">&larr; nullasu</a> <high-lulani>(I;lz)</high-lulani> <em>dubnium</em>
-<a href="../c/cabahi.html">&rarr; cabahi</a> <high-lulani>(cbH)</high-lulani> <em>bohrium</em>
-<a href="../m/mina''i.html">&uarr; mina&#x294;i</a> <high-lulani>(Mn;i)</high-lulani> <em>tungsten</em>
+&larr; <a href="../n/nullasu.html">nullasu</a> <high-lulani>(I;lz)</high-lulani> <em>dubnium</em>
+&rarr; <a href="../c/cabahi.html">cabahi</a> <high-lulani>(cbH)</high-lulani> <em>bohrium</em>
+&uarr; <a href="../m/mina''i.html">mina&#x294;i</a> <high-lulani>(Mn;i)</high-lulani> <em>tungsten</em>
 [2]saqa
 [3]High Lulani
 [4]<high-lulani>(sq)</high-lulani>
@@ -7496,10 +7592,10 @@ state
 [5]<ipa>/s&#x259;.&#x2c8;la&#x279;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">antimony</div>
 [7]See Also
-<a href="../l/laji.html">&larr; laji</a> <high-lulani>(lJ)</high-lulani> <em>tin</em>
-<a href="../l/lasu.html">&rarr; lasu</a> <high-lulani>(lz)</high-lulani> <em>tellurium</em>
-<a href="../d/da'u.html">&uarr; da&rsquo;u</a> <high-lulani>(du)</high-lulani> <em>arsenic</em>
-<a href="../a/'aggini.html">&darr; &rsquo;aggini</a> <high-lulani>(a;GN)</high-lulani> <em>bismuth</em>
+&larr; <a href="../l/laji.html">laji</a> <high-lulani>(lJ)</high-lulani> <em>tin</em>
+&rarr; <a href="../l/lasu.html">lasu</a> <high-lulani>(lz)</high-lulani> <em>tellurium</em>
+&uarr; <a href="../d/da'u.html">da&rsquo;u</a> <high-lulani>(du)</high-lulani> <em>arsenic</em>
+&darr; <a href="../a/'aggini.html">&rsquo;aggini</a> <high-lulani>(a;GN)</high-lulani> <em>bismuth</em>
 [2]salilu
 [3]High Lulani
 [4]<high-lulani>(sLW)</high-lulani>
@@ -7513,8 +7609,8 @@ state
 [5]<ipa>/s&#x259;.&#x2c8;lum.&#x268;/</ipa>
 [6]stem mathematics cardinal <div class="definition">7; seven</div>
 [7]See Also
-<a href="../u/'usi.html">&larr; &rsquo;usi</a> <high-lulani>(uS)</high-lulani> <em>six</em>
-<a href="../h/haki.html">&mdash; haki</a> <high-lulani>(hK)</high-lulani> <em>reven</em>
+&larr; <a href="../u/'usi.html">&rsquo;usi</a> <high-lulani>(uS)</high-lulani> <em>six</em>
+&mdash; <a href="../h/haki.html">haki</a> <high-lulani>(hK)</high-lulani> <em>reven</em>
 [2]salura
 [3]High Lulani
 [4]<high-lulani>(sWr)</high-lulani>
@@ -7552,19 +7648,19 @@ state
 [5]<ipa>/&#x2c8;sa&#x255;.&#x255;&#x289;.&#x279;&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">berkelium</div>
 [7]See Also
-<a href="../f/farra.html">&larr; farra</a> <high-lulani>(f;r)</high-lulani> <em>curium</em>
-<a href="../i/'ikka.html">&rarr; &rsquo;ikka</a> <high-lulani>(i;k)</high-lulani> <em>californium</em>
-<a href="../r/rila.html">&uarr; rila</a> <high-lulani>(Rl)</high-lulani> <em>terbium</em>
+&larr; <a href="../f/farra.html">farra</a> <high-lulani>(f;r)</high-lulani> <em>curium</em>
+&rarr; <a href="../i/'ikka.html">&rsquo;ikka</a> <high-lulani>(i;k)</high-lulani> <em>californium</em>
+&uarr; <a href="../r/rila.html">rila</a> <high-lulani>(Rl)</high-lulani> <em>terbium</em>
 [2]sahha
 [3]High Lulani
 [4]<high-lulani>(s;h)</high-lulani>
 [5]<ipa>/&#x2c8;sa&ccedil;.&ccedil;&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">xenon</div>
 [7]See Also
-<a href="../p/papa.html">&larr; papa</a> <high-lulani>(pp)</high-lulani> <em>iodine</em>
-<a href="../n/nudda.html">&rarr; nudda</a> <high-lulani>(I;d)</high-lulani> <em>caesium</em>
-<a href="../q/quffi.html">&uarr; quffi</a> <high-lulani>(A;F)</high-lulani> <em>krypton</em>
-<a href="../f/fasami.html">&darr; fasami</a> <high-lulani>(fsM)</high-lulani> <em>radon</em>
+&larr; <a href="../p/papa.html">papa</a> <high-lulani>(pp)</high-lulani> <em>iodine</em>
+&rarr; <a href="../n/nudda.html">nudda</a> <high-lulani>(I;d)</high-lulani> <em>caesium</em>
+&uarr; <a href="../q/quffi.html">quffi</a> <high-lulani>(A;F)</high-lulani> <em>krypton</em>
+&darr; <a href="../f/fasami.html">fasami</a> <high-lulani>(fsM)</high-lulani> <em>radon</em>
 [2]si
 [3]High Lulani
 [4]<high-lulani>(S)</high-lulani>
@@ -7577,14 +7673,14 @@ Only used with stative and iterative auxiliaries.
 stative
 iterative
 [r]past
-<a href="../p/pi.html">pisi</a>
-<a href="../t/taku.html">takusi</a>
+<a href="../p/pisi.html">pisi</a>
+<a href="../t/takusi.html">takusi</a>
 [r]present
-<a href="../r/ra'u.html">ra&rsquo;usi</a>
-<a href="../n/na.html">nasi</a>
+<a href="../r/ra'usi.html">ra&rsquo;usi</a>
+<a href="../n/nasi.html">nasi</a>
 [r]future
-<a href="../n/nagi.html">nagisi</a>
-<a href="../h/hu.html">husi</a>
+<a href="../n/nagisi.html">nagisi</a>
+<a href="../h/husi.html">husi</a>
 [/t]
 [2]si&rsquo;a
 [3]High Lulani
@@ -7600,8 +7696,8 @@ iterative
 <small-caps>1tra</small-caps> <em>fix</em> <small-caps>3ina;int.</small-caps>
 &ldquo;I fixed it.&rdquo;
 [7]Derived Terms
-<strong><a href="../k/kalu.html">si&rsquo;akalu</a></strong> <high-lulani>(kW)</high-lulani> <em>heal</em>
-<strong><a href="../b/bassa.html">si&rsquo;abassa</a></strong> <high-lulani>(b;s)</high-lulani> <em>solve</em>
+<strong><a href="../s/si'akalu.html">si&rsquo;akalu</a></strong> <high-lulani>(kW)</high-lulani> <em>heal</em>
+<strong><a href="../s/si'abassa.html">si&rsquo;abassa</a></strong> <high-lulani>(b;s)</high-lulani> <em>solve</em>
 [2]si&rsquo;apa
 [3]High Lulani
 [4]<high-lulani>(Sap)</high-lulani>
@@ -7613,8 +7709,8 @@ iterative
 [5]<ipa>/&#x2c8;sip.p&#x259;/</ipa>
 [6]derivational suffix (verb &rarr; noun) <div class="definition">time</div>
 [7]Examples
-<strong><a href="../s/siku.html">sikusippa</a></strong> <em>death day</em>
-<strong><a href="../d/dasi.html">dasisippa</a></strong> <em>mealtime</em>
+<strong><a href="../s/sikusippa.html">sikusippa</a></strong> <em>death day</em>
+<strong><a href="../d/dasisippa.html">dasisippa</a></strong> <em>mealtime</em>
 [2]sida
 [3]High Lulani
 [4]<high-lulani>(Sd)</high-lulani>
@@ -7631,10 +7727,10 @@ refers to the aspects of the heart dealing with the heartbeat, as a notification
 [5]<ipa>/&#x2c8;sic&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">astatine</div>
 [7]See Also
-<a href="../c/cakassu.html">&larr; cakassu</a> <high-lulani>(ck;z)</high-lulani> <em>polonium</em>
-<a href="../f/fasami.html">&rarr; fasami</a> <high-lulani>(fsM)</high-lulani> <em>radon</em>
-<a href="../p/papa.html">&uarr; papa</a> <high-lulani>(pp)</high-lulani> <em>iodine</em>
-<a href="../b/buccata.html">&darr; buccata</a> <high-lulani>(O;ct)</high-lulani> <em>tennessine</em>
+&larr; <a href="../c/cakassu.html">cakassu</a> <high-lulani>(ck;z)</high-lulani> <em>polonium</em>
+&rarr; <a href="../f/fasami.html">fasami</a> <high-lulani>(fsM)</high-lulani> <em>radon</em>
+&uarr; <a href="../p/papa.html">papa</a> <high-lulani>(pp)</high-lulani> <em>iodine</em>
+&darr; <a href="../b/buccata.html">buccata</a> <high-lulani>(O;ct)</high-lulani> <em>tennessine</em>
 [2]sija
 [3]High Lulani
 [4]<high-lulani>(Sj)</high-lulani>
@@ -7646,8 +7742,8 @@ refers to the aspects of the heart dealing with the heartbeat, as a notification
 [5]<ipa>/s.s&#x268;.&#x25f;&#x268;/</ipa>
 [6]derivational suffix (mathematics &rarr; noun) <div class="definition">derives the names of shapes from the number of edges or vertices</div>
 [7]Example
-<strong><a href="../k/kifi.html">kifissiji</a></strong> <high-lulani>(KF;SJ)</high-lulani> <em>triangle</em>
-<strong><a href="../n/nuru.html">nurussiji</a></strong> <high-lulani>(Iw;SJ)</high-lulani> <em>quadrilateral</em>
+<strong><a href="../k/kifissiji.html">kifissiji</a></strong> <high-lulani>(KF;SJ)</high-lulani> <em>triangle</em>
+<strong><a href="../n/nurussiji.html">nurussiji</a></strong> <high-lulani>(Iw;SJ)</high-lulani> <em>quadrilateral</em>
 [7]See Also
 <a href="../p/purissiji.html">purissiji</a> <high-lulani>(oR;SJ)</high-lulani> <em>circle</em>
 [2]sika
@@ -7656,7 +7752,7 @@ refers to the aspects of the heart dealing with the heartbeat, as a notification
 [5]<ipa>/&#x2cc;sik&#x2b0;.&#x259;/</ipa>
 [6]derivational suffix (noun &rarr; verb) <div class="definition">derives a verb from a noun</div>
 [7]Derived Terms
-<strong><a href="../r/ruba.html">rubasika</a></strong> <high-lulani>(wbSk)</high-lulani> <em>to sense</em>
+<strong><a href="../r/rubasika.html">rubasika</a></strong> <high-lulani>(wbSk)</high-lulani> <em>to sense</em>
 [2]sikka
 [3]High Lulani
 [4]<high-lulani>(S;k)</high-lulani>
@@ -7681,22 +7777,22 @@ refers to the aspects of the heart dealing with the heartbeat, as a notification
 [5]<ipa>/s&#x268;.&#x2c8;k&#x2b0;uf.f&#x268;/</ipa>
 [6]inanimate derived stem noun <div class="definition">spear</div>
 [7]Etymology
-<a href="../s/siku.html">siku</a> <high-lulani>(S&gt;)</high-lulani> <em>to die</em> + <a href="../-ffi.html">-ffi</a> <high-lulani>(;F)</high-lulani> <em>instrument</em>
+<a href="../s/siku.html">siku</a> <high-lulani>(S&gt;)</high-lulani> <em>to die</em> + <a href="../\/-ffi.html">-ffi</a> <high-lulani>(;F)</high-lulani> <em>instrument</em>
 [2]sina
 [3]High Lulani
 [4]<high-lulani>(Sn)</high-lulani>
 [5]<ipa>/&#x2c8;sin.&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">attractiveness; prettiness; cuteness</div>
 [7]Derived Terms
-<strong><a href="../x/xu.html">xusina</a></strong> <high-lulani>(ZSn)</high-lulani> <em>to be pretty</em>
+<strong><a href="../x/xusina.html">xusina</a></strong> <high-lulani>(ZSn)</high-lulani> <em>to be pretty</em>
 [2]sinna
 [3]High Lulani
 [4]<high-lulani>(S;n)</high-lulani>
 [5]<ipa>/&#x2c8;si&#x272;.&#x272;&#x259;/</ipa>
 [6]abstract stem noun <div class="definition">story; tale</div>
 [7]Derived Terms
-<strong><a href="../d/di.html">sinnadi</a></strong> <high-lulani>(S;nD)</high-lulani> <em>book</em>
-<strong><a href="../n/nuru.html">sinnanuru</a></strong> <high-lulani>(S;nIw)</high-lulani> <em>quartet</em>
+<strong><a href="../s/sinnadi.html">sinnadi</a></strong> <high-lulani>(S;nD)</high-lulani> <em>book</em>
+<strong><a href="../s/sinnanuru.html">sinnanuru</a></strong> <high-lulani>(S;nIw)</high-lulani> <em>quartet</em>
 <a href="../d/disinnamuka.html">disinnamuka</a> <high-lulani>(DS;nUk)</high-lulani> <em>prologue</em>
 [2]siqi
 [3]High Lulani
@@ -7704,19 +7800,19 @@ refers to the aspects of the heart dealing with the heartbeat, as a notification
 [5]<ipa>/&#x2c8;si&#x14b;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">europium</div>
 [7]See Also
-<a href="../i/'i'isata.html">&larr; &rsquo;i&rsquo;isata</a> <high-lulani>(iist)</high-lulani> <em>samarium</em>
-<a href="../t/tacala.html">&rarr; tacala</a> <high-lulani>(tcl)</high-lulani> <em>gadolinium</em>
-<a href="../d/dihiqa.html">&darr; dihiqa</a> <high-lulani>(DHq)</high-lulani> <em>americium</em>
+&larr; <a href="../i/'i'isata.html">&rsquo;i&rsquo;isata</a> <high-lulani>(iist)</high-lulani> <em>samarium</em>
+&rarr; <a href="../t/tacala.html">tacala</a> <high-lulani>(tcl)</high-lulani> <em>gadolinium</em>
+&darr; <a href="../d/dihiqa.html">dihiqa</a> <high-lulani>(DHq)</high-lulani> <em>americium</em>
 [2]silla
 [3]High Lulani
 [4]<high-lulani>(S;l)</high-lulani>
 [5]<ipa>/&#x2c8;si&#x28e;.&#x28e;&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">thallium</div>
 [7]See Also
-<a href="../u/'usa.html">&larr; &rsquo;usa</a> <high-lulani>(us)</high-lulani> <em>mercury</em>
-<a href="../m/musaqu.html">&rarr; musaqu</a> <high-lulani>(UsA)</high-lulani> <em>lead</em>
-<a href="../l/luka.html">&uarr; luka</a> <high-lulani>(Wk)</high-lulani> <em>indium</em>
-<a href="../r/rabaci.html">&darr; rabaci</a> <high-lulani>(rbC)</high-lulani> <em>nihonium</em>
+&larr; <a href="../u/'usa.html">&rsquo;usa</a> <high-lulani>(us)</high-lulani> <em>mercury</em>
+&rarr; <a href="../m/musaqu.html">musaqu</a> <high-lulani>(UsA)</high-lulani> <em>lead</em>
+&uarr; <a href="../l/luka.html">luka</a> <high-lulani>(Wk)</high-lulani> <em>indium</em>
+&darr; <a href="../r/rabaci.html">rabaci</a> <high-lulani>(rbC)</high-lulani> <em>nihonium</em>
 [2]silu
 [3]High Lulani
 [4]<high-lulani>(SW)</high-lulani>
@@ -7741,7 +7837,7 @@ Used with possessives.
 &ldquo;I am touching you.&rdquo;
 [6]abstract stem noun <div class="definition">nakedness; nudity</div>
 [7]Derived Terms
-<strong><a href="../h/hulla.html">hullasisa</a></strong> <high-lulani>(V;lSs)</high-lulani> <em>sex-play</em>
+<strong><a href="../h/hullasisa.html">hullasisa</a></strong> <high-lulani>(V;lSs)</high-lulani> <em>sex-play</em>
 [2]su
 [3]High Lulani
 [4]<high-lulani>(z)</high-lulani>
@@ -7762,34 +7858,25 @@ Used with possessives.
 [6]stem pronoun <div class="definition">self; reflexive particle</div>
 [7]Usage Notes
 replaces third-person pronouns, if necessary, to refer to the subject of the sentence. Do not take case markers. Can be used as genitive, but only as a suffix; in this case, covers both alienable and inalienable possession.
-[2]soul
-[3]English
-[4]<high-lulani>( )</high-lulani>
-[5]<ipa>/s&#x254;&#x28a;l/</ipa>
-[6]inanimate stem noun <div class="definition">heart</div>
-[7]Definition
-the spiritual body; the emergent property of the heart; the part of a personality that loves
-[7]Translation
-<a href="../l/lu'iki.html">lu&rsquo;iki</a> <high-lulani>(WiK)</high-lulani> <em>soul</em>
 [2]su&rsquo;usi
 [3]High Lulani
 [4]<high-lulani>(zuS)</high-lulani>
 [5]<ipa>/s&#x289;.&#x2c8;&#x294;us.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">roentgenium</div>
 [7]See Also
-<a href="../n/na'ipa.html">&larr; na&rsquo;ipa</a> <high-lulani>(nip)</high-lulani> <em>darmstadtium</em>
-<a href="../h/hatanu.html">&rarr; hatanu</a> <high-lulani>(htI)</high-lulani> <em>copernicium</em>
-<a href="../f/fi.html">&uarr; fi</a> <high-lulani>(F)</high-lulani> <em>gold</em>
+&larr; <a href="../n/na'ipa.html">na&rsquo;ipa</a> <high-lulani>(nip)</high-lulani> <em>darmstadtium</em>
+&rarr; <a href="../h/hatanu.html">hatanu</a> <high-lulani>(htI)</high-lulani> <em>copernicium</em>
+&uarr; <a href="../f/fi.html">fi</a> <high-lulani>(F)</high-lulani> <em>gold</em>
 [2]supu
 [3]High Lulani
 [4]<high-lulani>(zo)</high-lulani>
 [5]<ipa>/&#x2c8;sup&#x2b0;.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">osmium</div>
 [7]See Also
-<a href="../h/hasuki.html">&larr; hasuki</a> <high-lulani>(hzK)</high-lulani> <em>rhenium</em>
-<a href="../n/natu.html">&rarr; natu</a> <high-lulani>(ne)</high-lulani> <em>iridium</em>
-<a href="../n/nasufi.html">&uarr; nasufi</a> <high-lulani>(nzF)</high-lulani> <em>ruthenium</em>
-<a href="../i/'i'ami.html">&darr; &rsquo;i&rsquo;ami</a> <high-lulani>(iaM)</high-lulani> <em>hassium</em>
+&larr; <a href="../h/hasuki.html">hasuki</a> <high-lulani>(hzK)</high-lulani> <em>rhenium</em>
+&rarr; <a href="../n/natu.html">natu</a> <high-lulani>(ne)</high-lulani> <em>iridium</em>
+&uarr; <a href="../n/nasufi.html">nasufi</a> <high-lulani>(nzF)</high-lulani> <em>ruthenium</em>
+&darr; <a href="../i/'i'ami.html">&rsquo;i&rsquo;ami</a> <high-lulani>(iaM)</high-lulani> <em>hassium</em>
 [2]subtle
 [3]English
 [4]<high-lulani>( )</high-lulani>
@@ -7804,16 +7891,16 @@ the spiritual body; the emergent property of the heart; the part of a personalit
 [5]<ipa>/&#x2c8;sut.t&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">nitrogen</div>
 [7]See Also
-<a href="../x/xu.html">&larr; xu</a> <high-lulani>(Z)</high-lulani> <em>carbon</em>
-<a href="../s/sa.html">&rarr; sa</a> <high-lulani>(s)</high-lulani> <em>oxygen</em>
-<a href="../p/pibi.html">&darr; pibi</a> <high-lulani>(PB)</high-lulani> <em>phosphorus</em>
+&larr; <a href="../x/xu.html">xu</a> <high-lulani>(Z)</high-lulani> <em>carbon</em>
+&rarr; <a href="../s/sa.html">sa</a> <high-lulani>(s)</high-lulani> <em>oxygen</em>
+&darr; <a href="../p/pibi.html">pibi</a> <high-lulani>(PB)</high-lulani> <em>phosphorus</em>
 [2]sutti
 [3]High Lulani
 [4]<high-lulani>(z;T)</high-lulani>
 [5]<ipa>/&#x2c8;sut.t&#x268;/</ipa>
 [6]abstract stem noun <div class="definition">fear</div>
 [7]Derived Terms
-<strong><a href="../d/dissu.html">dissusutti</a></strong> <high-lulani>(D;zz;T)</high-lulani> <em>to be afraid</em>
+<strong><a href="../d/dissusutti.html">dissusutti</a></strong> <high-lulani>(D;zz;T)</high-lulani> <em>to be afraid</em>
 [7]See Also
 <a href="../a/'ahati.html">&rsquo;ahati</a> <high-lulani>(ahT)</high-lulani> <em>happiness</em>
 <a href="../i/'isili.html">&rsquo;isili</a> <high-lulani>(iSL)</high-lulani> <em>sadness</em>
@@ -7833,25 +7920,25 @@ a fear stemming from lack of knowledge of the future
 [5]<ipa>/&#x2c8;sud.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">livermorium</div>
 [7]See Also
-<a href="../r/rili.html">&larr; rili</a> <high-lulani>(RL)</high-lulani> <em>moscovium</em>
-<a href="../b/buccata.html">&rarr; buccata</a> <high-lulani>(O;ct)</high-lulani> <em>tennessine</em>
-<a href="../c/cakassu.html">&uarr; cakassu</a> <high-lulani>(ck;z)</high-lulani> <em>polonium</em>
+&larr; <a href="../r/rili.html">rili</a> <high-lulani>(RL)</high-lulani> <em>moscovium</em>
+&rarr; <a href="../b/buccata.html">buccata</a> <high-lulani>(O;ct)</high-lulani> <em>tennessine</em>
+&uarr; <a href="../c/cakassu.html">cakassu</a> <high-lulani>(ck;z)</high-lulani> <em>polonium</em>
 [2]suki
 [3]High Lulani
 [4]<high-lulani>(zK)</high-lulani>
 [5]<ipa>/&#x2c8;suk&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">copper</div>
 [7]See Also
-<a href="../t/tasa.html">&larr; tasa</a> <high-lulani>(ts)</high-lulani> <em>nickel</em>
-<a href="../h/hika.html">&rarr; hika</a> <high-lulani>(Hk)</high-lulani> <em>zinc</em>
-<a href="../k/kaca.html">&darr; kaca</a> <high-lulani>(kc)</high-lulani> <em>cadmium</em>
+&larr; <a href="../t/tasa.html">tasa</a> <high-lulani>(ts)</high-lulani> <em>nickel</em>
+&rarr; <a href="../h/hika.html">hika</a> <high-lulani>(Hk)</high-lulani> <em>zinc</em>
+&darr; <a href="../k/kaca.html">kaca</a> <high-lulani>(kc)</high-lulani> <em>cadmium</em>
 [2]sukki
 [3]High Lulani
 [4]<high-lulani>(z;K)</high-lulani>
 [5]<ipa>/&#x2cc;suk.k&#x268;/</ipa>
 [6]stem adjective <div class="definition">entire; whole; all</div>
 [7]Examples
-<strong><a href="../k/kalu.html">kalusukki</a></strong> <high-lulani>(kWz;K)</high-lulani> <em>entire body</em>
+<strong><a href="../k/kalusukki.html">kalusukki</a></strong> <high-lulani>(kWz;K)</high-lulani> <em>entire body</em>
 [7]See Also
 <a href="../a/'aba.html">&rsquo;aba</a> <high-lulani>(ab)</high-lulani> <em>every</em>
 [2]suma
@@ -7935,10 +8022,10 @@ the patient must be inanimate.
 <a href="../x/xu'a.html">xu&rsquo;a</a> <high-lulani>(Za)</high-lulani> <em>bird</em>
 [6]inanimate stem noun element <div class="definition">molybdenum</div>
 [7]See Also
-<a href="../l/lakka.html">&larr; lakka</a> <high-lulani>(l;k)</high-lulani> <em>niobium</em>
-<a href="../n/nikili.html">&rarr; nikili</a> <high-lulani>(NKL)</high-lulani> <em>technetium</em>
-<a href="../f/fada.html">&uarr; fada</a> <high-lulani>(fd)</high-lulani> <em>chromium</em>
-<a href="../m/mina''i.html">&darr; mina&#x294;i</a> <high-lulani>(Mn;i)</high-lulani> <em>tungsten</em>
+&larr; <a href="../l/lakka.html">lakka</a> <high-lulani>(l;k)</high-lulani> <em>niobium</em>
+&rarr; <a href="../n/nikili.html">nikili</a> <high-lulani>(NKL)</high-lulani> <em>technetium</em>
+&uarr; <a href="../f/fada.html">fada</a> <high-lulani>(fd)</high-lulani> <em>chromium</em>
+&darr; <a href="../m/mina''i.html">mina&#x294;i</a> <high-lulani>(Mn;i)</high-lulani> <em>tungsten</em>
 [2]surra
 [3]High Lulani
 [4]<high-lulani>(z;r)</high-lulani>
@@ -7961,9 +8048,9 @@ the three spatial dimensions
 [5]<ipa>/&#x2c8;sus.s&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">plutonium</div>
 [7]See Also
-<a href="../x/xasagi.html">&larr; xasagi</a> <high-lulani>(xsG)</high-lulani> <em>neptunium</em>
-<a href="../d/dihiqa.html">&rarr; dihiqa</a> <high-lulani>(DHq)</high-lulani> <em>americium</em>
-<a href="../i/'i'isata.html">&uarr; &rsquo;i&rsquo;isata</a> <high-lulani>(iist)</high-lulani> <em>samarium</em>
+&larr; <a href="../x/xasagi.html">xasagi</a> <high-lulani>(xsG)</high-lulani> <em>neptunium</em>
+&rarr; <a href="../d/dihiqa.html">dihiqa</a> <high-lulani>(DHq)</high-lulani> <em>americium</em>
+&uarr; <a href="../i/'i'isata.html">&rsquo;i&rsquo;isata</a> <high-lulani>(iist)</high-lulani> <em>samarium</em>
 
 [1]X
 [2]xa
@@ -7977,9 +8064,9 @@ the three spatial dimensions
 [5]<ipa>/&#x2c8;&#x255;a&#x294;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">flerovium</div>
 [7]See Also
-<a href="../r/rabaci.html">&larr; rabaci</a> <high-lulani>(rbC)</high-lulani> <em>nihonium</em>
-<a href="../r/rili.html">&rarr; rili</a> <high-lulani>(RL)</high-lulani> <em>moscovium</em>
-<a href="../m/musaqu.html">&uarr; musaqu</a> <high-lulani>(UsA)</high-lulani> <em>lead</em>
+&larr; <a href="../r/rabaci.html">rabaci</a> <high-lulani>(rbC)</high-lulani> <em>nihonium</em>
+&rarr; <a href="../r/rili.html">rili</a> <high-lulani>(RL)</high-lulani> <em>moscovium</em>
+&uarr; <a href="../m/musaqu.html">musaqu</a> <high-lulani>(UsA)</high-lulani> <em>lead</em>
 [2]xa&#x294;a
 [3]High Lulani
 [4]<high-lulani>(x;a)</high-lulani>
@@ -8010,10 +8097,10 @@ the three spatial dimensions
 [5]<ipa>/&#x2c8;&#x255;ak&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">magnesium</div>
 [7]See Also
-<a href="../l/lisu.html">&larr; lisu</a> <high-lulani>(Lz)</high-lulani> <em>sodium</em>
-<a href="../d/disa.html">&rarr; disa</a> <high-lulani>(Ds)</high-lulani> <em>aluminium</em>
-<a href="../f/fiqqala.html">&uarr; fiqqala</a> <high-lulani>(F;ql)</high-lulani> <em>beryllium</em>
-<a href="../q/qaxa.html">&darr; qaxa</a> <high-lulani>(qx)</high-lulani> <em>calcium</em>
+&larr; <a href="../l/lisu.html">lisu</a> <high-lulani>(Lz)</high-lulani> <em>sodium</em>
+&rarr; <a href="../d/disa.html">disa</a> <high-lulani>(Ds)</high-lulani> <em>aluminium</em>
+&uarr; <a href="../f/fiqqala.html">fiqqala</a> <high-lulani>(F;ql)</high-lulani> <em>beryllium</em>
+&darr; <a href="../q/qaxa.html">qaxa</a> <high-lulani>(qx)</high-lulani> <em>calcium</em>
 [2]xakila
 [3]High Lulani
 [4]<high-lulani>(xKl)</high-lulani>
@@ -8025,9 +8112,9 @@ the three spatial dimensions
 [5]<ipa>/&#x255;&#x259;.&#x2c8;nak&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">lanthanum</div>
 [7]See Also
-<a href="../b/baca.html">&larr; baca</a> <high-lulani>(bc)</high-lulani> <em>barium</em>
-<a href="../a/'a'ami.html">&rarr; &rsquo;a&rsquo;ami</a> <high-lulani>(aaM)</high-lulani> <em>cerium</em>
-<a href="../n/na'a.html">&darr; na&rsquo;a</a> <high-lulani>(na)</high-lulani> <em>actinium</em>
+&larr; <a href="../b/baca.html">baca</a> <high-lulani>(bc)</high-lulani> <em>barium</em>
+&rarr; <a href="../a/'a'ami.html">&rsquo;a&rsquo;ami</a> <high-lulani>(aaM)</high-lulani> <em>cerium</em>
+&darr; <a href="../n/na'a.html">na&rsquo;a</a> <high-lulani>(na)</high-lulani> <em>actinium</em>
 [2]xalli
 [3]High Lulani
 [4]<high-lulani>(x;L)</high-lulani>
@@ -8044,9 +8131,9 @@ not used with possessives
 [5]<ipa>/&#x255;&#x259;.&#x2c8;sag.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">neptunium</div>
 [7]See Also
-<a href="../k/kari.html">&larr; kari</a> <high-lulani>(kR)</high-lulani> <em>uranium</em>
-<a href="../s/sussi.html">&rarr; sussi</a> <high-lulani>(z;S)</high-lulani> <em>plutonium</em>
-<a href="../u/'uccadama.html">&uarr; &rsquo;uccadama</a> <high-lulani>(u;cdm)</high-lulani> <em>promethium</em>
+&larr; <a href="../k/kari.html">kari</a> <high-lulani>(kR)</high-lulani> <em>uranium</em>
+&rarr; <a href="../s/sussi.html">sussi</a> <high-lulani>(z;S)</high-lulani> <em>plutonium</em>
+&uarr; <a href="../u/'uccadama.html">&rsquo;uccadama</a> <high-lulani>(u;cdm)</high-lulani> <em>promethium</em>
 [2]xaha
 [3]High Lulani
 [4]<high-lulani>(xh)</high-lulani>
@@ -8086,13 +8173,13 @@ used for subtle themes. Cf: <a href="../x/xu.html">xu</a> <high-lulani>(Z)</high
 [5]<ipa>/&#x2c8;&#x255;it&#x2b0;.&#x259;/</ipa>
 [6]stem mathematics ordinal <div class="definition">one</div>
 [7]See Also
-<a href="../q/qikka.html">&larr; qikka</a> <high-lulani>(Q;k)</high-lulani> <em>zero</em>
-<a href="../r/ra.html">&rarr; ra</a> <high-lulani>(r)</high-lulani> <em>two</em>
-<a href="../m/mullu.html">&mdash; mullu</a> <high-lulani>(U;W)</high-lulani> <em>ron</em>
+&larr; <a href="../q/qikka.html">qikka</a> <high-lulani>(Q;k)</high-lulani> <em>zero</em>
+&rarr; <a href="../r/ra.html">ra</a> <high-lulani>(r)</high-lulani> <em>two</em>
+&mdash; <a href="../m/mullu.html">mullu</a> <high-lulani>(U;W)</high-lulani> <em>ron</em>
 [6]mathematics suffix <div class="definition">one particle of a mass</div>
 [7]Example
-<strong><a href="../j/jagaru.html">jagaruxita</a></strong> <high-lulani>(jgwXt)</high-lulani> <em>grain of sand</em>
-<strong><a href="../i/'iti.html">&rsquo;itixita</a></strong> <high-lulani>(iTXt)</high-lulani> <em>drop of milk</em>
+<strong><a href="../j/jagaruxita.html">jagaruxita</a></strong> <high-lulani>(jgwXt)</high-lulani> <em>grain of sand</em>
+<strong><a href="../i/'itixita.html">&rsquo;itixita</a></strong> <high-lulani>(iTXt)</high-lulani> <em>drop of milk</em>
 [2]xidu
 [3]High Lulani
 [4]<high-lulani>(XE)</high-lulani>
@@ -8134,11 +8221,11 @@ used for subtle themes. Cf: <a href="../x/xu.html">xu</a> <high-lulani>(Z)</high
 used for physical themes. Cf: <a href="../x/xi.html">xi</a> <high-lulani>(X)</high-lulani> <em>seem</em>
 [6]inanimate stem noun element <div class="definition">carbon</div>
 [7]Derived Terms
-<strong><a href="../s/sahaki.html">xusahaki</a></strong> <strong><a href="../l/la.html">la</a><a href="../s/sakifi.html">sakifi</a></strong> <high-lulani>(ZshK / lsKF)</high-lulani> <em>octane</em>
+<strong><a href="../x/xusahaki.html">xusahaki</a></strong> <strong><a href="../l/la.html">la</a><a href="../s/sakifi.html">sakifi</a></strong> <high-lulani>(ZshK / lsKF)</high-lulani> <em>octane</em>
 [7]See Also
-<a href="../k/kuxxu.html">&larr; kuxxu</a> <high-lulani>(&gt;;Z)</high-lulani> <em>boron</em>
-<a href="../s/sutta.html">&rarr; sutta</a> <high-lulani>(z;t)</high-lulani> <em>nitrogen</em>
-<a href="../a/'ama.html">&darr; &rsquo;ama</a> <high-lulani>(am)</high-lulani> <em>silicon</em>
+&larr; <a href="../k/kuxxu.html">kuxxu</a> <high-lulani>(&gt;;Z)</high-lulani> <em>boron</em>
+&rarr; <a href="../s/sutta.html">sutta</a> <high-lulani>(z;t)</high-lulani> <em>nitrogen</em>
+&darr; <a href="../a/'ama.html">&rsquo;ama</a> <high-lulani>(am)</high-lulani> <em>silicon</em>
 [2]xu&rsquo;a
 [3]High Lulani
 [4]<high-lulani>(Za)</high-lulani>
@@ -8183,10 +8270,10 @@ used for physical themes. Cf: <a href="../x/xi.html">xi</a> <high-lulani>(X)</hi
 [5]<ipa>/&#x2c8;&#x255;u&ccedil;.&ccedil;&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">germanium</div>
 [7]See Also
-<a href="../a/'ali.html">&larr; &rsquo;ali</a> <high-lulani>(aL)</high-lulani> <em>gallium</em>
-<a href="../d/da'u.html">&rarr; da&rsquo;u</a> <high-lulani>(du)</high-lulani> <em>arsenic</em>
-<a href="../a/'ama.html">&uarr; &rsquo;ama</a> <high-lulani>(am)</high-lulani> <em>silicon</em>
-<a href="../l/laji.html">&darr; laji</a> <high-lulani>(lJ)</high-lulani> <em>tin</em>
+&larr; <a href="../a/'ali.html">&rsquo;ali</a> <high-lulani>(aL)</high-lulani> <em>gallium</em>
+&rarr; <a href="../d/da'u.html">da&rsquo;u</a> <high-lulani>(du)</high-lulani> <em>arsenic</em>
+&uarr; <a href="../a/'ama.html">&rsquo;ama</a> <high-lulani>(am)</high-lulani> <em>silicon</em>
+&darr; <a href="../l/laji.html">laji</a> <high-lulani>(lJ)</high-lulani> <em>tin</em>
 
 [1]H
 [2]ha
@@ -8202,17 +8289,17 @@ Denotes a beneficiary
 [5]<ipa>/h&#x259;.&#x2c8;t&#x2b0;an.&#x289;/</ipa>
 [6]inanimate stem noun element <div class="definition">copernicium</div>
 [7]See Also
-<a href="../s/su'usi.html">&larr; su&rsquo;usi</a> <high-lulani>(zuS)</high-lulani> <em>roentgenium</em>
-<a href="../r/rabaci.html">&rarr; rabaci</a> <high-lulani>(rbC)</high-lulani> <em>nihonium</em>
-<a href="../u/'usa.html">&uarr; &rsquo;usa</a> <high-lulani>(us)</high-lulani> <em>mercury</em>
+&larr; <a href="../s/su'usi.html">su&rsquo;usi</a> <high-lulani>(zuS)</high-lulani> <em>roentgenium</em>
+&rarr; <a href="../r/rabaci.html">rabaci</a> <high-lulani>(rbC)</high-lulani> <em>nihonium</em>
+&uarr; <a href="../u/'usa.html">&rsquo;usa</a> <high-lulani>(us)</high-lulani> <em>mercury</em>
 [2]haki
 [3]High Lulani
 [4]<high-lulani>(hK)</high-lulani>
 [5]<ipa>/&#x2c8;hak&#x2b0;.&#x268;/</ipa>
 [6]stem mathematics ordinal <div class="definition">-7; <overline>7</overline>; reven; minus seven</div>
 [7]See Also
-<a href="../j/jusiti.html">&rarr; jusiti</a> <high-lulani>(YST)</high-lulani> <em>rix</em>
-<a href="../s/salumi.html">&mdash; salumi</a> <high-lulani>(sWM)</high-lulani> <em>seven</em>
+&rarr; <a href="../j/jusiti.html">jusiti</a> <high-lulani>(YST)</high-lulani> <em>rix</em>
+&mdash; <a href="../s/salumi.html">salumi</a> <high-lulani>(sWM)</high-lulani> <em>seven</em>
 [2]hannaku
 [3]High Lulani
 [4]<high-lulani>(h;n&gt;)</high-lulani>
@@ -8237,6 +8324,20 @@ Denotes a beneficiary
 [5]<ipa>/&#x2c8;ha&#x279;.&#x289;/</ipa>
 [6]stem adposition <div class="definition">with; consisting of</div>
 [6]stem subordinating conjunction <div class="definition">at the same time; alongside; while; as</div>
+[2]hafa
+[3]High Lulani
+[4]<high-lulani>(hf)</high-lulani>
+[5]<ipa>/&#x2c8;haf.&#x259;/</ipa>
+[6]inanimate stem noun <div class="definition">race of people</div>
+[7]Derived Terms
+<strong><a href="../h/hafaxita.html">hafaxita</a></strong> <high-lulani>(hfXt)</high-lulani> <em>a member of a race</em>
+[2]hafaxita
+[3]High Lulani
+[4]<high-lulani>(hfXt)</high-lulani>
+[5]<ipa>/&#x2cc;haf.&#x259;.&#x2c8;&#x255;it&#x2b0;.&#x259;/</ipa>
+[6]derived compound noun <div class="definition">a member of a specific race</div>
+[7]Etymology
+<strong><a href="../h/hafa.html">hafa</a></strong> <high-lulani>(hf)</high-lulani> <em>race</em> + <strong><a href="../x/xita.html">xita</a></strong> <high-lulani>(Xt)</high-lulani> <em>one</em>
 [2]hafi
 [3]High Lulani
 [4]<high-lulani>(hF)</high-lulani>
@@ -8255,10 +8356,10 @@ Denotes a beneficiary
 [5]<ipa>/h&#x259;.&#x2c8;suk&#x2b0;.&#x268;/</ipa>
 [6]inanimate stem noun element <div class="definition">rhenium</div>
 [7]See Also
-<a href="../m/mina''i.html">&larr; mina&#x294;i</a> <high-lulani>(Mn;i)</high-lulani> <em>tungsten</em>
-<a href="../s/supu.html">&rarr; supu</a> <high-lulani>(zo)</high-lulani> <em>osmium</em>
-<a href="../n/nikili.html">&uarr; nikili</a> <high-lulani>(NKL)</high-lulani> <em>technetium</em>
-<a href="../c/cabahi.html">&darr; cabahi</a> <high-lulani>(cbH)</high-lulani> <em>bohrium</em>
+&larr; <a href="../m/mina''i.html">mina&#x294;i</a> <high-lulani>(Mn;i)</high-lulani> <em>tungsten</em>
+&rarr; <a href="../s/supu.html">supu</a> <high-lulani>(zo)</high-lulani> <em>osmium</em>
+&uarr; <a href="../n/nikili.html">nikili</a> <high-lulani>(NKL)</high-lulani> <em>technetium</em>
+&darr; <a href="../c/cabahi.html">cabahi</a> <high-lulani>(cbH)</high-lulani> <em>bohrium</em>
 [2]hibu
 [3]High Lulani
 [4]<high-lulani>(HO)</high-lulani>
@@ -8270,9 +8371,9 @@ Denotes a beneficiary
 [5]<ipa>/&#x2c8;hik&#x2b0;.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">zinc</div>
 [7]See Also
-<a href="../s/suki.html">&larr; suki</a> <high-lulani>(zK)</high-lulani> <em>copper</em>
-<a href="../a/'ali.html">&rarr; &rsquo;ali</a> <high-lulani>(aL)</high-lulani> <em>gallium</em>
-<a href="../k/kaca.html">&darr; kaca</a> <high-lulani>(kc)</high-lulani> <em>cadmium</em>
+&larr; <a href="../s/suki.html">suki</a> <high-lulani>(zK)</high-lulani> <em>copper</em>
+&rarr; <a href="../a/'ali.html">&rsquo;ali</a> <high-lulani>(aL)</high-lulani> <em>gallium</em>
+&darr; <a href="../k/kaca.html">kaca</a> <high-lulani>(kc)</high-lulani> <em>cadmium</em>
 [2]hiqa
 [3]High Lulani
 [4]<high-lulani>(Hq)</high-lulani>
@@ -8284,10 +8385,10 @@ Denotes a beneficiary
 [5]<ipa>/&#x2c8;hil.&#x259;/</ipa>
 [6]inanimate stem noun element <div class="definition">tantalum</div>
 [7]See Also
-<a href="../t/tacuca.html">&larr; tacuca</a> <high-lulani>(tyc)</high-lulani> <em>hafnium</em>
-<a href="../m/mina''i.html">&rarr; mina&#x294;i</a> <high-lulani>(Mn;i)</high-lulani> <em>tungsten</em>
-<a href="../l/lakka.html">&uarr; lakka</a> <high-lulani>(l;k)</high-lulani> <em>niobium</em>
-<a href="../n/nullasu.html">&darr; nullasu</a> <high-lulani>(I;lz)</high-lulani> <em>dubnium</em>
+&larr; <a href="../t/tacuca.html">tacuca</a> <high-lulani>(tyc)</high-lulani> <em>hafnium</em>
+&rarr; <a href="../m/mina''i.html">mina&#x294;i</a> <high-lulani>(Mn;i)</high-lulani> <em>tungsten</em>
+&uarr; <a href="../l/lakka.html">lakka</a> <high-lulani>(l;k)</high-lulani> <em>niobium</em>
+&darr; <a href="../n/nullasu.html">nullasu</a> <high-lulani>(I;lz)</high-lulani> <em>dubnium</em>
 [2]hira
 [3]High Lulani
 [4]<high-lulani>(Hr)</high-lulani>
@@ -8330,7 +8431,7 @@ A person chosen to lead because of their old age and wisdom.
 [5]<ipa>/h&#x289;/</ipa>
 [6]stem attributive suffix <div class="definition">wanting</div>
 [7]Example
-<strong><a href="../n/nukki.html">nukkihu</a> <a href="../n/nimalu.html">nimalu</a></strong> <high-lulani>(I;KV / NmW)</high-lulani> <em>the bear that wants a strawberry</em>
+<strong><a href="../n/nukkihu.html">nukkihu</a> <a href="../n/nimalu.html">nimalu</a></strong> <high-lulani>(I;KV / NmW)</high-lulani> <em>the bear that wants a strawberry</em>
 [5]<ipa>/hu/</ipa>
 [6]stem auxiliary <div class="definition">future iterative; will; <small-caps>fut;itr</small-caps></div>
 [7]See Also
@@ -8389,7 +8490,7 @@ gnomic
 [3]High Lulani
 [4]<high-lulani>(VW)</high-lulani>
 [5]<ipa>/&#x2c8;hul.&#x289;/</ipa>
-[6]transitive stem verb <div class="definition">to hear</div>
+[6]transitive stem verb <div class="definition">to hear; to listen</div>
 [7]Thematic Relations
 <strong>experiencer</strong> <em>subject</em>
 <strong>stimulus</strong> <em>dative</em>
