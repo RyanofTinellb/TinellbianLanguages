@@ -51,7 +51,7 @@ only used with possessives or in compounds
 [5]<ipa>/&#x2c8;&#x294;ab.&#x259;/</ipa>
 [6]stem indefinite pronoun <div class="definition">all; every; everything; universal object</div>
 [7]Example
-<a href="../q/qikanni.html">qikanni</a><a href="../a/'aba.html">&rsquo;aba</a> <high-lulani>(Qk;Nab)</high-lulani> <em>all the dogs</em>
+<strong><a href="../q/qikanni.html">qikanni</a>&rsquo;aba</strong> <em>all the dogs</em>
 [7]See Also
 [t]
 object
@@ -2306,7 +2306,7 @@ to rotate on one&rsquo;s own axis
 [5]<ipa>/da/</ipa>
 [6]inanimate stem noun <div class="definition">water</div>
 [7]See Also
-<a href="../s/saxita lara.html">saxita lara</a> <high-lulani>(sXt / lr)</high-lulani> <em>water</em>
+<a href="../s/saxitalara.html">saxita&#x20;lara</a> <high-lulani>(sXt / lr)</high-lulani> <em>water</em>
 <a href="../u/'u'a.html">&rsquo;u&rsquo;a</a> <high-lulani>(ua)</high-lulani> <em>wood</em>
 <a href="../l/lupumma.html">lupumma</a> <high-lulani>(Wo;m)</high-lulani> <em>fire</em>
 <a href="../c/cissa.html">cissa</a> <high-lulani>(C;s)</high-lulani> <em>air</em>
@@ -2386,7 +2386,8 @@ to rotate on one&rsquo;s own axis
 [4]<high-lulani>(dw)</high-lulani>
 [5]<ipa>/&#x2c8;da&#x279;.&#x289;/</ipa>
 [6]inanimate stem noun <div class="definition">road; street</div>
-
+[7]Derived Terms
+<strong><a href="../d/daruhuba.html">daruhuba</a></strong> <high-lulani>(dwVb)</high-lulani> <em>main street</em>
 [2]daru&rsquo;i
 [3]High Lulani
 [4]<high-lulani>(dwi)</high-lulani>
@@ -2402,6 +2403,13 @@ to rotate on one&rsquo;s own axis
 2. A one-way street, if travelled in the incorrect direction.
 [7]Etymology
 <a href="../d/daru.html">daru</a> <high-lulani>(dw)</high-lulani> <em>road</em> + <a href="../l/li.html">li</a> <high-lulani>(L)</high-lulani> <em>not</em>
+[2]daruhuba
+[3]High Lulani
+[4]<high-lulani>(dwVb)</high-lulani>
+[5]<ipa>/&#x2cc;da&#x279;.&#x289;.&#x2c8;hub.&#x259;/</ipa>
+[6]derived compound noun <div class="definition">main street</div>
+[7]Etymology
+<strong><a href="../d/daru.html">daru</a></strong> <high-lulani>(dw)</high-lulani> <em>road</em> + <strong><a href="../h/huba.html">huba</a></strong> <high-lulani>(Vb)</high-lulani> <em>importance</em>
 [2]dasa
 [3]High Lulani
 [4]<high-lulani>(ds)</high-lulani>
@@ -6230,6 +6238,10 @@ state
 <a href="../f/fana.html">fana</a>
 <a href="../f/fana.html">fana</a>
 [/t]
+[5]<ipa>/l&#x259;.&#x2c8;&#x279;a/</ipa>
+[6]derived compound noun <div class="definition">diatomic hydrogen; H<sub>2</sub></div>
+[7]Etymology
+<strong><a href="../l/la.html">la</a></strong> <high-lulani>(l)</high-lulani> <em>hydrogen</em> + <strong><a href="../r/ra.html">ra</a></strong> <high-lulani>(r)</high-lulani> <em><a href="../t/two.html">two</a></em>
 [2]laru
 [3]High Lulani
 [4]<high-lulani>(lw)</high-lulani>
@@ -7010,6 +7022,11 @@ state
 [4]<high-lulani>(Fae)</high-lulani>
 [5]<ipa>/f&#x268;.&#x294;at.&#x289;/</ipa>
 [6]stem adjective <div class="definition">certain; particular</div>
+[2]fipa
+[3]High Lulani
+[4]<high-lulani>(Fp)</high-lulani>
+[5]<ipa>/&#x2c8;fip&#x2b0;.&#x259;/</ipa>
+[6]inanimate stem noun <div class="definition">storey; level</div>
 [2]fibaku
 [3]High Lulani
 [4]<high-lulani>(Fb&gt;)</high-lulani>
@@ -7639,9 +7656,10 @@ state
 [5]<ipa>/&#x2cc;sa.&#x255;it&#x2b0;.&#x259;.&#x2c8;la&#x279;a/</ipa>
 [6]derived noun element compound <div class="definition">water, dihydrogen monoxide, H<sub>2</sub>O</div>
 [7]Etymology
-<a href="../s/sa.html">sa</a> <high-lulani>(s)</high-lulani> <em>water</em> + <a href="../x/xita.html">xita</a> <high-lulani>(Xt)</high-lulani> <em>one</em> + <a href="../l/la.html">la</a> <high-lulani>(l)</high-lulani> <em>hydrogen</em> + <a href="../r/ra.html">ra</a> <high-lulani>(r)</high-lulani> <em>two</em>
+<a href="../s/sa.html">sa</a> <high-lulani>(s)</high-lulani> <em>oxygen</em> + <a href="../x/xita.html">xita</a> <high-lulani>(Xt)</high-lulani> <em>one</em> + <a href="../l/la.html">la</a> <high-lulani>(l)</high-lulani> <em>hydrogen</em> + <a href="../r/ra.html">ra</a> <high-lulani>(r)</high-lulani> <em>two</em>
 [7]See Also
 <a href="../d/da.html">da</a> <high-lulani>(d)</high-lulani> <em>water</em>
+<strong><a href="../l/lara.html">lara</a></strong> <high-lulani>(lr)</high-lulani> <em>hydrogen</em>
 [2]saxxuru
 [3]High Lulani
 [4]<high-lulani>(s;Zw)</high-lulani>
@@ -8203,6 +8221,13 @@ used for subtle themes. Cf: <a href="../x/xu.html">xu</a> <high-lulani>(Z)</high
 [4]<high-lulani>(X;st)</high-lulani>
 [5]<ipa>/&#x2c8;&#x255;is.s&#x259;.t&#x2b0;&#x259;/</ipa>
 [6]inanimate stem noun <div class="definition">musical instrument</div>
+[2]xihuba
+[3]High Lulani
+[4]<high-lulani>(XVb)</high-lulani>
+[5]<ipa>/&#x255;&#x268;.&#x2c8;hub.&#x259;/</ipa>
+[6]derived compound verb <div class="definition">to be important</div>
+[7]Etymology
+<strong><a href="../x/xi.html">xi</a></strong> <high-lulani>(X)</high-lulani> <em>to project</em> + <strong><a href="../h/huba.html">huba</a></strong> <high-lulani>(Vb)</high-lulani> <em>importance</em>
 [2]xu
 [3]High Lulani
 [4]<high-lulani>(Z)</high-lulani>
@@ -8403,6 +8428,11 @@ Denotes a beneficiary
 [6]inanimate stem noun <div class="definition">gratitude</div>
 [7]See Also
 <strong><a href="../h/hira.html">hira</a></strong> <high-lulani>(Hr)</high-lulani> <em>thank-you</em>
+[2]hifu
+[3]High Lulani
+[4]<high-lulani>(Hv)</high-lulani>
+[5]<ipa>/&#x2c8;hif.&#x289;/</ipa>
+[6]inanimate stem noun <div class="definition">house; building</div>
 [2]hisu
 [3]High Lulani
 [4]<high-lulani>(Hz)</high-lulani>
@@ -8479,6 +8509,10 @@ gnomic
 <high-lulani>(.uz / kWsr / &gt;ZXt / sr / Vb.)</high-lulani>
 <small-caps>1int abl-</small-caps><em>oxygen-two</em> <small-caps>dat-</small-caps><em>carbon-one oxygen-two breathe.</em>
 &ldquo;I breathe oxygen in and carbon dioxide out.&rdquo;
+[6]abstract stem noun <div class="definition">importance</div>
+[7]Derived Terms
+<strong><a href="../x/xihuba.html">xihuba</a></strong> <high-lulani>(XVb)</high-lulani> <em>to be important</em>
+<strong><a href="../d/daruhuba.html">daruhuba</a></strong> <high-lulani>(dwVb)</high-lulani> <em>main street</em>
 [2]hulla
 [3]High Lulani
 [4]<high-lulani>(V;l)</high-lulani>

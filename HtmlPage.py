@@ -255,7 +255,16 @@ class HtmlPage:
     @staticmethod
     def change_to_heading(heading, generation, line):
         level = str(heading - generation + 1)
-        text = "<h" + level + ">" + line + "</h" + level + ">\n"
+        link_id = line.lower().replace(" ", "")
+        while True:
+            try:
+                start, end = link_id.index("<div"), link_id.index("</div>") + 6
+                if start >= end:
+                    raise ValueError
+                link_id = link_id[:start] + link_id[end:]
+            except ValueError:
+                break
+        text = "<h" + level + " id=\"" + link_id + "\">" + line + "</h" + level + ">\n"
         return text
 
     @staticmethod

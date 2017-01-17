@@ -208,6 +208,7 @@ class Markdown:
             else:
                 cat = link[0]
             link = link.replace("'", "\\'")
+            link = link.replace("&#x20;", "")
             link = "<a href=\\\"../" + cat + "/" + link + ".html\\\">"
             text = text[:open_brace-1] + link + text[open_brace:close_brace] + "</a>" + text[close_brace+1:]
         self.source, self.destination = self.markdown[::-1], self.markup[::-1]
