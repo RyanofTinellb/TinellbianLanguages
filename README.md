@@ -1,10 +1,12 @@
 # TinellbianLanguages
 A collection of data on the constructed languages for the fictional universe Tinellb
 
+The site is here: https://ryanoftinellb.github.io/TinellbianLanguages/
+
 Includes:
-* Grammar
-* Dictionary
-* Story
+* Grammar - https://ryanoftinellb.github.io/TinellbianLanguages/grammar/index.html
+* Dictionary - https://ryanoftinellb.github.io/TinellbianLanguages/dictionary/index.html
+* Story - https://ryanoftinellb.github.io/TinellbianLanguages/story/index.html
 
 ---
 For each of these (with ~ replacing the above terms):
