@@ -162,7 +162,7 @@ class EditStory(tk.Frame):
 
     def publish(self, event=None):
         for window, i in self.windows:
-            box_text = window.get(1.0, tk.END).replace("\n", " ")
+            box_text = window.get(1.0, tk.END).replace("\n", "")
             self.story[i][self.chapter][self.paragraph] = box_text
         english, transliteration, gloss = [self.story[i][self.chapter][self.paragraph] for i in [1, 3, 5]]
         if english == "***":

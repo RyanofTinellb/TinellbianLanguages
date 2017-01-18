@@ -175,7 +175,6 @@ class EditDictionary(tk.Frame):
     def publish():
         HtmlPage("dictionary", 2)
         create_search()
-        print("Done!")
 
 app = EditDictionary()
 app.master.title('Dictionary Edit')

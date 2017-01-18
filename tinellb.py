@@ -55,7 +55,7 @@ def interlinear(english, transliteration, gloss):
     italic = False
     if english == "***":
         return "***\n"
-    literal = gloss[gloss.find(" | [r]"):].replace("===", "class=\\\"literal\\\"")
+    literal = gloss[gloss.find(" | [r]"):]
     text = "[t]" + english + literal + " | [r]"
     transliteration = morpheme_split(transliteration)
     gloss = morpheme_split(gloss)
@@ -201,7 +201,7 @@ class Markdown:
             except ValueError:
                 break
             link = text[open_brace:close_brace].lower()
-            if link[:1] == "''":
+            if link[:2] in ["''", "\\-"]:
                 link = link[1:]
             if link[0] in "'-":
                 cat = link[1]
