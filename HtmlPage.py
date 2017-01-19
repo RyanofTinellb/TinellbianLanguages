@@ -5,9 +5,9 @@ import tinellb
 
 class HtmlPage:
     def __init__(self, name, leaf_level):
-        source_file = name + "_data.txt"
-        self.template_file = name + "_template.txt"
-        self.stylesheet = name + "_style.css"
+        os.chdir("c:/users/ryan/documents/tinellbianlanguages")
+        source_file = "data.txt"
+        self.template_file = "template.txt"
         self.directory = Directory(name, leaf_level)
         self.root = self.directory.root
         self.name = name
@@ -38,7 +38,7 @@ class HtmlPage:
 
     def create_page(self):
         replacements = [["title", self.title], ["toc", self.toc], ["nav-footer", self.nav_footer],
-                        ["stylesheet", self.stylesheet_and_icon], ["content", self.contents]]
+                        ["content", self.contents], ["stylesheet", self.stylesheet_and_icon]]
         if self.name == "grammar":
             nav_header = self.nav_header_grammar
         elif self.name == "story":
@@ -52,9 +52,14 @@ class HtmlPage:
             page = template.read()
         for placeholder, replacement in replacements:
             page = page.replace("{" + placeholder + "}", replacement())
-        path = "/".join([node.url() for node in self.current.ancestors()])
-        file_name = path + "/" + self.current.url(True)
-        path += "/" + self.current.url() if self.current.generation() != self.leaf_level else ""
+        path = "/".join([node.url() for node in self.current.ancestors()[1:]])
+        if path:
+            path += "/"
+            file_name = path
+        else:
+            file_name = ""
+        file_name += self.current.url(True)
+        path += self.current.url() if self.current.generation() != self.leaf_level else ""
         try:
             os.makedirs(path)
         except os.error:
@@ -147,7 +152,8 @@ class HtmlPage:
         text += (level - 1) * "</ul>\n"
         text += "<li class=\"link\">" + self.current.hyperlink("Search.html", "Site Search") + "</li>"
         for link in ["story", "dictionary"]:
-            text += "<li class=\"link\">" + self.current.hyperlink(link + "/index.html", link.capitalize()) + "</li>\n"
+            text += "<li class=\"link\">" + "<a href=\"" + link + ".tinellb.com\">" + link.capitalize() + "</a>"
+            text += "</li>\n"
         text += "</ul>\n"
         return text
 
@@ -163,7 +169,8 @@ class HtmlPage:
         text += "<li class=\"up-arrow\">" + self.current.hyperlink(self.current.parent, "Go up one level") + "</li>"
         text += "<li class=\"link\">" + self.current.hyperlink("Search.html", "Site Search") + "</li>"
         for link in ["grammar", "dictionary"]:
-            text += "<li class=\"link\">" + self.current.hyperlink(link + "/index.html", link.capitalize()) + "</li>\n"
+            text += "<li class=\"link\">" + "<a href=\"" + link + ".tinellb.com\">" + link.capitalize() + "</a>"
+            text += "</li>\n"
         text += "</ul>\n"
         return text
 
@@ -180,7 +187,7 @@ class HtmlPage:
                 text += "<span class=\"no-space\"> </span>"
         text += "<br>" + self.current.hyperlink("Search.html", "Site Search")
         for link in ["grammar", "story"]:
-            text += "<br>" + self.current.hyperlink(link + "/index.html", link.capitalize())
+            text += "<br><a href=\"http://" + link + ".tinellb.com\">" + link.capitalize() + "</a>"
         return text
 
     def nav_footer(self):
@@ -194,9 +201,9 @@ class HtmlPage:
 
     def stylesheet_and_icon(self):
         text = "<link rel=\"stylesheet\" type=\"text/css\" "
-        text += self.current.hyperlink(self.root.url() + "_style.css", "", True) + ">\n"
+        text += self.current.hyperlink(self.root.url() + "/style.css", "", True) + ">\n"
         text += "<link rel=\"icon\" type=\"image/png\" "
-        text += self.current.hyperlink("favicon.png", "", True) + ">\n"
+        text += self.current.hyperlink(self.root.url() + "/favicon.png", "", True) + ">\n"
         return text
 
     def contents(self):
@@ -295,8 +302,8 @@ class HtmlPage:
 
     def create_main_page(self):
         node = self.root
-        template_file = self.name + "_main_template.txt"
-        destination_filename = self.name + "/index.html"
+        template_file = "main_template.txt"
+        destination_filename = "index.html"
         text = ""
         level = 0
         with open(template_file, "r") as template:
@@ -318,10 +325,6 @@ class HtmlPage:
                             text += (old_level - level) * "</ul>\n"
                         text += "<li>" + self.root.hyperlink(node) + "</li>\n"
                     text += level * "</ul>\n"
-        try:
-            os.makedirs(self.name)
-        except os.error:
-            pass
         with open(destination_filename, "w") as destination_file:
             destination_file.write(text)
 
@@ -335,7 +338,7 @@ def create_search():
         level = 0
         directory = Directory(name, leaf_level)
         node = directory.root
-        with open(name + "_data.txt", "r") as f:
+        with open("data.txt", "r") as f:
             page = f.read()
         page = page.replace(" | ", " ")
         page = page.replace(chr(7), "")

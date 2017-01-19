@@ -182,7 +182,7 @@ class Markdown:
     def __init__(self):
         self.markup = []
         self.markdown = []
-        with open("replacements.html", "r") as replacements:
+        with open("c:/users/ryan/documents/tinellbianlanguages/main/replacements.html", "r") as replacements:
             for line in replacements:
                 line = line.split(" ")
                 down, up = line[0], line[1]

@@ -1,6 +1,10 @@
+import os
+
+
 class Directory:
     def __init__(self, name, leaf_level=3):
-        source_file = name + "_data.txt"
+        os.chdir("c:/users/ryan/documents/tinellbianlanguages/" + name)
+        source_file = "data.txt"
         with open(source_file, 'r') as source:
             self.hierarchy = Hierarchy(name.capitalize(), leaf_level)
             self.root = current = self.hierarchy.root
