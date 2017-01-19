@@ -174,7 +174,7 @@ class Node:
             href = "href=\"" + up * "../" + down + extension + "\""
             link = "<a " + href + ">" + template.replace("$", destination.name) + "</a>"
         except AttributeError:
-            up = self.generation() + change
+            up = self.generation() - 1 + change
             href = "href=\"" + up * "../" + destination + "\""
             link = "<a " + href + ">" + template.replace("$", destination) + "</a>"
         return href if just_href else link

@@ -201,9 +201,9 @@ class HtmlPage:
 
     def stylesheet_and_icon(self):
         text = "<link rel=\"stylesheet\" type=\"text/css\" "
-        text += self.current.hyperlink(self.root.url() + "/style.css", "", True) + ">\n"
+        text += self.current.hyperlink("style.css", "", True) + ">\n"
         text += "<link rel=\"icon\" type=\"image/png\" "
-        text += self.current.hyperlink(self.root.url() + "/favicon.png", "", True) + ">\n"
+        text += self.current.hyperlink("favicon.png", "", True) + ">\n"
         return text
 
     def contents(self):
