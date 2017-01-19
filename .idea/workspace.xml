@@ -3,31 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Replacements.html" afterPath="$PROJECT_DIR$/Replacements.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Search.html" afterPath="$PROJECT_DIR$/Search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/c/index.html" afterPath="$PROJECT_DIR$/dictionary/c/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/daca.html" afterPath="$PROJECT_DIR$/dictionary/d/daca.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/d/index.html" afterPath="$PROJECT_DIR$/dictionary/d/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/index.html" afterPath="$PROJECT_DIR$/dictionary/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/index.html" afterPath="$PROJECT_DIR$/dictionary/j/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/ja.html" afterPath="$PROJECT_DIR$/dictionary/j/ja.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/j/jiqu.html" afterPath="$PROJECT_DIR$/dictionary/j/jiqu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/m/index.html" afterPath="$PROJECT_DIR$/dictionary/m/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/n/index.html" afterPath="$PROJECT_DIR$/dictionary/n/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/p/index.html" afterPath="$PROJECT_DIR$/dictionary/p/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary/s/index.html" afterPath="$PROJECT_DIR$/dictionary/s/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dictionary_data.txt" afterPath="$PROJECT_DIR$/dictionary_data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_dictionary.py" afterPath="$PROJECT_DIR$/edit_dictionary.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/edit_story.py" afterPath="$PROJECT_DIR$/edit_story.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/searching.json" afterPath="$PROJECT_DIR$/searching.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" afterPath="$PROJECT_DIR$/story/english/thecrackledegg/prologue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" afterPath="$PROJECT_DIR$/story/gloss/feather-becomingegg/up-story-nmn.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/interlinear/story/prologue.html" afterPath="$PROJECT_DIR$/story/interlinear/story/prologue.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" afterPath="$PROJECT_DIR$/story/tinellbian/zcngyl/dsnuk.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" afterPath="$PROJECT_DIR$/story/transliteration/xucinagicula/disinnamuka.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/story_data.txt" afterPath="$PROJECT_DIR$/story_data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tinellb.py" afterPath="$PROJECT_DIR$/tinellb.py" />
     </list>
     <ignored path="TinellbianLanguages.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="edit_dictionary.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="edit_dictionary.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="176" column="23" lean-forward="false" selection-start-line="176" selection-start-column="23" selection-end-line="176" selection-end-column="23" />
+            <state relative-caret-position="400">
+              <caret line="148" column="42" lean-forward="false" selection-start-line="148" selection-start-column="42" selection-end-line="148" selection-end-column="42" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -62,7 +39,7 @@
       <file leaf-file-name="edit_story.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/edit_story.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="3950">
               <caret line="164" column="62" lean-forward="false" selection-start-line="164" selection-start-column="62" selection-end-line="164" selection-end-column="62" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
@@ -81,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tinellb.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tinellb.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tinellb.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="64">
@@ -233,8 +210,8 @@
         <option value="$PROJECT_DIR$/Scratch.py" />
         <option value="$PROJECT_DIR$/HtmlPage.py" />
         <option value="$PROJECT_DIR$/edit_story.py" />
-        <option value="$PROJECT_DIR$/edit_dictionary.py" />
         <option value="$PROJECT_DIR$/tinellb.py" />
+        <option value="$PROJECT_DIR$/edit_dictionary.py" />
       </list>
     </option>
   </component>
@@ -783,18 +760,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/edit_story.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
+        <state relative-caret-position="3950">
           <caret line="164" column="62" lean-forward="false" selection-start-line="164" selection-start-column="62" selection-end-line="164" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="176" column="23" lean-forward="false" selection-start-line="176" selection-start-column="23" selection-end-line="176" selection-end-column="23" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
@@ -806,6 +773,16 @@
         <state relative-caret-position="64">
           <caret line="202" column="55" lean-forward="false" selection-start-line="202" selection-start-column="55" selection-end-line="202" selection-end-column="55" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit_dictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="148" column="42" lean-forward="false" selection-start-line="148" selection-start-column="42" selection-end-line="148" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

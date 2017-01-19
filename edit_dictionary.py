@@ -145,6 +145,7 @@ class EditDictionary(tk.Frame):
         self.edit_text.insert(tk.INSERT, text)
 
     def bring_entry(self, event=None):
+        self.markdown = tinellb.Markdown()
         self.entry = self.heading.get(1.0, tk.END+"-1c")
         self.old_page = tinellb.find_entry("dictionary_data.txt", self.entry)
         self.new_page = self.markdown.to_markdown(self.old_page)
