@@ -152,7 +152,7 @@ class HtmlPage:
         text += (level - 1) * "</ul>\n"
         text += "<li class=\"link\">" + self.current.hyperlink("Search.html", "Site Search") + "</li>"
         for link in ["story", "dictionary"]:
-            text += "<li class=\"link\">" + "<a href=\"" + link + ".tinellb.com\">" + link.capitalize() + "</a>"
+            text += "<li class=\"link\">" + "<a href=\"http://" + link + ".tinellb.com\">" + link.capitalize() + "</a>"
             text += "</li>\n"
         text += "</ul>\n"
         return text
@@ -169,7 +169,7 @@ class HtmlPage:
         text += "<li class=\"up-arrow\">" + self.current.hyperlink(self.current.parent, "Go up one level") + "</li>"
         text += "<li class=\"link\">" + self.current.hyperlink("Search.html", "Site Search") + "</li>"
         for link in ["grammar", "dictionary"]:
-            text += "<li class=\"link\">" + "<a href=\"" + link + ".tinellb.com\">" + link.capitalize() + "</a>"
+            text += "<li class=\"link\">" + "<a href=\"http://" + link + ".tinellb.com\">" + link.capitalize() + "</a>"
             text += "</li>\n"
         text += "</ul>\n"
         return text

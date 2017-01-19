@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="" />
+    <list default="true" id="55ab2263-2170-4b1a-8f5e-e6d3debf24c3" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HtmlPage.py" afterPath="$PROJECT_DIR$/HtmlPage.py" />
+    </list>
     <ignored path="TinellbianLanguages.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HtmlPage.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HtmlPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="203" column="40" lean-forward="false" selection-start-line="203" selection-start-column="40" selection-end-line="203" selection-end-column="40" />
+            <state relative-caret-position="323">
+              <caret line="154" column="62" lean-forward="false" selection-start-line="154" selection-start-column="62" selection-end-line="154" selection-end-column="62" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -66,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Create Pages.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Create Pages.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Create Pages.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
@@ -208,8 +210,8 @@
         <option value="$PROJECT_DIR$/edit_dictionary.py" />
         <option value="$PROJECT_DIR$/tinellb.py" />
         <option value="$PROJECT_DIR$/Create Pages.py" />
-        <option value="$PROJECT_DIR$/HtmlPage.py" />
         <option value="$PROJECT_DIR$/Directory.py" />
+        <option value="$PROJECT_DIR$/HtmlPage.py" />
       </list>
     </option>
   </component>
@@ -627,11 +629,6 @@
           <line>12</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HtmlPage.py</url>
-          <line>176</line>
-          <option name="timeStamp" value="202" />
-        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -772,16 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HtmlPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="203" column="40" lean-forward="false" selection-start-line="203" selection-start-column="40" selection-end-line="203" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Directory.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
@@ -795,6 +782,16 @@
         <state relative-caret-position="50">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HtmlPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="154" column="62" lean-forward="false" selection-start-line="154" selection-start-column="62" selection-end-line="154" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
