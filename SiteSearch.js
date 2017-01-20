@@ -1,30 +1,9 @@
----
-permalink: /404.html
----
-<!DOCTYPE html>
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css" href="/Search.css">
-<title>Search Tinellbian Languages</title>
-</head>
-<body>
-<h1>Search the Dictionary</h1>
-<p>Pages will be returned which contain all entered search terms. A single apostrophe (') represents &rsquo;, and two apostrophes can represent the &#x294; symbol.</p>
-<form>
-<input type="text" class="term" id="term" name="term" placeholder="Search..."><br>
-<input type="submit" class="submit" value="Search">
-<input type="radio" name="andor" id="and" value="and" checked="true">AND
-<input type="radio" name="andor" id="or" value="or">OR
-</form>
-<div class="results" id="results" name="results"></div>
-<script>
 if (window.location.href.indexOf("?") != -1) {
 	search();
 }
 function search() {
 	document.getElementById("results").innerHTML = "Searching...";
-	var url = "/TinellbianLanguages/searching.json";
+	var url = "/searching.json";
 	var xmlhttp = new XMLHttpRequest();
 	var andButton = document.getElementById("and")
 	xmlhttp.onreadystatechange = function() {
@@ -42,7 +21,7 @@ function search() {
 // returns array of terms
 function getTerms() {
 	var markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%29", ")", "\u0157", ",r",	"%20", "+", "%24", "$", "%25", "%",
-	"%3b", ""];
+	"%3b", " "];
 	var url = window.location.href;
 	url  = url.split("?");
 	var searchString = url[1].split("&");
@@ -174,11 +153,9 @@ function display(arr, id, terms) {
 			line = line.split(term).join("<b>" + term + "</b>");
 		}
 		line = line.replace(/b>/g, "strong>");
-		//<li><a href="blah/index.html">Blah</a>: jhfkjsh blah jkfh </li>
-		text += "<li><a href=\"/TinellbianLanguages/" + arr[i].u + "\">" + arr[i].a + "</a>: " + line + "</li>";
+		//<li><a href="blah/index.html">Blah</a>: foo blah bar </li>
+		text += "<li><a href=\"" + arr[i].u + "\">" + arr[i].a + "</a>: " + line + "</li>";
 	}
 	text += "</ol>";
 	document.getElementById(id).innerHTML = text;
 }
-</script>
-</body>
