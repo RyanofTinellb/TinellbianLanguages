@@ -6,14 +6,25 @@
 <title>Search Tinellbian Languages</title>
 </head>
 <body>
-<h1>Search the Entire Site</h1>
-<p>Pages will be returned which contain all entered search terms. A single apostrophe (') represents &rsquo;, and two apostrophes can represent the &#x294; symbol.</p>
-<form>
-<input type="text" class="term" id="term" name="term" placeholder="Search..."><br>
-<input type="submit" class="submit" value="Search">
+<h1>Search Subsections</h1>
+<p>Running a search from here will take you to the appropriate results page.<br> A single apostrophe (') represents &rsquo;, and two apostrophes can represent the &#x294; symbol.</p>
+<p><input type="radio" name="section" id="grammar" value="grammar">Grammar
+<input type="radio" name="section" id="dictionary" value="dictionary" checked="true">Dictionary
+<input type="radio" name="section" id="story" value="story">Story</p>
+<input type="text" class="term" id="term" name="term" placeholder="Search..."><br><br>
+<input type="submit" class="submit" value="Search" onClick="search()">
 <input type="radio" name="andor" id="and" value="and" checked="true">AND
 <input type="radio" name="andor" id="or" value="or">OR
-</form>
-<div class="results" id="results" name="results"></div>
-<script src="normalSearch.js"></script>
+<script>
+function search() {
+	if (story.checked) {section = "coelacanthquartet"}
+	else if (dictionary.checked) {section = "dictionary"}
+	else {section = "grammar"};
+	if (and.checked) {andor = "and"} else {andor = "or"};
+	terms = document.getElementById("term").value.split(" ").join("+")
+	address = "http://" + section + ".tinellb.com/Search.html?term=" + terms + "&"
+	address += "andor=" + andor;
+	window.open(address, "_self", false);
+}
+</script>
 </body>

@@ -10,8 +10,12 @@ function search() {
 		if (this.readyState == 4 && this.status == 200) {
 			var text = JSON.parse(this.responseText);
 			var terms = getTerms();
-			if (andButton.checked) {andSearch(text, terms)}
-				else {orSearch(text, terms);}
+			if (terms.length == 1) {arr = oneTermSearch(text, terms);}
+			else {
+				if (andButton.checked) {arr = andSearch(text, terms);}
+				else {arr = orSearch(text, terms);}
+			}
+			display(arr, text, "results", terms);
 		}
 	};
 	xmlhttp.open("GET", url, true);
@@ -39,74 +43,61 @@ function getTerms() {
 // @param arr: raw json array (usually from file)
 // @param String[] terms: search terms
 function orSearch(arr, terms) {
-	output = new Array;
-		arr = arr.filter(function (item, pos, ary) {return terms.indexOf(ary[pos].t) != -1;});
-		arr = arr.map(function (item) {return item.r});
-		if (arr.length > 0) {
-			arr = arr.reduce(function (a, b) {return a.concat(b);});
-			arr = keySort(arr);
-	}
-	display(arr, "results", terms);
-}
-
-// builds array of results containing all search terms
-function andSearch(arr, terms) {
-	len = terms.length - 1
-	arr = arr.filter(function (item, pos, ary) {return terms.indexOf(ary[pos].t) != -1;});
-	arr = arr.map(function (item) {return item.r});
-	intersection = intersect(arr);
-	if (arr.length > 0) {
-		arr = arr.reduce(function (a, b) {return a.concat(b);});
-		arr = keySort(arr);
-		arr = arr.filter(function (item) {return intersection.indexOf(item.u) != -1;});
-	}
-	display(arr, "results", terms);
-}
-
-// returns an array containing only the intersection
-function intersect(arr) {
-	output = new Array;
-	if (arr.length == 0) {return;}
-	arr = arr.filter(function (item) {return item.length > 0;});
-	arr = arr.sort(function (a,b) {return a.length > b.length ? true : false;});
-	// check for each item in the first/shortest array
-	for (var i = 0; i < arr[0].length; i++) {
-		inIntersection = true;
-		url = arr[0][i].u;
-		// check in every other array
-		for (var j = 1; j < arr.length; j++) {
-			inArray = arr[j].map(function (item) {return item.u == url;}).reduce(function(a,b) {return a || b});
-			if (!inArray) {
-				inIntersection = false; break;
-			}
+	var output = new Array;
+	for (t in terms) {
+		var term = terms[t];
+		results = oneTermSearch(arr, term);
+		for (r in results) {
+			output.push(results[r])
 		}
-		if (inIntersection) {output.push(arr[0][i].u)}
+	}
+	output.sort(function (a,b) {return parseInt(a[0]) >= parseInt(b[0]);})
+	var i = 0;
+	while (i < output.length - 1) {
+		if (output[i][0] == output[i+1][0]) {
+			output[i][1] = output[i][1].concat(output[i+1][1]).sort(function (a,b) {
+				return a < b;}).filter(function(item, pos, ary) {
+			return !pos || !equal(item, ary[pos - 1]);
+				})
+			output = output.filter(function(item, pos, ary) {return pos != i;});
+		} else {i++;}
 	}
 	return output;
 }
 
-// checks equality of entries
-function equal(a, b) {
-	return a.u == b.u && a.l == b.l;
+// builds array of results containing all search terms
+function andSearch(arr, terms) {
+	var output = new Array;
+	num = terms.length - 1;
+	for (t in terms) {
+		var term = terms[t];
+		results = oneTermSearch(arr, term);
+		for (r in results) {
+			output.push(results[r])
+		}
+	}
+	output.sort(function (a,b) {return parseInt(a[0]) >= parseInt(b[0]);})
+	for (var i = num; i < output.length; i++) {
+		if (output[i][0] == output[i - num][0]) {
+			for (j = i - num; j < i; j++) {
+				output[i][1] = output[i][1].concat(output[j][1]);
+			}
+			output[i][1] = output[i][1].sort(function (a,b) {
+				return a >= b;}).filter(function (item, pos, ary) {
+					return (!pos || item != ary[pos - 1]);
+			});
+		}
+	}
+	output = output.filter(function (item, pos, ary) {return (pos >= num && item[0] == ary[pos - num][0]);});
+	return output;
 }
 
-// checks for equality of urls
-function equalUrl(a,b) {
-	return a.u == b.u
-}
-
-// only keeps unique entries
-// arr must be sorted
-function uniqueLines(arr) {
-	return arr.filter(function(item, pos, ary) {
-		return !pos || !equal(item, ary[pos - 1]);
-	});
-}
-
-// sorts by url and line number
-function keySort(arr) {
-	return arr.sort(function (a,b) {
-		return (a.u > b.u ? 1 : (a.u < b.u ? -1 : (a.n < b.n ? -1 : (a.n > b.n ? 1 : 0))))});
+function oneTermSearch(arr, term) {
+	text = new Array;
+	for (page in arr.terms[term]) {
+		text.push([page, arr.terms[term][page]])
+	}
+	return text;
 }
 
 // capitalises first letter
@@ -118,43 +109,49 @@ function capitalise(string) {
 		return string.charAt(0).toUpperCase() + string.slice(1);
 	}
 }
+
+function markdown(arr) {
+	var marking = ["$a", "&acirc;", "$e", "&ecirc;", "$i", "&icirc;", "$o", "&ocirc;", "$u", "&ucirc;", "$e", "&ecirc;", "$a", "&acirc;", "$e", "&ecirc;", ")a", "&agrave;", ")e", "&egrave;", ")i", "&igrave;", ")o", "&ograve;", ")u", "&ugrave;", "_o", "&#x14d;", "+h", "&#x2b0;", ",c", "&#x255;", ",n", "&#x14b;", "'", "&rsquo;", "''", "&#x294;", "$h", "&#x2b1;", "-i", "&#x268;", "=j", "&#x25f;", "$l", "&#x28e;", "$n", "&#x272;", "$r", "&#x279;", ",r", "&#x157;", "!e", "&#x259;", "-u", "&#x289;", "_u", "&#x16b;"]
+	var terms = new Array;
+	for (termnum in arr) {
+		var term = arr[termnum];
+		for (i = 0; i < marking.length; i++) {
+			term = term.split(marking[i]).join(marking[++i]);
+		}
+		terms.push(term);
+	}
+	return terms;
+}
 	
 
 // displays results as list
 // @param Array arr: results array
-	var markdown = ["&acirc;", "$a", "&ecirc;", "$e", "&icirc;", "$i", "&ocirc;", "$o", "&ucirc;","$u", "&ecirc;", "$e", "&acirc;", "$a", "&ecirc;", "$e", "&agrave;", ")a", "&egrave;", ")e", "&igrave;", ")i", "&ograve;", ")o", "&ugrave;", ")u", "&#x14d;", "_o", "&#x2b0;", "+h", "&#x255;", ",c", "&#x14b;", ",n", "&rsquo;", "'", "&#x294;", "''", "&#x2b1;", "$h", "&#x268;", "-i", "&#x25f;", "=j", "&#x28e;", "$l", "&#x272;", "$n", "&#x279;", "$r", "&#x157;", ",r", "&#x259;", "!e", "&#x289;", "-u", "&#x16b;", "_u"]
-function display(arr, id, terms) {
+function display(arr, data, id, terms) {
+	terms = markdown(terms);
 	if (arr.length == 0) {
 		document.getElementById(id).innerHTML = "Search term(s) not found";
 		return;
 	}
-	arr = uniqueLines(arr)
 	var text = "<ol>"
-	for (var i = 0; i < arr.length; i++) {
-		lines = new Array;
-		first_url = arr[i].u;
-		new_url = first_url;
-		while (new_url == first_url) {
-			lines.push(arr[i].l);
-			i++;
-			if (i >= arr.length) {break;}
-			new_url = arr[i].u;
-		}
-		i--
-		line = lines.join(" &hellip; ");
-		// bold search terms
-		for (var j = 0; j < terms.length; j++) {
-			term = terms[j];
-			for (var k = 0; k < markdown.length; k += 2) {
-				term = term.split(markdown[k+1]).join(markdown[k])
+	for (var pagenum in arr) {
+		var page = arr[pagenum];
+		var link = data.urls[page[0]] + ".html";
+		var name = data.names[page[0]];
+		var lines = new Array;
+		for (linenum in page[1]) {
+			var line = data.sentences[page[1][linenum]];
+			for (termnum in terms) {
+				var term = terms[termnum];
+				var replacement = "<strong>" + term + "</strong>"
+				line = line.split(term).join(replacement);
+				term = capitalise(term);
+				replacement = "<strong>" + term + "</strong>"
+				line = line.split(term).join(replacement);
 			}
-			line = line.split(term).join("<b>" + term + "</b>");
-			term = capitalise(term);
-			line = line.split(term).join("<b>" + term + "</b>");
+			lines.push(line);
 		}
-		line = line.replace(/b>/g, "strong>");
-		//<li><a href="blah/index.html">Blah</a>: foo blah bar </li>
-		text += "<li><a href=\"" + arr[i].u + "\">" + arr[i].a + "</a>: " + line + "</li>";
+		text += "<li><a href=\"" + link + "\">" + name + "</a>: "
+		text += lines.join(" &hellip; ") + "</li>"
 	}
 	text += "</ol>";
 	document.getElementById(id).innerHTML = text;
