@@ -11,7 +11,7 @@
 <p><input type="radio" name="section" id="grammar" value="grammar">Grammar
 <input type="radio" name="section" id="dictionary" value="dictionary" checked="true">Dictionary
 <input type="radio" name="section" id="story" value="story">Story</p>
-<input type="text" class="term" id="term" name="term" placeholder="Search..."><br><br>
+<input type="text" class="term" id="term" name="term" placeholder="Search..." onKeyDown="if(event.keyCode == 13) {search();}"><br><br>
 <input type="submit" class="submit" value="Search" onClick="search()">
 <input type="radio" name="andor" id="and" value="and" checked="true">AND
 <input type="radio" name="andor" id="or" value="or">OR
