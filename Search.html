@@ -4,28 +4,35 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<link rel="icon" type="image/png" href="favicon.png">
 		<title>Search Tinellbian Languages</title>
 	</head>
 	<body>
-		<h1>Search Subsections</h1>
-		<p>Running a search from here will take you to the appropriate results page.<br> A single apostrophe (') represents &rsquo;, and two apostrophes can represent the &#x294; symbol.</p>
-		<p><input type="radio" name="section" id="grammar" value="grammar">Grammar
-			<input type="radio" name="section" id="dictionary" value="dictionary" checked="true">Dictionary
-			<input type="radio" name="section" id="story" value="story">Story</p>
-			<input type="text" class="term" id="term" name="term" placeholder="Search..." onKeyDown="if(event.keyCode == 13) {search();}"><br><br>
-			<input type="submit" class="submit" value="Search" onClick="search()">
-			<input type="radio" name="andor" id="and" value="and" checked="true">AND
-			<input type="radio" name="andor" id="or" value="or">OR
+		<h1>Search the Entire Site</h1>
+		<form>
+			<p>
+				<input type="checkbox" name="section" id="grammar" value="true">Grammar
+				<input type="checkbox" name="section" id="dictionary" value="true">Dictionary
+				<input type="checkbox" name="section" id="story" value="true">Story
+			</p>
+			<p>
+				<input type="text" class="term" id="term" name="term" placeholder="Search..." onKeyDown="if(event.keyCode == 13) {search();}"><br>
+				<input type="submit" class="button" value="Search" onClick="search()">
+				<input type="radio" name="andor" id="and" value="and" checked="true">AND
+				<input type="radio" name="andor" id="or" value="or">OR
+			</p>
+		</form>
 			<script>
-			function search() {
-				if (story.checked) {section = "coelacanthquartet"}
-				else if (dictionary.checked) {section = "dictionary"}
-				else {section = "grammar"};
-				if (and.checked) {andor = "and"} else {andor = "or"};
-				terms = document.getElementById("term").value.split(" ").join("+")
-				address = "http://" + section + ".tinellb.com/Search.html?term=" + terms + "&"
-				address += "andor=" + andor;
-				window.open(address, "_self", false);
-			}
+
+				function getParameterByName(name, url) {
+					if (!url) url = window.location.href;
+					name = name.replace(/[\[\]]/g, "\\$&");
+					var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+					results = regex.exec(url);
+					if (!results) return null;
+					if (!results[2]) return '';
+					return decodeURIComponent(results[2].replace(/\+/g, " "));
+				}
+					
 			</script>
 		</body>

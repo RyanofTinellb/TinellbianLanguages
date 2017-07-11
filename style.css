@@ -35,3 +35,21 @@ p.intro {
 p.footnote {
 	font-size: small;
 }
+
+form {
+	margin-left: 5em;
+	margin-bottom: 2em;
+	line-height: 1;
+}
+
+form input.term {
+	width: 13em;
+	height: 1.5em;
+	line-height: 1;
+	margin-bottom: 0;
+	margin-left: 2em;
+}
+
+form input.button {
+	margin-left: 2em;
+}
