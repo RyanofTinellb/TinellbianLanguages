@@ -1,11 +1,14 @@
+
+
 if (window.location.href.indexOf("?") != -1) {
 	search();
 }
+
 function search() {
-	document.getElementById("results").innerHTML = "Searching...";
+	document.getElementById("results").innerHTML = "<ul><li>Searching...</li></ul>";
 	var url = "/searching.json";
 	var xmlhttp = new XMLHttpRequest();
-	var andButton = document.getElementById("and")
+	var andButton = document.getElementById("and");
 	xmlhttp.onreadystatechange = function() {
 		if (this.readyState == 4 && this.status == 200) {
 			var text = JSON.parse(this.responseText);
@@ -24,8 +27,8 @@ function search() {
 
 // returns array of terms
 function getTerms() {
-	var markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%29", ")", "\u0157", ",r",	"%20", "+", "%24", "$", "%25", "%",
-	"%3b", " "];
+	var markup = ["%E2%80%99", "'", "%c3%bb", "$u", "%27", "'", "\u0294", "''", "\u00ec", "$e", "%29", ")", "%c5%97", ",r",	"%20", "+", "%24", "$", "%25", "%",
+	"%3b", " ", "%2cr", ",r"];
 	var url = window.location.href;
 	url  = url.split("?");
 	var searchString = url[1].split("&");
@@ -36,7 +39,7 @@ function getTerms() {
 		text = text.split(markup[i]).join(markup[i+1]).toLowerCase();
 	}
 	document.getElementById("term").value = text.split("+").join(" ");
-	return text.split("+").filter(function (i) {return i != "";});	
+	return text.split("+").filter(function (i) {return i != "";});
 }
 
 // builds array of results containing any search term
@@ -57,7 +60,7 @@ function orSearch(arr, terms) {
 		if (output[i][0] == output[i+1][0]) {
 			output[i][1] = output[i][1].concat(output[i+1][1]).sort(function (a,b) {
 				return a < b;}).filter(function(item, pos, ary) {
-			return !pos || !equal(item, ary[pos - 1]);
+			return !pos || item != ary[pos - 1];
 				})
 			output = output.filter(function(item, pos, ary) {return pos != i;});
 		} else {i++;}
@@ -111,7 +114,7 @@ function capitalise(string) {
 }
 
 function markdown(arr) {
-	var marking = ["$a", "&acirc;", "$e", "&ecirc;", "$i", "&icirc;", "$o", "&ocirc;", "$u", "&ucirc;", "$e", "&ecirc;", "$a", "&acirc;", "$e", "&ecirc;", ")a", "&agrave;", ")e", "&egrave;", ")i", "&igrave;", ")o", "&ograve;", ")u", "&ugrave;", "_o", "&#x14d;", "+h", "&#x2b0;", ",c", "&#x255;", ",n", "&#x14b;", "'", "&rsquo;", "''", "&#x294;", "$h", "&#x2b1;", "-i", "&#x268;", "=j", "&#x25f;", "$l", "&#x28e;", "$n", "&#x272;", "$r", "&#x279;", ",r", "&#x157;", "!e", "&#x259;", "-u", "&#x289;", "_u", "&#x16b;"]
+	var marking = ["$a", "&acirc;", "$e", "&ecirc;", "$i", "&icirc;", "$o", "&ocirc;", "$u", "&ucirc;", "$e", "&ecirc;", "$a", "&acirc;", "$e", "&ecirc;", ")a", "&agrave;", ")e", "&egrave;", ")i", "&igrave;", ")o", "&ograve;", ")u", "&ugrave;", "_o", "&#x14d;", "+h", "&#x2b0;", ",c", "&#x255;", ",n",  "&#x14b;", "''", "&#x294;", "'", "&rsquo;", "$h", "&#x2b1;", "-i", "&#x268;", "=j", "&#x25f;", "$l", "&#x28e;", "$n", "&#x272;", "$r", "&#x279;", ",r", "&#x157;", "!e", "&#x259;", "-u", "&#x289;", "_u", "&#x16b;"]
 	var terms = new Array;
 	for (termnum in arr) {
 		var term = arr[termnum];
@@ -122,14 +125,14 @@ function markdown(arr) {
 	}
 	return terms;
 }
-	
+
 
 // displays results as list
 // @param Array arr: results array
 function display(arr, data, id, terms) {
 	terms = markdown(terms);
 	if (arr.length == 0) {
-		document.getElementById(id).innerHTML = "Search term(s) not found";
+		document.getElementById(id).innerHTML = "<ul><li>Search term(s) not found</li></ul>";
 		return;
 	}
 	var text = "<ol>"
@@ -150,7 +153,7 @@ function display(arr, data, id, terms) {
 			}
 			lines.push(line);
 		}
-		text += "<li><a href=\"" + link + "\">" + name + "</a>: "
+		text += "<li><a href=\"/" + link + "\">" + name + "</a>: "
 		text += lines.join(" &hellip; ") + "</li>"
 	}
 	text += "</ol>";
