@@ -29,7 +29,7 @@ permalink: /404.html
 				else {section = "grammar"};
 				if (and.checked) {andor = "and"} else {andor = "or"};
 				terms = document.getElementById("term").value.split(" ").join("+")
-				address = "http://" + section + ".tinellb.com/Search.html?term=" + terms + "&"
+				address = "http://" + section + ".tinellb.com/search.html?term=" + terms + "&"
 				address += "andor=" + andor;
 				window.open(address, "_self", false);
 			}
