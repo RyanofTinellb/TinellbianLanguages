@@ -1,4 +1,4 @@
-The top-level page for https://www.tinellb.com, the site for Ryan Eakins's _Coelacanth Quartet._
+The top-level page for http://www.tinellb.com, the site for Ryan Eakins's _Coelacanth Quartet._
 
 This is a fantasy series, chronicling the journey of Corla through four different worlds, trying to get home.
 
