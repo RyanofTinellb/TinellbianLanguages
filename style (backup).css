@@ -25,6 +25,7 @@ high-lulani::after, vulgar-lulani::after {
 }
 
 body {
+	background-color: #e6fff0;
 	font-family: sans-serif;
 }
 
@@ -156,6 +157,7 @@ body {
 }
 
 .nav-header {
+	background-color: papayawhip;
 	position: fixed;
 	height: 75%;
 	margin: 1% 1% 10%;
@@ -163,6 +165,7 @@ body {
 	overflow: visible;
 	white-space: nowrap;
 	text-align: left;
+	color: darkgreen;
 }
 
 .nav-header:hover {
@@ -170,7 +173,7 @@ body {
 }
 
 .nav-header a {
-	color: black;
+	color: darkgreen;
 	text-decoration: none;
 }
 
