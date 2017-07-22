@@ -16,6 +16,9 @@ Scratch3.py
 Thumbs.db
 desktop.ini
 
+# .idea folders
+.idea/
+
 # Distribution / packaging
 .Python
 env/
