@@ -15,7 +15,6 @@
 					<ul class="level-1">
 						<li><a href="http://grammar.tinellb.com">Grammar Guide</a></li>
 						<li><a href="http://dictionary.tinellb.com">Tinellbian Dictionary</a></li>
-						<li><a href="http://story.tinellb.com">The <em>Coelacanth Quartet</em></a></li>
 					</ul>
 					<li class="normal">Search the Site</li>
 					<li><a href="about.html">About / Contact</a></li>
@@ -27,7 +26,6 @@
 				<p>
 					<input type="radio" name="section" id="grammar" value="grammar">Grammar
 					<input type="radio" name="section" id="dictionary" value="dictionary" checked="true">Dictionary
-					<input type="radio" name="section" id="story" value="story">Story</p>
 					<input type="text" class="term" id="term" name="term" placeholder="Search..." onKeyDown="if(event.keyCode == 13) {search();}"><br><br>
 					<input type="submit" class="submit" value="Search" onClick="search()">
 					<input type="radio" name="andor" id="and" value="and" checked="true">AND
@@ -36,8 +34,7 @@
 				<script>
 
 					function search() {
-						if (story.checked) {section = "coelacanthquartet"}
-						else if (dictionary.checked) {section = "dictionary"}
+						if (dictionary.checked) {section = "dictionary"}
 						else {section = "grammar"};
 						if (and.checked) {andor = "and"} else {andor = "or"};
 						terms = document.getElementById("term").value.split(" ").join("+")

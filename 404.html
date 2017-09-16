@@ -17,7 +17,6 @@ permalink: /404.html
 					<ul class="level-1">
 						<li><a href="http://grammar.tinellb.com">Grammar Guide</a></li>
 						<li><a href="http://dictionary.tinellb.com">Tinellbian Dictionary</a></li>
-						<li><a href="http://story.tinellb.com">The <em>Coelacanth Quartet</em></a></li>
 					</ul>
 					<li><a href="/search.html">Search the Site</a></li>
 					<li><a href="/about.html">About / Contact</a></li>
@@ -29,7 +28,6 @@ permalink: /404.html
 				<p>Use this search page to get back on track, or pick another option from the navigation pane.</p>
 					<input type="radio" name="section" id="grammar" value="grammar">Grammar
 					<input type="radio" name="section" id="dictionary" value="dictionary" checked="true">Dictionary
-					<input type="radio" name="section" id="story" value="story">Story</p>
 					<input type="text" class="term" id="term" name="term" placeholder="Search..." onKeyDown="if(event.keyCode == 13) {search();}"><br><br>
 					<input type="submit" class="submit" value="Search" onClick="search()">
 					<input type="radio" name="andor" id="and" value="and" checked="true">AND
@@ -38,9 +36,8 @@ permalink: /404.html
 				<script>
 
 					function search() {
-						if (story.checked) {section = "coelacanthquartet"}
-						else if (dictionary.checked) {section = "dictionary"}
-						else {section = "grammar"};
+					  if (dictionary.checked) {section = "dictionary"}
+						      else {section = "grammar"};
 						if (and.checked) {andor = "and"} else {andor = "or"};
 						terms = document.getElementById("term").value.split(" ").join("+")
 						address = "http://" + section + ".tinellb.com/search.html?term=" + terms + "&"
