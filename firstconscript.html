@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    My Conscript
+  </title>
+</head>
+<body style="background-color:powderblue;">
+  <h1>My First Conscript</h1>
+  <p id="Here"></p><p></p>
+  <p style="font-family:sans-serif;">Type Here: <input type="text" id="word" onkeyup="writing(event)" value="bcdfghklmnprstvwxyz"></p>
+  <div id="There" style="columns:3"></div>
+  <script src="holaya.js"></script>
+  <script>
+    writing();
+
+    function writing() {
+      let text = document.getElementById("word").value;
+      document.getElementById("Here").innerHTML = write(text);
+    }
+
+    document.getElementById("There").innerHTML = glossary();
+
+  </script>
