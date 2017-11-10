@@ -145,8 +145,8 @@ letters['U'] = letterU;
 
 function write(word) {
   let output = '';
-  for (let i = 0; i < text.length + 1; i += 2) {
-    output += syllable(text.substring(i, i + 2));
+  for (let i = 0; i < word.length + 1; i += 2) {
+    output += syllable(word.substring(i, i + 2));
   }
   return output;
 }
