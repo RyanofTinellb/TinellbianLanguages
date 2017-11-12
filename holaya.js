@@ -1,5 +1,7 @@
 var foreground_colour = 'black';
-var background_colour = 'powderblue';
+var background_colour = 'azure';
+
+var body = document.getElementById("body").style.backgroundColor = background_colour;
 
 
 var letterB = ['***',
