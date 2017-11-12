@@ -188,6 +188,21 @@ function write(word) {
   return output;
 }
 
+function Translation(sentence) {
+  this.sentence = sentence;
+
+  this.translate = function() {
+    return 'Qisa  senatenake  hasa  be?ena  taranasalateda  ?inato  maya  firasata  relekasa  ?ina  ?itasa  sakaripata';
+  };
+
+  this.romaji = this.translate();
+  this.holaya = write(this.romaji);
+}
+
+function test_translate() {
+
+}
+
 // combines two character arrays into one
 function combine(letter1, letter2) {
   if (!letter2) {
