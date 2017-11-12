@@ -11,7 +11,7 @@ var letterB = ['***',
 var letterC = [' * ',
                '* *',
                ' * ',
-               '* *',
+               ' * ',
                '* *'];
 
 var letterD = [' * ',
@@ -37,6 +37,12 @@ var letterH = [' * ',
                '***',
                ' * ',
                ' * '];
+
+var letterJ = ['*  ',
+               ' * ',
+               '  *',
+               '* *',
+               '***'];
 
 var letterK = ['*  ',
                '*  ',
@@ -69,6 +75,12 @@ var letterP = [' * ',
                '  *',
                '***'];
 
+var letterQ = ['***',
+               ' * ',
+               '*  ',
+               '* *',
+               ' **'];
+
 var letterR = ['* *',
                ' * ',
                '***',
@@ -99,6 +111,12 @@ var letterW = [' * ',
                '  *',
                '  *'];
 
+var letterX = ['** ',
+               '* *',
+               '  *',
+               '* *',
+               '** '];
+
 var letterY = ['*  ',
                ' * ',
                '*  ',
@@ -124,16 +142,19 @@ letters['D'] = letterD;
 letters['F'] = letterF;
 letters['G'] = letterG;
 letters['H'] = letterH;
+letters['J'] = letterJ;
 letters['K'] = letterK;
 letters['L'] = letterL;
 letters['M'] = letterM;
 letters['N'] = letterN;
 letters['P'] = letterP;
+letters['Q'] = letterQ;
 letters['R'] = letterR;
 letters['S'] = letterS;
 letters['T'] = letterT;
 letters['V'] = letterV;
 letters['W'] = letterW;
+letters['X'] = letterX;
 letters['Y'] = letterY;
 letters['Z'] = letterZ;
 
@@ -210,8 +231,11 @@ function display(letter, character) {
 
 function glossary() {
   glossary = '';
-  let letters = 'BCDFGHKLMNPRSTVWYZ';
-  let descriptions = ['bat', 'creature', 'dog tail', 'fence', 'gold medal', 'half', 'king&rsquo;s throne', 'large', 'my back', 'no king', 'person looking down a microscope', 'rabbit', 'squiggle', '(spinning) top', 'vacuum', 'woman with aching back', 'yell', 'zebra stripes'];
+  let letters = 'bcdfghjklmnpqrstvwxyz';
+  let descriptions = ['(sports) bat', 'creature', 'dog tail', 'fence',
+    'gold medal', 'half', 'jug', 'king&rsquo;s throne', 'large', 'my back',
+    'no king', 'person looking down a microscope', '(upside down) question mark', 'rabbit', 'squiggle', '(spinning) top', 'vacuum cleaner',
+    'woman with aching back', 'xylem', 'yell', 'zebra stripes'];
   for (let i = 0; i < letters.length; i++) {
     glossary += '<p>' + write(letters[i]) + ': ' + descriptions[i] + '</p>';
   }
