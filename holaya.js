@@ -131,6 +131,18 @@ var letterZ = ['***',
                ' * ',
                '***'];
 
+var letterVowel = ['   ',
+                   '   ',
+                   '***',
+                   '*  ',
+                   '*  '];
+
+var letterSpace = [' ',
+                   ' ',
+                   ' ',
+                   ' ',
+                   ' '];
+
 var letterA = [' ', ' ', ' ', ' ', ' '];
 var letterE = ['*', ' ', ' ', ' ', ' '];
 var letterI = ['*', '*', ' ', ' ', ' '];
@@ -138,6 +150,7 @@ var letterO = ['*', ' ', '*', '*', ' '];
 var letterU = ['*', '*', ' ', '*', ' '];
 
 var letters = [];
+letters['?'] = letterVowel;
 letters['B'] = letterB;
 letters['C'] = letterC;
 letters['D'] = letterD;
@@ -159,6 +172,7 @@ letters['W'] = letterW;
 letters['X'] = letterX;
 letters['Y'] = letterY;
 letters['Z'] = letterZ;
+letters[' '] = letterSpace;
 
 letters['A'] = letterA;
 letters['E'] = letterE;
