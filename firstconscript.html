@@ -7,18 +7,19 @@
 </head>
 <body id="body">
   <h1>My First Conscript</h1>
-  <p id="Here"></p><p></p>
-  <p style="font-family:sans-serif;">Type Here: <input type="text" id="word" onkeyup="writing(event)" value="katupi"></p>
-  <div id="There" style="columns:3"></div>
+  <p id="translation"></p><p></p>
+  <p style="font-family:sans-serif;">Type Here: <input type="text" id="text" onkeyup="writing(event)" value="This sentence has been translated into my first relex in its script."></p>
+  <div id="glossary" style="columns:3"></div>
   <script src="holaya.js"></script>
   <script>
     writing();
 
     function writing() {
-      let text = document.getElementById("word").value;
-      document.getElementById("Here").innerHTML = write(text);
+      let text = document.getElementById("text").value;
+      document.getElementById("translation").innerHTML =
+          new Translation(text).holaya;
     }
 
-    document.getElementById("There").innerHTML = glossary();
+    document.getElementById("glossary").innerHTML = glossary();
 
   </script>
