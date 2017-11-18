@@ -4,6 +4,7 @@
   <style>
   body {background: black; color: white;}
   a {color: brown;}
+  img {vertical-align: middle;}
   .centre {text-align: center;}
   </style>
   <head>
@@ -12,7 +13,7 @@
   <body>
     <h1>About the Asteroid Belt</h1>
     <p>This is a simulation of something like the &ldquo;<a href="http://tvtropes.org/pmwiki/pmwiki.php/Main/AsteroidThicket">Asteroid Belt</a>&rdquo; in <em>Star Wars</em>, written in a javascript library called <a href="https://p5js.org/">p5</a>.</p>
-    <p>It consists of a random number of bodies with a random gravity. The barycentre of the system is always centred on the screen. Two bodies that eclipse each other do not affect each other - this is to prevent infinite speeds as the distance between them approaches zero, in accordance with the inverse square law.</p>
+    <p>It consists of a random number of bodies under the mutual effect of a random gravity. The barycentre of the system is always centred on the screen. Each body feels gravity <img src="newtonlaw.png" height="40" width="80"> from every other, unless they're eclipsing. This last condition is to prevent infinite speeds as the distance between a pair approaches zero.</p>
     <p>Click on the image to check it out: It looks best in full screen, and hit refresh in your browser to get a new system.</p>
     <p class="centre"><a href="asteroids.html"><img src="belt.png" height="300" width="500"></a></p>
 
