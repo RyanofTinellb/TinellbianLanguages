@@ -1,6 +1,13 @@
+var numberofplanets;
+var system;
+
 function setup() {
   createCanvas(window.innerWidth - 20, window.innerHeight - 20);
   textSize(40);
+  openSystem();
+}
+
+function openSystem() {
   numberofplanets = floor(random(2, 8))
   system = new System(numberofplanets);
   system.setup();
@@ -16,4 +23,8 @@ function draw() {
   translate(width/2 - barycentre.x, height/2 - barycentre.y);
   system.update();
   system.show();
+}
+
+function mousePressed() {
+  openSystem();
 }
