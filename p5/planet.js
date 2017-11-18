@@ -1,10 +1,9 @@
 function Planet (name) {
-  this.mass = random(1, 25);
-  // this.radius = random(1, 50);
-  this.radius = this.mass;
+  this.radius = random(1, 20);
+  this.mass = pow(this.radius, 2) / 10;
   sizeoftheuniverse = 5;
   this.pos = createVector(random(width/sizeoftheuniverse, (sizeoftheuniverse-1)*width/sizeoftheuniverse), random(height/sizeoftheuniverse, (sizeoftheuniverse-1)*height/sizeoftheuniverse));
-  this.vel = createVector(random(-1, 1), random(-1, 1));
+  this.vel = createVector(random(-2, 2), random(-2, 2));
   this.acc = createVector(0, 0);
   let colour = [];
   for (let i = 0; i < 3; i++) {
