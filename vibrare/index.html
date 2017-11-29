@@ -7,11 +7,25 @@
   </head>
   <body>
     <script>
-      function play() {
+      function starWars() {
         navigator.vibrate([500,110,500,110,450,110,200,110,170,40,450,110,200,110,170,40,500]);
         console.log('play');
       }
+      function mario() {
+        navigator.vibrate([125,75,125,275,200,275,125,75,125,275,200,600,200,600]);
+        console.log('play');
+      }
+      function powerRangers() {
+        navigator.vibrate([150,150,150,150,75,75,150,150,150,150,450]);
+        console.log('play');
+      }
+      function sos() {
+        navigator.vibrate([75,75,75,75,75,75,225,75,225,75,225,75,75,75,75,75,75,75]);
+        console.log('play');
+      }
     </script>
-    Is it playing?
-    <button onClick="play();">Go</button>
+    <button onClick="starWars();">Star Wars</button>
+    <button onClick="mario();">Super Mario</button>
+    <button onClick="powerRangers();">Power Rangers</button>
+    <button onClick="sos();">SOS</button>
   </body>
