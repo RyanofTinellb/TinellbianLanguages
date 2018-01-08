@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>S&#x16b;doku Solver</title>
+    <style id="style">
+      body {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+      }
+      .outer {
+        display: grid;
+        grid-template-rows: repeat(9, 2em);
+        grid-template-columns: repeat(9, 2em);
+        font-size: xx-large;
+        text-align: center;
+        width: 18em;
+      }
+      .inner {
+        /* height: 1em;
+        width: 1em; */
+        border: 1px solid black;
+        padding-top: 0.5rem;
+      }
+      .light {
+        background-color: red;
+      }
+    </style>
+  </head>
+  <body onkeydown="game.keypress(event);">
+    <script src="cell.js"></script>
+    <script src="block.js"></script>
+    <script src="game.js"></script>
+    <div class="outer" onClick="game.click(event);">
+      <div class="inner" id="s0"></div>
+      <div class="inner" id="s1"></div>
+      <div class="inner" id="s2"></div>
+      <div class="inner" id="s3"></div>
+      <div class="inner" id="s4"></div>
+      <div class="inner" id="s5"></div>
+      <div class="inner" id="s6"></div>
+      <div class="inner" id="s7"></div>
+      <div class="inner" id="s8"></div>
+      <div class="inner" id="s9"></div>
+      <div class="inner" id="s10"></div>
+      <div class="inner" id="s11"></div>
+      <div class="inner" id="s12"></div>
+      <div class="inner" id="s13"></div>
+      <div class="inner" id="s14"></div>
+      <div class="inner" id="s15"></div>
+      <div class="inner" id="s16"></div>
+      <div class="inner" id="s17"></div>
+      <div class="inner" id="s18"></div>
+      <div class="inner" id="s19"></div>
+      <div class="inner" id="s20"></div>
+      <div class="inner" id="s21"></div>
+      <div class="inner" id="s22"></div>
+      <div class="inner" id="s23"></div>
+      <div class="inner" id="s24"></div>
+      <div class="inner" id="s25"></div>
+      <div class="inner" id="s26"></div>
+      <div class="inner" id="s27"></div>
+      <div class="inner" id="s28"></div>
+      <div class="inner" id="s29"></div>
+      <div class="inner" id="s30"></div>
+      <div class="inner" id="s31"></div>
+      <div class="inner" id="s32"></div>
+      <div class="inner" id="s33"></div>
+      <div class="inner" id="s34"></div>
+      <div class="inner" id="s35"></div>
+      <div class="inner" id="s36"></div>
+      <div class="inner" id="s37"></div>
+      <div class="inner" id="s38"></div>
+      <div class="inner" id="s39"></div>
+      <div class="inner" id="s40"></div>
+      <div class="inner" id="s41"></div>
+      <div class="inner" id="s42"></div>
+      <div class="inner" id="s43"></div>
+      <div class="inner" id="s44"></div>
+      <div class="inner" id="s45"></div>
+      <div class="inner" id="s46"></div>
+      <div class="inner" id="s47"></div>
+      <div class="inner" id="s48"></div>
+      <div class="inner" id="s49"></div>
+      <div class="inner" id="s50"></div>
+      <div class="inner" id="s51"></div>
+      <div class="inner" id="s52"></div>
+      <div class="inner" id="s53"></div>
+      <div class="inner" id="s54"></div>
+      <div class="inner" id="s55"></div>
+      <div class="inner" id="s56"></div>
+      <div class="inner" id="s57"></div>
+      <div class="inner" id="s58"></div>
+      <div class="inner" id="s59"></div>
+      <div class="inner" id="s60"></div>
+      <div class="inner" id="s61"></div>
+      <div class="inner" id="s62"></div>
+      <div class="inner" id="s63"></div>
+      <div class="inner" id="s64"></div>
+      <div class="inner" id="s65"></div>
+      <div class="inner" id="s66"></div>
+      <div class="inner" id="s67"></div>
+      <div class="inner" id="s68"></div>
+      <div class="inner" id="s69"></div>
+      <div class="inner" id="s70"></div>
+      <div class="inner" id="s71"></div>
+      <div class="inner" id="s72"></div>
+      <div class="inner" id="s73"></div>
+      <div class="inner" id="s74"></div>
+      <div class="inner" id="s75"></div>
+      <div class="inner" id="s76"></div>
+      <div class="inner" id="s77"></div>
+      <div class="inner" id="s78"></div>
+      <div class="inner" id="s79"></div>
+      <div class="inner" id="s80"></div>
+    </div>
+    <div>
+      <h2>Highlight</h2>
+      <button onClick="game.highlight(1);">1</button>
+      <button onClick="game.highlight(2);">2</button>
+      <button onClick="game.highlight(3);">3</button>
+      <button onClick="game.highlight(4);">4</button>
+      <button onClick="game.highlight(5);">5</button>
+      <button onClick="game.highlight(6);">6</button>
+      <button onClick="game.highlight(7);">7</button>
+      <button onClick="game.highlight(8);">8</button>
+      <button onClick="game.highlight(9);">9</button>
+    </div>
+    <script>
+      game = new Game();
+      setup = '700006090000003680000001530030000009908000406100000070091500000024100000070800003';
+      game.setup(setup.split(''));
+    </script>
+  </body>
+</html>
