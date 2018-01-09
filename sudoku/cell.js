@@ -60,6 +60,8 @@ function Cell (index) {
   this.resize = function() {
     if (this.contents().length == 1) {
       this.cell.style.fontSize = 'xx-large';
+    } else if (this.contents().length >= 6) {
+      this.cell.style.fontSize = 'small';
     } else {
       this.cell.style.fontSize = 'large';
     }

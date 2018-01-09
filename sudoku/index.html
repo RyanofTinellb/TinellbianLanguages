@@ -40,6 +40,19 @@
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
       }
+
+      @media screen and (max-width: 600px) {
+        body {
+          flex-direction: column;
+        }
+        .outer {
+          width: 90%;
+          grid-template-rows: repeat(9, 1fr);
+        }
+        .highlight {
+          grid-template-columns: repeat(9, 1fr);
+        }
+      }
     </style>
   </head>
   <body onkeydown="game.keypress(event);">
@@ -142,8 +155,10 @@
           <button onClick="game.highlight(8);">8</button>
           <button onClick="game.highlight(9);">9</button>
       </div>
-      <h2>Setup Mode</h2>
-      <input type="checkbox" id="setupMode" checked></input>
+      <h2>
+        <input type="checkbox" id="setupMode" checked></input>
+        Setup Mode
+      </h2>
       <div class="highlight">
           <button onClick="game.keySelect(1);">1</button>
           <button onClick="game.keySelect(2);">2</button>
