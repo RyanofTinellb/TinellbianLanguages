@@ -5,6 +5,7 @@ function Game() {
   this.sqrs = [];
   this.highlighted = [];
   this.colors = ['red', 'orange', 'blue', 'green', 'purple'];
+  this.setupMode = document.getElementById('setupMode');
 
   for (let i = 0; i < 9; i++) {
     this.highlighted.push(false);
@@ -28,25 +29,10 @@ function Game() {
 
   this.selected = this.cells[0];
 
-  this.set = function(row, col, number) {
-    cell = this.rows[row].cells[col]
+  this.set = function(cell, number) {
     number--;
     cell.set(number + 1);
-    for (let i = 0; i < 9; i++) {
-      if (i != col) {
-        this.rows[row].cells[i].possibilities[number] = false;
-      }
-    }
-    for (let i = 0; i < 9; i++) {
-      if (i != row) {
-        this.rows[i].cells[col].possibilities[number] = false;
-      }
-    }
-    for (let i = 0; i < 9; i++) {
-      if (i != cell.ind) {
-        this.sqrs[cell.sqr].cells[i].possibilities[number] = false;
-      }
-    }
+    this.cleanCousins(cell);
     this.update();
   }
 
@@ -100,12 +86,28 @@ function Game() {
     } else if (event.keyCode == 32 && this.selected.contents().length == 1) {
       this.cleanCousins(this.selected);
     } else if (number != 0) {
+      if (this.setupMode.checked) {
+        this.set(this.selected, number);
+      } else {
+        this.selected.possibilities[number - 1] = false;
+        if (this.selected.contents().length == 1) {
+          this.cleanCousins(this.selected);
+        }
+      }
+      this.selected.update();
+    }
+  }
+
+  this.keySelect = function(number) {
+    if (this.setupMode.checked) {
+      this.set(this.selected, number);
+    } else {
       this.selected.possibilities[number - 1] = false;
       if (this.selected.contents().length == 1) {
         this.cleanCousins(this.selected);
       }
-      this.selected.update();
     }
+    this.selected.update();
   }
 
   this.select = function(square) {

@@ -3,6 +3,8 @@ function Cell (index) {
   this.row = Math.floor(index / 9);
   this.col = index % 9;
 
+  this.setupMode = document.getElementById('setupMode');
+
   sqrrow = Math.floor(this.row / 3) % 3;
   sqrcol = Math.floor(this.col / 3) % 3;
   this.sqr = 3 * sqrrow + sqrcol;
@@ -72,7 +74,11 @@ function Cell (index) {
 
   this.select = function() {
     this.selected = true;
-    this.cell.style.backgroundColor = 'yellow';
+    if (this.setupMode.checked) {
+      this.cell.style.backgroundColor = 'red';
+    } else {
+      this.cell.style.backgroundColor = 'yellow';
+    }
   }
 
   this.deselect = function() {

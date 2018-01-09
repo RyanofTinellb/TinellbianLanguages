@@ -16,6 +16,7 @@
         font-size: xx-large;
         text-align: center;
         width: 18em;
+        padding: 5%;
       }
       .inner {
         /* height: 1em;
@@ -25,6 +26,19 @@
       }
       .light {
         background-color: red;
+      }
+      button {
+        height: 2em;
+        width: 2em;
+        font-size: large;
+      }
+      input {
+        height: 2em;
+        width: 2em;
+      }
+      .highlight {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
       }
     </style>
   </head>
@@ -117,20 +131,33 @@
     </div>
     <div>
       <h2>Highlight</h2>
-      <button onClick="game.highlight(1);">1</button>
-      <button onClick="game.highlight(2);">2</button>
-      <button onClick="game.highlight(3);">3</button>
-      <button onClick="game.highlight(4);">4</button>
-      <button onClick="game.highlight(5);">5</button>
-      <button onClick="game.highlight(6);">6</button>
-      <button onClick="game.highlight(7);">7</button>
-      <button onClick="game.highlight(8);">8</button>
-      <button onClick="game.highlight(9);">9</button>
+      <div class="highlight">
+          <button onClick="game.highlight(1);">1</button>
+          <button onClick="game.highlight(2);">2</button>
+          <button onClick="game.highlight(3);">3</button>
+          <button onClick="game.highlight(4);">4</button>
+          <button onClick="game.highlight(5);">5</button>
+          <button onClick="game.highlight(6);">6</button>
+          <button onClick="game.highlight(7);">7</button>
+          <button onClick="game.highlight(8);">8</button>
+          <button onClick="game.highlight(9);">9</button>
+      </div>
+      <h2>Setup Mode</h2>
+      <input type="checkbox" id="setupMode" checked></input>
+      <div class="highlight">
+          <button onClick="game.keySelect(1);">1</button>
+          <button onClick="game.keySelect(2);">2</button>
+          <button onClick="game.keySelect(3);">3</button>
+          <button onClick="game.keySelect(4);">4</button>
+          <button onClick="game.keySelect(5);">5</button>
+          <button onClick="game.keySelect(6);">6</button>
+          <button onClick="game.keySelect(7);">7</button>
+          <button onClick="game.keySelect(8);">8</button>
+          <button onClick="game.keySelect(9);">9</button>
+      </div>
     </div>
     <script>
       game = new Game();
-      setup = '700006090000003680000001530030000009908000406100000070091500000024100000070800003';
-      game.setup(setup.split(''));
     </script>
   </body>
 </html>
