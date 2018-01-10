@@ -85,7 +85,7 @@ function Game() {
       this.select(this.rows[row].cells[col]);
     } else if (event.keyCode == 32 && this.selected.contents().length == 1) {
       this.cleanCousins(this.selected);
-    } else if (number != 0) {
+    } else if (number != 0 && !isNaN(number)) {
       if (this.setupMode.checked) {
         this.set(this.selected, number);
       } else {
