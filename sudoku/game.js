@@ -71,18 +71,22 @@ function Game() {
       row = (this.selected.row + 8) % 9;
       col = this.selected.col;
       this.select(this.rows[row].cells[col]);
+      event.preventDefault();
     } else if (event.key == 'ArrowDown') {
       row = (this.selected.row + 1) % 9;
       col = this.selected.col;
       this.select(this.rows[row].cells[col]);
+      event.preventDefault();
     } else if (event.key == 'ArrowLeft') {
       col = (this.selected.col + 8) % 9;
       row = this.selected.row;
       this.select(this.rows[row].cells[col]);
+      event.preventDefault();
     } else if (event.key == 'ArrowRight') {
       col = (this.selected.col + 1) % 9;
       row = this.selected.row;
       this.select(this.rows[row].cells[col]);
+      event.preventDefault();
     } else if (event.keyCode == 32 && this.selected.contents().length == 1) {
       this.cleanCousins(this.selected);
     } else if (number != 0 && !isNaN(number)) {

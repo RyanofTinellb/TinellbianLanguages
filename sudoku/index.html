@@ -31,7 +31,7 @@
       .light {
         background-color: red;
       }
-      #info {
+      .info {
         margin-left: 5%;
         font-size: larger;
         font-family: sans-serif;
@@ -71,6 +71,9 @@
     <script src="cell.js"></script>
     <script src="block.js"></script>
     <script src="game.js"></script>
+    <div class="info">
+      According to the rules of S&#x16b;doku, each digit may only appear once in each row, column, and 3&times;3 box. This S&#x16b;doku solver will automatically remove duplicates. The solver also allows for the highlighting of specific digits to allow for easy recognition of other patterns. This means that just about any 9x9 original s&#x16b;doku can be solved in less than ten minutes.</p>
+    </div>
     <div class="flex">
       <div class="outer" onClick="game.click(event);">
         <div class="inner" id="s0"></div>
@@ -185,8 +188,7 @@
         </div>
       </div>
     </div>
-    <div id="info">
-      <p>This S&#x16b;doku solver will help you solve any 9x9 original s&#x16b;doku in less than ten minutes.</p>
+    <div class="info">
       <p>Turn on <code>Setup Mode</code> to overwrite a cell completely. Turn off <code>Setup Mode</code> to remove specific numbers from a cell.</p>
       <p>Use the mouse to select cells, or use the arrow keys on your keyboard to move the selection point.</p>
       <p>Numbers can be added / removed by using the lower set of number buttons with the mouse, or by entering numbers on your keyboard.</p>
