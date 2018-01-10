@@ -6,10 +6,12 @@
     <title>S&#x16b;doku Solver</title>
     <style id="style">
       body {
+        background-color: AntiqueWhite;
+      }
+      .flex {
         display: flex;
         flex-direction: row;
         justify-content: space-around;
-        background-color: AntiqueWhite;
       }
       .outer {
         display: grid;
@@ -29,6 +31,11 @@
       .light {
         background-color: red;
       }
+      #info {
+        margin-left: 5%;
+        font-size: larger;
+        font-family: sans-serif;
+      }
       button {
         height: 2em;
         width: 2em;
@@ -38,13 +45,16 @@
         height: 2em;
         width: 2em;
       }
+      code {
+        font-size: larger;
+      }
       .highlight {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
       }
 
       @media screen and (max-width: 900px) {
-        body {
+        .flex {
           flex-direction: column;
         }
         .outer {
@@ -61,117 +71,126 @@
     <script src="cell.js"></script>
     <script src="block.js"></script>
     <script src="game.js"></script>
-    <div class="outer" onClick="game.click(event);">
-      <div class="inner" id="s0"></div>
-      <div class="inner" id="s1"></div>
-      <div class="inner" id="s2"></div>
-      <div class="inner" id="s3"></div>
-      <div class="inner" id="s4"></div>
-      <div class="inner" id="s5"></div>
-      <div class="inner" id="s6"></div>
-      <div class="inner" id="s7"></div>
-      <div class="inner" id="s8"></div>
-      <div class="inner" id="s9"></div>
-      <div class="inner" id="s10"></div>
-      <div class="inner" id="s11"></div>
-      <div class="inner" id="s12"></div>
-      <div class="inner" id="s13"></div>
-      <div class="inner" id="s14"></div>
-      <div class="inner" id="s15"></div>
-      <div class="inner" id="s16"></div>
-      <div class="inner" id="s17"></div>
-      <div class="inner" id="s18"></div>
-      <div class="inner" id="s19"></div>
-      <div class="inner" id="s20"></div>
-      <div class="inner" id="s21"></div>
-      <div class="inner" id="s22"></div>
-      <div class="inner" id="s23"></div>
-      <div class="inner" id="s24"></div>
-      <div class="inner" id="s25"></div>
-      <div class="inner" id="s26"></div>
-      <div class="inner" id="s27"></div>
-      <div class="inner" id="s28"></div>
-      <div class="inner" id="s29"></div>
-      <div class="inner" id="s30"></div>
-      <div class="inner" id="s31"></div>
-      <div class="inner" id="s32"></div>
-      <div class="inner" id="s33"></div>
-      <div class="inner" id="s34"></div>
-      <div class="inner" id="s35"></div>
-      <div class="inner" id="s36"></div>
-      <div class="inner" id="s37"></div>
-      <div class="inner" id="s38"></div>
-      <div class="inner" id="s39"></div>
-      <div class="inner" id="s40"></div>
-      <div class="inner" id="s41"></div>
-      <div class="inner" id="s42"></div>
-      <div class="inner" id="s43"></div>
-      <div class="inner" id="s44"></div>
-      <div class="inner" id="s45"></div>
-      <div class="inner" id="s46"></div>
-      <div class="inner" id="s47"></div>
-      <div class="inner" id="s48"></div>
-      <div class="inner" id="s49"></div>
-      <div class="inner" id="s50"></div>
-      <div class="inner" id="s51"></div>
-      <div class="inner" id="s52"></div>
-      <div class="inner" id="s53"></div>
-      <div class="inner" id="s54"></div>
-      <div class="inner" id="s55"></div>
-      <div class="inner" id="s56"></div>
-      <div class="inner" id="s57"></div>
-      <div class="inner" id="s58"></div>
-      <div class="inner" id="s59"></div>
-      <div class="inner" id="s60"></div>
-      <div class="inner" id="s61"></div>
-      <div class="inner" id="s62"></div>
-      <div class="inner" id="s63"></div>
-      <div class="inner" id="s64"></div>
-      <div class="inner" id="s65"></div>
-      <div class="inner" id="s66"></div>
-      <div class="inner" id="s67"></div>
-      <div class="inner" id="s68"></div>
-      <div class="inner" id="s69"></div>
-      <div class="inner" id="s70"></div>
-      <div class="inner" id="s71"></div>
-      <div class="inner" id="s72"></div>
-      <div class="inner" id="s73"></div>
-      <div class="inner" id="s74"></div>
-      <div class="inner" id="s75"></div>
-      <div class="inner" id="s76"></div>
-      <div class="inner" id="s77"></div>
-      <div class="inner" id="s78"></div>
-      <div class="inner" id="s79"></div>
-      <div class="inner" id="s80"></div>
+    <div class="flex">
+      <div class="outer" onClick="game.click(event);">
+        <div class="inner" id="s0"></div>
+        <div class="inner" id="s1"></div>
+        <div class="inner" id="s2"></div>
+        <div class="inner" id="s3"></div>
+        <div class="inner" id="s4"></div>
+        <div class="inner" id="s5"></div>
+        <div class="inner" id="s6"></div>
+        <div class="inner" id="s7"></div>
+        <div class="inner" id="s8"></div>
+        <div class="inner" id="s9"></div>
+        <div class="inner" id="s10"></div>
+        <div class="inner" id="s11"></div>
+        <div class="inner" id="s12"></div>
+        <div class="inner" id="s13"></div>
+        <div class="inner" id="s14"></div>
+        <div class="inner" id="s15"></div>
+        <div class="inner" id="s16"></div>
+        <div class="inner" id="s17"></div>
+        <div class="inner" id="s18"></div>
+        <div class="inner" id="s19"></div>
+        <div class="inner" id="s20"></div>
+        <div class="inner" id="s21"></div>
+        <div class="inner" id="s22"></div>
+        <div class="inner" id="s23"></div>
+        <div class="inner" id="s24"></div>
+        <div class="inner" id="s25"></div>
+        <div class="inner" id="s26"></div>
+        <div class="inner" id="s27"></div>
+        <div class="inner" id="s28"></div>
+        <div class="inner" id="s29"></div>
+        <div class="inner" id="s30"></div>
+        <div class="inner" id="s31"></div>
+        <div class="inner" id="s32"></div>
+        <div class="inner" id="s33"></div>
+        <div class="inner" id="s34"></div>
+        <div class="inner" id="s35"></div>
+        <div class="inner" id="s36"></div>
+        <div class="inner" id="s37"></div>
+        <div class="inner" id="s38"></div>
+        <div class="inner" id="s39"></div>
+        <div class="inner" id="s40"></div>
+        <div class="inner" id="s41"></div>
+        <div class="inner" id="s42"></div>
+        <div class="inner" id="s43"></div>
+        <div class="inner" id="s44"></div>
+        <div class="inner" id="s45"></div>
+        <div class="inner" id="s46"></div>
+        <div class="inner" id="s47"></div>
+        <div class="inner" id="s48"></div>
+        <div class="inner" id="s49"></div>
+        <div class="inner" id="s50"></div>
+        <div class="inner" id="s51"></div>
+        <div class="inner" id="s52"></div>
+        <div class="inner" id="s53"></div>
+        <div class="inner" id="s54"></div>
+        <div class="inner" id="s55"></div>
+        <div class="inner" id="s56"></div>
+        <div class="inner" id="s57"></div>
+        <div class="inner" id="s58"></div>
+        <div class="inner" id="s59"></div>
+        <div class="inner" id="s60"></div>
+        <div class="inner" id="s61"></div>
+        <div class="inner" id="s62"></div>
+        <div class="inner" id="s63"></div>
+        <div class="inner" id="s64"></div>
+        <div class="inner" id="s65"></div>
+        <div class="inner" id="s66"></div>
+        <div class="inner" id="s67"></div>
+        <div class="inner" id="s68"></div>
+        <div class="inner" id="s69"></div>
+        <div class="inner" id="s70"></div>
+        <div class="inner" id="s71"></div>
+        <div class="inner" id="s72"></div>
+        <div class="inner" id="s73"></div>
+        <div class="inner" id="s74"></div>
+        <div class="inner" id="s75"></div>
+        <div class="inner" id="s76"></div>
+        <div class="inner" id="s77"></div>
+        <div class="inner" id="s78"></div>
+        <div class="inner" id="s79"></div>
+        <div class="inner" id="s80"></div>
+      </div>
+      <div>
+        <h2>Highlight</h2>
+        <div class="highlight">
+            <button onClick="game.highlight(1);">1</button>
+            <button onClick="game.highlight(2);">2</button>
+            <button onClick="game.highlight(3);">3</button>
+            <button onClick="game.highlight(4);">4</button>
+            <button onClick="game.highlight(5);">5</button>
+            <button onClick="game.highlight(6);">6</button>
+            <button onClick="game.highlight(7);">7</button>
+            <button onClick="game.highlight(8);">8</button>
+            <button onClick="game.highlight(9);">9</button>
+        </div>
+        <h2>
+          <input type="checkbox" id="setupMode" checked></input>
+          Setup Mode
+        </h2>
+        <div class="highlight">
+            <button onClick="game.keySelect(1);">1</button>
+            <button onClick="game.keySelect(2);">2</button>
+            <button onClick="game.keySelect(3);">3</button>
+            <button onClick="game.keySelect(4);">4</button>
+            <button onClick="game.keySelect(5);">5</button>
+            <button onClick="game.keySelect(6);">6</button>
+            <button onClick="game.keySelect(7);">7</button>
+            <button onClick="game.keySelect(8);">8</button>
+            <button onClick="game.keySelect(9);">9</button>
+        </div>
+      </div>
     </div>
-    <div>
-      <h2>Highlight</h2>
-      <div class="highlight">
-          <button onClick="game.highlight(1);">1</button>
-          <button onClick="game.highlight(2);">2</button>
-          <button onClick="game.highlight(3);">3</button>
-          <button onClick="game.highlight(4);">4</button>
-          <button onClick="game.highlight(5);">5</button>
-          <button onClick="game.highlight(6);">6</button>
-          <button onClick="game.highlight(7);">7</button>
-          <button onClick="game.highlight(8);">8</button>
-          <button onClick="game.highlight(9);">9</button>
-      </div>
-      <h2>
-        <input type="checkbox" id="setupMode" checked></input>
-        Setup Mode
-      </h2>
-      <div class="highlight">
-          <button onClick="game.keySelect(1);">1</button>
-          <button onClick="game.keySelect(2);">2</button>
-          <button onClick="game.keySelect(3);">3</button>
-          <button onClick="game.keySelect(4);">4</button>
-          <button onClick="game.keySelect(5);">5</button>
-          <button onClick="game.keySelect(6);">6</button>
-          <button onClick="game.keySelect(7);">7</button>
-          <button onClick="game.keySelect(8);">8</button>
-          <button onClick="game.keySelect(9);">9</button>
-      </div>
+    <div id="info">
+      <p>This S&#x16b;doku solver will help you solve any 9x9 original s&#x16b;doku in less than ten minutes.</p>
+      <p>Turn on <code>Setup Mode</code> to overwrite a cell completely. Turn off <code>Setup Mode</code> to remove specific numbers from a cell.</p>
+      <p>Use the mouse to select cells, or use the arrow keys on your keyboard to move the selection point.</p>
+      <p>Numbers can be added / removed by using the lower set of number buttons with the mouse, or by entering numbers on your keyboard.</p>
+      <p>Numbers can be highlighted or un-highlighted by use of the upper set of number buttons.</p>
     </div>
     <script>
       game = new Game();
