@@ -34,10 +34,6 @@ high-lulani::after, vulgar-lulani::after {
   content: "\202c";
 }
 
-body {
-  font-family: sans-serif;
-}
-
 .flex {
   display: flex;
   flex-wrap: wrap;
@@ -65,31 +61,6 @@ body {
 .content p.example_no_lines {
   margin: 0;
   padding-left: 10%;
-}
-
-.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
-  font-family: serif;
-  text-align: left;
-}
-
-.content h2 {
-  margin-left: 10%;
-}
-
-.content h2.language {
-  margin-left: 5%;
-}
-
-.content h3 {
-  margin-left: 15%;
-}
-
-.content h4 {
-  margin-left: 20%;
-}
-
-.content h5 {
-  margin-left: 25%;
 }
 
 .content table {
@@ -142,17 +113,6 @@ body {
   padding-left: 10%;
   text-indent: 0;
   line-height: 1;
-}
-
-.content div.glossary {
-  text-indent: 1em;
-  -webkit-columns: 3;
-  /* Chrome, Safari, Opera */
-  -moz-columns: 3;
-  /* Firefox */
-  columns: 3;
-  margin-left: 5%;
-  padding: 0;
 }
 
 .content div.glossary a {
