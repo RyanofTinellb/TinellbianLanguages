@@ -1,6 +1,6 @@
 @font-face {
   font-family: high-lulani;
-  src: url('http://www.tinellb.com/highlulani.ttf');
+  src: url('highlulani.ttf');
 }
 
 ipa {
@@ -91,16 +91,6 @@ high-lulani::after, vulgar-lulani::after {
   padding-left: 10%;
 }
 
-.content ul.languages {
-  list-style: none;
-}
-
-.content ul.languages li a {
-  color: black;
-  font-size: large;
-  font-weight: bold;
-}
-
 .content ol {
   padding-left: 15%;
 }
@@ -115,25 +105,8 @@ high-lulani::after, vulgar-lulani::after {
   line-height: 1;
 }
 
-.content div.glossary a {
-  color: black;
-  text-decoration: underline dotted;
-  font-weight: bold;
-}
-
-.content div.glossary a:hover {
-  text-decoration: underline solid;
-}
-
-.content div.glossary p {
-  margin-top: 0;
-  margin-bottom: 0.5em;
-  padding: 0;
-  text-align: left;
-}
-
-.content div.example table {
-  margin-left: 10%;
+.content div.mobile-table {
+  display: none;
 }
 
 .content div.wordlist {
@@ -144,10 +117,6 @@ high-lulani::after, vulgar-lulani::after {
   margin-left: calc(10% - 1em);
   margin-top: 1em;
   margin-bottom: 1em;
-}
-
-.content div.mobile-table {
-  display: none;
 }
 
 .content div.wordlist p.example {
@@ -190,22 +159,6 @@ high-lulani::after, vulgar-lulani::after {
 .nav-pane ul {
   list-style: none;
   padding: 0;
-}
-
-.nav-pane ul.level-1 {
-  padding-left: 0.5em;
-}
-
-.nav-pane ul.level-2 {
-  padding-left: 0.5em;
-}
-
-.nav-pane ul.level-3 {
-  padding-left: 0.5em;
-}
-
-.nav-pane ul.level-4 {
-  padding-left: 0.5em;
 }
 
 .nav-pane li {
