@@ -1,11 +1,18 @@
-@font-face {
-  font-family: high-lulani;
-  src: url('highlulani.ttf');
+a:link {
+  color: #5555FF; /* light blue */
+}
+
+a:visited {
+  color: #9955AA; /* light violet */
 }
 
 ipa {
   font-family: 'lucida sans unicode', 'segoe ui', monospace, sans-serif;
-  /* font-size: larger; */
+}
+
+ipa strong {
+    font-weight: 900;
+    color: red;
 }
 
 small-caps {
@@ -16,23 +23,22 @@ overline {
   text-decoration: overline;
 }
 
-high-lulani, vulgar-lulani {
-  font-family: lulani, high-lulani;
-  font-size: larger;
+@font-face {
+  font-family: high-lulani;
+  src: url('highlulani.ttf');
 }
 
-high-lulani:hover, vulgar-lulani:hover {
+high-lulani {
+  font-family: lulani, high-lulani;
+  font-size: larger;
+  direction: rtl;
+  unicode-bidi: bidi-override;
+}
+
+high-lulani:hover {
   font-size: xx-large;
   font-weight: normal;
   padding: 0em 0.5em;
-}
-
-high-lulani::before, vulgar-lulani::before {
-  content: "\202e";
-}
-
-high-lulani::after, vulgar-lulani::after {
-  content: "\202c";
 }
 
 .flex {
@@ -41,43 +47,39 @@ high-lulani::after, vulgar-lulani::after {
   flex-direction: row;
 }
 
+.nav-pane {
+  text-align: left;
+  width: 25%;
+}
+
 .content {
-  text-align: justify;
-  width: 20em;
-  padding: 1em 10%;
-  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%;
+  width: 60%;
 }
 
 .content p {
-  line-height: 1.5;
-  text-indent: 1em;
+  text-align: justify;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .content p.example {
-  margin: 0;
-  margin-top: 1em;
-  padding-left: 10%;
-}
-
-.content p.example_no_lines {
-  margin: 0;
-  padding-left: 10%;
+  margin-top: 0.5em;
 }
 
 .content table {
-  line-height: 1.5;
-  margin: auto;
-  white-space: nowrap;
+	border-collapse: collapse;
 }
 
-.content tr {
-  font-family: sans-serif;
-  text-align: center;
+.content td, .content th {
+	border: 1px solid darkgrey;
+    white-space: nowrap;
 }
 
 .content th {
-  padding-left: 5px;
-  padding-right: 5px;
+  padding: 0 1em;
 }
 
 .content th:first-child {
@@ -85,52 +87,19 @@ high-lulani::after, vulgar-lulani::after {
 }
 
 .content td {
-  padding: 0.25em 0.5em;
-}
-
-.content ul {
-  padding-left: 10%;
-}
-
-.content ol {
-  padding-left: 15%;
-}
-
-.content ol li {
-  padding-bottom: 0.5em;
-}
-
-.content form {
-  padding-left: 10%;
-  text-indent: 0;
-  line-height: 1;
+  text-align: center;
 }
 
 .content div.mobile-table {
   display: none;
 }
 
-.content div.wordlist {
-  display: inline-block;
-  border-right: 1px solid green;
-  padding-right: 2em;
-  margin-left: 8%;
-  margin-left: calc(10% - 1em);
-  margin-top: 1em;
-  margin-bottom: 1em;
-}
-
-.content div.wordlist p.example {
-  margin-top: 0;
-}
-
-.content div.folding p:last-child {
-  padding-left: 6%;
+.content .wordlist {
+  border-left: 1px solid green;
 }
 
 .content div.folding p:last-child::before {
   content: '\2192 ';
-  margin-right: 1em;
 }
 
 .content div.folding:hover p:last-child::before {
@@ -145,164 +114,83 @@ high-lulani::after, vulgar-lulani::after {
   display: block;
 }
 
-.nav-pane {
-  margin: 2em 1% 10%;
-  padding: 1% 2em 10%;
-  white-space: nowrap;
-  text-align: left;
+.content span.tooltip-text {
+  display: none;
 }
 
-.nav-pane a {
-  color: black;
-  text-decoration: none;
+.content span.tooltip-text::before {
+  content: " ("
 }
 
-.nav-pane ul {
-  list-style: none;
-  padding: 0;
+.content span.tooltip-text::after {
+  content: ")"
 }
 
-.nav-pane li {
-  padding-bottom: 0.5em;
+.content span.tooltip:hover .tooltip-text {
+  display: inline;
 }
 
-.nav-pane li.normal {
-  font-weight: bold;
-  text-decoration: underline;
+.content span.tooltip .tooltip-text:hover {
+  display: inline;
 }
 
-.nav-pane li.link {
-  font-family: serif;
-  text-align: center;
-}
-
-.nav-pane li.up-arrow {
+.content .nav-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
   margin-top: 1em;
   margin-bottom: 1em;
 }
 
-.nav-pane li.search {
-  text-align: center;
-  margin: 1em 0;
-  margin-left: -1em;
-}
-
-.nav-pane form#search {
-  display: none;
-}
-
-.nav-footer {
-  display: flex;
-  justify-content: space-between;
-  padding: 1em;
-  margin: 0;
-}
-
-.nav-footer a {
-  color: black;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.copyright {
+.content .copyright {
   font-size: smaller;
   font-family: serif;
   text-align: right;
+  margin-top: 1em;
 }
 
 .no-breaks {
   white-space: nowrap;
 }
 
-.toc a {
-  color: black;
-  text-decoration: none;
-  line-height: 1.5em;
-}
-
-.toc ul {
-  list-style: none;
-  padding-left: 1em;
-  line-height: 2em;
-}
-
-.results {
-  text-indent: -2em;
-  line-height: 1.5;
-}
-
-.results a {
-  color: black;
-}
-
-.results ol {
-  list-style-position: inside;
-}
-
-.results li {
-  padding-top: 2em;
-}
-
-.tooltip-text {
-  display: none;
-}
-
-.tooltip-text::before {
-  content: " ("
-}
-
-.tooltip-text::after {
-  content: ")"
-}
-
-.tooltip:hover .tooltip-text {
-  display: inline;
-}
-
-.tooltip .tooltip-text:hover {
-  display: inline;
-}
-
 @media screen and (max-width: 800px) {
+
+  .flex {
+    flex-direction: column;
+  }
+
   .content {
-    order: 1;
-    margin: 0;
-    padding: 5%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
   }
-  .content div.glossary {
-    -webkit-columns: 1;
-    /* Chrome, Safari, Opera */
-    -moz-columns: 1;
-    /* Firefox */
-    columns: 1;
+
+  .nav-pane {
+    width: 100%;
   }
-  .content table {
+
+  .nav-pane::before {
+    content: "Menu"
+  }
+
+  .nav-pane ul {
     display: none;
   }
+
+  .nav-pane:hover ul {
+    display: inherit;
+  }
+
+  table {
+    display: none;
+  }
+
   .content div.mobile-table {
-    display: inline;
+    display: block;
   }
 
-  .content div.mobile-table div.small-table table {
-    display: inline;
-    margin-left: 10%;
-  }
-
-  .content div.mobile-table p {
-    margin-bottom: 0;
-  }
-  .content div.mobile-table p.example_no_lines {
-    margin-bottom: 0;
-  }
-  .nav-footer {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  .nav-pane {
-    position: static;
-    width: 100%;
-    padding: 0 20%;
-    order: 2;
-    overflow: auto;
+  .content div.mobile-table table {
+      display: block;
+      margin-left: 15%;
   }
 }
