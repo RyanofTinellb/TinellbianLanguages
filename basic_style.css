@@ -39,6 +39,7 @@ high-lulani:hover {
   font-size: xx-large;
   font-weight: normal;
   padding: 0em 0.5em;
+  cursor: none;
 }
 
 .flex {
@@ -98,20 +99,30 @@ high-lulani:hover {
   border-left: 1px solid green;
 }
 
-.content div.folding p:last-child::before {
-  content: '\2192 ';
+.content div.folding p:first-child::after {
+  content: '\2190\2002 (expand)';
+  font-style: italic;
+  font-size: smaller;
+  position: relative;
+  left: 5%;
 }
 
-.content div.folding:hover p:last-child::before {
-  content: '\2191  ';
+.content div.folding:active p:first-child::after {
+  content: '\2191\2002 (contract)';
 }
 
 .content div.folding p:not(:first-child):not(:last-child) {
   display: none;
 }
 
-.content div.folding:hover p:not(:first-child):not(:last-child) {
+.content div.folding:active p:not(:first-child):not(:last-child) {
   display: block;
+}
+
+.content span.tooltip::after {
+    content: "?";
+    font-size: smaller;
+    vertical-align: super;
 }
 
 .content span.tooltip-text {
@@ -119,19 +130,23 @@ high-lulani:hover {
 }
 
 .content span.tooltip-text::before {
-  content: " ("
+  content: "(";
+  padding-left: 0.5em;
 }
 
 .content span.tooltip-text::after {
   content: ")"
 }
 
-.content span.tooltip:hover .tooltip-text {
+.content span.tooltip:active .tooltip-text,
+.content div.folding span.tooltip:hover .tooltip-text {
   display: inline;
+  cursor: none;
 }
 
 .content span.tooltip .tooltip-text:hover {
   display: inline;
+  cursor: none;
 }
 
 .content .nav-footer {
@@ -179,6 +194,18 @@ high-lulani:hover {
 
   .nav-pane:hover ul {
     display: inherit;
+  }
+
+  .content div.folding:hover p:first-child::after {
+    content: '\2191\2002 (contract)';
+  }
+
+  .content div.folding:hover p:not(:first-child):not(:last-child) {
+    display: block;
+  }
+
+  .content span.tooltip:hover .tooltip-text {
+    display: inline;
   }
 
   table {
