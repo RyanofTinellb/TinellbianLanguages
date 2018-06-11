@@ -1,51 +1,58 @@
----
-permalink: /404.html
----
+<!-- --- permalink: /404.html --- -->
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" type="text/css" href="/style.css">
-		<title>404 - Page Not Found</title>
-	</head>
-	<body>
-		<div class="flex">
-			<div class="nav-header">
-				<ul>
-					<li><a href="/index.html">The Tinellbian Languages</a></li>
-					<ul class="level-1">
-						<li><a href="http://grammar.tinellb.com">Grammar Guide</a></li>
-						<li><a href="http://dictionary.tinellb.com">Tinellbian Dictionary</a></li>
-					</ul>
-					<li><a href="/search.html">Search the Site</a></li>
-					<li><a href="/about.html">About / Contact</a></li>
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="/style.css">
+	<title>404 - Page Not Found</title>
+</head>
+
+<body>
+	<div class="flex">
+		<div class="nav-header">
+			<ul>
+				<li><a href="/index.html">The Tinellbian Languages</a></li>
+				<ul class="level-1">
+					<li><a href="http://grammar.tinellb.com">Grammar Guide</a></li>
+					<li><a href="http://dictionary.tinellb.com">Tinellbian Dictionary</a></li>
 				</ul>
+				<li><a href="/search.html">Search the Site</a></li>
+				<li><a href="/about.html">About / Contact</a></li>
+			</ul>
 
-			</div>
-			<div class="content">
-				<h1>404 - Page Not Found</h1>
-				<p>Use this search page to get back on track, or pick another option from the navigation pane.</p>
-					<input type="radio" name="section" id="grammar" value="grammar">Grammar
-					<input type="radio" name="section" id="dictionary" value="dictionary" checked="true">Dictionary
-					<input type="text" class="term" id="term" name="term" placeholder="Search..." onKeyDown="if(event.keyCode == 13) {search();}"><br><br>
-					<input type="submit" class="submit" value="Search" onClick="search()">
-					<input type="radio" name="andor" id="and" value="and" checked="true">AND
-					<input type="radio" name="andor" id="or" value="or">OR
-				</p>
-				<script>
-
-					function search() {
-					  if (dictionary.checked) {section = "dictionary"}
-						      else {section = "grammar"};
-						if (and.checked) {andor = "and"} else {andor = "or"};
-						terms = document.getElementById("term").value.split(" ").join("+")
-						address = "http://" + section + ".tinellb.com/search.html?term=" + terms + "&"
-						address += "andor=" + andor;
-						window.open(address, "_self", false);
-					}
-				</script>
-			</div>
 		</div>
-	</body>
+		<div class="content">
+			<h1>404 - Page Not Found</h1>
+			<p>Use this search page to get back on track, or pick another option from the navigation pane.</p>
+			<input type="radio" name="section" id="grammar" value="grammar">Grammar
+			<input type="radio" name="section" id="dictionary" value="dictionary" checked="true">Dictionary
+			<input type="text" class="term" id="term" name="term" placeholder="Search..." onKeyDown="if(event.keyCode == 13) {search();}"><br><br>
+			<input type="submit" class="submit" value="Search" onClick="search()">
+			<input type="radio" name="andor" id="and" value="and" checked="true">AND
+			<input type="radio" name="andor" id="or" value="or">OR
+			</p>
+			<script>
+				function search() {
+					if (dictionary.checked) {
+						section = "dictionary"
+					} else {
+						section = "grammar"
+					};
+					if (and.checked) {
+						andor = "and"
+					} else {
+						andor = "or"
+					};
+					terms = document.getElementById("term").value.split(" ").join("+")
+					address = "http://" + section + ".tinellb.com/search.html?term=" + terms + "&"
+					address += "andor=" + andor;
+					window.open(address, "_self", false);
+				}
+			</script>
+		</div>
+	</div>
+</body>
+
 </html>
