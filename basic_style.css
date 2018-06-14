@@ -151,6 +151,20 @@ table high-lulani:hover {
   display: none;
 }
 
+.content div.folding div.literal {
+    display: none;
+}
+
+.content input.folder:checked + div.folding div.literal p,
+.content input.folder:checked + div.folding div.literal {
+    display: inherit;
+}
+
+.content .literal p::before {
+    content: "lit.:\a0";
+    font-style: italic;
+}
+
 .content span.tooltip::after {
     content: "?";
     font-size: smaller;
