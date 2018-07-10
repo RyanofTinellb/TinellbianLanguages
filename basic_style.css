@@ -226,6 +226,10 @@ table high-lulani:hover {
     margin-right: 10%;
   }
 
+  .content p {
+    text-align: left;
+  }
+
   .nav-pane {
     width: 100%;
   }
