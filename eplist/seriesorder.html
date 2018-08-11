@@ -24,7 +24,7 @@
 </head>
 
 <body>
-    <ul>
+    <ul id="origdate" origdate="2018-05-04">
         <li seasons="2">
             <st>Yes, Minister</st>
         </li>
@@ -34,7 +34,7 @@
         <li seasons="2.5">
             <st>Warehouse 13</st>
         </li>
-        <li seasons="7"><strong>Star Trek: Voyager</strong></li>
+        <li seasons="7" current><strong>Star Trek: Voyager</strong></li>
         <li seasons="1.5">The Venture Bros.</li>
         <li seasons="2">Stargate Universe</li>
         <li seasons="0.8">United States of Tara</li>
@@ -309,21 +309,59 @@
     </ul>
 </body>
 <script type="text/javascript">
+    function add(a, b) {
+        return rationalise([a[0] + b[0], a[1] + b[1]]);
+    }
+
+    function rationalise(number) {
+        integer = number[0];
+        mantissa = number[1];
+        integer += Math.floor(mantissa / 10);
+        mantissa %= 10;
+        return [integer, mantissa];
+    }
+
+    function toFloat(number) {
+        return number[0] + number[1] / 10;
+    }
     let total = [0, 0];
+    let origdate = new Date(document.getElementById("origdate").attributes.origdate.value);
+    let months = [
+        "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+    ]
     for (elt of document.getElementsByTagName("li")) {
         let seasons = elt.attributes.seasons.value;
         let integer = parseInt(seasons.split(".")[0]);
         let mantissa = parseInt(seasons.split(".")[1]) || 0;
-        total[0] += integer;
-        total[1] += mantissa;
-        total[0] += Math.floor(total[1] / 10);
-        total[1] %= 10;
-        if (total[1]) {
-            var fltotal = total.join(".")
-        } else {
-            var fltotal = total[0]
+        if (elt.attributes.current) {
+            let currentseasons = add(total, [Math.floor(integer / 2), 0]);
+            let currdate = new Date();
+            let dist = currdate - origdate;
+            var timeperseason = dist / toFloat(currentseasons);
         }
-        elt.innerHTML += ` (${seasons}&nbsp;/&nbsp;${fltotal}&nbsp;SEq)`;
+        total = add(total, [integer, mantissa]);
+        if (total[1]) {
+            var fltotal = total.join(".");
+        } else {
+            var fltotal = total[0];
+        }
+        if (timeperseason) {
+            var thendate = new Date(Date.parse(origdate) + (toFloat(total) * timeperseason));
+            switch (Math.floor(thendate.getDate() / 10)) {
+                case 0:
+                    var period = "Early";
+                    break;
+                case 1:
+                    var period = "Mid";
+                    break;
+                default:
+                    var period = "Late";
+            }
+            thendate = "; " + period + " " + months[thendate.getMonth()] + ", " + thendate.getFullYear();
+        } else {
+            var thendate = "";
+        }
+        elt.innerHTML += ` (${seasons}&nbsp;/&nbsp;${fltotal}&nbsp;SEq${thendate})`;
     }
 </script>
 
