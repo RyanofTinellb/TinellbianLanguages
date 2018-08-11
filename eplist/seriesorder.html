@@ -24,6 +24,7 @@
 </head>
 
 <body>
+    <p style="text-align:center;">SEq &colone; Season Equivalent, <em>i.e.:</em>the same runtime as an average American season of &sim;25 episodes of &sim;42 minutes each.</p>
     <ul id="origdate" origdate="2018-05-04">
         <li seasons="2">
             <st>Yes, Minister</st>
@@ -349,19 +350,19 @@
             var thendate = new Date(Date.parse(origdate) + (toFloat(total) * timeperseason));
             switch (Math.floor(thendate.getDate() / 10)) {
                 case 0:
-                    var period = "Early";
+                    var period = "early";
                     break;
                 case 1:
-                    var period = "Mid";
+                    var period = "mid";
                     break;
                 default:
-                    var period = "Late";
+                    var period = "late";
             }
-            thendate = "; " + period + " " + months[thendate.getMonth()] + ", " + thendate.getFullYear();
+            thendate = ` &ndash; ends ${period} ${months[thendate.getMonth()]}, ${thendate.getFullYear()}.`;
         } else {
             var thendate = "";
         }
-        elt.innerHTML += ` (${seasons}&nbsp;/&nbsp;${fltotal}&nbsp;SEq${thendate})`;
+        elt.innerHTML += ` (${seasons}&nbsp;/&nbsp;${fltotal}&nbsp;SEq)${thendate}`;
     }
 </script>
 
