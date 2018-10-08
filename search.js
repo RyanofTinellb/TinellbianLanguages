@@ -40,6 +40,7 @@ function getTerms() {
         "%27", "'",
         "\u0294", "''",
         "\u00ec", "$e",
+        "%28", "(",
         "%29", ")",
         "%c5%97", ",r",
         "%20", "+",
@@ -142,15 +143,8 @@ function capitalise(string) {
 
 function markdown(arr) {
     const MARKING = [
-        "$a", "&acirc;",
-        "$e", "&ecirc;",
-        "$i", "&icirc;",
-        "$o", "&ocirc;",
-        "$u", "&ucirc;",
-        "$e", "&ecirc;",
-        "$a", "&acirc;",
-        "$e", "&ecirc;",
         ")a", "&agrave;",
+        "()e", "&ecirc;",
         ")e", "&egrave;",
         ")i", "&igrave;",
         ")o", "&ograve;",
