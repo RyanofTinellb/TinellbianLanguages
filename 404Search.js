@@ -173,18 +173,46 @@ function capitalise(string) {
 }
 
 function markdown(arr) {
-  var marking = ["$a", "&acirc;", "$e", "&ecirc;", "$i", "&icirc;", "$o", "&ocirc;", "$u", "&ucirc;", "$e", "&ecirc;", "$a", "&acirc;", "$e", "&ecirc;", ")a", "&agrave;", ")e", "&egrave;", ")i", "&igrave;", ")o", "&ograve;", ")u", "&ugrave;", "_o", "&#x14d;", "+h", "&#x2b0;", ",c", "&#x255;", ",n", "&#x14b;", "''", "&#x294;", "'", "&rsquo;", "$h", "&#x2b1;", "-i", "&#x268;", "=j", "&#x25f;", "$l", "&#x28e;", "$n", "&#x272;", "$r", "&#x279;", ",r", "&#x157;", "!e", "&#x259;", "-u", "&#x289;", "_u", "&#x16b;"]
-  var terms = new Array;
-  for (termnum in arr) {
-    var term = arr[termnum];
-    for (i = 0; i < marking.length; i++) {
-      term = term.split(marking[i]).join(marking[++i]);
+    const MARKING = [
+        "$a", "&acirc;",
+        "$e", "&ecirc;",
+        "$i", "&icirc;",
+        "$o", "&ocirc;",
+        "$u", "&ucirc;",
+        "()e", "&ecirc;",
+        ")a", "&agrave;",
+        ")e", "&egrave;",
+        ")i", "&igrave;",
+        ")o", "&ograve;",
+        ")u", "&ugrave;",
+        "_o", "&#x14d;",
+        "+h", "&#x2b0;",
+        ",c", "&#x255;",
+        ",n", "&#x14b;",
+        "'", "&rsquo;",
+        "''", "&#x294;",
+        "$h", "&#x2b1;",
+        "-i", "&#x268;",
+        "=j", "&#x25f;",
+        "$l", "&#x28e;",
+        "$n", "&#x272;",
+        "$r", "&#x279;",
+        ",r", "&#x157;",
+        "!e", "&#x259;",
+        "-u", "&#x289;",
+        "_u", "&#x16b;",
+        ".", "&middot;"
+    ]
+    var terms = new Array;
+    for (termnum in arr) {
+        var term = arr[termnum];
+        for (i = 0; i < MARKING.length; i++) {
+            term = term.split(MARKING[i]).join(MARKING[++i]);
+        }
+        terms.push(term);
     }
-    terms.push(term);
-  }
-  return terms;
+    return terms;
 }
-
 
 // displays results as list
 // @param Array arr: results array
