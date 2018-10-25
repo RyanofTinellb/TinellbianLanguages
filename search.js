@@ -189,7 +189,7 @@ function display(arr, data, id, terms) {
     var text = "<ol>"
     for (var pagenum in arr) {
         var page = arr[pagenum];
-        var link = data.urls[page[0]] + ".html";
+        var link = data.urls[page[0]];
         var name = data.names[page[0]];
         var lines = new Array;
         for (linenum in page[1]) {
