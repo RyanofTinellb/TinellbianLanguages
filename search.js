@@ -9,18 +9,16 @@ function search() {
     var andButton = document.getElementById("and")
     xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
-            var text = JSON.parse(this.responseText);
-            var terms = getTerms();
+            let text = JSON.parse(this.responseText);
+            let terms = getTerms();
             if (!terms.length) {
                 arr = [];
             } else if (terms.length == 1) {
                 arr = oneTermSearch(text, terms);
-            } else if (andButton.checked) {
-                arr = andSearch(text, terms);
             } else {
-                arr = orSearch(text, terms);
+                arr = multiTermSearch(text, terms, andButton.checked);
             }
-            display(arr, text, "results", terms);
+            display(arr, text, "results", terms, andButton.checked);
         }
     };
     xmlhttp.open("GET", url, true);
@@ -69,62 +67,46 @@ function getTerms() {
     return text.split("+").filter(i => i != "");
 }
 
-// builds array of results containing any search term
-// @param arr: raw json array (usually from file)
-// @param String[] terms: search terms
-function orSearch(arr, terms) {
-    var output = new Array;
-    for (t in terms) {
-        var term = terms[t];
-        results = oneTermSearch(arr, term);
-        for (r in results) {
-            output.push(results[r])
-        }
-    }
-    output.sort((a, b) => parseInt(a[0]) >= parseInt(b[0]));
-    var i = 0;
-    while (i < output.length - 1) {
-        if (output[i][0] == output[i + 1][0]) {
-            output[i][1] = output[i][1].concat(output[i + 1][1]).sort((a, b) => a < b).filter((item, pos, ary) => !pos || item != ary[pos - 1]);
-            output = output.filter((item, pos, ary) => pos != i);
-        } else {
-            i++;
-        }
-    }
-    return output;
+function unique(arr) {
+    return arr.filter(
+        (item, pos, ary) => !pos || item !== ary[pos - 1]
+    );
 }
 
-// builds array of results containing all search terms
-function andSearch(arr, terms) {
-    var output = new Array;
-    num = terms.length - 1;
-    for (t in terms) {
-        var term = terms[t];
-        results = oneTermSearch(arr, term);
-        for (r in results) {
-            output.push(results[r])
+function uniquePageNumbers(pages) {
+    return pages.map(page => {
+        page.lines = unique(page.lines.sort());
+        return page;
+    });
+}
+
+function multiTermSearch(arr, terms, andButton) {
+    let pages = [].concat(...terms.map(term => oneTermSearch(arr, term)));
+    pages.sort((a, b) => a.page - b.page);
+    let output = [];
+    let current = undefined;
+    for (let page of pages) {
+        if (current && page.page === current.page) {
+            current.lines.push(...page.lines);
+            current.count++;
+        } else {
+            if (current) { output.push(current); }
+            current = {page: page.page, lines: page.lines, count: 1};
         }
     }
-    output.sort((a, b) => parseInt(a[0]) >= parseInt(b[0]))
-    for (var i = num; i < output.length; i++) {
-        if (output[i][0] == output[i - num][0]) {
-            for (j = i - num; j < i; j++) {
-                output[i][1] = output[i][1].concat(output[j][1]);
-            }
-            output[i][1] = output[i][1].sort((a, b) => a >= b).
-            filter((item, pos, ary) => !pos || item != ary[pos - 1]);
-        }
-    }
-    output = output.filter(
-        (item, pos, ary) => pos >= num && item[0] == ary[pos - num][0]
-    );
-    return output;
+    output = uniquePageNumbers(output);
+    filter = andButton ? page => page.count === terms.length : page => true;
+    return output.filter(filter);
 }
 
 function oneTermSearch(arr, term) {
-    text = new Array;
-    for (page in arr.terms[term]) {
-        text.push([page, arr.terms[term][page]])
+    pages = arr.terms[term];
+    text = [];
+    for (page in pages) {
+        text.push({
+            page: parseInt(page),
+            lines: pages[page].map(line => parseInt(line))
+        });
     }
     return text;
 }
@@ -132,16 +114,16 @@ function oneTermSearch(arr, term) {
 // capitalises first letter
 function capitalise(string) {
     if (string.length == 0) {
-        return ""
+        return ''
     }
-    if (string.startsWith("&rsquo;")) {
-        return string.replace("&rsquo;", "&#x294;");
+    if (string.startsWith('&rsquo;')) {
+        return string.replace('&rsquo;', '&#x294;');
     } else {
         return string.charAt(0).toUpperCase() + string.slice(1);
     }
 }
 
-function markdown(arr) {
+function markdown(terms) {
     const MARKING = [
         ")a", "&agrave;",
         "()e", "&ecirc;",
@@ -153,8 +135,8 @@ function markdown(arr) {
         "+h", "&#x2b0;",
         ",c", "&#x255;",
         ",n", "&#x14b;",
-        "'", "&rsquo;",
         "''", "&#x294;",
+        "'", "&rsquo;",
         "$h", "&#x2b1;",
         "-i", "&#x268;",
         "=j", "&#x25f;",
@@ -167,46 +149,54 @@ function markdown(arr) {
         "_u", "&#x16b;",
         ".", "&middot;"
     ]
-    var terms = new Array;
-    for (termnum in arr) {
-        var term = arr[termnum];
+    return terms.map(term => {
         for (i = 0; i < MARKING.length; i++) {
             term = term.split(MARKING[i]).join(MARKING[++i]);
         }
-        terms.push(term);
-    }
-    return terms;
+        return term;
+    });
 }
 
-// displays results as list
-// @param Array arr: results array
-function display(arr, data, id, terms) {
+function titleSearch(arr, terms, andButton) {
+    let names = arr.names.map((elt, i) => ({
+        name: elt,
+        url: arr.urls[i],
+        count: 0,
+    }));
+    terms.forEach(term => {
+        names.forEach(name => {
+            if (name.name.toLowerCase().includes(term)) { name.count++; }
+        });
+    });
+    numTerms = terms.length;
+    // filter = andButton ? name => name.count === terms.length : name =>
+    filter = name => (andButton ? name.count === terms.length : name.count);
+    names = names.filter(filter);
+    return `<div class="title-results"><ul>${names.map(
+        name => `<a href="${name.url}">${name.name}</a></li>`
+    ).join(';<br> ')}</ul></div>`;
+}
+
+function display(pages, data, id, terms, andButton) {
     terms = markdown(terms);
-    if (!arr.length) {
-        document.getElementById(id).innerHTML = terms.join(' ') + " not found";
-        return;
-    }
-    var text = "<ol>"
-    for (var pagenum in arr) {
-        var page = arr[pagenum];
-        var link = data.urls[page[0]];
-        var name = data.names[page[0]];
-        var lines = new Array;
-        for (linenum in page[1]) {
-            var line = data.sentences[page[1][linenum]];
-            for (termnum in terms) {
-                var term = terms[termnum];
-                var replacement = "<strong>" + term + "</strong>"
-                line = line.split(term).join(replacement);
-                term = capitalise(term);
-                replacement = "<strong>" + term + "</strong>"
-                line = line.split(term).join(replacement);
-            }
-            lines.push(line);
-        }
-        text += "<li><a href=\"" + link + "\">" + name + "</a>: "
-        text += lines.join(" &hellip; ") + "</li>"
-    }
-    text += "</ol>";
-    document.getElementById(id).innerHTML = text;
+    let regexes = terms.map(term =>
+            RegExp(`(${term}|${capitalise(term)})`, 'g'));
+    document.getElementById(id).innerHTML = `${titleSearch(data, terms, andButton)}${
+    !arr.length ? terms.join(' ') + " not found" :
+         `<ol>${pages.map(page => {
+            let pagenum = page.page;
+            let link = data.urls[pagenum];
+            let name = data.names[pagenum];
+            let lines = page.lines.map(
+                linenum => highlight(regexes, data.sentences[linenum]));
+            return `<li><a href="${link}">${name}</a>: ${
+                lines.join(' &hellip; ')}</li>`;
+    }).join('')}</ol>`}`;
+}
+
+function highlight(terms, line) {
+    terms.forEach(term => {
+        line = line.replace(term, '<strong>$1</strong>');
+    });
+    return line;
 }

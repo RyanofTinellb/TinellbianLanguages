@@ -137,6 +137,12 @@ input[type='checkbox'] {
     font-family: serif;
 }
 
+.content .results .title-results {
+    font-weight: bold;
+    padding-left: 5%;
+    padding-top: 1em;
+}
+
 .content label.folder {
     text-align: left;
 }
