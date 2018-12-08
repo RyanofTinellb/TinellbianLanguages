@@ -1,4 +1,4 @@
-  search(window.location.href.indexOf("?") != -1);
+  search(window.location.href.indexOf("?") == -1);
 
 function search(fromFourOhFour) {
     document.getElementById("results").innerHTML = "Searching...";
@@ -8,7 +8,7 @@ function search(fromFourOhFour) {
     xmlhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
             let text = JSON.parse(this.responseText);
-            let terms = fromFourOhFour ? getTermfrom404() : getTerms();
+            let terms = (fromFourOhFour ? getTermfrom404() : getTerms());
             if (!terms.length) {
                 arr = [];
             } else if (terms.length == 1) {
@@ -23,7 +23,17 @@ function search(fromFourOhFour) {
     xmlhttp.send();
 }
 
-// returns array of terms
+function getTermfrom404() {
+  /* searches for the term after the final slash of the url, without the .html ending */
+  var url = window.location.href;
+  var terms = url.split("/");
+  var term = terms[terms.length - 1]
+  try {
+    term = term.split(".html")[0];
+  } catch (err) {}
+  return term.split('%20');
+}
+
 function getTerms() {
     var andOr;
     var url;

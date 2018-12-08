@@ -76,6 +76,10 @@ table high-lulani:hover {
     display: none;
 }
 
+.nav-pane form#search {
+    display: none;
+}
+
 input[type='checkbox'] {
     display: none;
 }
