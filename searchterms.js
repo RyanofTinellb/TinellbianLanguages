@@ -1,28 +1,21 @@
-function searchterms() {
-  var url = "searching.json";
-  var xmlhttp = new XMLHttpRequest();
-  xmlhttp.onreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      var text = JSON.parse(this.responseText);
-      display(text, "results");
-    }
-  };
-  xmlhttp.open("GET", url, true);
-  xmlhttp.send();
+async function searchterms() {
+    document.getElementById('results').innerHTML = 'Searching...';
+    let data = await fetch('searching.json');
+    data = await data.json();
+    display(data, 'results');
 }
 
 // displays results as list
 // @param Array arr: results array
 function display(arr, id) {
-  var words = [];
-  for (var word in arr['terms']) {
-    words.push(word);
-  }
-  words.sort();
-  var disp = '<ol>';
-  for (word in words) {
-    disp += '<li>' + words[word] + '</li>\n';
-  }
-  disp += '</ol>';
-  document.getElementById(id).innerHTML = disp;
+    entries = Object.entries(arr['terms']);
+    urls = arr['urls'];
+    document.getElementById(id).innerHTML =
+        `<ol>${entries.sort().map(
+                entry => `${entry[0]} ${
+                    Object.keys(entry[1]).map(
+                        page => `<a href="${urls[page]}">${page}</a>`
+                    ).join(', ')
+                }`
+            ).join('<br>')}</ol>`;
 }
