@@ -1,59 +1,147 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<head>
+    <meta name="viewport" content="width=device-width,
+                                initial-scale=1.0, user-scalable=yes">
     <meta charset="utf-8">
-    <title>Tinellbian Languages</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>
+        About - Tinellb.com
+    </title>
+    <link rel="stylesheet" type="text/css" href="basic_style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
+
     <link rel="icon" type="image/png" href="favicon.png">
-  </head>
-  <body>
+
+        <script type="text/javascript">
+let href = window.location.href;
+if (href.indexOf("?") != -1) {
+    let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
+    window.location.href = `search.html?${term}&andOr=and`;
+}
+</script>
+
+</head>
+
+<body>
     <div class="flex">
-      <div class="nav-header">
-        <ul>
-          <li><a href="index.html">The Tinellbian Languages</a></li>
-          <ul class="level-1">
-            <li><a href="http://grammar.tinellb.com">Grammar Guide</a></li>
-            <li><a href="http://dictionary.tinellb.com">Tinellbian Dictionary</a></li>
-          </ul>
-          <li><a href="search.html">Search the Site</a></li>
-          <li class="normal">About / Contact</li>
-        </ul>
-      </div>
-      <div class="content">
-        <h1>About the Tinellbian Languages Site</h1>
-          <p>Questions, comments, suggestions? Why not send me an email at <a href="mailto:ryan@tinellb.com">ryan@tinellb.com</a>?</p>
-        <h2>Who</h2>
-          <p>My name is Ryan Eakins. From a young age, my parents instilled in me an enjoyment of letters, numbers and computers. With the help of some very supportive teachers, that enjoyment blossomed throughout my education, culminating in two degrees from Monash University. While I had started in a double degree (BA / BSc), I ended up finishing them each separately.</p>
-          <p>Having discovered a love of the language while in secondary school, I majored in Japanese at university. I also undertook two years of German, two years of general linguistics, and enough mathmatics units to form a second major. This constituted my Bachelor of Arts.</p>
-          <p>Returning to my science roots after a couple of years in the real world, I then majored in physics. Among these units were the quantum mechanics and particle physics I had always wanted to do. Despite already having a mathematics major, I continued studying in that area. A minor in chemistry and a number of electives in computer science rounded out most of my course requirements. A single unit of Middle Egyptian then allowed me to graduate with a Bachelor of Science.</p>
-          <p>I read mostly fantasy and science-fiction. I am gradually filling a shelf with grammars of languages from different families, so far only Japanese, German, Basque, Finnish, Arabic and Egyptian. I would like to at least append each of a Pama-Nyungan and a Niger-Congo grammar.</p>
-          <p>I have an extensive collection of televisions shows on DVD, which I am currently watching in chronological order by airdate. I started the current traversal of the list in early 2012. An IMDb list is here: <span class="no-break"><a href="http://www.imdb.com/list/ls068426744/">Episodes of Stuff I've Got</a>.</span></p>
-          <p>Language construction (&rdquo;conlanging&ldquo;) entered my life in early secondary school. Before I had a computer, any linguistic babblings were consigned to scraps of paper, all of which are now lost. High Lulani is my most elaborate conlang.</p>
-          <p>I grew up with Applesoft BASIC on an Apple //e, and learned Visual Basic once I had a computer powerful enough to run it. I learned HTML in secondary school, and have supplemented that with CSS and JavaScript in the years since. I do most of my coding in Python. For my Android phone, I was able to create a flashcards app for the learning of vocabulary, using Java in Android Studio. I have dabbled in PHP and Ruby, as well as SQL, and greatly enjoyed learning MIPS assembly.
-        <h2>What</h2>
-          <p>This site contains the <em>Coelacanth Quartet</em>, a speculative fiction novella in progress, and background information in the form of grammars and dictionaries for constructed languages.
-          </p>
-        <h2>Where</h2>
-          <p>I live near Melbourne, the capital city of Victoria, in Australia.</p>
-          <p>Tinellb is in another universe, perhaps the next one over.</p>
-        <h2>When</h2>
-          <p>
-            1985: Born.<br>
-            1995: Tinellb created.<br>
-            2003: Graduated secondary school.<br>
-            2004 - 2007: Worked at Pizza Hut.<br>
-            2011: Graduated from Monash University.
-            2007 - 2014: Worked at McDonald's<br>
-            2014: Began work on High Lulani and the <em>Coelacanth Quartet</em>.<br>
-            2017: Graduated from Monash, again.<br>
-          </p>
-        <h2>Why</h2>
-          <p>I wanted to practice Python and  HTML, CSS, and Python, and thought that building a site to showcase my novel and my conlangs was a good way to do that.
-        <h2>How</h2>
-          <p>This site is hosted at <a href="https://pages.github.com/">GitHub Pages,</a> with the associated repositories held at <a href="https://github.com/RyanofTinellb">GitHub</a>.</p>
-          <p>I write most of this site in a personal markdown, and I created my own markdown translation program in Python. I also have three different GUIs: one general purpose editor; one for inserting new entries into the dictionary and editing old ones; and finally, one for editing all the versions of the story at once. This last takes English, transliteration and gloss as input, and outputs both the Tinellbian script and interlinear. These programs can also be found on GitHub.</p>
-      </div>
+        <div class="nav-pane">
+            <label>
+  <input type="checkbox" class="menu">
+  <ul>
+  <li><a href="index.html">Tinellb</a></li>
+    <div class="javascript">
+      <form id="search">
+        <li class="search">
+          <input type="text" name="term">
+          <button type="submit">Search</button>
+        </li>
+      </form>
     </div>
-  </body>
+   <div class="links">  <ul class="level-1"><li class="normal">About</li>
+<li><a href="episodelist.html">Episode List</a></li>
+</ul>
+   </div></ul></label>
+            <ul class="subsites">
+                <li>
+                    <a href="http://grammar.tinellb.com">Grammar</a>
+                </li>
+                <li>
+                    <a href="http://dictionary.tinellb.com">Dictionary</a>
+                </li>
+                <li>
+                    <a href="http://universe.tinellb.com">Encyclopedia</a>
+                </li>
+                <li>
+                    <a href="http://coelacanthquartet.tinellb.com">The Coelacanth Quartet</a>
+                </li>
+                <li>
+                    <a href="http://stories.tinellb.com">Other Writing</a>
+                </li>
+            </ul>
+        </div>
+        <div class="content">
+            <div class="nav-footer"><div>
+<a href="index.html">&larr; Previous page</a>
+</div>
+
+<div>
+<a href="episodelist.html">Next page &rarr;</a>
+</div>
+</div>
+            <h1>About</h1>
+            <div class="main-contents">
+<p>Questions, comments, suggestions? Why not send me an email at <a href="mailto:ryan@tinellb.com">ryan@tinellb.com?</a></p>
+<h2 id="who">Who</h2>
+
+<p>My name is Ryan Eakins. From a young age, my parents instilled in me an enjoyment of letters, numbers and computers. With the help of some very supportive teachers, that enjoyment blossomed throughout my education, culminating in two degrees from Monash University. While I had started in a double degree (BA / BSc), I ended up finishing them each separately.</p>
+<p>Having discovered a love of the language while in secondary school, I majored in Japanese at university. I also undertook two years of German, two years of general linguistics, and enough mathmatics units to form a second major. This constituted my Bachelor of Arts.</p>
+<p>Returning to my science roots after a couple of years in the real world, I then majored in physics. Among these units were the quantum mechanics and particle physics I had always wanted to do. Despite already having a mathematics major, I continued studying in that area. A minor in chemistry and a number of electives in computer science rounded out most of my course requirements. A single unit of Middle Egyptian then allowed me to graduate with a Bachelor of Science.</p>
+<p>I read mostly fantasy and science-fiction. I am gradually filling a shelf with grammars of languages from different families, so far only Japanese, German, Basque, Finnish, Arabic and Egyptian. I would like to at least append each of a Pama-Nyungan and a Niger-Congo grammar.</p>
+<p>I have an extensive collection of televisions shows on DVD, which I am currently watching in chronological order by airdate. I started the current traversal of the list in early 2012. An IMDb list is here: Episodes of Stuff I&rsquo;ve Got.</p>
+<p>Language construction (&ldquo;conlanging&rdquo;) entered my life in early secondary school. Before I had a computer, any linguistic babblings were consigned to scraps of paper, all of which are now lost. High Lulani is my most elaborate conlang.</p>
+<p>I grew up with Applesoft BASIC on an Apple //e, and learned Visual Basic once I had a computer powerful enough to run it. I learned HTML in secondary school, and have supplemented that with CSS and JavaScript in the years since. I do most of my coding in Python. For my Android phone, I was able to create a flashcards app for the learning of vocabulary, using Java in Android Studio. I have dabbled in PHP and Ruby, as well as SQL, and greatly enjoyed learning MIPS assembly.</p>
+<h2 id="what">What</h2>
+
+<p>This site contains the <a href="http://coelacanthquartet.tinellb.com">Coelacanth Quartet</a>, a speculative fiction novella in progress, and background information in the form of <a href="http://grammar.tinellb.com">grammars</a> and <a href="http://dictionary.tinellb.com">dictionaries</a> for constructed languages.</p>
+<h2 id="where">Where</h2>
+
+<p>I live near Melbourne, the capital city of Victoria, in Australia.</p>
+<p>Tinellb is in another universe, perhaps the next one over.</p>
+<h2 id="when">When</h2>
+
+
+<ul>
+<li>1985: Born.</li>
+<li>1995: Tinellb created.</li>
+<li>2003: Graduated secondary school.</li>
+<li>2004 - 2007: Worked at Pizza Hut.</li>
+<li>2011: Graduated from Monash University. 2007 - 2014: Worked at McDonald&rsquo;s</li>
+<li>2014: Began work on High Lulani and the Coelacanth Quartet.</li>
+<li>2017: Graduated from Monash, again.</li>
+</ul>
+
+<h2 id="why">Why</h2>
+
+<p>I wanted to practice HTML, CSS and Python, and thought that building a site to showcase my novel and my conlangs was a good way to do that.</p>
+<h2 id="how">How</h2>
+
+<p>This site is hosted at GitHub Pages, with the associated repositories held at <a href="https://github.com/RyanofTinellb">GitHub</a>.</p>
+<p>I write most of this site in a personal markdown, and I created my own markdown translation program in Python.</p></div>
+            <div class="nav-footer"><div>
+<a href="index.html">&larr; Previous page</a>
+</div>
+
+<div>
+<a href="episodelist.html">Next page &rarr;</a>
+</div>
+</div>
+            <div class="copyright">
+                <span class="no-breaks">
+                    &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
+                </span>
+                <span class="copyright">
+                    Last updated: Monday, January 21st, 2019.
+                </span>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        for (elt of document.getElementsByClassName('javascript')) {
+            elt.style.display = "block";
+        }
+    </script>
+    
+</body>
+
 </html>
+
+
+
+
+
+
+
+
+
+

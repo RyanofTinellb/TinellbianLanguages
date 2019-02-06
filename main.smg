@@ -1,0 +1,41 @@
+{
+  "current": {
+    "position": "1.0", 
+    "markdown": "", 
+    "fontsize": 14, 
+    "page": [
+      ""
+    ], 
+    "language": "en: English"
+  }, 
+  "site": {
+    "files": {
+      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/main/data.json", 
+      "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/main/searching.json", 
+      "template_file": "C:/Users/Ryan/Documents/TinellbianLanguages/main/template.html"
+    }, 
+    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/main", 
+    "name": "Tinellb"
+  }, 
+  "links": {}, 
+  "history": [
+    [
+      "About"
+    ], 
+    [], 
+    [], 
+    [
+      "Episode List"
+    ], 
+    [
+      "Episode List", 
+      "Other Page"
+    ], 
+    [
+      "Episode List"
+    ], 
+    [
+      "Episode List"
+    ]
+  ]
+}

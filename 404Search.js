@@ -181,7 +181,7 @@ function titleSearch(arr, terms, andButton) {
     filter = name => (andButton ? name.count === terms.length : name.count);
     names = names.filter(filter);
     return `<div class="title-results"><ul>${names.map(
-        name => `<a href="${name.url}">${name.name}</a></li>`
+        name => `<a href="/${name.url}">${name.name}</a></li>`
     ).join(';<br> ')}</ul></div>`;
 }
 
@@ -197,7 +197,7 @@ function display(pages, data, id, terms, andButton) {
             let name = data.names[pagenum];
             let lines = page.lines.map(
                 linenum => highlight(regexes, data.sentences[linenum]));
-            return `<li><a href="${link}">${name}</a>: ${
+            return `<li><a href="/${link}">${name}</a>: ${
                 lines.join(' &hellip; ')}</li>`;
     }).join('')}</ol>`}`;
 }

@@ -6,7 +6,7 @@
                                 initial-scale=1.0, user-scalable=yes">
     <meta charset="utf-8">
     <title>
-        Tinellb - Tinellb.com
+        Episode List - Tinellb.com
     </title>
     <link rel="stylesheet" type="text/css" href="basic_style.css">
 <link rel="stylesheet" type="text/css" href="style.css">
@@ -29,7 +29,7 @@ if (href.indexOf("?") != -1) {
             <label>
   <input type="checkbox" class="menu">
   <ul>
-  <li class="normal">Tinellb</li>
+  <li><a href="index.html">Tinellb</a></li>
     <div class="javascript">
       <form id="search">
         <li class="search">
@@ -38,8 +38,8 @@ if (href.indexOf("?") != -1) {
         </li>
       </form>
     </div>
-   <div class="links-root">  <ul class="level-1"><li><a href="about.html">About</a></li>
-<li><a href="episodelist.html">Episode List</a></li>
+   <div class="links">  <ul class="level-1"><li><a href="about.html">About</a></li>
+<li class="normal">Episode List</li>
 </ul>
    </div></ul></label>
             <ul class="subsites">
@@ -62,38 +62,24 @@ if (href.indexOf("?") != -1) {
         </div>
         <div class="content">
             <div class="nav-footer"><div>
-<a href="http://www.tinellb.com">&uarr; Go to Main Page</a>
+<a href="about.html">&larr; Previous page</a>
 </div>
 
 <div>
-<a href="about.html">Next page &rarr;</a>
+<a href="index.html">Return to Menu &uarr;</a>
 </div>
 </div>
-            <h1>Tinellb</h1>
-            <div class="main-contents"><h2 id="welcome"><a href="about.html">Welcome!</a></h2>
+            <h1>Episode List</h1>
+            <div class="main-contents"><div class="eplist">
 
-<p>Tinellb is a fictional universe. This site seeks to chronicle everything known about this realm and the Guozu who live there.</p>
-<h2 id="thecoelacanthquartet"><a href="http://coelacanthquartet.tinellb.com">The <em>Coelacanth Quartet</em></a></h2>
-
-<p>A novel in four parts, detailing the adventures of Corla in her attempt to get home.</p>
-<h2 id="grammarguide"><a href="http://grammar.tinellb.com">Grammar Guide</a></h2>
-
-<p>A guide to the High Lulani language.</p>
-<h2 id="tinellbiandictionary"><a href="http://dictionary.tinellb.com">Tinellbian Dictionary</a></h2>
-
-<p>Pronunciations, spellings, etymologies and usage notes for over 1000 vocabulary items, and growing.</p>
-<h2 id="tinellbianencyclopedia"><a href="http://universe.tinellb.com">Tinellbian Encyclopedia</a></h2>
-
-<p>An exploration of the universe of Tinellb.</p>
-<h2 id="miscellaneouswritings"><a href="http://stories.tinellb.com">Miscellaneous Writings</a></h2>
-
-<p>Other short stories, including the myths and legends behind the <em>Coelacanth Quartet</em>.</p></div>
+</div>
+</div>
             <div class="nav-footer"><div>
-<a href="http://www.tinellb.com">&uarr; Go to Main Page</a>
+<a href="about.html">&larr; Previous page</a>
 </div>
 
 <div>
-<a href="about.html">Next page &rarr;</a>
+<a href="index.html">Return to Menu &uarr;</a>
 </div>
 </div>
             <div class="copyright">
@@ -111,7 +97,45 @@ if (href.indexOf("?") != -1) {
             elt.style.display = "block";
         }
     </script>
-    
+    <script>
+let eplist = document.getElementsByClassName("eplist")[0];
+makeList()
+
+async function makeList() {
+    let data = await fetch("eplist.json");
+    data = await data.json();
+    console.log(data);
+    let f = data.map(ep => SeriesName(ep) + "&mdash;" + Episode(ep)).join("<br>");
+    console.log(f);
+    eplist.innerHTML = f;
+}
+
+function Episode(ep) {
+    let episode = ep.episode.name;
+    return episode === undefined ? ep.episode : episode;
+}
+
+function SeriesName(ep) {
+    let meta = ep.meta;
+    let series = ep.series
+    return meta === undefined ? series : meta + ": " + series;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
 </body>
 
 </html>
