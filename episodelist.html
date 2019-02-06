@@ -87,7 +87,7 @@ if (href.indexOf("?") != -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="copyright">
-                    Last updated: Wednesday, February 6th, 2019.
+                    Last updated: Thursday, February 7th, 2019.
                 </span>
             </div>
         </div>
@@ -104,22 +104,54 @@ makeList()
 async function makeList() {
     let data = await fetch("eplist.json");
     data = await data.json();
-    console.log(data);
-    let f = data.map(ep => SeriesName(ep) + "&mdash;" + Episode(ep)).join("<br>");
-    console.log(f);
+    shuffle(data);
+    console.log(data[0]);
+    let f = data.map(ep => SeriesName(ep) + " " + Episode(ep)).join("<br>");
     eplist.innerHTML = f;
 }
 
+function shuffle(arr) {
+    for (i = arr.length - 1; i > 0; i--) {
+        let index = Math.floor(i * Math.random());
+        let temp = arr[i];
+        arr[i] = arr[index];
+        arr[index] = temp;
+    }
+}
+
 function Episode(ep) {
-    let episode = ep.episode.name;
-    return episode === undefined ? ep.episode : episode;
+    ep = ep.ep;
+    if (ep === undefined) {
+        return "";
+    } else {
+        let name = ep.name;
+        if (name === undefined) {
+            return ep;
+        } else {
+            return name;
+        }
+    }
 }
 
 function SeriesName(ep) {
     let meta = ep.meta;
-    let series = ep.series
-    return meta === undefined ? series : meta + ": " + series;
+    let series = ep.series;
+    return meta === undefined ? series === undefined ? "" : series : meta + ": " + series;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
