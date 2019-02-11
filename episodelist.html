@@ -87,7 +87,7 @@ if (href.indexOf("?") != -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="copyright">
-                    Last updated: Thursday, February 7th, 2019.
+                    Last updated: Monday, February 11th, 2019.
                 </span>
             </div>
         </div>
@@ -104,51 +104,65 @@ makeList()
 async function makeList() {
     let data = await fetch("eplist.json");
     data = await data.json();
+    console.log(data);
     shuffle(data);
-    console.log(data[0]);
-    let f = data.map(ep => SeriesName(ep) + " " + Episode(ep)).join("<br>");
+    let f = "<ol>" + data.map(ep => "<li>" + SeriesName(ep) + Numbers(ep) + Episode(ep) + "</li>").join("\n") + "</ol>";
     eplist.innerHTML = f;
 }
 
-function shuffle(arr) {
-    for (i = arr.length - 1; i > 0; i--) {
-        let index = Math.floor(i * Math.random());
-        let temp = arr[i];
-        arr[i] = arr[index];
-        arr[index] = temp;
-    }
-}
-
 function Episode(ep) {
-    ep = ep.ep;
-    if (ep === undefined) {
-        return "";
-    } else {
-        let name = ep.name;
-        if (name === undefined) {
-            return ep;
-        } else {
-            return name;
-        }
-    }
+    let episode = ep.ep.name === undefined ? ep.ep : ep.ep.name;
+    return episode;
 }
 
 function SeriesName(ep) {
     let meta = ep.meta;
     let series = ep.series;
-    return meta === undefined ? series === undefined ? "" : series : meta + ": " + series;
+    if (meta === undefined) {
+        if (series === undefined) {
+            return "";
+        } else {
+            return series + " ";
+        }
+    } else {
+        if (series === undefined) {
+            return meta + " ";
+        } else {
+            return meta + ": " + series + " ";
+        }
+    }
 }
 
+function shuffle(arr) {
+    for (let i = arr.length - 1; i > 1; i--) {
+        let index = Math.floor(Math.random() * i);
+        let temp = arr[index];
+        arr[index] = arr[i];
+        arr[i] = temp;
+    }
+}
 
+function Numbers(ep) {
+    let season = "";
+    if (ep.season === undefined) {
+        season = "";   
+    } else {
+        if (ep.season.number === undefined) {
+            season = ep.season + "x";
+        } else {
+            season = ep.season.number + "x";
+        }
+    }
+    if (ep.ep.number === undefined) {
+        number = ""
+    } else
+        number = pad(ep.ep.number)
+    return season + pad(ep.ep.number) + " ";
+}
 
-
-
-
-
-
-
-
-
+function pad(num) {
+    return (num < 10 ? "0" : "") + num;
+}
 
 
 
@@ -171,6 +185,9 @@ function SeriesName(ep) {
 </body>
 
 </html>
+
+
+
 
 
 
