@@ -33,13 +33,6 @@ overline {
   text-decoration: overline;
 }
 
-highlight {
-    border: 1px solid red;
-    padding: 4px 5px;
-    border-radius: 15px;
-    line-height: 2;
-}
-
 @font-face {
   font-family: high-lulani;
   src: url('highlulani.ttf');

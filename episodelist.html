@@ -15,7 +15,7 @@
 
         <script type="text/javascript">
 let href = window.location.href;
-if (href.indexOf("?") != -1) {
+if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
     let term = href.replace(/(.*?\?)(.*?)(#.*|$)/, "$2");
     window.location.href = `search.html?${term}&andOr=and`;
 }
@@ -87,7 +87,7 @@ if (href.indexOf("?") != -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="copyright">
-                    Last updated: Monday, February 11th, 2019.
+                    Last updated: Tuesday, February 26th, 2019.
                 </span>
             </div>
         </div>
@@ -104,9 +104,10 @@ makeList()
 async function makeList() {
     let data = await fetch("eplist.json");
     data = await data.json();
+    data.sort((a, b) => a.ep.name > b.ep.name);
     console.log(data);
-    shuffle(data);
-    let f = "<ol>" + data.map(ep => "<li>" + SeriesName(ep) + Numbers(ep) + Episode(ep) + "</li>").join("\n") + "</ol>";
+    // shuffle(data);
+    let f = "<ol>" + data.map(ep => `<li>${SeriesName(ep)}${Numbers(ep)}${Episode(ep)}</li>`).join("\n") + "</ol>";
     eplist.innerHTML = f;
 }
 
@@ -118,7 +119,8 @@ function Episode(ep) {
 function SeriesName(ep) {
     let meta = ep.meta;
     let series = ep.series;
-    if (meta === undefined) {
+    if (meta === undefined || meta.endsWith("verse") || (series !== undefined && series.startsWith(meta)) ||
+            series === "Yes, Prime Minister") {
         if (series === undefined) {
             return "";
         } else {
@@ -128,7 +130,7 @@ function SeriesName(ep) {
         if (series === undefined) {
             return meta + " ";
         } else {
-            return meta + ": " + series + " ";
+            return `${meta}: ${series} `;
         }
     }
 }
@@ -155,29 +157,16 @@ function Numbers(ep) {
     }
     if (ep.ep.number === undefined) {
         number = ""
-    } else
+    } else {
         number = pad(ep.ep.number)
-    return season + pad(ep.ep.number) + " ";
+    }
+    let enough = `${season}${number}`.length > 1;
+    return enough ? `(${season}${number}) ` : "";
 }
 
 function pad(num) {
     return (num < 10 ? "0" : "") + num;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

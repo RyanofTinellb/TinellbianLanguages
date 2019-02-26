@@ -185,7 +185,7 @@ function display(pages, data, id, terms, andButton) {
     !arr.length ? terms.join(' ') + " not found" :
          `<ol>${pages.map(page => {
             let pagenum = page.page;
-            let link = data.urls[pagenum];
+            let link = data.urls[pagenum] + "?highlight=" + terms.join("+");
             let name = data.names[pagenum];
             let lines = page.lines.map(
                 linenum => highlight(regexes, data.sentences[linenum]));
