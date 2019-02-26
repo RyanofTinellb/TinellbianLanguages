@@ -104,7 +104,7 @@ makeList()
 async function makeList() {
     let data = await fetch("eplist.json");
     data = await data.json();
-    data.sort((a, b) => a.ep.name > b.ep.name);
+    //data.sort((a, b) => a.ep.name > b.ep.name);
     console.log(data);
     // shuffle(data);
     let f = "<ol>" + data.map(ep => `<li>${SeriesName(ep)}${Numbers(ep)}${Episode(ep)}</li>`).join("\n") + "</ol>";
