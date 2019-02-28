@@ -87,7 +87,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="copyright">
-                    Last updated: Tuesday, February 26th, 2019.
+                    Last updated: Thursday, February 28th, 2019.
                 </span>
             </div>
         </div>
@@ -101,19 +101,38 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 let eplist = document.getElementsByClassName("eplist")[0];
 makeList()
 
+const WALLETS = {
+    "Red Covered Wallet": "A",
+    "Big Black Box": "B",
+    "Pink and Light Grey Wallet": "C",
+    "Black Leather Wallet": "D",
+    "Yellow Wallet": "E",
+    "Silver Box": "F",
+    "Dark Blue Wallet": "G",
+    "Brown Leather Wallet": "H",
+    "Silver Wallet": "L",
+    "Brown Box": "M",
+    "Dark Blue Covered Wallet": "P",
+    "Blue and Dark Gray Wallet": "R",
+    "Black Box": "T",
+    "Velcro Tabbed Black Wallet": "U",
+    "Khaki Camoflage Covered Wallet": "W"
+};
+
+const MONTHS = [undefined, "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
 async function makeList() {
     let data = await fetch("eplist.json");
     data = await data.json();
-    //data.sort((a, b) => a.ep.name > b.ep.name);
+    data.sort((a, b) => a.date > b.date);
     console.log(data);
-    // shuffle(data);
-    let f = "<ol>" + data.map(ep => `<li>${SeriesName(ep)}${Numbers(ep)}${Episode(ep)}</li>`).join("\n") + "</ol>";
-    eplist.innerHTML = f;
+//    shuffle(data);
+    eplist.innerHTML = "<ol>" + data.map(ep => `<li>${SeriesName(ep)}${Numbers(ep)}${Episode(ep)}<span class="hidden-airdate">,&nbsp;aired:&nbsp;${airdate(ep)}</span></li>`).join("\n") + "</ol>";
 }
 
 function Episode(ep) {
     let episode = ep.ep.name === undefined ? ep.ep : ep.ep.name;
-    return episode;
+    return typeof episode === "string" ? episode.replace(/ /g, "&nbsp;") : episode;
 }
 
 function SeriesName(ep) {
@@ -156,19 +175,49 @@ function Numbers(ep) {
         }
     }
     if (ep.ep.number === undefined) {
-        number = ""
+        number = "";
+        season = season.replace("x", "");
     } else {
         number = pad(ep.ep.number)
     }
-    let enough = `${season}${number}`.length > 1;
-    return enough ? `(${season}${number}) ` : "";
+    let enough = `${season}${number}`.length >= 1;
+    let code = enough ? `${season}${number}` : "";
+    if (place(ep)) {
+        if (code) {
+            return `(${code}:${place(ep)}) `;
+        } else {
+            return `(${place(ep)}) `;
+        }
+    } else {
+        return `(${code}) `
+    }
 }
 
 function pad(num) {
     return (num < 10 ? "0" : "") + num;
 }
 
+function place(ep) {
+    let locplace = ep.location;
+    let wallet = "";
+    let disc = "";
+    if (locplace === undefined) {
+        return "";
+    } else if (typeof locplace === "string") {
+        wallet = WALLETS[locplace] || locplace;
+    } else if (typeof locplace === "number") {
+        disc = locplace;
+    } else {
+        wallet = WALLETS[locplace.wallet] || locplace.wallet;
+        disc = locplace.disc;
+    }
+    return `${disc}${wallet}`;
+}
 
+function airdate(ep) {
+    let [year, month, day] = [[0, 4], [4, 6], [6, 8]].map(([a, b]) => parseInt(ep.date.substring(a, b)));
+    return `${pad(day)}-${MONTHS[month]}-${year}`.replace(/-/g, "&#x2011;");
+}
 
 </script>
 </body>
