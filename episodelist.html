@@ -124,9 +124,9 @@ const MONTHS = [undefined, "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug
 async function makeList() {
     let data = await fetch("eplist.json");
     data = await data.json();
-    data.sort((a, b) => a.date > b.date);
+ //   data.sort((a, b) => a.date > b.date);
     console.log(data);
-//    shuffle(data);
+    shuffle(data);
     eplist.innerHTML = "<ol>" + data.map(ep => `<li>${SeriesName(ep)}${Numbers(ep)}${Episode(ep)}<span class="hidden-airdate">,&nbsp;aired:&nbsp;${airdate(ep)}</span></li>`).join("\n") + "</ol>";
 }
 
