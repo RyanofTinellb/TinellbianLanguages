@@ -87,7 +87,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="copyright">
-                    Last updated: Thursday, February 28th, 2019.
+                    Last updated: Monday, April 22nd, 2019.
                 </span>
             </div>
         </div>
@@ -124,32 +124,52 @@ const MONTHS = [undefined, "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug
 async function makeList() {
     let data = await fetch("eplist.json");
     data = await data.json();
- //   data.sort((a, b) => a.date > b.date);
-    console.log(data);
-    shuffle(data);
-    eplist.innerHTML = "<ol>" + data.map(ep => `<li>${SeriesName(ep)}${Numbers(ep)}${Episode(ep)}<span class="hidden-airdate">,&nbsp;aired:&nbsp;${airdate(ep)}</span></li>`).join("\n") + "</ol>";
+//    data.sort((a, b) => a.date > b.date);
+//    console.log(data);
+//    shuffle(data);
+    eplist.innerHTML = "<ol>" + data.map(ep => `<li>${Names(ep)}<span class="hidden-airdate">,&nbsp;aired:&nbsp;${airdate(ep)}</span></li>`).join("\n") + "</ol>";
+}
+
+function Names(ep) {
+    let name = SeriesName(ep);
+    return name.length > 1 ? `${SeriesName(ep)} ${Numbers(ep)} ${Episode(ep)}` : `${Episode(ep)} ${Numbers(ep)}`
 }
 
 function Episode(ep) {
-    let episode = ep.ep.name === undefined ? ep.ep : ep.ep.name;
+    let article = ep.ep.article === undefined ? "" : `${ep.ep.article}&nbsp;`;
+    let episode = ep.ep.name === undefined ? ep.ep : `${article}${ep.ep.name}`;
     return typeof episode === "string" ? episode.replace(/ /g, "&nbsp;") : episode;
+}
+
+function The(name) {
+    return name.endsWith("(T)") ? "The " + name.slice(0, -4) : name;
 }
 
 function SeriesName(ep) {
     let meta = ep.meta;
     let series = ep.series;
+    switch (typeof series) {
+        case "string":
+        case "undefined":
+            break;
+        case "number":
+            series = undefined;
+            break;
+        default:
+            series = series.name;
+    }
     if (meta === undefined || meta.endsWith("verse") || (series !== undefined && series.startsWith(meta)) ||
             series === "Yes, Prime Minister") {
         if (series === undefined) {
             return "";
         } else {
-            return series + " ";
+            return The(series) + " ";
         }
     } else {
         if (series === undefined) {
-            return meta + " ";
+            return The(meta);
         } else {
-            return `${meta}: ${series} `;
+            return `${The(meta)}: ${The(series)}`;
         }
     }
 }
@@ -184,9 +204,9 @@ function Numbers(ep) {
     let code = enough ? `${season}${number}` : "";
     if (place(ep)) {
         if (code) {
-            return `(${code}:${place(ep)}) `;
+            return `(${code}:${place(ep)})`;
         } else {
-            return `(${place(ep)}) `;
+            return `(${place(ep)})`;
         }
     } else {
         return `(${code}) `
@@ -218,6 +238,9 @@ function airdate(ep) {
     let [year, month, day] = [[0, 4], [4, 6], [6, 8]].map(([a, b]) => parseInt(ep.date.substring(a, b)));
     return `${pad(day)}-${MONTHS[month]}-${year}`.replace(/-/g, "&#x2011;");
 }
+
+
+
 
 </script>
 </body>
