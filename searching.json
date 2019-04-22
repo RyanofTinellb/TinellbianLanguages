@@ -96,11 +96,6 @@
                 18
             ]
         }, 
-        "eplist]": {
-            "2": [
-                63
-            ]
-        }, 
         "enjoyed": {
             "1": [
                 42
@@ -1105,11 +1100,6 @@
                 38
             ]
         }, 
-        "d": {
-            "2": [
-                63
-            ]
-        }, 
         "degrees": {
             "1": [
                 19
@@ -2075,6 +2065,12 @@
         "How", 
         "This site is hosted at GitHub Pages with the associated repositories held at GitHub", 
         "I write most of this site in a personal markdown and I created my own markdown translation program in Python", 
-        "d eplist]"
+        "", 
+        "", 
+        "", 
+        "", 
+        "&#x1f845; ", 
+        "", 
+        "&#x1f847; "
     ]
 }

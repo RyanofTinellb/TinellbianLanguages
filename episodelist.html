@@ -70,10 +70,20 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
 </div>
 </div>
             <h1>Episode List</h1>
-            <div class="main-contents"><div class="eplist">
+            <div class="main-contents">
+<p><span id="top"></span></p>
+<div class="eplist">
 
 </div>
+
+<div class="arrow-left">
+<p><a href="#top">&#x1f845;</a></p>
 </div>
+
+<div class="arrow-right">
+<p><a href="#bottom">&#x1f847;</a></p>
+</div>
+<p><span id="bottom"></span></p></div>
             <div class="nav-footer"><div>
 <a href="about.html">&larr; Previous page</a>
 </div>
@@ -87,7 +97,7 @@ if (href.indexOf("?") != -1 && href.indexOf("?highlight=") == -1) {
                     &copy;2017-2019 <a href="http://www.tinellb.com/about.html">Ryan Eakins</a>.
                 </span>
                 <span class="copyright">
-                    Last updated: Monday, April 22nd, 2019.
+                    Last updated: Tuesday, April 23rd, 2019.
                 </span>
             </div>
         </div>
@@ -124,11 +134,21 @@ const MONTHS = [undefined, "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug
 async function makeList() {
     let data = await fetch("eplist.json");
     data = await data.json();
-//    data.sort((a, b) => a.date > b.date);
-//    console.log(data);
+//    Fix(data);
+//    data.sort(TheSort(a, b)));
+    console.log(data);
 //    shuffle(data);
     eplist.innerHTML = "<ol>" + data.map(ep => `<li>${Names(ep)}<span class="hidden-airdate">,&nbsp;aired:&nbsp;${airdate(ep)}</span></li>`).join("\n") + "</ol>";
 }
+
+/*function Fix(data) {
+    data.forEach(a => a.META = );
+}
+
+function TheSort(a, b) {
+// sort by episode name, then by metaseries name
+    if (a.meta)
+}*/
 
 function Names(ep) {
     let name = SeriesName(ep);

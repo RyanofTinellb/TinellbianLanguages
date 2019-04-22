@@ -52,3 +52,18 @@
     margin: 1em;
     display: none;
 }
+
+.arrow-left a {
+    position: fixed;
+    bottom: 5%;
+    left: 10%;
+    font-size: 20px;
+    text-decoration: overline;
+}
+
+.arrow-right a {
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+    font-size: 20px;
+}
