@@ -104,3 +104,11 @@ button#epname {
 button#random {
     background-color: #FD3;
 }
+
+@media screen and (max-width: 800px) {
+    .content {
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+    }
+}
