@@ -57,22 +57,28 @@
     position: fixed;
     bottom: 5%;
     left: 10%;
-    font-size: 20px;
-    text-decoration: overline;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 20px solid #95A;
 }
 
 .arrow-right a {
     position: fixed;
     bottom: 5%;
-    right: 5%;
-    font-size: 20px;
+    right: 10%;
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 20px solid #95A;
 }
 
 .sorts {
     position: fixed;
     bottom: 15%;
     left: 10%;
-    margin-left: 1em;
 }
 
 .sorts button {
