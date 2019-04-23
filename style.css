@@ -67,3 +67,34 @@
     right: 5%;
     font-size: 20px;
 }
+
+.sorts {
+    position: fixed;
+    bottom: 15%;
+    left: 10%;
+    margin-left: 1em;
+}
+
+.sorts button {
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    display: block;
+    margin-top: 5px;
+}
+
+button#airdate {
+    background-color: #3C0;
+}
+
+button#default {
+    background-color: #33F;
+}
+
+button#epname {
+    background-color: red;
+}
+
+button#random {
+    background-color: #FD3;
+}
