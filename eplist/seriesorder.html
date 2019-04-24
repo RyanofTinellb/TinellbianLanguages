@@ -25,7 +25,7 @@
 
 <body>
     <p style="text-align:center;">SEq &colone; Season Equivalent, <em>i.e.:</em> the same runtime as an average American season of &sim;25 episodes of &sim;42 minutes each.</p>
-    <ul id="origdate" origdate="2018-05-04">
+    <ul id="origdate" origdate="2018-05-04" lastchangeddate="2019-03-05">
         <li seasons="2">
             <st>Yes, Minister</st>
         </li>
@@ -371,8 +371,10 @@
     function toFloat(number) {
         return number[0] + number[1] / 10;
     }
+    let timeperseason;
     let total = [0, 0];
     let origdate = new Date(document.getElementById("origdate").attributes.origdate.value);
+    let changedate = new Date(document.getElementById("origdate").attributes.lastchangeddate.value);
     let months = [
         "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
     ]
@@ -381,10 +383,7 @@
         let integer = parseInt(seasons.split(".")[0]);
         let mantissa = parseInt(seasons.split(".")[1]) || 0;
         if (elt.attributes.current) {
-            let currentseasons = add(total, [Math.floor(integer / 2), 0]);
-            let currdate = new Date();
-            let dist = currdate - origdate;
-            var timeperseason = dist / toFloat(currentseasons);
+            timeperseason = (changedate - origdate) / toFloat(total);
         }
         total = add(total, [integer, mantissa]);
         if (total[1]) {
