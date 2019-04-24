@@ -97,11 +97,11 @@ button#default {
     background-color: #33F;
 }
 
-button#epname {
+button#random {
     background-color: red;
 }
 
-button#random {
+button#epname {
     background-color: #FD3;
 }
 
@@ -110,5 +110,22 @@ button#random {
       width: 100%;
       margin-left: 0;
       margin-right: 0;
+    }
+
+
+    .sorts p {
+        display: flex;
+        position: fixed;
+        bottom: 5%;
+        width: 80%;
+        justify-content: space-evenly;
+        border: 1px solid green;
+    }
+
+    .sorts button {
+        border-radius: 50%;
+        height: 20px;
+        width: 20px;
+        display: initial;
     }
 }
