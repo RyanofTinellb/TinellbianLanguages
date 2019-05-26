@@ -64,6 +64,11 @@ table high-lulani:hover {
     cursor: inherit;
 }
 
+h1 a:visited, h1 a:link {
+    color: black;
+    text-decoration: none;
+}
+
 .flex {
   display: flex;
   flex-wrap: wrap;
@@ -304,5 +309,17 @@ input[type='checkbox'] {
 
     .mobile {
         display: initial;
+    }
+
+    .content input.folder:checked + div.folding .tooltip-text {
+        display: none;
+    }
+
+    .content span.tooltip:hover .tooltip-text {
+        display: none;
+    }
+
+    .content span.tooltip::after {
+        content: none;
     }
 }
