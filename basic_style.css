@@ -303,6 +303,11 @@ input[type='checkbox'] {
         margin-left: 15%;
     }
 
+    .content div.mobile-table ul {
+        padding-left: 0;
+        margin-left: 10%;
+    }
+
     .desktop {
         display: none;
     }
