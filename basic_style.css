@@ -34,12 +34,12 @@ overline {
 }
 
 @font-face {
-  font-family: high-lulani;
-  src: url('highlulani.ttf');
+  font-family: tinellb;
+  src: url('tinellb.ttf');
 }
 
 high-lulani {
-  font-family: lulani, high-lulani;
+  font-family: tinellbian, tinellb;
   font-size: larger;
   direction: rtl;
   unicode-bidi: bidi-override;
