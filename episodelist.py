@@ -52,7 +52,7 @@ class TypeBox(ttk.Combobox):
 
 class Spinbox(Tk.Spinbox):
     def __init__(self, *args, **kwargs):
-        super().__init__(*args, width=10, **kwargs)
+        super().__init__(*args, from_=0, to=1000, width=10, **kwargs)
 
 
 class Entry(Tk.Entry):
