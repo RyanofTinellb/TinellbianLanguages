@@ -5,6 +5,7 @@
         <title>Random Places</title>
         <meta name='viewport' content='width=device-width, initial-scale=1.0'>
         <style>
+         p {font-family: serif;}
         </style>
     </head>
 
@@ -29,7 +30,7 @@
         planet_code = () => `${planet()}${rnd(1, 9)}${cap()}-${pad(rnd(0, 999), 2)}`;
         universe = () => `Universe ${cap()}<sup>${pad(rnd(0, 999), 2)}</sup>${grk()}`;
         captains_log = () => `Captain's Log: Stardate ${add(rnd(10000, 999999)/10)}`;
-        course = () => `Set course, heading ${rnd(0, 359)} mark ${rnd(0, 179)}`;
+        course = () => `Set course, heading ${rnd(0, 359)} mark ${rnd(0, 179)}, warp ${rnd(1,9)}. Engage!`;
         document.getElementById('universe').innerHTML = universe();
         document.getElementById('c_log').innerHTML = captains_log();
         document.getElementById('course').innerHTML = course();
