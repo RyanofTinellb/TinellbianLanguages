@@ -401,7 +401,7 @@ class EpisodeAdder(Tk.Frame):
         e.bind('<Return>', self.show_shows)
 
     def show_shows(self, event=None):
-        search = event.widget.get()
+        search = event.widget.get().replace(' ', '+')
         page = json.load(
             open_url(f'http://api.tvmaze.com/search/shows?q={search}'))
         self.shows = {p['show']['name']: p['show']['id'] for p in page}
@@ -455,13 +455,19 @@ class EpisodeAdder(Tk.Frame):
         output = {}
         series = {k: v.get() for k, v in self.series_info.items()}
         output['meta'] = series['metaseries']
-        output['series'] = dict(
-            name=series['name'], number=series['number'])
+        output['series'] = self._article_series(series)
         output['season'] = page['season']
         output['ep'] = self._article_episode(page)
         output['location'] = dict(wallet=series['wallet'])
         output['date'] = page['airdate'].replace('-', '')
         return remove_empty_values(output)
+    
+    def _article_series(self, series):
+        name = series['name']
+        number = series['number']
+        if name.startswith('The '):
+            name = name.replace('The ', '', 1) + ' (T)'
+        return dict(name=name, number=number)
 
     def _article_episode(self, ep):
         name = ep['name']
