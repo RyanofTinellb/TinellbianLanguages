@@ -7042,8 +7042,9 @@
                 } else {
                     number = pad(ep.ep.number)
                 }
-                let enough = `${season}${number}`.length >= 1;
-                let code = enough ? `${season}${number}` : "";
+                let code = `${season}${number}`
+                code += ep.multi ? `\\${ep.multi}` : ''
+                code = code.length >= 1 ? `${season}${number}` : '';
                 if (place(ep)) {
                     if (code) {
                         return `(${code}:${place(ep)})`;
