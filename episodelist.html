@@ -7042,9 +7042,10 @@
                 } else {
                     number = pad(ep.ep.number)
                 }
-                let code = `${season}${number}`
-                code += ep.multi ? `\\${ep.multi}` : ''
-                code = code.length >= 1 ? `${season}${number}` : '';
+                let code = `${season}${number}`;
+                let multi = typeof ep.multi === "number" ? ep.multi : undefined;
+                code += multi ? `\\${multi}` : '';
+                code = code.length >= 1 ? code : '';
                 if (place(ep)) {
                     if (code) {
                         return `(${code}:${place(ep)})`;
