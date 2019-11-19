@@ -68,6 +68,21 @@ def remove_empty_values(dict_):
             dict_ = [v for v in dict_.values()][0]
     return dict_
 
+def pop_empty_values(dict_):
+    return
+    print(dict_)
+    for k, v in dict_.items():
+        if isinstance(v, dict):
+            take = []
+            for a, b in v.items():
+                if not b:
+                    take.append(a)
+            for elt in take:
+                v.pop(elt)
+            if len(v) == 1:
+                dict_[k] = [v for v in dict_.values()][0]
+    print(dict_)
+
 
 class ListEditor(Tk.Frame):
     def __init__(self, filename):
@@ -368,6 +383,8 @@ class EpisodeEditor(Tk.Frame):
             self.entry.pop('type', None)
 
         self.entry['date'] = dDate
+        pop_empty_values(self.entry)
+        print(self.entry)
 
     def get_var(self, lat, long_):
         return self.directory[lat][long_].get()
@@ -454,7 +471,7 @@ class EpisodeAdder(Tk.Frame):
     def entry(self, page):
         output = {}
         series = {k: v.get() for k, v in self.series_info.items()}
-        output['meta'] = series['metaseries']
+        output['meta'] = j = series['metaseries']
         output['series'] = self._article_series(series)
         output['season'] = page['season']
         output['ep'] = self._article_episode(page)
