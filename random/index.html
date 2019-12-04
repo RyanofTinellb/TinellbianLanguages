@@ -5,7 +5,13 @@
         <title>Random Places</title>
         <meta name='viewport' content='width=device-width, initial-scale=1.0'>
         <style>
-         p {font-family: serif;}
+            p {
+                font-family: serif;
+            }
+            td {
+                text-align: center;
+                padding: 7px;
+            }
         </style>
     </head>
 
@@ -17,9 +23,166 @@
         <p><span id="course"></span></p>
         <h1><cite>Stargate</cite></h1>
         <p><span id="planet"></span></p>
-        
+        <p><span id="address"></span></p>
+
     </body>
     <script type="text/javascript">
+        glyphs = [{
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/7/72/0Ega.svg",
+            name: "Earth"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/4/45/014.svg",
+            name: "Microscopium"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/9/9a/027.svg",
+            name: "Taurus"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/6/6e/002.svg",
+            name: "Crater"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/c/c3/015.svg",
+            name: "Capricornus"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/1/1d/028.svg",
+            name: "Auriga"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/a/ad/003.svg",
+            name: "Virgo"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/2/2b/016.svg",
+            name: "Piscis Austrinus"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/2/26/029.svg",
+            name: "Eridanus"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/9/9d/004.svg",
+            name: "Boõtes"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/2/27/017.svg",
+            name: "Equuleus"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/5/5a/030.svg",
+            name: "Orion"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/b/b8/005.svg",
+            name: "Centaurus"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/9/91/018.svg",
+            name: "Aquarius"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/1/17/031.svg",
+            name: "Canis Minor"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/8/88/006.svg",
+            name: "Libra"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/f/fa/019.svg",
+            name: "Pegasus"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/6/6a/032.svg",
+            name: "Monoceros"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/7/7f/007.svg",
+            name: "Serpens"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/6/62/020.svg",
+            name: "Sculptor"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/4/46/033.svg",
+            name: "Gemini"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/3/34/008.svg",
+            name: "Norma"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/d/db/021.svg",
+            name: "Pisces"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/6/63/034.svg",
+            name: "Hydra"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/0/06/009.svg",
+            name: "Scorpius"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/4/44/022.svg",
+            name: "Andromeda"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/a/a4/035.svg",
+            name: "Lynx"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/0/06/010.svg",
+            name: "Corona Australis"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/a/ac/023.svg",
+            name: "Triangulum"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/1/19/036.svg",
+            name: "Cancer"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/5/53/011.svg",
+            name: "Scutum"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/8/8d/024.svg",
+            name: "Aries"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/c/ce/037.svg",
+            name: "Sextans"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/0/06/012.svg",
+            name: "Sagittarius"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/2/2b/025.svg",
+            name: "Perseus"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/f/f1/038.svg",
+            name: "Leo Minor"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/6/6d/013.svg",
+            name: "Aquila"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/9/90/026.svg",
+            name: "Cetus"
+        },
+        {
+            symbol: "https://vignette.wikia.nocookie.net/stargate/images/1/11/039.svg",
+            name: "Leo"
+        }]
         chr = String.fromCharCode;
         rnd = (a, b, c) => Math.floor(Math.random() * (b - a + 1)) + a;
         cap = () => chr(rnd(0x41, 0x5A));
@@ -29,12 +192,28 @@
         planet = () => Math.random() < 0.2 ? 'M' : 'P';
         planet_code = () => `${planet()}${rnd(1, 9)}${cap()}-${pad(rnd(0, 999), 2)}`;
         universe = () => `Universe ${cap()}<sup>${pad(rnd(0, 999), 2)}</sup>${grk()}`;
-        captains_log = () => `Captain's Log: Stardate ${add(rnd(10000, 999999)/10)}`;
-        course = () => `Set course, heading ${rnd(0, 359)} mark ${rnd(0, 179)}, warp ${rnd(1,9)}. Engage!`;
+        captains_log = () => `Captain's Log: Stardate ${add(rnd(10000, 999999) / 10)}`;
+        course = () => `Set course, heading ${rnd(0, 359)} mark ${rnd(0, 179)}, warp ${rnd(1, 9)}. Engage!`;
+
+        shuffle = arr => {
+                for (let i = arr.length - 1; i > 1; i--) {
+                    let index = Math.floor(Math.random() * i);
+                    [arr[index], arr[i]] = [arr[i], arr[index]];
+                }
+            }
+        earth = glyphs.shift();  
+        shuffle(glyphs);
+        address = glyphs.slice(-6);
+        symbol = g => `<img src="${g.symbol}" height="50" width="50">`
+        constellation = g => g.name
+        row = fn => `<tr>${address.map(g => `<td>${fn(g)}</td>`).join('')}<td>${fn(earth)}</td></tr>`;
+        address = `<table>${[symbol, constellation].map(a => row(a)).join('')}</table>`;
+
         document.getElementById('universe').innerHTML = universe();
         document.getElementById('c_log').innerHTML = captains_log();
         document.getElementById('course').innerHTML = course();
         document.getElementById('planet').innerHTML = planet_code();
+        document.getElementById('address').innerHTML = address;
     </script>
 
 </html>
