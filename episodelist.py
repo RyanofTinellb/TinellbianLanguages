@@ -111,10 +111,15 @@ class ListEditor(Tk.Frame):
         def save(event=None, filename=filename):
             for frame in self.frames:
                 frame.save_entry()
-            with open(filename, 'w', encoding='utf-8') as eplist:
+            try:
                 eps = ',\n'.join(
                     [json.dumps(x, ensure_ascii=False) for x in self.eplist if x and x['date'] != '00000000'])
-                eplist.write(f'[{eps}]')
+                with open(filename, 'w', encoding='utf-8') as eplist:
+                    eplist.write(f'[{eps}]')
+            except KeyError:
+                a = [json.dumps(x, ensure_ascii=False) for x in self.eplist if not x.get('date', None)]
+                for k in a:
+                    print(k)
 
         def add(event=None):
             top = Tk.Toplevel(self)
