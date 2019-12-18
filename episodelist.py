@@ -102,7 +102,7 @@ class ListEditor(Tk.Frame):
             move(None)
 
         def down(event=None):
-            self.position.set(min(self.position.get()+7, 7000))
+            self.position.set(min(self.position.get()+7, 7500))
             move(None)
 
         def shift(event=None):
