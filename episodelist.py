@@ -424,8 +424,11 @@ class EpisodeAdder(Tk.Frame):
             open_url(f'http://api.tvmaze.com/search/shows?q={search}'))
         def k(show):
             name = show['show']['name']
-            year = show['show']['premiered'][:4]
-            return f'{name} ({year})'
+            try:
+                year = show['show']['premiered'][:4]
+                return f'{name} ({year})'
+            except TypeError:
+                return name
         self.shows = {k(p): p['show']['id'] for p in page}
         Tk.Label(self, text='Shows:').grid(**first_col())
         k = ttk.Combobox(self, values=list(self.shows))
