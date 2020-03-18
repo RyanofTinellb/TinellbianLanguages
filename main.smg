@@ -1,45 +1,57 @@
 {
   "current": {
-    "position": "1.0", 
-    "markdown": "", 
-    "fontsize": 14, 
+    "position": "1.0",
+    "fontsize": 14,
     "page": [
       ""
-    ], 
+    ],
     "language": "en: English"
-  }, 
+  },
+  "markdown": "",
   "site": {
     "files": {
-      "source": "C:/Users/Ryan/Documents/TinellbianLanguages/main/data.json", 
-      "searchindex": "C:/Users/Ryan/Documents/TinellbianLanguages/main/searching.json", 
-      "template_file": "C:/Users/Ryan/Documents/TinellbianLanguages/main/template.html"
-    }, 
-    "destination": "C:/Users/Ryan/Documents/TinellbianLanguages/main", 
+      "source": "C:/Users/Ryan/TinellbianLanguages/toplevel/data.src",
+      "searchindex": "C:/Users/Ryan/TinellbianLanguages/toplevel/searching.json",
+      "template_file": "C:/Users/Ryan/TinellbianLanguages/toplevel/template.html"
+    },
+    "destination": "C:/Users/Ryan/TinellbianLanguages/toplevel",
     "name": "Tinellb"
-  }, 
-  "links": {}, 
+  },
+  "links": {},
   "history": [
     [
       "About"
-    ], 
-    [], 
-    [], 
+    ],
+    [],
+    [],
     [
       "Episode List"
-    ], 
+    ],
     [
-      "Episode List", 
+      "Episode List",
       "Other Page"
-    ], 
+    ],
     [
       "Episode List"
-    ], 
+    ],
     [
       "Episode List"
-    ], 
-    [], 
+    ],
+    [],
     [
       "Episode List"
     ]
-  ]
+  ],
+  "styles": {
+    "default": {
+      "group": "default",
+      "font": "Comic Sans MS"
+    },
+    "h1": {
+      "group": "font"
+    },
+    "em": {
+      "group": "font"
+    }
+  }
 }
