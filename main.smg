@@ -1,13 +1,4 @@
 {
-  "current": {
-    "position": "1.0",
-    "fontsize": 14,
-    "page": [
-      ""
-    ],
-    "language": "en: English"
-  },
-  "markdown": "",
   "site": {
     "files": {
       "source": "C:/Users/Ryan/TinellbianLanguages/toplevel/data.src",
@@ -17,41 +8,29 @@
     "destination": "C:/Users/Ryan/TinellbianLanguages/toplevel",
     "name": "Tinellb"
   },
-  "links": {},
-  "history": [
-    [
-      "About"
-    ],
-    [],
-    [],
-    [
-      "Episode List"
-    ],
-    [
-      "Episode List",
-      "Other Page"
-    ],
-    [
-      "Episode List"
-    ],
-    [
-      "Episode List"
-    ],
-    [],
-    [
-      "Episode List"
-    ]
-  ],
   "styles": {
     "default": {
       "group": "default",
-      "font": "Comic Sans MS"
+      "font": "Courier New Baltic"
     },
     "h1": {
-      "group": "font"
+      "group": "font",
+      "font": "Fixedsys",
+      "bold": true,
+      "italics": true,
+      "underline": true,
+      "strikethrough": true,
+      "colour": "#6aec53",
+      "border": true
     },
     "em": {
-      "group": "font"
+      "group": "font",
+      "font": "Courier New",
+      "italics": true,
+      "underline": true,
+      "strikethrough": true,
+      "colour": "#0080ff",
+      "background": "#80ff00"
     }
   }
 }

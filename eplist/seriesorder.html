@@ -11,13 +11,8 @@
         margin-left: 20%;
         line-height: 1.5;
       }
-
-      st {
-        text-decoration: line-through;
-      }
-
-      red {
-        color: red;
+      #current {
+        font-weight: bold;
       }
     </style>
     <style media="screen and (max-width:500px)">
@@ -32,7 +27,7 @@
     <p style="text-align:center;">SEq &colone; Season Equivalent, i.e.: the same runtime as an average American
       season of &sim;25 episodes of &sim;42 minutes each.<br>
     <p><a href='#current'>Current show &rarr;</a></p>
-    <ul id="origdate" origdate="2018-05-04" lastchangeddate="2020-03-02">
+    <ul id="origdate" origdate="2018-05-04" lastchangeddate="2020-03-20">
       <li seasons="2"><s>Yes, Minister</s></li>
       <li seasons="6"><s>Xena, Warrior Princess</s></li>
       <li seasons="2.5"><s>Warehouse 13</s></li>
@@ -109,7 +104,7 @@
         </select>
       </li>
       <li seasons="7"><s>The Outer Limits</s></li>
-      <li seasons="2" current id='current'><strong>Otherworld</strong>:
+      <li seasons="2"><s>Otherworld</s>:
         <select>
           <option>Pan's Labyrinth</option>
           <option>The Wizard of Oz</option>
@@ -126,7 +121,7 @@
           <option>Shrek</option>
         </select>
       </li>
-      <li seasons="1">The Orville</li>
+      <li seasons="1" current id='current'>The Orville</li>
       <li seasons="7">Once Upon a Time</li>
       <li seasons="1">Odyssey 5</li>
       <li seasons="1.5">Ocean Girl</li>
