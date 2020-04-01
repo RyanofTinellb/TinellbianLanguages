@@ -3,7 +3,15 @@
     "files": {
       "source": "C:/Users/Ryan/TinellbianLanguages/toplevel/data.src",
       "searchindex": "C:/Users/Ryan/TinellbianLanguages/toplevel/searching.json",
-      "template_file": "C:/Users/Ryan/TinellbianLanguages/toplevel/template.html"
+      "template_file": "C:/Users/Ryan/TinellbianLanguages/toplevel/template.html",
+      "wholepage": {
+        "template": ""
+      },
+      "search": {
+        "template": "",
+        "template404": ""
+      },
+      "sections": {}
     },
     "destination": "C:/Users/Ryan/TinellbianLanguages/toplevel",
     "name": "Tinellb"
@@ -11,26 +19,34 @@
   "styles": {
     "default": {
       "group": "default",
-      "font": "Courier New Baltic"
+      "font": "Dubai",
+      "size": 18,
+      "offset": "subscript",
+      "colour": "#000000"
     },
     "h1": {
-      "group": "font",
+      "tags": [
+        "",
+        "\n"
+      ],
+      "group": "paragraph",
       "font": "Fixedsys",
+      "size": 12,
       "bold": true,
-      "italics": true,
       "underline": true,
-      "strikethrough": true,
-      "colour": "#6aec53",
-      "border": true
+      "offset": "baseline",
+      "indent": 0.5
     },
     "em": {
       "group": "font",
-      "font": "Courier New",
+      "size": 12,
       "italics": true,
-      "underline": true,
-      "strikethrough": true,
-      "colour": "#0080ff",
-      "background": "#80ff00"
+      "offset": "baseline",
+      "background": "#ffffff"
     }
-  }
+  },
+  "markdown": "C:/Users/Ryan/TinellbianLanguages/toplevel/markdown.mkd",
+  "tabs": [
+    []
+  ]
 }

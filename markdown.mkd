@@ -1,0 +1,17 @@
+[
+  {
+    "markup": "<a href=\"",
+    "markdown": "{{",
+    "display_markdown": true
+  },
+  {
+    "markup": "\">",
+    "markdown": "::",
+    "display_markdown": true
+  },
+  {
+    "markup": "</a>",
+    "markdown": "}}",
+    "display_markdown": true
+  }
+]
