@@ -27,17 +27,17 @@
     <p style="text-align:center;">SEq &colone; Season Equivalent, i.e.: the same runtime as an average American
       season of &sim;25 episodes of &sim;42 minutes each.<br>
     <p><a href='#current'>Current show &rarr;</a></p>
-    <ul id="origdate" origdate="2018-05-04" lastchangeddate="2020-06-21">
-      <li seasons="2"><s>Yes, Minister</s></li>
-      <li seasons="6"><s>Xena, Warrior Princess</s></li>
-      <li seasons="2.5"><s>Warehouse 13</s></li>
-      <li seasons="7"><s>Star Trek: Voyager</s></li>
-      <li seasons="1.5"><s>The Venture Bros.</s></li>
-      <li seasons="2"><s>Stargate Universe</s></li>
-      <li seasons="0.8"><s>United States of Tara</s></li>
-      <li seasons="1"><s>Tru Calling</s></li>
-      <li seasons="2"><s>Time Trax</s></li>
-      <li seasons="1"><s>Time Manipulation</s>:
+    <ul id="origdate" origdate="2018-05-04" lastchangeddate="2020-07-03">
+      <li seasons="2">Yes, Minister</li>
+      <li seasons="6">Xena, Warrior Princess</li>
+      <li seasons="2.5">Warehouse 13</li>
+      <li seasons="7">Star Trek: Voyager</li>
+      <li seasons="1.5">The Venture Bros.</li>
+      <li seasons="2">Stargate Universe</li>
+      <li seasons="0.8">United States of Tara</li>
+      <li seasons="1">Tru Calling</li>
+      <li seasons="2">Time Trax</li>
+      <li seasons="1">Time Manipulation:
         <select>
           <option>Back to the Future</option>
           <option>Time After Time</option>
@@ -49,22 +49,22 @@
           <option>The Boy and the Pirates</option>
         </select>
       </li>
-      <li seasons="0.3"><s>The Thin Blue Line</s></li>
-      <li seasons="4"><s>Supergirl</s></li>
-      <li seasons="3.5"><s>Star Trek</s></li>
-      <li seasons="0.5"><s>Spellbinder</s></li>
-      <li seasons="1"><s>Special Unit 2</s></li>
-      <li seasons="10"><s>Smallville</s></li>
-      <li seasons="4"><s>Sliders</s></li>
-      <li seasons="2"><s>Six Feet Under</s></li>
-      <li seasons="0.1"><s>The Sketch Show</s></li>
-      <li seasons="10"><s>The Simpsons</s></li>
-      <li seasons="10"><s>Stargate: SG-1</s></li>
-      <li seasons="3.4"><s>Scrubs</s></li>
-      <li seasons="0.5"><s>Sapphire & Steel</s></li>
-      <li seasons="2.5"><s>Sanctuary</s></li>
-      <li seasons="0.5"><s>The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television)</s></li>
-      <li seasons="2.8"><s>Robots and Aliens</s>:
+      <li seasons="0.3">The Thin Blue Line</li>
+      <li seasons="4">Supergirl</li>
+      <li seasons="3.5">Star Trek</li>
+      <li seasons="0.5">Spellbinder</li>
+      <li seasons="1">Special Unit 2</li>
+      <li seasons="10">Smallville</li>
+      <li seasons="4">Sliders</li>
+      <li seasons="2">Six Feet Under</li>
+      <li seasons="0.1">The Sketch Show</li>
+      <li seasons="10">The Simpsons</li>
+      <li seasons="10">Stargate: SG-1</li>
+      <li seasons="3.4">Scrubs</li>
+      <li seasons="0.5">Sapphire & Steel</li>
+      <li seasons="2.5">Sanctuary</li>
+      <li seasons="0.5">The Ronnie Johns Good Times Campfire Jamboree Half Hour Show (Now on Television)</li>
+      <li seasons="2.8">Robots and Aliens:
         <select>
           <option>The Day the Earth Stood Still</option>
           <option>V</option>
@@ -87,10 +87,10 @@
           <option>Short Circuit</option>
         </select>
       </li>
-      <li seasons="3"><s>Red Dwarf</s></li>
-      <li seasons="1"><s>Reaper</s></li>
-      <li seasons="1"><s>Pushing Daisies</s></li>
-      <li seasons="1"><s>Pixar</s>
+      <li seasons="3">Red Dwarf</li>
+      <li seasons="1">Reaper</li>
+      <li seasons="1">Pushing Daisies</li>
+      <li seasons="1">Pixar
         <select>
           <option>Toy Story</option>
           <option>Monsters, Inc.</option>
@@ -103,8 +103,8 @@
           <option>Coco</option>
         </select>
       </li>
-      <li seasons="7"><s>The Outer Limits</s></li>
-      <li seasons="2"><s>Otherworld</s>:
+      <li seasons="7">The Outer Limits</li>
+      <li seasons="2">Otherworld:
         <select>
           <option>Pan's Labyrinth</option>
           <option>The Wizard of Oz</option>
@@ -121,13 +121,13 @@
           <option>Shrek</option>
         </select>
       </li>
-      <li seasons="1"><s>The Orville</s></li>
-      <li seasons="7"><s>Once Upon a Time</s></li>
-      <li seasons="1"><s>Odyssey 5</s></li>
-      <li seasons="1"><s>Ocean Girl</s></li>
-      <li seasons="7.3"><s>Star Trek: The Next Generation</s></li>
-      <li seasons="0.5" current id='current'>My Hero</li>
-      <li seasons="1.3">Mortality: Ghosts, Spirits, Souls, and Gods:
+      <li seasons="1">The Orville</li>
+      <li seasons="7">Once Upon a Time</li>
+      <li seasons="1">Odyssey 5</li>
+      <li seasons="1">Ocean Girl</li>
+      <li seasons="7.3">Star Trek: The Next Generation</li>
+      <li seasons="0.5">My Hero</li>
+      <li seasons="1.3" current id='current'>Mortality: Ghosts, Spirits, Souls, and Gods:
         <select>
           <option>The Ring: リング</option>
           <option>Night of the Shooting Stars: 星に願いを</option>
@@ -364,6 +364,14 @@
     function toFloat(number) {
       return number[0] + number[1] / 10;
     }
+
+    function applyStrikeout(elt) {
+      let strike = document.createElement('s');
+      let text = elt.childNodes[0].data;
+      strike.innerHTML = elt.childNodes[0].data;
+      elt.childNodes[0].replaceWith(strike);
+    }
+
     let timeperseason;
     let total = [0, 0];
     let origdate = new Date(document.getElementById("origdate").attributes.origdate.value);
@@ -371,13 +379,16 @@
     let months = [
       "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
     ]
+    let strikeout = true;
     for (elt of document.getElementsByTagName("li")) {
       let seasons = elt.attributes.seasons.value;
       let integer = parseInt(seasons.split(".")[0]);
       let mantissa = parseInt(seasons.split(".")[1]) || 0;
       if (elt.attributes.current) {
+        strikeout = false;
         timeperseason = (changedate - origdate) / toFloat(total);
       }
+      if (strikeout) applyStrikeout(elt);
       total = add(total, [integer, mantissa]);
       if (total[1]) {
         var fltotal = total.join(".");
