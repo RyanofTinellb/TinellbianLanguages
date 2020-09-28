@@ -6933,7 +6933,7 @@
                 }
                 sortfn();
                 console.log(data);
-                eplist.innerHTML = "<ol style='list-style: none'>" + data.map(ep => `<li>${Names(ep)}<span class="hidden-airdate">,&nbsp;aired:&nbsp;${airdate(ep)}</span></li>`).join("\n") + "</ol>";
+                eplist.innerHTML = "<ol style='list-style: none; text-align:center;'>" + data.map(ep => `<li>${Names(ep)}<span class="hidden-airdate">,&nbsp;aired:&nbsp;${airdate(ep)}</span></li>`).join("\n") + "</ol>";
             }
 
             function AirdateSort() {
