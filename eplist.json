@@ -3230,7 +3230,7 @@
 {"series": "JAG", "season": 10, "ep": {"number": 21, "name": "Dream Team"}, "location": {"disc": 224, "wallet": "Big Black Box"}, "date": "20050422"},
 {"series": "JAG", "season": 10, "ep": {"number": 22, "name": "Fair Winds and Following Seas"}, "location": {"disc": 224, "wallet": "Big Black Box"}, "type": "Finale", "date": "20050429"},
 {"meta": "Kids", "series": 1, "ep": "Chicken Run", "location": {"disc": 145, "wallet": "Silver Box"}, "type": "Film", "date": "20000621"},
-{"meta": "Kids", "series": {"name": "Muppets (T)", "number": 2}, "ep": {"article": "A Muppet", "name": "Christmas Carol"}, "location": {"disc": 5, "wallet": "Silver Box"}, "type": "Film", "date": "19921211"},
+{"meta": "Kids", "series": {"name": "Muppets (T)", "number": 2}, "ep": {"article": "The Muppet", "name": "Christmas Carol"}, "location": {"disc": 5, "wallet": "Silver Box"}, "type": "Film", "date": "19921211"},
 {"meta": "Kids", "series": {"name": "Muppets (T)", "number": 2}, "ep": {"article": "Muppet", "name": "Treasure Island"}, "location": {"disc": 6, "wallet": "Silver Box"}, "type": "Film", "date": "19960216"},
 {"meta": "Kids", "series": 3, "ep": "Willy Wonka and the Chocolate Factory", "location": {"disc": 2, "wallet": "Silver Box"}, "type": "Film", "date": "19710630"},
 {"meta": "Kids", "series": 4, "ep": "Bedknobs and Broomsticks", "location": {"disc": 182, "wallet": "Silver Box"}, "type": "Film", "date": "19711007"},
