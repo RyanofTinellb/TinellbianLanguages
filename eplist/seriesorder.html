@@ -11,6 +11,7 @@
         margin-left: 20%;
         line-height: 1.5;
       }
+
       #current {
         font-weight: bold;
       }
@@ -24,8 +25,6 @@
   </head>
 
   <body>
-    <p style="text-align:center;">SEq &colone; Season Equivalent, i.e.: the same runtime as an average American
-      season of &sim;25 episodes of &sim;42 minutes each.<br>
     <p><a href='#current'>Current show &rarr;</a></p>
     <ul id="origdate" origdate="2018-05-04" lastchangeddate="2020-10-11">
       <li seasons="2">Yes, Minister</li>
@@ -186,6 +185,7 @@
         <select>
           <option>Monty Python</option>
           <option>Robin Hood: Prince of Thieves</option>
+          <option>Yahoo Serious</option>
           <option>The King's Speech</option>
           <option>The Imitation Game</option>
           <option>Schindler's List</option>
@@ -228,13 +228,11 @@
       <li seasons="3">Futurama</li>
       <li seasons="1">Funny:
         <select>
-          <option>10 Things I Hate About You</option>
           <option>Liar Liar</option>
           <option>Mrs. Doubtfire</option>
           <option>Sister Act</option>
           <option>Bewitched</option>
           <option>The Castle</option>
-          <option>Blazing Saddles</option>
           <option>Austin Powers</option>
           <option>Team America: World Police</option>
           <option>Ted</option>
@@ -253,7 +251,6 @@
       <li seasons="1">Euphony:
         <select>
           <option>Calamity Jane</option>
-          <option>Robin Hood: Men in Tights</option>
           <option>Singin' in the Rain</option>
           <option>Wicked</option>
           <option>Evita</option>
@@ -261,7 +258,6 @@
           <option>Les Misérables</option>
           <option>Phantom of the Opera</option>
           <option>This Is Spın̈al Tap</option>
-          <option>Romeo + Juliet</option>
           <option>The Blues Brothers</option>
         </select>
       </li>
@@ -314,6 +310,16 @@
       <li seasons="1">Charmed (2019)</li>
       <li seasons="1">Charlie Jade</li>
       <li seasons="7">Buffy, the Vampire Slayer</li>
+      <li seasons="0.5">Brooks:
+        <select>
+          <option>The Producers</option>
+          <option>Blazing Saddles</option>
+          <option>Young Frankenstein</option>
+          <option>The History of the World, Part I</option>
+          <option>Spaceballs</option>
+          <option>Robin Hood: Men in Tights</option>
+        </select>
+      </li>
       <li seasons="2">Blakes 7</li>
       <li seasons="0.5">Blackadder</li>
       <li seasons="0.3">Black Books</li>
@@ -321,6 +327,20 @@
       <li seasons="4">Bewitched</li>
       <li seasons="0.1">Believe Nothing</li>
       <li seasons="2.7">Becker</li>
+      <li seasons="1">The Bard of Avon:
+        <select>
+          <option>Hamlet (1948) - Lawrence Olivier</option>
+          <option>A Midsummer Night's Dream (1968) - Judi Dench</option>
+          <option>Julius Caesar (1970) - Charlton Heston</option>
+          <option>Antony and Cleopatra (1972) Charlton Heston</option>
+          <option>Macbeth (1978) - Ian McKellen </option>
+          <option>Othello (1995) - Lawrence Fishburne</option>
+          <option>Romeo + Juliet (1996) - Leonardo DiCaprio</option>
+          <option>10 Things I Hate About You (1999) - Julia Stiles</option>
+          <option>King of Texas (2002) - Patrick Stewart</option>
+          <option>The Tempest (2010) - Helen Mirren</option>
+        </select>
+      </li>
       <li seasons="5.5">Babylon 5</li>
       <li seasons="1.5">Avatar, the Last Airbender</li>
       <li seasons="1">The Legend of Korra</li>
@@ -409,7 +429,7 @@
       } else {
         var thendate = "";
       }
-      elt.innerHTML += ` (${seasons}&nbsp;/&nbsp;${fltotal}&nbsp;SEq)${thendate}`;
+      elt.innerHTML += thendate;
     }
   </script>
 
