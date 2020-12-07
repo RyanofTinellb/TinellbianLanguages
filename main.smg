@@ -20,34 +20,8 @@
     "default": {
       "group": "default",
       "font": "Dubai",
-      "size": 18,
-      "offset": "subscript",
-      "colour": "#000000"
-    },
-    "h1": {
-      "tags": [
-        "",
-        "",
-        "\n"
-      ],
-      "group": "paragraph",
-      "font": "Fixedsys",
-      "size": 12,
-      "bold": true,
-      "underline": true,
-      "offset": "baseline",
-      "indent": 0.5
-    },
-    "em": {
-      "group": "font",
-      "size": 12,
-      "italics": true,
-      "offset": "baseline",
-      "background": "#ffffff"
+      "size": 18
     }
   },
-  "markdown": "C:/Users/Ryan/TinellbianLanguages/toplevel/markdown.mkd",
-  "tabs": [
-    []
-  ]
+  "markdown": "C:/Users/Ryan/TinellbianLanguages/toplevel/markdown.mkd"
 }

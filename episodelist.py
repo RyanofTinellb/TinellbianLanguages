@@ -85,7 +85,7 @@ class ListEditor(Tk.Frame):
     def __init__(self, filename):
         super().__init__()
         with open(filename, encoding='utf-8') as eplist:
-            self.eplist = json.load(eplist, encoding='utf-8')
+            self.eplist = json.load(eplist)
 
         def move(num):
             num = self.position.get()
