@@ -18,10 +18,17 @@
   },
   "styles": {
     "default": {
-      "group": "default",
+      "tags": [
+        "",
+        "\n"
+      ],
       "font": "Dubai",
-      "size": 18
+      "size": 18,
+      "block": ""
     }
   },
-  "markdown": "C:/Users/Ryan/TinellbianLanguages/toplevel/markdown.mkd"
+  "markdown": "",
+  "entries": [
+    []
+  ]
 }
