@@ -18,12 +18,18 @@
   },
   "styles": {
     "default": {
-      "tags": [
-        "",
-        "\n"
-      ],
+       "start": "",
+  "end": "\n",
       "font": "Dubai",
       "size": 18,
+      "block": ""
+    },
+    "h2": {
+       "start": "<h2>",
+  "end": "</h2>\n",
+      "bold": true,
+      "language": true,
+      "hyperlink": true,
       "block": ""
     }
   },
