@@ -18,19 +18,14 @@
   },
   "styles": {
     "default": {
-       "start": "",
-  "end": "\n",
+      "end": "\n",
       "font": "Dubai",
-      "size": 18,
-      "block": ""
+      "size": 18
     },
-    "h2": {
-       "start": "<h2>",
-  "end": "</h2>\n",
-      "bold": true,
-      "language": true,
-      "hyperlink": true,
-      "block": ""
+    "h1": {
+      "font": "Gadugi",
+      "size": 19,
+      "bold": true
     }
   },
   "markdown": "",
