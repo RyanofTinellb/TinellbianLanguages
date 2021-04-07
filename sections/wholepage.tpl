@@ -1,0 +1,31 @@
+{
+  "template": [
+    "<!DOCTYPE html>",
+    "<html>",
+    "",
+    "<head>",
+    "  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+    "  <meta charset=\"utf-8\">",
+    "  <title>",
+    "    <template>title</template>",
+    "  </title>",
+    "  {stylesheets: basic_style.css style.css}",
+    "  {icon: favicon.png}",
+    "</head>",
+    "",
+    "<body>",
+    "  <flex>",
+    "    <nav-pane>",
+    "      <template>links</template>",
+    "    </nav-pane>",
+    "    <content>",
+    "        {whole-contents}",
+    "        <template>copyright</template>",
+    "    </content>",
+    "  </flex>",
+    "  <template>show javascript</template>",
+    "</body>",
+    "</html>"
+  ],
+  "styles": {}
+}

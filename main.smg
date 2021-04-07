@@ -20,12 +20,12 @@
     "default": {
       "end": "\n",
       "font": "Dubai",
-      "size": 18
+      "size": 18,
+      "block": "default"
     },
     "h1": {
       "font": "Gadugi",
-      "size": 19,
-      "bold": true
+      "size": 19
     }
   },
   "markdown": "",
