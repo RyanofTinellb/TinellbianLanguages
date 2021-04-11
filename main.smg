@@ -1,35 +1,35 @@
 {
-  "site": {
-    "files": {
-      "source": "C:/Users/Ryan/TinellbianLanguages/toplevel/data.src",
-      "searchindex": "C:/Users/Ryan/TinellbianLanguages/toplevel/searching.json",
-      "template_file": "C:/Users/Ryan/TinellbianLanguages/toplevel/template.html",
-      "wholepage": {
-        "template": ""
-      },
-      "search": {
-        "template": "",
-        "template404": ""
-      },
-      "sections": {}
+    "site": {
+        "files": {
+            "source": "C:/Users/Ryan/TinellbianLanguages/toplevel/data.src",
+            "searchindex": "C:/Users/Ryan/TinellbianLanguages/toplevel/searching.json",
+            "template_file": "C:/Users/Ryan/TinellbianLanguages/toplevel/page.tpl",
+            "wholepage": {
+                "template": ""
+            },
+            "search": {
+                "template": "",
+                "template404": ""
+            },
+            "sections": {}
+        },
+        "directory": "C:/Users/Ryan/TinellbianLanguages/toplevel",
+        "name": "Tinellb"
     },
-    "directory": "C:/Users/Ryan/TinellbianLanguages/toplevel",
-    "name": "Tinellb"
-  },
-  "styles": {
-    "default": {
-      "end": "\n",
-      "font": "Dubai",
-      "size": 18,
-      "block": "default"
+    "styles": {
+        "default": {
+            "end": "\n",
+            "font": "Dubai",
+            "size": 18,
+            "block": "default"
+        },
+        "h1": {
+            "font": "Gadugi",
+            "size": 19
+        }
     },
-    "h1": {
-      "font": "Gadugi",
-      "size": 19
-    }
-  },
-  "markdown": "",
-  "entries": [
-    []
-  ]
+    "markdown": "",
+    "entries": [
+        []
+    ]
 }
