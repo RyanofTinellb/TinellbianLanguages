@@ -3,9 +3,9 @@
 }
 
 .content h2 {
-	font-family: serif;
-	font-weight: normal;
-	text-decoration: overline;
+    font-family: serif;
+    font-weight: normal;
+    text-decoration: overline;
     padding-top: 1em;
     margin-top: 0;
 }
@@ -13,21 +13,22 @@
 .content h2 a {
     color: black;
     font-family: serif;
-	font-weight: normal;
-	text-decoration: overline;
+    font-weight: normal;
+    text-decoration: overline;
 }
 
-.content p, .content li {
+.content p,
+.content li {
     font-family: sans-serif;
     line-height: 1.5em;
     text-indent: 1em;
 }
 
-.content .eplist ol li .hidden-airdate {
+.content .eplist ol li .hidden-info {
     display: none;
 }
 
-.content .eplist ol li:hover .hidden-airdate {
+.content .eplist ol li:hover .hidden-info {
     display: inline;
 }
 
@@ -99,11 +100,10 @@
 
 @media screen and (max-width: 800px) {
     .content {
-      width: 100%;
-      margin-left: 0.5em;
-      margin-right: 0;
+        width: 100%;
+        margin-left: 0.5em;
+        margin-right: 0;
     }
-
     .sorts {
         display: flex;
         flex-direction: row-reverse;
@@ -112,38 +112,30 @@
         width: 90%;
         justify-content: space-evenly;
     }
-
     .sorts p {
         text-indent: 0;
     }
-
     .sorts p:last-child {
         order: -1;
     }
-
     .sorts button.selected {
         background-color: black !important;
         color: white !important;
     }
-
     button#airdate {
         background-color: #3C0;
     }
-
     button#default {
         background-color: #33F;
         color: white;
     }
-
     button#random {
         background-color: red;
         color: white;
     }
-
     button#epname {
         background-color: #FD3;
     }
-
     .sorts button {
         border-radius: 50%;
         height: 20px;
