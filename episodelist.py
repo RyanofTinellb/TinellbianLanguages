@@ -86,6 +86,35 @@ class ListEditor(Tk.Frame):
         super().__init__()
         with open(filename, encoding='utf-8') as eplist:
             self.eplist = json.load(eplist)
+        self.length = len(self.eplist)
+        top = self.winfo_toplevel()
+        top.state('zoomed')
+
+        def find(event=None):
+            text = Tk.simpledialog.askstring('Series Name', 'What series are you looking for?')
+            self.position.set(_find(text))
+            move(None)
+    
+        def _find(text):
+            text = text.lower()
+            for index, ep in enumerate(self.eplist):
+                if text in _seriesname(ep):
+                    return index
+            return 0
+        
+        def _seriesname(ep):
+            return f'{_meta(ep)} {_series(ep)}'.lower()
+        
+        def _meta(ep):
+            return ep.get('meta', '')
+        
+        def _series(ep):
+            series = ep.get('series', '')
+            if isinstance(series, str):
+                return series
+            elif isinstance(series, int):
+                return ''
+            return series.get('name', '')
 
         def move(num):
             num = self.position.get()
@@ -102,7 +131,7 @@ class ListEditor(Tk.Frame):
             move(None)
 
         def down(event=None):
-            self.position.set(min(self.position.get()+7, 7500))
+            self.position.set(min(self.position.get()+7, self.length))
             move(None)
 
         def shift(event=None):
@@ -169,6 +198,7 @@ class ListEditor(Tk.Frame):
         Tk.Button(frame, text='Save', command=save).grid(row=2, column=0)
         Tk.Button(frame, text='Add', command=add).grid(row=3, column=0)
         Tk.Button(frame, text='Sort', command=sort_eplist).grid(row=4, column=0)
+        Tk.Button(frame, text='Find', command=find).grid(row=5, column=0)
         frame.grid(row=0, column=2, rowspan=7, sticky='n')
         move(None)
 
