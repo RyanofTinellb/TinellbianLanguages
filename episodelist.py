@@ -13,6 +13,7 @@ def ignored(*exceptions):
     except exceptions:
         pass
 
+
 class Wallet(Tk.StringVar):
     def __init__(self):
         super().__init__()
@@ -58,6 +59,22 @@ class Spinbox(Tk.Spinbox):
 class Entry(Tk.Entry):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, width=20, **kwargs)
+    
+class Scale(ttk.Scale):
+    def __init__(self, parent, command):
+        self.parent = parent
+        self.command = command
+        super().__init__(parent.master, **self.options)
+    
+    @property
+    def options(self):
+        return dict(
+            from_=0,
+            to=self.parent.length+20,
+            variable=self.parent.position,
+            command=self.command,
+            orient='vertical',
+            length=500)
 
 
 def remove_empty_values(dict_):
@@ -67,6 +84,7 @@ def remove_empty_values(dict_):
         if len(dict_) == 1:
             dict_ = [v for v in dict_.values()][0]
     return dict_
+
 
 def pop_empty_values(dict_):
     for k, v in dict_.items():
@@ -91,23 +109,24 @@ class ListEditor(Tk.Frame):
         top.state('zoomed')
 
         def find(event=None):
-            text = Tk.simpledialog.askstring('Series Name', 'What series are you looking for?')
+            text = Tk.simpledialog.askstring(
+                'Series Name', 'What series are you looking for?')
             self.position.set(_find(text))
             move(None)
-    
+
         def _find(text):
             text = text.lower()
             for index, ep in enumerate(self.eplist):
                 if text in _seriesname(ep):
                     return index
             return 0
-        
+
         def _seriesname(ep):
             return f'{_meta(ep)} {_series(ep)}'.lower()
-        
+
         def _meta(ep):
             return ep.get('meta', '')
-        
+
         def _series(ep):
             series = ep.get('series', '')
             if isinstance(series, str):
@@ -146,7 +165,8 @@ class ListEditor(Tk.Frame):
                 with open(filename, 'w', encoding='utf-8') as eplist:
                     eplist.write(f'[{eps}]')
             except KeyError:
-                a = [json.dumps(x, ensure_ascii=False) for x in self.eplist if not x.get('date', None)]
+                a = [json.dumps(x, ensure_ascii=False)
+                     for x in self.eplist if not x.get('date', None)]
                 for k in a:
                     print(k)
 
@@ -157,7 +177,7 @@ class ListEditor(Tk.Frame):
             self.wait_window(top)
             self.eplist += a.return_value
             self.eplist.sort(key=epsorter)
-        
+
         def sort_eplist(event=None):
             self.eplist.sort(key=epsorter)
 
@@ -188,20 +208,19 @@ class ListEditor(Tk.Frame):
             frame.bind('<MouseWheel>', shift)
             frame.grid(row=row, column=0)
         self.position = Tk.IntVar()
-        self.scale = ttk.Scale(self.master, from_=0, to=7000, variable=self.position, command=move,
-                               orient='vertical', length=500)
-        self.scale.grid(row=0, rowspan=7, column=1)
-        self.scale.bind('<MouseWheel>', shift)
+        scale = Scale(self, move)
+        scale.grid(row=0, rowspan=7, column=1)
+        scale.bind('<MouseWheel>', shift)
         frame = Tk.Frame(self.master)
         Tk.Button(frame, text='⬆', command=up).grid(row=0, column=0)
         Tk.Button(frame, text='⬇', command=down).grid(row=1, column=0)
         Tk.Button(frame, text='Save', command=save).grid(row=2, column=0)
         Tk.Button(frame, text='Add', command=add).grid(row=3, column=0)
-        Tk.Button(frame, text='Sort', command=sort_eplist).grid(row=4, column=0)
+        Tk.Button(frame, text='Sort', command=sort_eplist).grid(
+            row=4, column=0)
         Tk.Button(frame, text='Find', command=find).grid(row=5, column=0)
         frame.grid(row=0, column=2, rowspan=7, sticky='n')
-        move(None)
-
+        find()
 
 obj = {Tk.StringVar: Tk.Entry, Tk.IntVar: Spinbox,
        Wallet: WalletBox, Type: TypeBox}
@@ -452,6 +471,7 @@ class EpisodeAdder(Tk.Frame):
         search = event.widget.get().replace(' ', '+')
         page = json.load(
             open_url(f'http://api.tvmaze.com/search/shows?q={search}'))
+
         def k(show):
             name = show['show']['name']
             try:
@@ -516,7 +536,7 @@ class EpisodeAdder(Tk.Frame):
         output['location'] = dict(wallet=series['wallet'])
         output['date'] = page['airdate'].replace('-', '')
         return remove_empty_values(output)
-    
+
     def _article_series(self, series):
         name = series['name']
         number = series['number']

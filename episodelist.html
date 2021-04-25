@@ -78,6 +78,7 @@
                         <li><span class="mobile">A: </span>Airdate &ndash; Sorts by the date of the original broadcast or release.</li>
                         <li><span class="mobile">T: </span>Title &ndash; Sorts by film title or TV episode name, ignoring articles.</li>
                         <li><span class="mobile">L: </span>Title length &ndash; Sorts by the length of the full title.</li>
+                        <li><span class="mobile">C: </span>Calendar Date &ndash; Sorts by the day of the year the episode first aired.</li>
                         <li><span class="mobile">D: </span>Default sort &ndash; Groups TV series set in the same universe together.</li>
                     </ul>
 
@@ -7281,6 +7282,8 @@
                                         class="desktop">irdate</span></button></p>
                         <p><button id="random" title="Random Sort" onClick="makeList(RandomSort)">R<span
                                         class="desktop">andom</span></button></p>
+                        <p><button id="calendar" title="Calendar Sort" onClick="makeList(CalendarSort)">C<span
+                            class="desktop">alendar Sort</span></button></p>
                         <p><button id="default" title="Default Sort" onClick="makeList(DefaultSort)">D<span
                             class="desktop">efault Sort</span></button></p>
                     </div>
@@ -7429,6 +7432,30 @@
             });
         }
 
+        function CalendarSort() {
+            document.getElementById("calendar").classList.add("selected");
+            counts = {};
+            data.forEach(ep => {
+                let [year, month, day] = parseDate(ep);
+                ep.DATE = `${pad(month)}${pad(day)}${WeekDay(year, month, day)}`;
+                counts[ep.DATE] = counts[ep.DATE] ? counts[ep.DATE] + 1 : 1
+            });
+            data.sort((a, b) => a.DATE - b.DATE);
+            counts = Object.entries(counts);
+            counts.sort((a, b) => a[1] - b[1]);
+            console.log(counts);
+        }
+
+        function WeekDay(year, month, day) {
+            let century = (Math.floor(year / 100) % 4) * -2;
+            let isleap = ((year % 4 == 0) && (year % 100 != 0) || (year % 400 == 0));
+            year = year % 100;
+            let leap = Math.floor(year / 4);
+            isleap = isleap && (month <= 2) ? -1 : 0;
+            month = [undefined, -1, 2, 2, -2, 0, 3, -2, 1, -3, -1, 2, -3][month];
+            return (century + year + leap + isleap + month + day + 700) % 7
+        }
+
         function Names(ep) {
             let series = window.location.href.indexOf("#noseries") == -1;
             let name = SeriesName(ep);
@@ -7539,12 +7566,16 @@
         }
 
         function airdate(ep) {
-            let [year, month, day] = [
+            let [year, month, day] = parseDate(ep);
+            return `${pad(day)}-${MONTHS[month]}-${year}`.replace(/-/g, "&#x2011;");
+        }
+
+        function parseDate(ep) {
+            return [
                 [0, 4],
                 [4, 6],
                 [6, 8]
             ].map(([a, b]) => parseInt(ep.date.substring(a, b)));
-            return `${pad(day)}-${MONTHS[month]}-${year}`.replace(/-/g, "&#x2011;");
         }
     </script>
 </body>
