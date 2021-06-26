@@ -116,6 +116,8 @@ class ListEditor(Tk.Frame):
 
         def _find(text):
             text = text.lower()
+            if text == '':
+                return len(self.eplist)
             for index, ep in enumerate(self.eplist):
                 if text in _seriesname(ep):
                     return index
@@ -199,7 +201,8 @@ class ListEditor(Tk.Frame):
             date = ep.get('date', '00000000')
             episode = ep.get('ep')
             number = episode.get('number') if isinstance(episode, dict) else 0
-
+            if meta is None or nSeries is None or date is None or number is None:
+                print(ep, meta, nSeries, date, number)
             return meta, nSeries, date, number
 
         self.frames = [EpisodeEditor(
