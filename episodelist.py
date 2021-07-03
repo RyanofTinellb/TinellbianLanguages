@@ -59,13 +59,14 @@ class Spinbox(Tk.Spinbox):
 class Entry(Tk.Entry):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, width=20, **kwargs)
-    
+
+
 class Scale(ttk.Scale):
     def __init__(self, parent, command):
         self.parent = parent
         self.command = command
         super().__init__(parent.master, **self.options)
-    
+
     @property
     def options(self):
         return dict(
@@ -112,7 +113,7 @@ class ListEditor(Tk.Frame):
             text = Tk.simpledialog.askstring(
                 'Series Name', 'What series are you looking for?')
             self.position.set(_find(text))
-            move(None)
+            move()
 
         def _find(text):
             text = text.lower()
@@ -137,7 +138,7 @@ class ListEditor(Tk.Frame):
                 return ''
             return series.get('name', '')
 
-        def move(num):
+        def move(num=None):
             num = self.position.get()
             for index, frame in enumerate(self.frames, start=num):
                 while True:
@@ -149,26 +150,36 @@ class ListEditor(Tk.Frame):
 
         def up():
             self.position.set(max(self.position.get()-7, 0))
-            move(None)
+            move()
 
         def down(event=None):
             self.position.set(min(self.position.get()+7, self.length))
-            move(None)
+            move()
 
         def shift(event=None):
             (down if event.delta < 0 else up)()
 
+        def isNonEmpty(ep):
+            return ep and ep['date'] != '00000000'
+
+        def sift():
+            self.eplist = list(filter(isNonEmpty, self.eplist))
+
+        def jsonify(ep):
+            return json.dumps(ep, ensure_ascii=False)
+
         def save(event=None, filename=filename):
             for frame in self.frames:
                 frame.save_entry()
+            sift()
+            sort() 
             try:
-                eps = ',\n'.join(
-                    [json.dumps(x, ensure_ascii=False) for x in self.eplist if x and x['date'] != '00000000'])
+                eps = ',\n'.join([jsonify(ep) for ep in self.eplist])
                 with open(filename, 'w', encoding='utf-8') as eplist:
                     eplist.write(f'[{eps}]')
             except KeyError:
-                a = [json.dumps(x, ensure_ascii=False)
-                     for x in self.eplist if not x.get('date', None)]
+                a = [jsonify(ep)
+                     for ep in self.eplist if not ep.get('date', None)]
                 for k in a:
                     print(k)
 
@@ -180,8 +191,9 @@ class ListEditor(Tk.Frame):
             self.eplist += a.return_value
             self.eplist.sort(key=epsorter)
 
-        def sort_eplist(event=None):
+        def sort(event=None):
             self.eplist.sort(key=epsorter)
+            move()
 
         def epsorter(ep):
             series = ep.get('series')
@@ -200,7 +212,8 @@ class ListEditor(Tk.Frame):
 
             date = ep.get('date', '00000000')
             episode = ep.get('ep')
-            number = episode.get('number') if isinstance(episode, dict) else 0
+            number = episode.get('number', 0) if isinstance(
+                episode, dict) else 0
             if meta is None or nSeries is None or date is None or number is None:
                 print(ep, meta, nSeries, date, number)
             return meta, nSeries, date, number
@@ -219,11 +232,12 @@ class ListEditor(Tk.Frame):
         Tk.Button(frame, text='⬇', command=down).grid(row=1, column=0)
         Tk.Button(frame, text='Save', command=save).grid(row=2, column=0)
         Tk.Button(frame, text='Add', command=add).grid(row=3, column=0)
-        Tk.Button(frame, text='Sort', command=sort_eplist).grid(
+        Tk.Button(frame, text='Sort', command=sort).grid(
             row=4, column=0)
         Tk.Button(frame, text='Find', command=find).grid(row=5, column=0)
         frame.grid(row=0, column=2, rowspan=7, sticky='n')
         find()
+
 
 obj = {Tk.StringVar: Tk.Entry, Tk.IntVar: Spinbox,
        Wallet: WalletBox, Type: TypeBox}
